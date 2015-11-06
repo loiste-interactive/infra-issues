@@ -2,9 +2,11 @@
 
 * Added an error message to startup if Shader Model 3 is not available
 * Added phong to certain metal objects
+* Added hints for reloading the camera and the flashlight
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
 * Fixed flashlight not playing draw animation sometimes after dying (issue [#121](https://github.com/loiste-interactive/infra-issues/issues/121))
+* Fixed utility light missing textures (issue [#33](https://github.com/loiste-interactive/infra-issues/issues/33))
 
 ## reserve1
 
@@ -14,7 +16,7 @@
   * Turn on subtitles to see it for now
 * Fixed a spot where it's possible to get stuck between stairs and a rock (issue [#112](https://github.com/loiste-interactive/infra-issues/issues/112))
 * Fixed train not showing up on certain approaches (issue [#79](https://github.com/loiste-interactive/infra-issues/issues/79))
-* Fixed the map in the Morning Wood office being shit
+* Fixed the map in the Morning Wood office being hard to interpret
 
 ## reserve2
 
@@ -42,6 +44,7 @@
 * Fixed a spot that was finicky to climb up (issue [#19](https://github.com/loiste-interactive/infra-issues/issues/19))
 * Fixed a spot where the player could get stuck on some pipes (issue [#18](https://github.com/loiste-interactive/infra-issues/issues/18))
 * Fixed a spot where the player could get stuck on some railings on the floor (issue [#17](https://github.com/loiste-interactive/infra-issues/issues/17))
+* Fixed main power switch animations when using it after the power is already on (issue [#20](https://github.com/loiste-interactive/infra-issues/issues/20))
 
 ## furnace
 
