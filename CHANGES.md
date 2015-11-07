@@ -61,6 +61,7 @@
 
 ## furnace
 
+* Added puzzle prior furnace event.
 * Changed minitrain track control room door to one that has a rear lock
   * The key cabinet next to it has been removed
 * Fixed electrical box light sprites being visible through control room wall (issue [#125](https://github.com/loiste-interactive/infra-issues/issues/125))
