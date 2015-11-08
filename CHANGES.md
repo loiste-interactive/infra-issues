@@ -2,15 +2,20 @@
 
 * Added an error message to startup if Shader Model 3 is not available
 * Added phong to certain metal objects
-* Added hints for reloading the camera and the flashlight
+* Added hints
+  * Added a hint for equipping the camera when looking at a photographable spot for half a second
+  * Added hints for reloading the camera and the flashlight when they are at low battery and you have batteries with you
+  * These hints are only displayed for a few times before they are marked as "learned"
 * Added "restart from checkpoint" to the pause menu
 * Added a background blur to the pause menu
+* Changed raft strafe speed from 40 to 50
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
 * Fixed flashlight not playing draw animation sometimes after dying (issue [#121](https://github.com/loiste-interactive/infra-issues/issues/121))
 * Fixed utility light missing textures (issue [#33](https://github.com/loiste-interactive/infra-issues/issues/33))
 * Fixed camera view model when zooming in on FOVs larger than 108 (issue [#131](https://github.com/loiste-interactive/infra-issues/issues/131))
 * Fixed flashlight view model after restarting the level without a saved game
+* Fixed the texture on a certain bush model (issue [#127](https://github.com/loiste-interactive/infra-issues/issues/127))
 
 ## reserve1
 
@@ -22,6 +27,7 @@
 * Fixed train not showing up on certain approaches (issue [#79](https://github.com/loiste-interactive/infra-issues/issues/79))
 * Fixed the map in the Morning Wood office being hard to interpret
 * Fixed a skippable save trigger right after the old power plant (issue [#129](https://github.com/loiste-interactive/infra-issues/issues/129))
+* Fixed generator switches being the wrong way around (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## reserve2
 
@@ -31,18 +37,30 @@
 * Fixed a spot where the player could get stuck at the sawmill (issue [#139](https://github.com/loiste-interactive/infra-issues/issues/139))
 * Fixed another spot where the player could get stuck at the sawmill (issue [#142](https://github.com/loiste-interactive/infra-issues/issues/142))
 * Fixed a spot where the player could get stuck near the funicular (issue [#104](https://github.com/loiste-interactive/infra-issues/issues/104))
+* Fixed log chute not making much sense (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
+* Fixed getting stuck inside the elevator (issue [#133](https://github.com/loiste-interactive/infra-issues/issues/133))
+* Fixed lighting errors on some props inside the logging office (issue [#135](https://github.com/loiste-interactive/infra-issues/issues/135))
+* Fixed the Hartman tape dialogue being audible everywhere in the level (issue [#132](https://github.com/loiste-interactive/infra-issues/issues/132))
 
 ## reserve3
 
 * Fixed a fence being invisible from the other side (issue [#134](https://github.com/loiste-interactive/infra-issues/issues/134))
+* Fixed a spot where the player could get stuck between stones and a building  (issue [#106](https://github.com/loiste-interactive/infra-issues/issues/106))
+
+## tunnel1
+
+* Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## tunnel2
 
 * Fixed an issue where the player could get stuck in settling tank #1 (issue [#85](https://github.com/loiste-interactive/infra-issues/issues/85))
+* Fixed an out of bounds issue near the balcony (issue [#141](https://github.com/loiste-interactive/infra-issues/issues/141))
+* Fixed inverted water basins (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## tunnel3
 
 * Fixed white decals on the ground next to the water flow meter (issue [#92](https://github.com/loiste-interactive/infra-issues/issues/92))
+* Fixed a spot where the player could get stuck in the broken tunnel  (issue [#144](https://github.com/loiste-interactive/infra-issues/issues/144))
 
 ## tunnel4
 
@@ -58,10 +76,13 @@
 * Fixed a spot where the player could get stuck on some railings on the floor (issue [#17](https://github.com/loiste-interactive/infra-issues/issues/17))
 * Fixed main power switch animations when using it after the power is already on (issue [#20](https://github.com/loiste-interactive/infra-issues/issues/20))
 * Fixed a spot where the player could get stuck in the generator room (issue [#104](https://github.com/loiste-interactive/infra-issues/issues/104))
+* Fixed the raft light disappearing on level start (issue [#104](https://github.com/loiste-interactive/infra-issues/issues/39))
 
 ## furnace
 
-* Added puzzle prior furnace event.
+* Added a new puzzle prior to the "finale"
+* Changed the location of the keys for the first door (near the old location, but should be easier to notice now)
+* Changed the minitrain tracks to be more clearly marked
 * Changed minitrain track control room door to one that has a rear lock
   * The key cabinet next to it has been removed
 * Fixed electrical box light sprites being visible through control room wall (issue [#125](https://github.com/loiste-interactive/infra-issues/issues/125))
@@ -76,10 +97,11 @@
 ## watertreatment
 
 * Fixed an invisible wall on certain stairs (issue [#53](https://github.com/loiste-interactive/infra-issues/issues/53))
+* Fixed a little missing texture on the ground in the poison room (issue [#148](https://github.com/loiste-interactive/infra-issues/issues/148))
 
 ## tower
 
-* Fixed possible crash when turning on fuses
+* Fixed a possible crash when turning on the fuses (issue [#95](https://github.com/loiste-interactive/infra-issues/issues/95))
 * Fixed an invisible wall on certain stairs (issue [#91](https://github.com/loiste-interactive/infra-issues/issues/91))
 * Fixed some skybox models not having mipmaps
 * Fixed the outside roof of the steel factory not corresponding to the damaged roof on the inside (issue [#137](https://github.com/loiste-interactive/infra-issues/issues/137))
