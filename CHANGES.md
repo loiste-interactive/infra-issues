@@ -31,6 +31,7 @@
 
 ## reserve2
 
+* Added forest guard's cabin
 * Fixed broken funicular not being photographable (issue [#109](https://github.com/loiste-interactive/infra-issues/issues/109))
 * Fixed sluice gate generator puzzle being passable with smaller rpm than intended (issue [#80](https://github.com/loiste-interactive/infra-issues/issues/80))
 * Fixed Hartman tape subtitles being split into too long segments
