@@ -16,6 +16,9 @@
 * Fixed camera view model when zooming in on FOVs larger than 108 (issue [#131](https://github.com/loiste-interactive/infra-issues/issues/131))
 * Fixed flashlight view model after restarting the level without a saved game
 * Fixed the texture on a certain bush model (issue [#127](https://github.com/loiste-interactive/infra-issues/issues/127))
+* Fixed missing shadow texture on the lowest settings (issue [#167](https://github.com/loiste-interactive/infra-issues/issues/167))
+* Fixed computer screen textures being hard to read on the lowest settings
+* Fixed currently playing music not being saved in saved games (issue [#34](https://github.com/loiste-interactive/infra-issues/issues/34))
 
 ## reserve1
 
@@ -31,7 +34,7 @@
 
 ## reserve2
 
-* Added forest guard's cabin
+* Added forest guard cabin
 * Fixed broken funicular not being photographable (issue [#109](https://github.com/loiste-interactive/infra-issues/issues/109))
 * Fixed sluice gate generator puzzle being passable with smaller rpm than intended (issue [#80](https://github.com/loiste-interactive/infra-issues/issues/80))
 * Fixed Hartman tape subtitles being split into too long segments
@@ -54,6 +57,10 @@
 
 ## tunnel2
 
+* Changed sluice gate generator puzzle
+  * Indicators and buttons are now at player's eye level
+  * Indicators are larger and easier to read
+* Changed generator room water to be more visible
 * Fixed an issue where the player could get stuck in settling tank #1 (issue [#85](https://github.com/loiste-interactive/infra-issues/issues/85))
 * Fixed an out of bounds issue near the balcony (issue [#141](https://github.com/loiste-interactive/infra-issues/issues/141))
 * Fixed inverted water basins (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
@@ -97,8 +104,13 @@
 
 ## watertreatment
 
+* Added a small new puzzle to the very beginning of the map
 * Fixed an invisible wall on certain stairs (issue [#53](https://github.com/loiste-interactive/infra-issues/issues/53))
 * Fixed a little missing texture on the ground in the poison room (issue [#148](https://github.com/loiste-interactive/infra-issues/issues/148))
+* Fixed decal overflow (issue [#52](https://github.com/loiste-interactive/infra-issues/issues/52))
+* Fixed some of the building flickering issues
+* Fixed some of the performance issues
+* Fixed turning on the clarifier not awarding a "spot repaired" (issue [#11](https://github.com/loiste-interactive/infra-issues/issues/11))
 
 ## tower
 
