@@ -8,6 +8,7 @@
   * These hints are only displayed for a few times before they are marked as "learned"
 * Added "restart from checkpoint" to the pause menu
 * Added a background blur to the pause menu
+* Added different lines for the player when picking up batteries, depending on the battery type
 * Changed raft strafe speed from 40 to 50
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
