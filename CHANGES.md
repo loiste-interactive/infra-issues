@@ -8,7 +8,10 @@
   * These hints are only displayed for a few times before they are marked as "learned"
 * Added "restart from checkpoint" to the pause menu
 * Added a background blur to the pause menu
-* Added different lines for the player when picking up batteries, depending on the battery type
+* Added more player monologue
+  * Added different lines for different battery types
+  * Added a few lines about deep water when in water and there's really deep water nearby
+  * Turn on subtitles to see this placeholder player monologue
 * Changed raft strafe speed from 40 to 50
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
@@ -23,10 +26,13 @@
 
 ## reserve1
 
-* Added placeholder player monologue
-  * Added to bolt cutters and the door as discussed in issue [#27](https://github.com/loiste-interactive/infra-issues/issues/27)
-  * Also added to other places
-  * Turn on subtitles to see it for now
+* Added player monologue
+  * Added to the bolt cutters and the door (issue [#27](https://github.com/loiste-interactive/infra-issues/issues/27))
+  * Added to when the player first enters the old power plant
+  * Added to when the player first enters the dam
+  * Added to when spotting the fallen tree over the tracks
+  * Added to when finding the "corruption" documents in the logging office
+  * Turn on subtitles to see this placeholder player monologue
 * Fixed a spot where it's possible to get stuck between stairs and a rock (issue [#112](https://github.com/loiste-interactive/infra-issues/issues/112))
 * Fixed train not showing up on certain approaches (issue [#79](https://github.com/loiste-interactive/infra-issues/issues/79))
 * Fixed the map in the Morning Wood office being hard to interpret
@@ -40,10 +46,15 @@
 ## reserve2
 
 * Added forest guard cabin
+* Added a locked gate to the cave entrance
+  * Keys can be obtained from the forest guard cabin
 * Changed sluice gate generator puzzle
   * Indicators and buttons are now at player's eye level
   * Indicators are larger and easier to read
-* Changed generator room water to be more visible
+* Changed generator room appearance
+  * Now a lot brighter
+  * Water is now dark green, more easily visible
+* Changed the "garage door" next to the funicular to be open instead of closed
 * Fixed broken funicular not being photographable (issue [#109](https://github.com/loiste-interactive/infra-issues/issues/109))
 * Fixed sluice gate generator puzzle being passable with smaller rpm than intended (issue [#80](https://github.com/loiste-interactive/infra-issues/issues/80))
 * Fixed Hartman tape subtitles being split into too long segments
@@ -71,6 +82,10 @@
 
 ## tunnel2
 
+* Added a window that shows the pipe entrance from near the level start
+* Added a map that shows both tunnel entrances
+* Added an additional monitor to the pool room that shows the puzzle status
+* Added new corruption notes
 * Fixed an issue where the player could get stuck in settling tank #1 (issue [#85](https://github.com/loiste-interactive/infra-issues/issues/85))
 * Fixed an out of bounds issue near the balcony (issue [#141](https://github.com/loiste-interactive/infra-issues/issues/141))
 * Fixed inverted water basins (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
