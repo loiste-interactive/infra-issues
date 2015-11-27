@@ -53,8 +53,12 @@
 * Added forest guard cabin
 * Added a locked gate to the cave entrance
   * Keys can be obtained from the forest guard cabin
+* Added music to when the Hartman tape is playing
+* Added a sound mixer to when the Hartman tape is playing
+  * Boosts dialogue and music
+  * Ducks ambient sounds
 * Changed the elevator breakdown sequence
-* * Changed sluice gate generator puzzle
+* Changed sluice gate generator puzzle
   * Indicators and buttons are now at player's eye level
   * Indicators are larger and easier to read
 * Changed generator room appearance
@@ -93,10 +97,10 @@
 ## tunnel1
 
 * Added player monologue
-  * Added to when the roof start collapsing
-  * Added to when player survives the roof collapse
+  * Added to when the ceiling starts collapsing
+  * Added to when player survives the collapse
   * Added to when player uses the exit elevator
-* Changed the alternative puzzle
+* Changed the water sensor puzzle to make more sense (issue [#89](https://github.com/loiste-interactive/infra-issues/issues/89))
 * Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## tunnel2
@@ -165,7 +169,6 @@
 * Changed the area in the beginning
 * Changed the central area
 * Changed the blower building
-* Removed unused alternative route
 * Fixed an invisible wall on certain stairs (issue [#53](https://github.com/loiste-interactive/infra-issues/issues/53))
 * Fixed a little missing texture on the ground in the poison room (issue [#148](https://github.com/loiste-interactive/infra-issues/issues/148))
 * Fixed decal overflow (issue [#52](https://github.com/loiste-interactive/infra-issues/issues/52))
@@ -176,6 +179,7 @@
 * Fixed some doors being static instead of interactable and locked (issue [#9](https://github.com/loiste-interactive/infra-issues/issues/9))
 * Fixed laboratory doors not closing once opened (issue [#76](https://github.com/loiste-interactive/infra-issues/issues/76))
 * Fixed a tree clipping through a wall (issue [#54](https://github.com/loiste-interactive/infra-issues/issues/54))
+* Removed unused alternative route
 
 ## tower
 
