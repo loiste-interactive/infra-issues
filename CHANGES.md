@@ -45,10 +45,16 @@
 
 ## reserve2
 
+* Added player monologue
+  * Added to when the elevator in the beginning breaks down
+  * Added to when getting close to electrified water in generator room
+  * Added to when entering forest guard cabin
+  * Added to when funicular breaks down
 * Added forest guard cabin
 * Added a locked gate to the cave entrance
   * Keys can be obtained from the forest guard cabin
-* Changed sluice gate generator puzzle
+* Changed the elevator breakdown sequence
+* * Changed sluice gate generator puzzle
   * Indicators and buttons are now at player's eye level
   * Indicators are larger and easier to read
 * Changed generator room appearance
@@ -69,6 +75,14 @@
 
 ## reserve3
 
+* Added player monologue
+  * Added to when entering the big cavern
+  * Added to when using the locked gate
+  * Added to when entering the first floor of the building
+  * Added to when finding the body
+  * Added to when walking on the fallen tree
+  * Added to when getting close to the tunnel entrance
+* Added a mysterious stash
 * Fixed a fence being invisible from the other side (issue [#134](https://github.com/loiste-interactive/infra-issues/issues/134))
 * Fixed a spot where the player could get stuck between stones and a building (issue [#106](https://github.com/loiste-interactive/infra-issues/issues/106))
 * Fixed it being easy to get stuck near the keys in the cave (issue [#170](https://github.com/loiste-interactive/infra-issues/issues/170), [#130](https://github.com/loiste-interactive/infra-issues/issues/130))
@@ -78,6 +92,11 @@
 
 ## tunnel1
 
+* Added player monologue
+  * Added to when the roof start collapsing
+  * Added to when player survives the roof collapse
+  * Added to when player uses the exit elevator
+* Changed the alternative puzzle
 * Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## tunnel2
@@ -142,11 +161,16 @@
 ## watertreatment
 
 * Added a small new puzzle to the very beginning of the map
+* Added a new sludge removal building with corruption and photography targets
+* Changed the area in the beginning
+* Changed the central area
+* Changed the blower building
+* Removed unused alternative route
 * Fixed an invisible wall on certain stairs (issue [#53](https://github.com/loiste-interactive/infra-issues/issues/53))
 * Fixed a little missing texture on the ground in the poison room (issue [#148](https://github.com/loiste-interactive/infra-issues/issues/148))
 * Fixed decal overflow (issue [#52](https://github.com/loiste-interactive/infra-issues/issues/52))
-* Fixed some of the building flickering issues
-* Fixed some of the performance issues
+* Fixed the building flickering issues
+* Fixed most of the performance issues
 * Fixed turning on the clarifier not awarding a "spot repaired" (issue [#11](https://github.com/loiste-interactive/infra-issues/issues/11))
 * Fixed it not being possible to pick up the keycard from the drawer (issue [#67](https://github.com/loiste-interactive/infra-issues/issues/67))
 * Fixed some doors being static instead of interactable and locked (issue [#9](https://github.com/loiste-interactive/infra-issues/issues/9))
