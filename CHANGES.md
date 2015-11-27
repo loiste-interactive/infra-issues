@@ -11,8 +11,23 @@
 * Added more player monologue
   * Added different lines for different battery types
   * Added a few lines about deep water when in water and there's really deep water nearby
+  * Added more lines to when trying to pick up batteries but you already have the maximum amount you can carry
   * Turn on subtitles to see this placeholder player monologue
+* Added persistent global state
+  * When you reach a new level, the global state from the previous level is saved
+  * When you later start a level from the main menu, the previous global state is restored
+  * This avoids issues with saved games not being backwards compatible, but still allows progress to be saved
+    * Note: the release version of the game will ship with save/load game functionality
+  * The following things count as global state:
+    * The amount of successful photographs
+    * The amount of corruption found
+    * The amount of mistakes made
+    * The amount of geocaches found
+    * The amount of spots repaired
+    * Whether certain water flow meters are turned on or not
+    * And others
 * Changed raft strafe speed from 40 to 50
+* Fixed camera not acquiring targets through small obstacles such as railings
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
 * Fixed flashlight not playing draw animation sometimes after dying (issue [#121](https://github.com/loiste-interactive/infra-issues/issues/121))
@@ -31,7 +46,7 @@
   * Added to when the player first enters the old power plant
   * Added to when the player first enters the dam
   * Added to when spotting the fallen tree over the tracks
-  * Added to when finding the "corruption" documents in the logging office
+  * Added to certain photograph and "corruption" targets
   * Turn on subtitles to see this placeholder player monologue
 * Fixed a spot where it's possible to get stuck between stairs and a rock (issue [#112](https://github.com/loiste-interactive/infra-issues/issues/112))
 * Fixed train not showing up on certain approaches (issue [#79](https://github.com/loiste-interactive/infra-issues/issues/79))
@@ -50,6 +65,8 @@
   * Added to when getting close to electrified water in generator room
   * Added to when entering forest guard cabin
   * Added to when funicular breaks down
+  * Added to certain photograph and "corruption" targets
+  * Turn on subtitles to see this placeholder player monologue
 * Added forest guard cabin
 * Added a locked gate to the cave entrance
   * Keys can be obtained from the forest guard cabin
@@ -86,6 +103,8 @@
   * Added to when finding the body
   * Added to when walking on the fallen tree
   * Added to when getting close to the tunnel entrance
+  * Added to certain photograph targets
+  * Turn on subtitles to see this placeholder player monologue
 * Added a mysterious stash
 * Fixed a fence being invisible from the other side (issue [#134](https://github.com/loiste-interactive/infra-issues/issues/134))
 * Fixed a spot where the player could get stuck between stones and a building (issue [#106](https://github.com/loiste-interactive/infra-issues/issues/106))
@@ -100,6 +119,7 @@
   * Added to when the ceiling starts collapsing
   * Added to when player survives the collapse
   * Added to when player uses the exit elevator
+  * Turn on subtitles to see this placeholder player monologue
 * Changed the water sensor puzzle to make more sense (issue [#89](https://github.com/loiste-interactive/infra-issues/issues/89))
 * Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
@@ -118,6 +138,9 @@
 
 ## tunnel3
 
+* Added player monologue
+  * Added to certain photograph and "corruption" targets
+  * Turn on subtitles to see this placeholder player monologue
 * Changed the tunnel to be a bit brighter
 * Fixed white decals on the ground next to the water flow meter (issue [#92](https://github.com/loiste-interactive/infra-issues/issues/92))
 * Fixed a spot where the player could get stuck in the broken tunnel  (issue [#144](https://github.com/loiste-interactive/infra-issues/issues/144))
@@ -143,6 +166,9 @@
 
 ## furnace
 
+* Added player monologue
+  * Added to when photographing the mushroom farm
+  * Turn on subtitles to see this placeholder player monologue
 * Added a new puzzle prior to the "finale"
 * Changed the location of the keys for the first door (near the old location, but should be easier to notice now)
 * Changed the minitrain tracks to be more clearly marked
