@@ -27,6 +27,9 @@
     * Whether certain water flow meters are turned on or not
     * And others
 * Changed raft strafe speed from 40 to 50
+* Changed music volume default to 100% instead of 33%
+  * All music has been adjusted accordingly
+  * If the music is too quiet, please set the slider to 100%!
 * Fixed camera not acquiring targets through small obstacles such as railings
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
@@ -170,6 +173,10 @@
   * Added to when photographing the mushroom farm
   * Turn on subtitles to see this placeholder player monologue
 * Added a new puzzle prior to the "finale"
+* Added a sound mixer to when the finale music is playing
+  * Boosts dialogue and music
+  * Ducks ambient sounds
+* Changed finale music to be louder
 * Changed the location of the keys for the first door (near the old location, but should be easier to notice now)
 * Changed the minitrain tracks to be more clearly marked
 * Changed minitrain track control room door to one that has a rear lock
