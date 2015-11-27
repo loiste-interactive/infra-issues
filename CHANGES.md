@@ -123,6 +123,10 @@
   * Added to when player survives the collapse
   * Added to when player uses the exit elevator
   * Turn on subtitles to see this placeholder player monologue
+* Added a sound mixer to when the finale music is playing
+  * Boosts dialogue and music
+  * Ducks ambient sounds
+* Changed finale music to be louder
 * Changed the water sensor puzzle to make more sense (issue [#89](https://github.com/loiste-interactive/infra-issues/issues/89))
 * Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
