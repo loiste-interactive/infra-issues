@@ -177,9 +177,9 @@
   * Added to when entering the cellar
   * Added to when entering the mushroom farm
   * Added to when photographing the mushroom farm
-  * Added to when starting the ending sequence
-  * Added to when completing the ending sequence
-  * Added to when entering the elevator
+  * Added to when starting the finale
+  * Added to when completing the finale
+  * Added to when entering the exit elevator
   * Turn on subtitles to see this placeholder player monologue
 * Added a new puzzle prior to the "finale"
 * Added a sound mixer to when the finale music is playing
