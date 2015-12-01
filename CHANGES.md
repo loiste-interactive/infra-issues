@@ -174,7 +174,12 @@
 ## furnace
 
 * Added player monologue
+  * Added to when entering the cellar
+  * Added to when entering the mushroom farm
   * Added to when photographing the mushroom farm
+  * Added to when starting the ending sequence
+  * Added to when completing the ending sequence
+  * Added to when entering the elevator
   * Turn on subtitles to see this placeholder player monologue
 * Added a new puzzle prior to the "finale"
 * Added a sound mixer to when the finale music is playing
@@ -199,6 +204,20 @@
 * Fixed a spot where the player could get stuck on top of some pipes in the beginning (issue [#150](https://github.com/loiste-interactive/infra-issues/issues/150))
 * Fixed a spot where the skybox was too visible when climbing on top of a lamp post (issue [#150](https://github.com/loiste-interactive/infra-issues/issues/150))
 
+## tower
+
+* Added player monologue
+  * Added to when exiting the elevator
+  * Added to when reaching the top
+  * Added to when seeing the farm the first time
+  * Turn on subtitles to see this placeholder player monologue
+* Fixed a possible crash when turning on the fuses (issue [#95](https://github.com/loiste-interactive/infra-issues/issues/95))
+* Fixed an invisible wall on certain stairs (issue [#91](https://github.com/loiste-interactive/infra-issues/issues/91))
+* Fixed some skybox models not having mipmaps
+* Fixed the outside roof of the steel factory not corresponding to the damaged roof on the inside (issue [#137](https://github.com/loiste-interactive/infra-issues/issues/137))
+* Fixed some doors being static instead of interactable and locked (issue [#9](https://github.com/loiste-interactive/infra-issues/issues/9))
+* Fixed a graffiti also being visible on the ground instead of just on the wall (issue [#149](https://github.com/loiste-interactive/infra-issues/issues/149))
+
 ## watertreatment
 
 * Added a small new puzzle to the very beginning of the map
@@ -217,15 +236,6 @@
 * Fixed laboratory doors not closing once opened (issue [#76](https://github.com/loiste-interactive/infra-issues/issues/76))
 * Fixed a tree clipping through a wall (issue [#54](https://github.com/loiste-interactive/infra-issues/issues/54))
 * Removed unused alternative route
-
-## tower
-
-* Fixed a possible crash when turning on the fuses (issue [#95](https://github.com/loiste-interactive/infra-issues/issues/95))
-* Fixed an invisible wall on certain stairs (issue [#91](https://github.com/loiste-interactive/infra-issues/issues/91))
-* Fixed some skybox models not having mipmaps
-* Fixed the outside roof of the steel factory not corresponding to the damaged roof on the inside (issue [#137](https://github.com/loiste-interactive/infra-issues/issues/137))
-* Fixed some doors being static instead of interactable and locked (issue [#9](https://github.com/loiste-interactive/infra-issues/issues/9))
-* Fixed a graffiti also being visible on the ground instead of just on the wall (issue [#149](https://github.com/loiste-interactive/infra-issues/issues/149))
 
 # November 3rd 2015
 
