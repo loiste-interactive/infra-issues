@@ -220,6 +220,11 @@
 
 ## watertreatment
 
+* Added player monologue
+  * Added to when exiting the tunnel
+  * Added to when eating the kebab
+  * Added to when entering the office
+  * Turn on subtitles to see this placeholder player monologue
 * Added a small new puzzle to the very beginning of the map
 * Added a new sludge removal building with corruption and photography targets
 * Changed the area in the beginning
