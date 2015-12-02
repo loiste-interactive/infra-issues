@@ -26,6 +26,7 @@
     * The amount of spots repaired
     * Whether certain water flow meters are turned on or not
     * And others
+* Added animations for certain door models that didn't have them
 * Changed all normal mapped world materials to use self-shadowing normal maps
 * Changed raft strafe speed from 40 to 50
 * Changed music volume default to 100% instead of 33%
