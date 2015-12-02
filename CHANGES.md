@@ -1,4 +1,4 @@
-# Next Update (work in progress)
+# December 2nd 2015
 
 * Added an error message to startup if Shader Model 3 is not available
 * Added phong to certain metal objects
@@ -33,7 +33,6 @@
 * Fixed camera not acquiring targets through small obstacles such as railings
 * Fixed use highlights for most objects that didn't have them
 * Fixed finicky ladders (especially noticeable in tunnel3)
-* Fixed flashlight not playing draw animation sometimes after dying (issue [#121](https://github.com/loiste-interactive/infra-issues/issues/121))
 * Fixed utility light missing textures (issue [#33](https://github.com/loiste-interactive/infra-issues/issues/33))
 * Fixed camera view model when zooming in on FOVs larger than 108 (issue [#131](https://github.com/loiste-interactive/infra-issues/issues/131))
 * Fixed flashlight view model after restarting the level without a saved game
@@ -77,6 +76,7 @@
 * Added a sound mixer to when the Hartman tape is playing
   * Boosts dialogue and music
   * Ducks ambient sounds
+* Added a sound mixer to when the "Lookout" music is playing
 * Changed the elevator breakdown sequence
 * Changed sluice gate generator puzzle
   * Indicators and buttons are now at player's eye level
@@ -220,11 +220,6 @@
 
 ## watertreatment
 
-* Added player monologue
-  * Added to when exiting the tunnel
-  * Added to when eating the kebab
-  * Added to when entering the office
-  * Turn on subtitles to see this placeholder player monologue
 * Added a small new puzzle to the very beginning of the map
 * Added a new sludge removal building with corruption and photography targets
 * Changed the area in the beginning
