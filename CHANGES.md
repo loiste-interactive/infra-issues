@@ -26,6 +26,7 @@
     * The amount of spots repaired
     * Whether certain water flow meters are turned on or not
     * And others
+* Changed all normal mapped world materials to use self-shadowing normal maps
 * Changed raft strafe speed from 40 to 50
 * Changed music volume default to 100% instead of 33%
   * All music has been adjusted accordingly
@@ -96,6 +97,7 @@
 * Fixed a door opening to the inside of a wall (issue [#168](https://github.com/loiste-interactive/infra-issues/issues/178))
 * Fixed a spot where the player could get stuck near the furnicular (issue [#169](https://github.com/loiste-interactive/infra-issues/issues/169))
 * Fixed a spot where the player could get stuck on some rocks (issue [#169](https://github.com/loiste-interactive/infra-issues/issues/169))
+* Fixed flickering water at the lower floor of the sawmill (issue [#4](https://github.com/loiste-interactive/infra-issues/issues/4))
 
 ## reserve3
 
@@ -155,6 +157,7 @@
 
 ## tunnel4
 
+* Added an alternative route to the cave where you get to blow up stuff
 * Changed the tunnel to be a bit brighter
 * Fixed two doors being marked as "B2" (issue [#115](https://github.com/loiste-interactive/infra-issues/issues/115))
 * Fixed a certain area portal (issue [#81](https://github.com/loiste-interactive/infra-issues/issues/81))
@@ -170,6 +173,7 @@
 * Fixed a spot where the player could get stuck in the generator room (issue [#104](https://github.com/loiste-interactive/infra-issues/issues/104))
 * Fixed the raft light disappearing on level start (issue [#104](https://github.com/loiste-interactive/infra-issues/issues/39))
 * Fixed an untextured brush face (issue [#154](https://github.com/loiste-interactive/infra-issues/issues/154))
+* Removed a really weird alternative route involving opening the floodgates and riding the raft through them
 
 ## furnace
 
