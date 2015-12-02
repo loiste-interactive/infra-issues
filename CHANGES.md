@@ -56,7 +56,6 @@
 * Fixed the map in the Morning Wood office being hard to interpret
 * Fixed a skippable save trigger right after the old power plant (issue [#129](https://github.com/loiste-interactive/infra-issues/issues/129))
 * Fixed generator switches being the wrong way around (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
-* Fixed water disappearing near the clog in the beginning when looking at it from a certain angle (issue [#43](https://github.com/loiste-interactive/infra-issues/issues/43))
 * Fixed getting stuck inside the elevator (issue [#133](https://github.com/loiste-interactive/infra-issues/issues/133))
 * Fixed lighting errors on some props inside the logging office (issue [#135](https://github.com/loiste-interactive/infra-issues/issues/135))
 * Fixed some cars with a missing texture on the bridge (issue [#138](https://github.com/loiste-interactive/infra-issues/issues/138))
