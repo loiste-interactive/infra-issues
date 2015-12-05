@@ -1,3 +1,10 @@
+# December 5th 2015
+
+* Fixed missing normal maps from a certain ground material
+* Fixed an issue where the player's camera tool would sometimes break after a camera ride
+* Removed Shader Model 3 error from startup
+  * Had too many false positives
+
 # December 2nd 2015
 
 * Added an error message to startup if Shader Model 3 is not available
