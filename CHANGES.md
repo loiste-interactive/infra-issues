@@ -1,3 +1,44 @@
+# In the next update
+
+* Added new map, Sewer, located after Watertreatment
+* Added system to better read the various notes scattered around the game world. Use the highlighted notes to activate.
+* Fixed issues with fov after loading a save
+* Fixed problem with visibility check on the camera targets (Issue [#177] (https://github.com/loiste-interactive/infra-issues/issues/177))
+* Fixed player being able to holster/equip his camera during computer camera transitions (Issue [#185] (https://github.com/loiste-interactive/infra-issues/issues/185))
+
+## reserve1
+* Added custscene when exiting the car.
+* Changed some particles.
+* Made the WW2 bomb explode when tampered with.
+* Fixed models with incorrect lighting (Issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
+
+## reserve3
+* Fixed fence missing backface again (Issue [#198] (https://github.com/loiste-interactive/infra-issues/issues/198))
+
+## tunnel1
+* Fixed use highlight of buttons showing throught the wall (Issue [#188] (https://github.com/loiste-interactive/infra-issues/issues/188))
+* Fixed wrongly lit decal (Issue [#190] (https://github.com/loiste-interactive/infra-issues/issues/190))
+* Fixed player getting stuck to the alarm panel's shutter (Issue [#192] (https://github.com/loiste-interactive/infra-issues/issues/192))
+* Fixed player being able to jump on the small legde near the flood gates (Issue [#199] (https://github.com/loiste-interactive/infra-issues/issues/199))
+
+## tunnel2
+* Fixed issues with the control computer (Issue [#193] (https://github.com/loiste-interactive/infra-issues/issues/193))
+
+## furnace
+* Fixed sprites showing through the wall (Issue [#201] (https://github.com/loiste-interactive/infra-issues/issues/201))
+
+## tower
+* Fixed border of level being too noticeable (Issue [#195] (https://github.com/loiste-interactive/infra-issues/issues/195))
+
+## watertreatment
+* Fixed computer with emails having missing textures (Issue [#10] (https://github.com/loiste-interactive/infra-issues/issues/10))
+* Fixed the first tunnel having an invisible wall (Issue [#73] (https://github.com/loiste-interactive/infra-issues/issues/73))
+* Fixed the strange lighting issues (Issue [#181] (https://github.com/loiste-interactive/infra-issues/issues/181))
+* Fixed doors missing sounds (Issue [#182] (https://github.com/loiste-interactive/infra-issues/issues/182))
+* Fixed broken keycard readers having highlights (Issue [#183] (https://github.com/loiste-interactive/infra-issues/issues/183))
+* Fixed toilets not having tags (Issue [#194] (https://github.com/loiste-interactive/infra-issues/issues/194))
+* Fixed bus having missing textures (Issue [#197] (https://github.com/loiste-interactive/infra-issues/issues/197))
+
 # December 5th 2015
 
 * Fixed missing normal maps from a certain ground material
