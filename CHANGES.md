@@ -7,9 +7,9 @@
 * Fixed player being able to holster/equip his camera during computer camera transitions (Issue [#185] (https://github.com/loiste-interactive/infra-issues/issues/185))
 
 ## reserve1
-* Added custscene when exiting the car.
-* Added particles to the raft.
-* Made the WW2 bomb explode when tampered with.
+* Added custscene when exiting the car
+* Added particles to the raft
+* Made the WW2 bomb explode when tampered with
 * Fixed models with incorrect lighting (Issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
 ## reserve3
@@ -25,6 +25,7 @@
 * Fixed issues with the control computer (Issue [#193] (https://github.com/loiste-interactive/infra-issues/issues/193))
 
 ## furnace
+* Added more particles to the ending scene
 * Fixed sprites showing through the wall (Issue [#201] (https://github.com/loiste-interactive/infra-issues/issues/201))
 
 ## tower
