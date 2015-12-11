@@ -10,6 +10,7 @@
 * Added custscene when exiting the car
 * Added particles to the raft
 * Made the WW2 bomb explode when tampered with
+* Fixing the elevator now counts as a repair
 * Fixed models with incorrect lighting (Issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
 ## reserve3
