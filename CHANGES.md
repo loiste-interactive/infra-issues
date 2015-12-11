@@ -8,7 +8,7 @@
 
 ## reserve1
 * Added custscene when exiting the car.
-* Changed some particles.
+* Added particles to the raft.
 * Made the WW2 bomb explode when tampered with.
 * Fixed models with incorrect lighting (Issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
