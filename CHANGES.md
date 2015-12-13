@@ -13,7 +13,7 @@
 * Fixing the elevator now counts as a repair
 * Fixed models with incorrect lighting (Issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
-## reserve3
+## reserve2
 * Fixed fence missing backface again (Issue [#198] (https://github.com/loiste-interactive/infra-issues/issues/198))
 
 ## tunnel1
