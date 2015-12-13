@@ -25,6 +25,12 @@
 ## tunnel2
 * Fixed issues with the control computer (Issue [#193] (https://github.com/loiste-interactive/infra-issues/issues/193))
 
+## tunnel3
+* Added particles to the raft ride section
+
+## tunnel4
+* Added particles to the raft ride section
+
 ## furnace
 * Added more particles to the ending scene
 * Fixed sprites showing through the wall (Issue [#201] (https://github.com/loiste-interactive/infra-issues/issues/201))
