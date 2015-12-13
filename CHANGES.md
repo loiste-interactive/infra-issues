@@ -2,6 +2,7 @@
 
 * Added new map, Sewer, located after Watertreatment
 * Added system to better read the various notes scattered around the game world. Use the highlighted notes to activate.
+* Edited dialogue throughout the game
 * Fixed issues with fov after loading a save
 * Fixed problem with visibility check on the camera targets (Issue [#177] (https://github.com/loiste-interactive/infra-issues/issues/177))
 * Fixed player being able to holster/equip his camera during computer camera transitions (Issue [#185] (https://github.com/loiste-interactive/infra-issues/issues/185))
