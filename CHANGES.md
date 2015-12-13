@@ -1,6 +1,6 @@
 # In the next update
 
-* Added new map, Sewer, located after Watertreatment
+* Added a new map, Sewer, located after Watertreatment
 * Added system to better read the various notes scattered around the game world. Use the highlighted notes to activate.
 * Edited dialogue throughout the game
 * Fixed issues with fov after loading a save
