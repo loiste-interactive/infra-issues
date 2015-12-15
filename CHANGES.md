@@ -32,7 +32,7 @@
 
 ## reserve3
 
-* Added map of the area to the control room office
+* Added a map of the area to the control room office
 * Fixed fence missing backface again (issue [#198] (https://github.com/loiste-interactive/infra-issues/issues/198))
 
 ## tunnel1
