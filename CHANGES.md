@@ -30,8 +30,9 @@
 * Changed the elevator to award a "spot repaired"
 * Fixed certain models having incorrect lighting (issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
-## reserve2
+## reserve3
 
+* Added map of the area to the control room office
 * Fixed fence missing backface again (issue [#198] (https://github.com/loiste-interactive/infra-issues/issues/198))
 
 ## tunnel1
