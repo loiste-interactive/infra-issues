@@ -21,6 +21,7 @@
 * Fixed Hartman tape corruption targets triggering even when the player is no longer nearby
 * Fixed closed captions playing regardless of how far away the source is
 * Fixed text drop shadow artifacts
+* Fixed incorrect use highlights in some cases (especially noticeable with keycards and batteries inside drawers)
 
 ## reserve1
 
