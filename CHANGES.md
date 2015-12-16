@@ -50,11 +50,13 @@
 ## tunnel3
 
 * Added particles to the raft ride section
+* Added foam to the water
 
 ## tunnel4
 
 * Added an alternative route to the latter half of the map
 * Added particles to the raft ride section
+* Added foam to the water
 
 ## furnace
 
@@ -214,6 +216,7 @@
   * Ducks ambient sounds
 * Changed finale music to be louder
 * Changed the water sensor puzzle to make more sense (issue [#89](https://github.com/loiste-interactive/infra-issues/issues/89))
+* Changed the elevator sequence so that the player has to climb out before it falls
 * Fixed incorrectly labeled keys (issue [#100](https://github.com/loiste-interactive/infra-issues/issues/100))
 
 ## tunnel2
