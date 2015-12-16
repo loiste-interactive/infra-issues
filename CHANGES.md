@@ -23,7 +23,9 @@
 * Fixed Hartman tape corruption targets triggering even when the player is no longer nearby
 * Fixed closed captions playing regardless of how far away the source is
 * Fixed text drop shadow artifacts
-* Fixed incorrect use highlights in some cases (especially noticeable with keycards and batteries inside drawers)
+  * Especially noticeable with the `con_drawnotify` notifications with `developer 1`
+* Fixed incorrect use highlights in some cases 
+  * Especially noticeable with keycards and batteries inside drawers
 
 ## reserve1
 
