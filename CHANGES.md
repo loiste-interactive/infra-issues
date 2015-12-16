@@ -52,6 +52,7 @@
 
 ## tunnel4
 
+* Added an alternative route to the latter half of the map
 * Added particles to the raft ride section
 
 ## furnace
