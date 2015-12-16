@@ -10,6 +10,8 @@
 * Added two new death animations where the player collapses forwards and backwards
   * If there's no space to collapse sideways, these animations will be used
   * Should fix issues with dying where the camera sometimes went through walls
+* Added voice acting for the rest of the Hartman tapes
+* Changed the first Hartman tape recording to a better quality one
 * Changed dialogue lines throughout the game
 * Changed camera accuarcy (regarding target acquisition) a bit
 * Fixed player field of view being stuck on the default value after loading a saved game
@@ -38,6 +40,7 @@
 
 ## tunnel1
 
+* Added a Hartman tape to the break room
 * Fixed the use highlight of certain buttons showing through walls (issue [#188] (https://github.com/loiste-interactive/infra-issues/issues/188))
 * Fixed an incorrectly lit decal (issue [#190] (https://github.com/loiste-interactive/infra-issues/issues/190))
 * Fixed player getting stuck in the alarm panel's shutter (issue [#192] (https://github.com/loiste-interactive/infra-issues/issues/192))
