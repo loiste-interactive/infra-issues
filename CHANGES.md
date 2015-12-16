@@ -11,6 +11,7 @@
   * If there's no space to collapse sideways, these animations will be used
   * Should fix issues with dying where the camera sometimes went through walls
 * Added voice acting for the rest of the Hartman tapes
+* Added placeholder player monologue for running out of camera batteries
 * Changed the first Hartman tape recording to a better quality one
 * Changed dialogue lines throughout the game
 * Changed camera accuarcy (regarding target acquisition) a bit
