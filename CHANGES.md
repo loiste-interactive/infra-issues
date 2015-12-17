@@ -29,6 +29,7 @@
 * Fixed incorrect use highlights in some cases 
   * Especially noticeable with keycards and batteries inside drawers
 * Fixed player dropping carried items when scaling obstacles
+* Fixed a certain locked door sound having a huge delay before it played
 
 ## reserve1
 
@@ -40,7 +41,9 @@
 
 ## reserve2
 
-* Added an achievement when getting across the generator room without moving any of the boxes
+* Added an achievement for getting across the flooded generator room without moving any of the boxes
+* Fixed a bunch of doors missing animations
+* Fixed the Hartman tape breaking if you spam use on it
 
 ## reserve3
 
@@ -81,7 +84,7 @@
 
 * Added a Hartman tape to the foreman's office
 * Fixed the edge of the level being too noticeable (issue [#195] (https://github.com/loiste-interactive/infra-issues/issues/195))
-* Removed reduntant achievement when reaching the top of the tower
+* Removed the achievement for reaching the top of the tower
 
 ## watertreatment
 
