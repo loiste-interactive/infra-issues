@@ -27,6 +27,7 @@
   * Especially noticeable with the `con_drawnotify` notifications with `developer 1`
 * Fixed incorrect use highlights in some cases 
   * Especially noticeable with keycards and batteries inside drawers
+* Fixed player dropping carried items when scaling obstacles
 
 ## reserve1
 
