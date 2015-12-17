@@ -47,6 +47,7 @@
 
 * Added player monologue to when exiting the elevator
 * Added a Hartman tape to the break room
+* Added foam to the water
 * Fixed the use highlight of certain buttons showing through walls (issue [#188] (https://github.com/loiste-interactive/infra-issues/issues/188))
 * Fixed an incorrectly lit decal (issue [#190] (https://github.com/loiste-interactive/infra-issues/issues/190))
 * Fixed player getting stuck in the alarm panel's shutter (issue [#192] (https://github.com/loiste-interactive/infra-issues/issues/192))
