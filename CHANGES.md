@@ -38,6 +38,10 @@
 * Changed the elevator to award a "spot repaired"
 * Fixed certain models having incorrect lighting (issue [#200] (https://github.com/loiste-interactive/infra-issues/issues/200))
 
+## reserve2
+
+* Added an achievement when getting across the generator room without moving any of the boxes
+
 ## reserve3
 
 * Added a map of the area to the control room office
@@ -77,6 +81,7 @@
 
 * Added a Hartman tape to the foreman's office
 * Fixed the edge of the level being too noticeable (issue [#195] (https://github.com/loiste-interactive/infra-issues/issues/195))
+* Removed reduntant achievement when reaching the top of the tower
 
 ## watertreatment
 
