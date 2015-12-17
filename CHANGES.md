@@ -83,6 +83,7 @@
 ## tower
 
 * Added a Hartman tape to the foreman's office
+* Changed the brightness of some interior spaces to be brighter
 * Fixed the edge of the level being too noticeable (issue [#195] (https://github.com/loiste-interactive/infra-issues/issues/195))
 * Removed the achievement for reaching the top of the tower
 
