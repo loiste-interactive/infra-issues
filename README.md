@@ -34,3 +34,4 @@ Thanks!
 | <img src="http://files.1337upload.net/preview_08_furnace-56bd3d.jpg" height=150>        | `furnace`           | 4       | Heavy Industry of the Past |
 | <img src="http://files.1337upload.net/preview_09_tower-42a1fa.jpg" height=150>          | `tower`             | 4       | Heavy Industry of the Past |
 | <img src="http://files.1337upload.net/preview_10_watertreatment-a79213.jpg" height=150> | `watertreatment`    | 5       | Fresh Water                |
+| <img src="http://files.1337upload.net/preview_11_sewer-1400e3.jpg" height=150> | `sewer`    | 5       | Fresh Water                |
