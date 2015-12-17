@@ -73,6 +73,7 @@
 
 ## tower
 
+* Added a Hartman tape to the foreman's office
 * Fixed the edge of the level being too noticeable (issue [#195] (https://github.com/loiste-interactive/infra-issues/issues/195))
 
 ## watertreatment
