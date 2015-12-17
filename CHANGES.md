@@ -15,6 +15,7 @@
 * Changed the first Hartman tape recording to a better quality one
 * Changed dialogue lines throughout the game
 * Changed camera accuarcy (regarding target acquisition) a bit
+* Changed the big valve model to a more high quality one
 * Fixed player field of view being stuck on the default value after loading a saved game
 * Fixed an issue with the visibility check of camera targets (issue [#177] (https://github.com/loiste-interactive/infra-issues/issues/177))
 * Fixed player being able to equip & holster his camera during camera transitions (issue [#185] (https://github.com/loiste-interactive/infra-issues/issues/185))
