@@ -1,3 +1,8 @@
+# Next Update
+
+* Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
+* Fixed changing the FOV setting after dying and respawning
+
 # December 19th 2015
 
 * Added a new map called `sewer`
