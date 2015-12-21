@@ -4,7 +4,7 @@
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 
-## sewer
+## watertreatment
 
 * Fixed screens showing incorrect info (issue [#223] (https://github.com/loiste-interactive/infra-issues/issues/223))
 
