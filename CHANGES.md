@@ -11,7 +11,6 @@
 * Fixed crane sounds cutting short (issue [#211] (https://github.com/loiste-interactive/infra-issues/issues/211))
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
 * Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
-* Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
 * Fixed player gettin stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216) and [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
 * Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
 
