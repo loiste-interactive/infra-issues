@@ -6,6 +6,10 @@
 
 ## sewer
 
+* Fixed screens showing incorrect info (issue [#223] (https://github.com/loiste-interactive/infra-issues/issues/223))
+
+## sewer
+
 * Added more checkpoints (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
 * Fixed faulty door behavior (issue [#210] (https://github.com/loiste-interactive/infra-issues/issues/210))
 * Fixed crane sounds cutting short (issue [#211] (https://github.com/loiste-interactive/infra-issues/issues/211))
