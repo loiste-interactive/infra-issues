@@ -10,7 +10,14 @@
 
 ## reserve1
 
-* Fixed player's car at the start of level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218))
+* Changed the speed of the elevator at the end of the level
+* Fixed the player's car at the start of the level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218))
+
+## reserve2
+
+* Added a placeholder phone call to the elevator at the start of the level
+  * The dialogue changes depending on your findings in `reserve1`
+* Changed the speed of the elevator at the start of the level
 
 ## watertreatment
 
