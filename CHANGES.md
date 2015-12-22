@@ -1,6 +1,5 @@
 # Next Update
 
-* Added textures to the player's car at the start of `reserve1`
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 * Fixed the player's collision bounds not updating after crouching
@@ -8,6 +7,10 @@
   * It's now possible to crouch under the smoke in the fire puzzle of `sewer` and not take any damage
 * Fixed occasional incorrect camera angles in document view (issue [#213] (https://github.com/loiste-interactive/infra-issues/issues/213))
 * Fixed important decals disappearing on lower shader detail levels (issue [#208] (https://github.com/loiste-interactive/infra-issues/issues/208))
+
+## reserve1
+
+* Fixed player's car at the start of level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218))
 
 ## watertreatment
 
