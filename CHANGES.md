@@ -6,6 +6,8 @@
 * Fixed the player's collision bounds not updating after crouching
   * All triggers behaved as if the player was standing even if he was crouching
   * It's now possible to crouch under the smoke in the fire puzzle of `sewer` and not take any damage
+* Fixed occasional incorrect camera angles in document view (issue [#213] (https://github.com/loiste-interactive/infra-issues/issues/213))
+* Fixed important decals disappearing on lower shader detail levels (issue [#208] (https://github.com/loiste-interactive/infra-issues/issues/208))
 
 ## watertreatment
 
