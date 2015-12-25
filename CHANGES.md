@@ -21,9 +21,13 @@
   * The dialogue changes depending on your findings in `reserve1`
 * Changed the speed of the elevator at the start of the level
 
+## Tunnel2
+* Added use highlights to useable computer
+
 ## watertreatment
 
 * Fixed screens showing incorrect info (issue [#223] (https://github.com/loiste-interactive/infra-issues/issues/223))
+* Added use highlights to useable computer
 
 ## sewer
 
@@ -33,7 +37,9 @@
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
 * Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
 * Fixed player gettin stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216) and [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
+* Fixed forklift penetrating ceiling (issue [#227] https://github.com/loiste-interactive/infra-issues/issues/227)
 * Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
+* Added use highlights to useable computers
 
 
 # December 19th 2015
