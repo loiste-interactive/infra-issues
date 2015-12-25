@@ -34,16 +34,18 @@
 
 ## sewer
 
+* Added use highlights to useable computers
 * Added more checkpoints (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
+* Changed the entrance to the forklift puzzle room.
+* Changed some of the elements of the forklift puzzle
+* Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
 * Fixed faulty door behavior (issue [#210] (https://github.com/loiste-interactive/infra-issues/issues/210))
 * Fixed crane sounds cutting short (issue [#211] (https://github.com/loiste-interactive/infra-issues/issues/211))
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
 * Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
 * Fixed player gettin stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216) and [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
 * Fixed forklift penetrating ceiling (issue [#227] https://github.com/loiste-interactive/infra-issues/issues/227)
-* Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
-* Added use highlights to useable computers
-
+* Fixed performance drop when operating the small crane (issue [#227] https://github.com/loiste-interactive/infra-issues/issues/227)
 
 # December 19th 2015
 
