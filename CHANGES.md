@@ -41,6 +41,7 @@
 * Changed the entrance to the forklift puzzle room.
 * Changed some of the elements of the forklift puzzle
 * Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
+* Fixed some unrealistically dark places
 * Fixed faulty door behavior (issue [#210] (https://github.com/loiste-interactive/infra-issues/issues/210))
 * Fixed crane sounds cutting short (issue [#211] (https://github.com/loiste-interactive/infra-issues/issues/211))
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
