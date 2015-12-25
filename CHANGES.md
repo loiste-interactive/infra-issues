@@ -14,6 +14,9 @@
 
 * Changed the speed of the elevator at the end of the level
 * Fixed the player's car at the start of the level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218))
+* Fixed player getting stuck (issue [#222])
+* Fixed train signal bug (issue [#219])
+* Fixed araportal not triggering
 
 ## reserve2
 
