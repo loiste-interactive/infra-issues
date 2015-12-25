@@ -44,8 +44,8 @@
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
 * Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
 * Fixed player gettin stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216) and [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
-* Fixed forklift penetrating ceiling (issue [#227] https://github.com/loiste-interactive/infra-issues/issues/227)
-* Fixed performance drop when operating the small crane (issue [#227] https://github.com/loiste-interactive/infra-issues/issues/227)
+* Fixed forklift penetrating ceiling (issue [#227] (https://github.com/loiste-interactive/infra-issues/issues/227))
+* Fixed performance drop when operating the small crane (issue [#227] (https://github.com/loiste-interactive/infra-issues/issues/227))
 
 # December 19th 2015
 
