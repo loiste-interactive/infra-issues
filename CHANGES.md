@@ -1,7 +1,12 @@
 # Next Update
 
-* Updated the van model and it's textures
-* Updated the forklift textures
+* Changed the van model and its textures
+* Changed the forklift textures
+* Changed the subtitle font size from 20 to 22
+* Changed the subtitle shadow to be a bit softer
+* Changed the hint message font size from 20 to 22
+* Changed the hard drop shadow used in the hint messages to a very soft shadow
+  * Same as the one used in the subtitles
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 * Fixed the player's collision bounds not updating after crouching
@@ -9,14 +14,16 @@
   * It's now possible to crouch under the smoke in the fire puzzle of `sewer` and not take any damage
 * Fixed occasional incorrect camera angles in document view (issue [#213] (https://github.com/loiste-interactive/infra-issues/issues/213))
 * Fixed important decals disappearing on lower shader detail levels (issue [#208] (https://github.com/loiste-interactive/infra-issues/issues/208))
+* Fixed lighting issues on a certain electrical box model with lower LODs (issue [#225] (https://github.com/loiste-interactive/infra-issues/issues/225))
 
 ## reserve1
 
 * Changed the speed of the elevator at the end of the level
-* Fixed the player's car at the start of the level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218))
-* Fixed player getting stuck (issue [#222])
-* Fixed train signal bug (issue [#219])
-* Fixed araportal not triggering
+* Fixed the player's car at the start of the level having placeholder textures (issue [#218] (https://github.com/loiste-interactive/infra-issues/issues/218), [#225] (https://github.com/loiste-interactive/infra-issues/issues/225))
+* Fixed player getting stuck (issue [#222](https://github.com/loiste-interactive/infra-issues/issues/222))
+* Fixed weird train behaviour when spamming the train signal while the train is approaching (issue [#219](https://github.com/loiste-interactive/infra-issues/issues/219))
+* Fixed an area portal not triggering under specific conditions (issue [#225](https://github.com/loiste-interactive/infra-issues/issues/225))
+* Fixed a couple of spots near the power plant where the player could get stuck (issue [#222](https://github.com/loiste-interactive/infra-issues/issues/222))
 
 ## reserve2
 
@@ -24,13 +31,14 @@
   * The dialogue changes depending on your findings in `reserve1`
 * Changed the speed of the elevator at the start of the level
 
-## Tunnel2
-* Added use highlights to useable computer
+## tunnel2
+
+* Added use highlights to the useable computer
 
 ## watertreatment
 
+* Added use highlights to the useable computer
 * Fixed screens showing incorrect info (issue [#223] (https://github.com/loiste-interactive/infra-issues/issues/223))
-* Added use highlights to useable computer
 
 ## sewer
 
@@ -38,17 +46,19 @@
 * Added a puzzle to the alternative route
 * Added a possibility to either fix the smoking transformer or activate a fire alarm
 * Added more checkpoints (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
-* Changed the entrance to the forklift puzzle room.
+* Changed the entrance of the forklift puzzle room
 * Changed some of the elements of the forklift puzzle
 * Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
+* Changed the mushroom machine puzzle to be easier (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
+* Changed a misleading ladder to look more like it can't be climbed (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
 * Fixed some unrealistically dark places
 * Fixed faulty door behavior (issue [#210] (https://github.com/loiste-interactive/infra-issues/issues/210))
 * Fixed crane sounds cutting short (issue [#211] (https://github.com/loiste-interactive/infra-issues/issues/211))
 * Fixed inconsistency with `watertreatment` (issue [#212] (https://github.com/loiste-interactive/infra-issues/issues/212))
 * Fixed disappearing computer screens (issue [#214] (https://github.com/loiste-interactive/infra-issues/issues/214))
-* Fixed player gettin stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216) and [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
+* Fixed a couple of spots where the player could get stuck (issue [#216] (https://github.com/loiste-interactive/infra-issues/issues/216), [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
 * Fixed forklift penetrating ceiling (issue [#227] (https://github.com/loiste-interactive/infra-issues/issues/227))
-* Fixed performance drop when operating the small crane (issue [#227] (https://github.com/loiste-interactive/infra-issues/issues/227))
+* Fixed performance issues when operating the small crane (issue [#227] (https://github.com/loiste-interactive/infra-issues/issues/227))
 
 # December 19th 2015
 
