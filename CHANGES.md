@@ -1,6 +1,6 @@
 # Next Update
 
-* Added an option to the options menu to reset to default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
+* Added an option to the options menu to reset to the default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
 * Changed the van model and its textures
 * Changed the forklift textures
 * Changed the subtitle font size from 20 to 22
@@ -9,6 +9,9 @@
 * Changed the hard drop shadow used in the hint messages to a very soft shadow
   * Same as the one used in the subtitles
 * Changed camera transitions to not automatically re-equip the camera and the flashlight afterwards if they were equipped prior to enabling the camera
+* Changed the dust motes in the main menu
+  * There are now dust motes everywhere the light hits, but more near the projector
+  * The dust motes are a bit smaller and little less bright now
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 * Fixed the player's collision bounds not updating after crouching
@@ -18,6 +21,7 @@
 * Fixed important decals disappearing on lower shader detail levels (issue [#208] (https://github.com/loiste-interactive/infra-issues/issues/208))
 * Fixed lighting issues on a certain electrical box model with lower LODs (issue [#225] (https://github.com/loiste-interactive/infra-issues/issues/225))
 * Fixed the camera being in the wrong place for one frame when entering the raft (issue [#37] (https://github.com/loiste-interactive/infra-issues/issues/37))
+* Fixed the `restart` console command not working properly in the main menu
 
 ## reserve1
 
