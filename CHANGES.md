@@ -16,6 +16,7 @@
 * Fixed occasional incorrect camera angles in document view (issue [#213] (https://github.com/loiste-interactive/infra-issues/issues/213))
 * Fixed important decals disappearing on lower shader detail levels (issue [#208] (https://github.com/loiste-interactive/infra-issues/issues/208))
 * Fixed lighting issues on a certain electrical box model with lower LODs (issue [#225] (https://github.com/loiste-interactive/infra-issues/issues/225))
+* Fixed the camera being in the wrong place for one frame when entering the raft (issue [#37] (https://github.com/loiste-interactive/infra-issues/issues/37))
 
 ## reserve1
 
