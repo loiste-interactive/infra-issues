@@ -1,5 +1,6 @@
 # Next Update
 
+* Added an option to the options menu to reset to default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
 * Changed the van model and its textures
 * Changed the forklift textures
 * Changed the subtitle font size from 20 to 22
