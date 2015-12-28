@@ -7,6 +7,7 @@
 * Changed the hint message font size from 20 to 22
 * Changed the hard drop shadow used in the hint messages to a very soft shadow
   * Same as the one used in the subtitles
+* Changed camera transitions to not automatically re-equip the camera and the flashlight afterwards if they were equipped prior to enabling the camera
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 * Fixed the player's collision bounds not updating after crouching
