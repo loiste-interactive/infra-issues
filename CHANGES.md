@@ -23,6 +23,7 @@
 * Fixed the camera being in the wrong place for one frame when entering the raft (issue [#37] (https://github.com/loiste-interactive/infra-issues/issues/37))
 * Fixed the `restart` console command not working properly in the main menu
 * Fixed sharp edges on the key icons in the options menu
+* Fixed flashlight shadow artifacts on objects with use highlights (issue [#58] (https://github.com/loiste-interactive/infra-issues/issues/58))
 
 ## reserve1
 
