@@ -24,7 +24,7 @@ Thanks!
 
 | Screenshot                                                                              | Name                | Chapter | Chapter Name               |
 | --------------------------------------------------------------------------------------- | ------------------- | ------- | -------------------------- |
-| <img src="http://files.1337upload.net/2015-12-31_00001-ca9772.jpg" height=150>       | `reserve1`          | 1       | Preparations|
+| <img src="http://files.1337upload.net/2015-12-31_00001-2f27a2.jpg" height=150>       | `reserve1`          | 1       | Preparations|
 | <img src="http://files.1337upload.net/preview_01_reserve1-3670f0.jpg" height=150>       | `reserve1`          | 2       | Just Another Day at Work   |
 | <img src="http://files.1337upload.net/preview_02_reserve2-f5373b.jpg" height=150>       | `reserve2`          | 2       | Just Another Day at Work   |
 | <img src="http://files.1337upload.net/preview_03_reserve3-0d6b25.jpg" height=150>       | `reserve3`          | 2       | Just Another Day at Work   |
