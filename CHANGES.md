@@ -11,7 +11,6 @@
   * Changed the signal monologue in `furnace`
     * Now mentions the cell transceiver up in the tower
     * The picture monologue has been moved to when the player enters Stalburg Steel
-  * Removed the snarky remark when in the elevator in `furnace`
   * Changed the monologue when exiting the tunnel in `watertreatment`
   * Changed the monologue when eating the kebab in `watertreatment`
   * Changed the "metro maintenance access" monologue in `sewer`
@@ -22,6 +21,8 @@
   * Fixed the phone call timings in `reserve1`
   * Fixed the monologue for water flow meters not being unique for each meter
   * Fixed capitalization in the `reserve2` funicular scream monologue
+  * Removed the snarky remark when in the elevator from `furnace`
+  * Removed the view monologue from `tower`
 * Changed the van model and its textures
 * Changed the forklift textures
 * Changed the subtitle font size from 20 to 22
