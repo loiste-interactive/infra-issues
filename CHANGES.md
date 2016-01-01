@@ -1,5 +1,7 @@
 # Next Update
 
+* Added new map `office` to the beginning of the game
+  * Mainly used to boot the story of the game
 * Added an option to the options menu to reset to the default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
 * Added a new achievement for repairing all the water flow meters
 * Added pickup, open and close sounds for geocaches
