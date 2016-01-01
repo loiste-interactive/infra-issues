@@ -2,6 +2,7 @@
 
 * Added an option to the options menu to reset to the default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
 * Added a new achievement for repairing all the water flow meters
+* Added pickup, open and close sounds for geocaches
 * Changed a bunch of monologue and dialogue
   * Changed deep water monologue #3 to be less terrible
   * Changed the monologue for geocaches
@@ -11,6 +12,10 @@
   * Changed the signal monologue in `furnace`
     * Now mentions the cell transceiver up in the tower
     * The picture monologue has been moved to when the player enters Stalburg Steel
+  * Changed the monologue of the fallen tree in `reserve1`
+  * Changed the stash monologue in `reserve3`
+  * Changed the poison room monologue in `furnace`
+  * Changed the gas monologue in `furnace`
   * Changed the monologue when exiting the tunnel in `watertreatment`
   * Changed the monologue when eating the kebab in `watertreatment`
   * Changed the "metro maintenance access" monologue in `sewer`
