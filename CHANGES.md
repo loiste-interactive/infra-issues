@@ -6,6 +6,7 @@
   * Changed deep water monologue #3 to be less terrible
   * Changed the monologue for geocaches
     * First three geocaches now have unique monologue
+    * Sort of explains what the geocaches do (they are collectibles that don't really do anything)
   * Changed the remark on the falling elevator in `tunnel1`
   * Changed the signal monologue in `furnace`
     * Now mentions the cell transceiver up in the tower
