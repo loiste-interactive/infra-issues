@@ -53,6 +53,7 @@
 * Fixed the `restart` console command not working properly in the main menu
 * Fixed sharp edges on the key icons in the options menu
 * Fixed flashlight shadow artifacts on objects with use highlights (issue [#58] (https://github.com/loiste-interactive/infra-issues/issues/58))
+* Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
 
 ## reserve1
 
