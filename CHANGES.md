@@ -54,6 +54,7 @@
 * Fixed sharp edges on the key icons in the options menu
 * Fixed flashlight shadow artifacts on objects with use highlights (issue [#58] (https://github.com/loiste-interactive/infra-issues/issues/58))
 * Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
+* Fixed flashlight shadow artifacts on dynamic props with a custom lighting origin
 
 ## reserve1
 
@@ -69,6 +70,12 @@
 * Added a placeholder phone call to the elevator at the start of the level
   * The dialogue changes depending on your findings in `reserve1`
 * Changed the speed of the elevator at the start of the level
+
+## reserve3
+
+* Changed the puzzle to open the gate a bit
+  * Mechanically still the same
+  * Just looks a bit different
 
 ## tunnel2
 
