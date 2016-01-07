@@ -2,6 +2,20 @@
 
 * Added new map `office` to the beginning of the game
   * Mainly used to boot the story of the game
+  * Character models are still being worked on
+  * Carla is a man right now because why not
+  * You can't look around in the intro scene, but it's being worked on
+  * The intro scene controls are weird, we know
+  * The "cutscenes" are work in progress
+* Added voice acting for a bunch of characters
+  * Office workers in `office`
+  * Radio host in `office`
+  * Factory manager in `furnace`
+  * Worker trustee in `furnace`
+  * Payphone calls in `tower`
+  * Audio still needs to be normalized so that all voices are equally loud, but we're waiting until the rest of the VA is done before doing this
+  * VA for the boss and the player and the receptionist isn't in yet
+  * Lipsyncing isn't in yet
 * Added an option to the options menu to reset to the default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
 * Added a new achievement for repairing all the water flow meters
 * Added pickup, open and close sounds for geocaches
@@ -25,6 +39,8 @@
   * Changed the phone call in `tower` to be less terrible
   * Changed the phone call in `watertreatment` to be less terrible
   * Changed the payphone calls in `tower` to be less terrible
+  * Changed the logging office office monologue in `reserve1`
+  * Fixed grammar error in the the bolt cutter door monologue in `reserve1`
   * Fixed the phone call timings in `reserve1`
   * Fixed the monologue for water flow meters not being unique for each meter
   * Fixed capitalization in the `reserve2` funicular scream monologue
@@ -41,6 +57,7 @@
 * Changed the dust motes in the main menu
   * There are now dust motes everywhere the light hits, but more near the projector
   * The dust motes are a bit smaller and little less bright now
+* Changed fall damage to be a bit more harsh
 * Fixed cutscenes not transitioning to the proper FOV if the player has set his FOV to something else than 90
 * Fixed changing the FOV setting after dying and respawning
 * Fixed the player's collision bounds not updating after crouching
@@ -53,7 +70,6 @@
 * Fixed the `restart` console command not working properly in the main menu
 * Fixed sharp edges on the key icons in the options menu
 * Fixed flashlight shadow artifacts on objects with use highlights (issue [#58] (https://github.com/loiste-interactive/infra-issues/issues/58))
-* Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
 * Fixed flashlight shadow artifacts on dynamic props with a custom lighting origin
 
 ## reserve1
@@ -64,6 +80,7 @@
 * Fixed weird train behaviour when spamming the train signal while the train is approaching (issue [#219](https://github.com/loiste-interactive/infra-issues/issues/219))
 * Fixed an area portal not triggering under specific conditions (issue [#225](https://github.com/loiste-interactive/infra-issues/issues/225))
 * Fixed a couple of spots near the power plant where the player could get stuck (issue [#222](https://github.com/loiste-interactive/infra-issues/issues/222))
+* Fixed water near the clog only being visible from a certain angle (issue [#43](https://github.com/loiste-interactive/infra-issues/issues/43))
 
 ## reserve2
 
