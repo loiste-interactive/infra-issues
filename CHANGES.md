@@ -1,4 +1,4 @@
-# Next Update
+# January 8th 2016
 
 * Added new map `office` to the beginning of the game
   * Mainly used to boot the story of the game
@@ -13,7 +13,6 @@
   * Factory manager in `furnace`
   * Worker trustee in `furnace`
   * Payphone calls in `tower`
-  * Audio still needs to be normalized so that all voices are equally loud, but we're waiting until the rest of the VA is done before doing this
   * VA for the boss and the player and the receptionist isn't in yet
   * Lipsyncing isn't in yet
 * Added an option to the options menu to reset to the default controls (issue [#15] (https://github.com/loiste-interactive/infra-issues/issues/15))
@@ -90,7 +89,7 @@
 
 ## reserve3
 
-* Changed the puzzle to open the gate a bit
+* Changed the puzzle for opening the gate
   * Mechanically still the same
   * Just looks a bit different
 
