@@ -109,6 +109,7 @@
 * Added a puzzle to the alternative route
 * Added a possibility to either fix the smoking transformer or activate a fire alarm
 * Added more checkpoints (issue [#224] (https://github.com/loiste-interactive/infra-issues/issues/224))
+* Changed the end of the level
 * Changed the entrance of the forklift puzzle room
 * Changed some of the elements of the forklift puzzle
 * Changed the toilet poison puzzle valve location (issue [#221] (https://github.com/loiste-interactive/infra-issues/issues/221))
