@@ -24,7 +24,7 @@
 
 ## sewer
 
-* Fixed tranformers having erroneous labels (issue [#232] (https://github.com/loiste-interactive/infra-issues/issues/232))
+* Fixed transformers having erroneous labels (issue [#232] (https://github.com/loiste-interactive/infra-issues/issues/232))
 
 # January 8th 2016
 
