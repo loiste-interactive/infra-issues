@@ -3,8 +3,12 @@
 ## office
 
 * Changed the brightness of some interior spaces to be brighter
-* Fixed the strange lighting artifacts on the parking garage ramp
+* Fixed the strange lighting artifacts on the parking garage ramp (issue [#233] (https://github.com/loiste-interactive/infra-issues/issues/233))
 * Fixed plastic door being useable (issue [#230] (https://github.com/loiste-interactive/infra-issues/issues/230))
+
+## tower
+
+* Fixed monologue about exiting Stalburg Steel being triggered too early (issue [#231] (https://github.com/loiste-interactive/infra-issues/issues/231))
 
 # January 8th 2016
 
