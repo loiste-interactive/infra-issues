@@ -10,6 +10,10 @@
 * Fixed visible seam inside the elevators (issue [#237] (https://github.com/loiste-interactive/infra-issues/issues/237))
 * Fixed areaportal error near the IT-services (issue [#239] (https://github.com/loiste-interactive/infra-issues/issues/239))
 
+## tunnel1
+
+* Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
+
 ## tower
 
 * Fixed monologue about exiting Stalburg Steel being triggered too early (issue [#231] (https://github.com/loiste-interactive/infra-issues/issues/231))
