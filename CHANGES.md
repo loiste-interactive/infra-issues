@@ -1,3 +1,9 @@
+# In the next update
+
+## office
+
+* Changed the brightness of some interior spaces to be brighter
+
 # January 8th 2016
 
 * Added new map `office` to the beginning of the game
