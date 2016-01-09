@@ -10,6 +10,7 @@
 ## tower
 
 * Fixed monologue about exiting Stalburg Steel being triggered too early (issue [#231] (https://github.com/loiste-interactive/infra-issues/issues/231))
+* Fixed a certain phone call missing a line from the beginning (issue [#234] (https://github.com/loiste-interactive/infra-issues/issues/234))
 
 ## sewer
 
