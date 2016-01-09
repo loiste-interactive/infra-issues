@@ -1,4 +1,4 @@
-# In the next update (release?)
+# In the next update
 
 ## office
 
