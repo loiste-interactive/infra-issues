@@ -3,6 +3,7 @@
 ## office
 
 * Changed the brightness of some interior spaces to be brighter
+* Fixed the strange lighting artifacts on the parking garage ramp
 
 # January 8th 2016
 
