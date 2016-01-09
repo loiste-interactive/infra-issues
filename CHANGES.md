@@ -6,6 +6,7 @@
 * Changed the meeting room lighting to be better
 * Fixed the one frame jump glitch on the cutscene when exiting the meeting room
 * Fixed various door related issues (issue [#228] (https://github.com/loiste-interactive/infra-issues/issues/228) and [#230] (https://github.com/loiste-interactive/infra-issues/issues/230))
+* Fixed cubemap issues (issue [#229] (https://github.com/loiste-interactive/infra-issues/issues/229))
 * Fixed the strange lighting artifacts on the parking garage ramp (issue [#233] (https://github.com/loiste-interactive/infra-issues/issues/233))
 * Fixed visible seam inside the elevators (issue [#237] (https://github.com/loiste-interactive/infra-issues/issues/237))
 * Fixed areaportal error near the IT-services (issue [#239] (https://github.com/loiste-interactive/infra-issues/issues/239))
