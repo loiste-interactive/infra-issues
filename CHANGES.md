@@ -11,6 +11,10 @@
 
 * Fixed monologue about exiting Stalburg Steel being triggered too early (issue [#231] (https://github.com/loiste-interactive/infra-issues/issues/231))
 
+## sewer
+
+* Fixed tranformers having erroneous labels (issue [#232] (https://github.com/loiste-interactive/infra-issues/issues/232))
+
 # January 8th 2016
 
 * Added new map `office` to the beginning of the game
