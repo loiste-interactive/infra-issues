@@ -4,6 +4,7 @@
 
 * Changed the brightness of some interior spaces to be brighter
 * Fixed the strange lighting artifacts on the parking garage ramp
+* Fixed plastic door being useable (issue [#230] (https://github.com/loiste-interactive/infra-issues/issues/230))
 
 # January 8th 2016
 
