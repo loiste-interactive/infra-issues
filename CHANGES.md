@@ -13,6 +13,7 @@
 
 * Fixed monologue about exiting Stalburg Steel being triggered too early (issue [#231] (https://github.com/loiste-interactive/infra-issues/issues/231))
 * Fixed a certain payphone call missing a line from the beginning (issue [#234] (https://github.com/loiste-interactive/infra-issues/issues/234))
+* Fixed payphone buttons not playing button sound when used fast twice in a row (issue [#235] (https://github.com/loiste-interactive/infra-issues/issues/235))
 * Fixed payphone script error when trying to dial a phone number longer than 12 digits (issue [#236] (https://github.com/loiste-interactive/infra-issues/issues/236))
 
 ## sewer
