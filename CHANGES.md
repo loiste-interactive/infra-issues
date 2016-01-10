@@ -5,6 +5,7 @@
   * Especially a problem in `office`
 * Fixed camera flicker for one frame at the end of every "cutscene"
   * Affected both `office` and `reserve1`
+* Fixed the shadows for hint messages and subtitles getting cut off from the bottom
 
 ## office
 
