@@ -22,6 +22,10 @@
 * Fixed payphone buttons not playing button sound when used fast twice in a row (issue [#235] (https://github.com/loiste-interactive/infra-issues/issues/235))
 * Fixed payphone script error when trying to dial a phone number longer than 12 digits (issue [#236] (https://github.com/loiste-interactive/infra-issues/issues/236))
 
+## watertreatment
+
+* Changed some interior spaces to be more detailed 
+
 ## sewer
 
 * Fixed transformers having erroneous labels (issue [#232] (https://github.com/loiste-interactive/infra-issues/issues/232))
