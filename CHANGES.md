@@ -1,8 +1,11 @@
 # In the Next Update
 
+* Fixed depth buffer related problem with a certain bulletin board model (issue [#238] (https://github.com/loiste-interactive/infra-issues/issues/238))
+
 ## office
 
 * Changed the brightness of some interior spaces to be brighter
+* Changed some interior spaces to be more detailed 
 * Changed the meeting room lighting to be better
 * Fixed the one frame jump glitch on the cutscene when exiting the meeting room
 * Fixed various door related issues (issue [#228] (https://github.com/loiste-interactive/infra-issues/issues/228) and [#230] (https://github.com/loiste-interactive/infra-issues/issues/230))
