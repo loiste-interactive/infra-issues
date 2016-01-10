@@ -1,10 +1,12 @@
 # In the Next Update
 
 * Fixed depth buffer related problem with a certain bulletin board model (issue [#238] (https://github.com/loiste-interactive/infra-issues/issues/238))
+* Fixed player flashlight becoming enabled after death if it was previously disabled
+  * Especially a problem in `office`
 
 ## office
 
-* Addeds textures to untextured models
+* Added textures to untextured models
 * Changed the brightness of some interior spaces to be brighter
 * Changed some interior spaces to be more detailed 
 * Changed the meeting room lighting to be better
