@@ -105,6 +105,7 @@
 * Fixed sharp edges on the key icons in the options menu
 * Fixed flashlight shadow artifacts on objects with use highlights (issue [#58] (https://github.com/loiste-interactive/infra-issues/issues/58))
 * Fixed flashlight shadow artifacts on dynamic props with a custom lighting origin
+* Fixed the terrible bolt cutter sound
 
 ## reserve1
 
