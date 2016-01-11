@@ -1,5 +1,6 @@
 # In the Next Update
 
+* Changed textures of all the newspapers to be better
 * Fixed depth buffer related problem with a certain bulletin board model (issue [#238] (https://github.com/loiste-interactive/infra-issues/issues/238))
 * Fixed player flashlight becoming enabled after death if it was previously disabled
   * Especially a problem in `office`
