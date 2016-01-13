@@ -46,6 +46,14 @@
 
 * Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
 
+## tunnel3
+
+* Added more autosaves to the raft ride (issue [#260] (https://github.com/loiste-interactive/infra-issues/issues/260))
+* 
+## tunnel4
+
+* Added more autosaves to the raft ride (issue [#260] (https://github.com/loiste-interactive/infra-issues/issues/260))
+
 ## furnace
 
 * Fixed a specific door not unlocking unless looking at a specific spot (issue [#252] (https://github.com/loiste-interactive/infra-issues/issues/252))
