@@ -46,6 +46,8 @@
 ## furnace
 
 * Fixed a specific door not unlocking unless looking at a specific spot (issue [#252] (https://github.com/loiste-interactive/infra-issues/issues/252))
+* Fixed some minor lighting issues (issue [#253] (https://github.com/loiste-interactive/infra-issues/issues/253))
+* Fixed barrels being able to block the entrance to the fuse room (issue [#253] (https://github.com/loiste-interactive/infra-issues/issues/253))
 
 ## tower
 
