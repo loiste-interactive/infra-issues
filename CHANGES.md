@@ -49,7 +49,7 @@
 ## tunnel3
 
 * Added more autosaves to the raft ride (issue [#260] (https://github.com/loiste-interactive/infra-issues/issues/260))
-* 
+
 ## tunnel4
 
 * Added more autosaves to the raft ride (issue [#260] (https://github.com/loiste-interactive/infra-issues/issues/260))
