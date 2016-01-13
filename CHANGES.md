@@ -1,6 +1,14 @@
 # In the Next Update
 
-* Changed textures of all the newspapers to be better
+* Changed the textures of all the newspapers
+  * The articles have been rewritten from scratch
+  * The dates on the newspapers have been fixed
+  * The newspapers now have a distinct appearance depending on when the issue came out
+* Changed all of the generic character models
+  * They now use a single model for males and a single model for females
+  * Facial features are randomized using flex animation
+  * Lag spikes when NPCs spawn should be gone – randomization system no longer creates multiple `material_modify_control` entities for each NPC
+  * Textures have been updated
 * Fixed depth buffer related problem with a certain bulletin board model (issue [#238] (https://github.com/loiste-interactive/infra-issues/issues/238))
 * Fixed player flashlight becoming enabled after death if it was previously disabled
   * Especially a problem in `office`
@@ -20,10 +28,24 @@
 * Fixed the strange lighting artifacts on the parking garage ramp (issue [#233] (https://github.com/loiste-interactive/infra-issues/issues/233))
 * Fixed visible seam inside the elevators (issue [#237] (https://github.com/loiste-interactive/infra-issues/issues/237))
 * Fixed areaportal error near the IT-services (issue [#239] (https://github.com/loiste-interactive/infra-issues/issues/239))
+* Fixed player being able to clip through the elevator door if he gets in the way as it's closing (issue [#245] (https://github.com/loiste-interactive/infra-issues/issues/245))
+* Fixed an out of bounds error (issue [#246] (https://github.com/loiste-interactive/infra-issues/issues/246))
+* Fixed a missing player clip from certain stairs (issue [#247] (https://github.com/loiste-interactive/infra-issues/issues/247))
+
+## reserve1
+
+* Fixed the first document being hard to read since it was so dark (issue [#251] (https://github.com/loiste-interactive/infra-issues/issues/251))
+* Fixed signal box playing click sound on use even when "block reserved" is active (issue [#250] (https://github.com/loiste-interactive/infra-issues/issues/250))
+* Fixed a poor player clip on certain stairs (issue [#249] (https://github.com/loiste-interactive/infra-issues/issues/249))
+* Fixed logging office door missing animations (issue [#248] (https://github.com/loiste-interactive/infra-issues/issues/248))
 
 ## tunnel1
 
 * Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
+
+## furnace
+
+* Fixed a specific door not unlocking unless looking at a specific spot (issue [#252] (https://github.com/loiste-interactive/infra-issues/issues/252))
 
 ## tower
 
