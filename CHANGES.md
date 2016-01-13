@@ -71,8 +71,8 @@
 
 * Changed some interior spaces to be more detailed 
 * Changed some of the never openeable doors to static props
-* Fixed strange floating face on the edge of the secondary cralifier
 * Fixed missing decals
+* Fixed strange floating face on the edge of the secondary cralifier
 * Fixed a flickering window when exiting the tunnel (issue [#261] (https://github.com/loiste-interactive/infra-issues/issues/261))
 
 ## sewer
