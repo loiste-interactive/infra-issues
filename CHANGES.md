@@ -15,6 +15,9 @@
 * Fixed camera flicker for one frame at the end of every "cutscene"
   * Affected both `office` and `reserve1`
 * Fixed the shadows for hint messages and subtitles getting cut off from the bottom
+* Fixed the player talking over himself
+  * Monologue previously interrupted scripted scenes and other monologue
+  * The player will now be quiet if he's in the middle of a scripted scene or if he's already speaking a monologue
 
 ## office
 
