@@ -21,6 +21,7 @@
 
 ## office
 
+* Added player view control to the starting scene
 * Added textures to untextured models
 * Changed the brightness of some interior spaces to be brighter
 * Changed some interior spaces to be more detailed 
