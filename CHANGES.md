@@ -48,6 +48,10 @@
 
 * Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
 
+## tunnel1
+
+* Fixed the phonecall starting at the wrong time
+
 ## tunnel3
 
 * Added more autosaves to the raft ride (issue [#260] (https://github.com/loiste-interactive/infra-issues/issues/260))
