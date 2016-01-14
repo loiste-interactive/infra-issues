@@ -22,6 +22,7 @@
 * Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
 * Fixed phone call scripts on `reserve2` and `watertreatment` breaking if restarting the level when there is no saved game
 * Fixed flashlight viewmodel sometimes not being set if restarting the level when there is no saved game
+* Fixed crash if restarting the level without a saved game in the middle of deploying or holstering the camera
 
 ## office
 
