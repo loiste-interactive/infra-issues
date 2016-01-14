@@ -1,4 +1,4 @@
-# In the Next Update
+# In the Release
 
 * Changed the Hartmann tapes and the `furnace` announcements and the `tower` payphone calls to sound distorted
 * Changed the textures of all the newspapers
