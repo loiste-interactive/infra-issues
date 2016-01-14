@@ -2,7 +2,7 @@
 
 * Added new achievements
   * A Bad Case of the Mondays – at the office, jump down from the 8th or 7th floor
-  * Smooth Operator – get back underground without disrupting the operation of the pumping station
+  * Better than Before – fix the problems at the pumping station and get back underground without disrupting the operation
   * Not So Fresh Water – analyze a water sample at the Pitheath Water Treatment Plant
   * Demolitionist – make your own tunnel in the Bergmann water tunnels
   * Sneaky – get through the hacker den without triggering any of the alarms
