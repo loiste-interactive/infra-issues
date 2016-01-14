@@ -18,6 +18,7 @@
 * Fixed the player talking over himself
   * Monologue previously interrupted scripted scenes and other monologue
   * The player will now be quiet if he's in the middle of a scripted scene or if he's already speaking a monologue
+* Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
 
 ## office
 
