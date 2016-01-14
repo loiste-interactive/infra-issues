@@ -42,6 +42,7 @@
 * Fixed player being able to clip through the elevator door if he gets in the way as it's closing (issue [#245] (https://github.com/loiste-interactive/infra-issues/issues/245))
 * Fixed an out of bounds error (issue [#246] (https://github.com/loiste-interactive/infra-issues/issues/246))
 * Fixed a missing player clip from certain stairs (issue [#247] (https://github.com/loiste-interactive/infra-issues/issues/247))
+* Fixed bad soundscapes (issue [#263] (https://github.com/loiste-interactive/infra-issues/issues/263))
 
 ## reserve1
 
