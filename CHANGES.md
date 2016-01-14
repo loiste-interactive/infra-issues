@@ -21,6 +21,7 @@
   * The player will now be quiet if he's in the middle of a scripted scene or if he's already speaking a monologue
 * Fixed door animations breaking after player death (issue [#178] (https://github.com/loiste-interactive/infra-issues/issues/178))
 * Fixed phone call scripts on `reserve2` and `watertreatment` breaking if restarting the level when there is no saved game
+* Fixed the phone call scripts on `reserve2` and `watertreatment` breaking if dying prior to reaching them
 * Fixed flashlight viewmodel sometimes not being set if restarting the level when there is no saved game
 * Fixed crash if restarting the level without a saved game in the middle of deploying or holstering the camera
 
