@@ -96,6 +96,7 @@
 
 ## watertreatment
 
+* Added working light switches to the old office
 * Changed some interior spaces to be more detailed 
 * Changed some of the never openeable doors to static props
 * Fixed missing decals
