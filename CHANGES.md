@@ -1,5 +1,6 @@
 # In the Next Update
 
+* Changed the Hartmann tapes and the `furnace` announcements and the `tower` payphone calls to sound distorted
 * Changed the textures of all the newspapers
   * The articles have been rewritten from scratch
   * The dates on the newspapers have been fixed
