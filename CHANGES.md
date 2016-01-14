@@ -23,6 +23,7 @@
 
 * Added player view control to the starting scene
 * Added textures to untextured models
+* Changed Carla to be a woman
 * Changed the brightness of some interior spaces to be brighter
 * Changed some interior spaces to be more detailed 
 * Changed the meeting room lighting to be better
