@@ -54,8 +54,11 @@
 
 * Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
 
-## tunnel1
+## tunnel2
 
+* Added useable lights to the control room
+* Added useable fire alarm to the control room
+* Changed the "fix all" -achievement logics
 * Fixed the phonecall starting at the wrong time
 
 ## tunnel3
