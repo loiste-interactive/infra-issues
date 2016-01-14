@@ -1,5 +1,13 @@
 # In the Release Version
 
+* Added new achievements
+  * A Bad Case of the Mondays – at the office, jump down from the 8th or 7th floor
+  * Smooth Operator – get back underground without disrupting the operation of the pumping station
+  * Not So Fresh Water – analyze a water sample at the Pitheath Water Treatment Plant
+  * Demolitionist – make your own tunnel in the Bergmann water tunnels
+  * Sneaky – get through the hacker den without triggering any of the alarms
+  * The End? – complete INFRA: Part 1
+  * Also 6 secret achievements!
 * Changed the Hartmann tapes and the `furnace` announcements and the `tower` payphone calls to sound distorted
 * Changed the textures of all the newspapers
   * The articles have been rewritten from scratch
@@ -53,7 +61,7 @@
 
 ## reserve3
 
-* Added useable lights to the control room
+* Added working light switches to the control room
 
 ## tunnel1
 
@@ -61,10 +69,9 @@
 
 ## tunnel2
 
-* Added useable lights to the control room
-* Added useable fire alarm to the control room
-* Changed the "fix all" -achievement logics
-* Fixed the phonecall starting at the wrong time
+* Added working light switches to the control room
+* Added a working fire alarm to the control room
+* Changed the phone call to start once the player is inside the facility
 
 ## tunnel3
 
