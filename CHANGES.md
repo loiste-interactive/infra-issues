@@ -50,6 +50,10 @@
 * Fixed a poor player clip on certain stairs (issue [#249] (https://github.com/loiste-interactive/infra-issues/issues/249))
 * Fixed logging office door missing animations (issue [#248] (https://github.com/loiste-interactive/infra-issues/issues/248))
 
+## reserve3
+
+* Added useable lights to the control room
+
 ## tunnel1
 
 * Fixed corruption document being unphotographable (issue [#242] (https://github.com/loiste-interactive/infra-issues/issues/242))
