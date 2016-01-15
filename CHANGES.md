@@ -62,6 +62,7 @@
 ## reserve3
 
 * Added working light switches to the control room
+* Fixed computer missing use highlights (issue [#255] (https://github.com/loiste-interactive/infra-issues/issues/255))
 
 ## tunnel1
 
