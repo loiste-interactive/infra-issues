@@ -1,4 +1,19 @@
-# January 15th 2016 (Release 1.0)
+# In the Next Update (Release 1.0.1)
+
+## office
+
+* Fixed parking garage cutscene not triggering if the garage was visited prior to picking up the keys from the reception
+* Fixed a woman sitting in the atrium having broken animations
+
+## sewer
+
+* Fixed crash when transitioning from watertreatment (issue [#270] (https://github.com/loiste-interactive/infra-issues/issues/270))
+  * Was caused by game running out of memory
+   * Removed radio music from the hacker den
+   * Removed the random walking civilians
+* Fixed achievement 'sneaky' being impossible to obtain without prior knowledge of the map
+
+# January 15th 2016 (Release 1.0.0)
 
 * Added pre-built sound caches (issue [#84] (https://github.com/loiste-interactive/infra-issues/issues/84))
 * Added the rest of the voice acting
