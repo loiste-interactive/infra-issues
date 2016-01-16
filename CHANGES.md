@@ -1,5 +1,6 @@
 # January 15th 2016 (Release 1.0)
 
+* Added the rest of the voice acting
 * Added new achievements
   * A Bad Case of the Mondays – at the office, jump down from the 8th or 7th floor
   * Better than Before – fix the problems at the pumping station and get back underground without disrupting the operation
