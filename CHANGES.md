@@ -5,9 +5,19 @@
 * Fixed parking garage cutscene not triggering if the garage was visited prior to picking up the keys from the reception
 * Fixed a woman sitting in the atrium having broken animations
 
+## reserve1
+
+* Fixed level missing a level change back to `office` causing possible crashes
+  * A deactived level change has been added 
+
+## tower
+
+* Fixed level missing a level change back to `furnace` causing possible crashes
+  * A deactived level change has been added 
+
 ## sewer
 
-* Fixed achievement `Sneaky` being impossible to obtain without prior knowledge of the map
+* Fixed achievement `Sneaky` being impossible to obtain without prior knowledge of the level
 * Fixed crash when transitioning from watertreatment (issue [#270] (https://github.com/loiste-interactive/infra-issues/issues/270))
   * Was caused by game running out of memory
     * Removed radio music from the hacker den
