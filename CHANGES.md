@@ -32,7 +32,7 @@
     * Removed radio music from the hacker den
     * Removed the random walking civilians
 
-# January 16th 2016 (Release 1.0.1)
+# January 16th 2016 (Version 1.0.1)
 
 ## reserve2
 
