@@ -1,4 +1,4 @@
-# In the Next Update (Release 1.0.1)
+# In the Next Update (Version 1.0.1)
 
 ## office
 
