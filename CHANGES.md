@@ -15,6 +15,10 @@
 * Fixed level missing a level change back to `furnace` causing possible crashes
   * A deactived level change has been added 
 
+## watertreatment
+
+* Fixed inccorect map texture in the lab (issue [#264] (https://github.com/loiste-interactive/infra-issues/issues/264))
+
 ## sewer
 
 * Fixed achievement `Sneaky` being impossible to obtain without prior knowledge of the level
