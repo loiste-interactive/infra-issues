@@ -7,11 +7,11 @@
 
 ## sewer
 
+* Fixed achievement `sneaky` being impossible to obtain without prior knowledge of the map
 * Fixed crash when transitioning from watertreatment (issue [#270] (https://github.com/loiste-interactive/infra-issues/issues/270))
   * Was caused by game running out of memory
     * Removed radio music from the hacker den
     * Removed the random walking civilians
-* Fixed achievement `sneaky` being impossible to obtain without prior knowledge of the map
 
 # January 15th 2016 (Release 1.0.0)
 
