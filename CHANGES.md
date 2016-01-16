@@ -1,4 +1,4 @@
-# In the Next Update (Version 1.0.1)
+# In the Next Update (Version 1.0.2)
 
 ## office
 
@@ -31,6 +31,12 @@
   * Was caused by game running out of memory
     * Removed radio music from the hacker den
     * Removed the random walking civilians
+
+# January 16th 2016 (Release 1.0.1)
+
+## reserve2
+
+* Fixed problem with level change to `reserve3`
 
 # January 15th 2016 (Release 1.0.0)
 
