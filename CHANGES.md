@@ -1,5 +1,6 @@
 # January 15th 2016 (Release 1.0)
 
+* Added pre-built sound caches (issue [#84] (https://github.com/loiste-interactive/infra-issues/issues/84))
 * Added the rest of the voice acting
 * Added new achievements
   * A Bad Case of the Mondays – at the office, jump down from the 8th or 7th floor
