@@ -8,7 +8,11 @@
 ## reserve1
 
 * Fixed level missing a level change back to `office` causing possible crashes
-  * A deactived level change has been added 
+  * A deactived level change has been added
+
+## reserve3
+
+* Fixed the hidden stash firing a wrong achievement when opened
 
 ## tower
 
