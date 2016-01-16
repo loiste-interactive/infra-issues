@@ -16,6 +16,7 @@
 
 ## tower
 
+* Fixed missing subtitles
 * Fixed level missing a level change back to `furnace` causing possible crashes
   * A deactived level change has been added 
 
