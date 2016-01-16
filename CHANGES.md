@@ -1,4 +1,4 @@
-# In the Release Version
+# January 15th 2016 (Release 1.0)
 
 * Added new achievements
   * A Bad Case of the Mondays – at the office, jump down from the 8th or 7th floor
@@ -35,6 +35,7 @@
 
 ## office
 
+* Added sound when picking up the flashlight
 * Added textures to untextured models
 * Changed the intro scene so that you can look around
 * Changed Carla to be a woman
