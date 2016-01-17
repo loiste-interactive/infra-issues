@@ -17,7 +17,7 @@
 ## tunnel4
 
 * Fixed a newspaper being unphotographable
-* Fixed corruption document in the small office being unphotographable
+* Fixed a corruption document in the small office being unphotographable
 
 ## tower
 
