@@ -1,9 +1,10 @@
-# In the next update (Version 1.0.4)
+# January 18th 2016 (Version 1.0.4)
 
 ## office
 
 * Fixed achievement `Bad Case of the Mondays` being impossible to obtain
-
+* Fixed "skip the meeting" -hint apperaring after exiting the meeting room (issue [#281] (https://github.com/loiste-interactive/infra-issues/issues/281))
+* 
 ## reserve1
 
 * Fixed random floating doors under the bridge when transitioning from `office` (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
