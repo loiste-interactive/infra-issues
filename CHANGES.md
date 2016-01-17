@@ -14,6 +14,11 @@
 
 * Fixed the hidden stash firing a wrong achievement when opened
 
+## tunnel4
+
+* Fixed a newspaper being unphotographable
+* Fixed corruption document in the small office being unphotographable
+
 ## tower
 
 * Fixed missing subtitles
