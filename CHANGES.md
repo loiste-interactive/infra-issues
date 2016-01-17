@@ -1,3 +1,14 @@
+In the next update (Version 1.0.3)
+
+## office
+
+* Fixed achievement ´Bad Case of the Mondays´ being impossible to obtain
+
+## reserve1
+
+* Fixed player spawning without his flashlight and camera (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
+* Fixed random floating doors under the bridge when transitioning from `office` (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
+
 # January 17th 2016 (Version 1.0.2)
 
 ## office
