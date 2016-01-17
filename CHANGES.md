@@ -10,7 +10,8 @@
 
 # January 17th 2016 (Version 1.0.3)
 
-* Added a missign person to the credits
+* Added a missing person to the credits
+* Changed character model rigging
 * Fixed continue-button being broken if you started a game and revisited the menu
 
 ## reserve1
