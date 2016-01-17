@@ -1,4 +1,4 @@
-# In the Next Update (Version 1.0.2)
+# January 17th 2016 (Version 1.0.2)
 
 ## office
 
