@@ -1,4 +1,4 @@
-# In the next update (Version 1.0.3)
+# In the next update (Version 1.0.4)
 
 ## office
 
@@ -6,8 +6,17 @@
 
 ## reserve1
 
-* Fixed player spawning without his flashlight and camera (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
 * Fixed random floating doors under the bridge when transitioning from `office` (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
+
+# January 17th 2016 (Version 1.0.3)
+
+* Added a missign person to the credits
+* Fixed continue-button being broken if you started a game and revisited the menu
+
+## reserve1
+
+* Fixed zoom being unusable
+* Fixed player spawning without his flashlight and camera (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
 
 # January 17th 2016 (Version 1.0.2)
 
