@@ -2,7 +2,7 @@
 
 ## office
 
-* Fixed achievement ´Bad Case of the Mondays´ being impossible to obtain
+* Fixed achievement `Bad Case of the Mondays` being impossible to obtain
 
 ## reserve1
 
