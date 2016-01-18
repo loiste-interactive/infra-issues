@@ -1,18 +1,25 @@
 # January 19th 2016 (Version 1.0.5)
 
-* Fixed dialogue and monologue stopping playing after a certain point
-* Fixed missing subtitles in several places
+* Fixed dialogue and monologue stopping playing after a certain point (issue [#288] (https://github.com/loiste-interactive/infra-issues/issues/288))
 
 ## tunnel3
 
 * Fixed player getting stuck inside the big pipe when transitioning from `tunnel2`
+
+## tower
+
+* Fixed missing subtitles from a certain payphone call
+
+## watertreatment
+
+* Fixed missing subtitles from the phone call
 
 # January 18th 2016 (Version 1.0.4)
 
 ## office
 
 * Fixed achievement `Bad Case of the Mondays` being impossible to obtain
-* Fixed "skip the meeting" -hint apperaring after exiting the meeting room (issue [#281] (https://github.com/loiste-interactive/infra-issues/issues/281))
+* Fixed "skip the meeting" hint appearing after exiting the meeting room (issue [#281] (https://github.com/loiste-interactive/infra-issues/issues/281))
 
 ## reserve1
 
@@ -20,13 +27,13 @@
 
 # January 17th 2016 (Version 1.0.3)
 
-* Added a missing person to the credits
-* Changed character model rigging
-* Fixed continue-button being broken if you started a game and revisited the menu
+* Fixed a voice actor missing from the credits
+* Fixed some visible seams in the character models
+* Fixed the "continue" button in the main menu after starting a game and then returning to the menu
 
 ## reserve1
 
-* Fixed zoom being unusable
+* Fixed player zoom 
 * Fixed player spawning without his flashlight and camera (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
 
 # January 17th 2016 (Version 1.0.2)
@@ -35,44 +42,41 @@
 
 * Fixed parking garage cutscene not triggering if the garage was visited prior to picking up the keys from the reception
 * Fixed a woman sitting in the atrium having broken animations
+* Changed the "skip" option in the intro so that the hint message isn't displayed until later
 
 ## reserve1
 
-* Fixed level missing a level change back to `office` causing possible crashes
-  * A deactived level change has been added
+* Fixed black screen on some systems when transitioning from `office` to `reserve1`
 
 ## reserve3
 
-* Fixed the hidden stash firing a wrong achievement when opened
+* Fixed the hidden stash firing wrong achievement when opened
 
 ## tunnel4
 
 * Fixed a newspaper being unphotographable
 * Fixed a corruption document in the small office being unphotographable
+* Fixed certain missing subtitles
 
 ## tower
 
-* Fixed missing subtitles
-* Fixed level missing a level change back to `furnace` causing possible crashes
-  * A deactived level change has been added 
+* Fixed certain missing subtitles
+* Fixed black screen on some systems when transitioning from `furnace` to `tower` 
 
 ## watertreatment
 
-* Fixed inccorect map texture in the lab (issue [#264] (https://github.com/loiste-interactive/infra-issues/issues/264))
+* Fixed incorrect map texture in the lab (issue [#264] (https://github.com/loiste-interactive/infra-issues/issues/264))
 
 ## sewer
 
-* Fixed achievement `Sneaky` being impossible to obtain without prior knowledge of the level
-* Fixed crash when transitioning from watertreatment (issue [#270] (https://github.com/loiste-interactive/infra-issues/issues/270))
-  * Was caused by game running out of memory
-    * Removed radio music from the hacker den
-    * Removed the random walking civilians
+* Fixed "Sneaky" achievement being impossible to obtain without prior knowledge of the level
 
 # January 16th 2016 (Version 1.0.1)
 
 ## reserve2
 
 * Fixed problem with level change to `reserve3`
+* Fixed missing music from the Hartmann tape scene
 
 # January 15th 2016 (Release 1.0.0)
 
