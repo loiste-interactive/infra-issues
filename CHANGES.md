@@ -22,6 +22,10 @@
 
 * Fixed missing subtitles from the phone call
 
+## sewer
+
+* Fixed a missing door
+
 # January 18th 2016 (Version 1.0.4)
 
 ## office
