@@ -1,6 +1,6 @@
 # In the Next Update (Version 1.1.0)
 
-* Split `sewer` level in two. The ending sequence is now a new level called `sewer2`
+* Split `sewer` level in half. The ending sequence is now a new level called `sewer2`
 
 ## tunnel3
 
