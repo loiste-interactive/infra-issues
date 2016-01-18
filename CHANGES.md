@@ -1,10 +1,18 @@
+# In the Next Update (Version 1.1.0)
+
+* Split `sewer` level in two. The ending sequence is now a new map called `sewer2`
+
+## sewer
+
+* Fixed missing door (issue [#285] (https://github.com/loiste-interactive/infra-issues/issues/285))
+
 # January 18th 2016 (Version 1.0.4)
 
 ## office
 
 * Fixed achievement `Bad Case of the Mondays` being impossible to obtain
 * Fixed "skip the meeting" -hint apperaring after exiting the meeting room (issue [#281] (https://github.com/loiste-interactive/infra-issues/issues/281))
-* 
+
 ## reserve1
 
 * Fixed random floating doors under the bridge when transitioning from `office` (issue [#280] (https://github.com/loiste-interactive/infra-issues/issues/280))
