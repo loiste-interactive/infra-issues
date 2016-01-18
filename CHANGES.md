@@ -1,14 +1,11 @@
-# In the Next Update (Version 1.1.0)
+# January 19th 2016 (Version 1.0.5)
 
-* Split `sewer` level in half. The ending sequence is now a new level called `sewer2`
+* Fixed dialogue and monologue stopping playing after a certain point
+* Fixed missing subtitles in several places
 
 ## tunnel3
 
 * Fixed player getting stuck inside the big pipe when transitioning from `tunnel2`
-
-## sewer
-
-* Fixed missing door (issue [#285] (https://github.com/loiste-interactive/infra-issues/issues/285))
 
 # January 18th 2016 (Version 1.0.4)
 
