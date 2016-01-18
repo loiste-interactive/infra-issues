@@ -6,8 +6,13 @@
 
 * Fixed player getting stuck inside the big pipe when transitioning from `tunnel2`
 
+## furnace
+
+* Fixed a missing subtitle from the first announcement
+
 ## tower
 
+* Fixed incorrect subtitles in the phone call to boss
 * Fixed missing subtitles from a certain payphone call
 
 ## watertreatment
