@@ -2,6 +2,10 @@
 
 * Split `sewer` level in two. The ending sequence is now a new level called `sewer2`
 
+## tunnel3
+
+* Fixed player getting stuck inside the big pipe when transitioning from `tunnel2`
+
 ## sewer
 
 * Fixed missing door (issue [#285] (https://github.com/loiste-interactive/infra-issues/issues/285))
