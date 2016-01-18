@@ -1,5 +1,6 @@
 # January 19th 2016 (Version 1.0.5)
 
+* Fixed a crash when transitioning from `watertreatment` to `sewer`
 * Fixed dialogue and monologue stopping playing after a certain point (issue [#288] (https://github.com/loiste-interactive/infra-issues/issues/288))
 * Fixed a rare crash when transitioning from `office` to `reserve1`
 * Removed a bunch of Miles Sound System files that were shipped by mistake
