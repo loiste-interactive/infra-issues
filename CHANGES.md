@@ -18,7 +18,7 @@
 
 ## office
 
-* Fixed achievement `Bad Case of the Mondays` being impossible to obtain
+* Fixed achievement `Bad Case of the Mondays` not triggering
 * Fixed "skip the meeting" hint appearing after exiting the meeting room (issue [#281] (https://github.com/loiste-interactive/infra-issues/issues/281))
 
 ## reserve1
