@@ -5,7 +5,7 @@
 * Added floor numbers near the elevators
 * Added a few notes to help guide the player better
 * Changed some doors to help guide the player better
-* Changed the meeting timings a bit
+* Changed the meeting sequence timings a bit
 
 # January 19th 2016 (Version 1.0.5)
 
