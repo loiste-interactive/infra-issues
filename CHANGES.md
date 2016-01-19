@@ -5,6 +5,10 @@
 
 ## office
 
+* Added hints to guide the player
+   * Added use hint when getting close to the first passable door with a keycard reader
+   * Added zoom hint when entering the atrium the first time
+   * Added crouch hint when the elevator stops
 * Added floor numbers near the elevators
 * Added a few notes to help guide the player better
 * Changed some doors to help guide the player better
