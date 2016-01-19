@@ -11,10 +11,6 @@
 
 * Fixed player getting stuck inside the big pipe when transitioning from `tunnel2`
 
-## tunnel4
-
-* Fixed certain keys not spawning to the dynamite storage
-
 ## furnace
 
 * Fixed a missing subtitle from the first announcement
