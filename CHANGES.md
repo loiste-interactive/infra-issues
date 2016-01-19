@@ -1,3 +1,11 @@
+# In the Next Update (Version 1.0.6)
+
+## office
+
+* Added floor numbers near the elevators
+* Added a few notes to help guide the player better
+* Changed some doors to help guide the player better
+
 # January 19th 2016 (Version 1.0.5)
 
 * Fixed a crash when transitioning from `watertreatment` to `sewer`
