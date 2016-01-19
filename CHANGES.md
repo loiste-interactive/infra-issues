@@ -1,5 +1,8 @@
 # In the Next Update (Version 1.0.6)
 
+* Fixed Xbox 360 controller not working without configuration
+* Fixed camera equip hints never being displayed
+
 ## office
 
 * Added floor numbers near the elevators
