@@ -25,6 +25,7 @@
 ## office
 
 * Added conversations for the groups of three in the 7th floor corridor and in the atrium
+* Added use highlights for the company car
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
 
