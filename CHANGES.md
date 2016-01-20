@@ -16,6 +16,10 @@
 * Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
 
+## watertreatment
+
+* Fixed misleading grit classifier note
+
 ## sewer
 
 * Changed unreachable geocache location (issue [#311]
