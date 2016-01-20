@@ -28,9 +28,9 @@
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
 
-## reserve 1
+## reserve1
 
-* Added few extra batteries
+* Added a few extra batteries
 * Changed train brake sounds (issue [#259]
 (https://github.com/loiste-interactive/infra-issues/issues/259))
 * Fixed leaking displacement (issue [#301]
