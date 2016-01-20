@@ -1,8 +1,9 @@
 # In the Next Update (Version 1.0.7)
 
-* Fixed being able to rebind keyboard keys to the controller in the options menu
+* Fixed the binding for skipping the intro missing from the options menu
+* Fixed being able to rebind keys to the controller in the options menu
   * The controls menu is intended for keyboard & mouse only
-* Fixed sprint button missing from the controller
+* Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
 
 # January 20th 2016 (Version 1.0.6)
