@@ -19,6 +19,8 @@
   * The controls menu is intended for keyboard & mouse only
 * Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
+* Fixed the reload button not being bound on the controller
+  * It's now bound to the Y button
 
 ## office
 
