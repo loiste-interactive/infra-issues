@@ -21,11 +21,11 @@
 
 ## reserve 1
 
+* Added few extra batteries
 * Changed train brake sounds (issue [#259]
 (https://github.com/loiste-interactive/infra-issues/issues/259))
 * Fixed leaking displacement (issue [#301]
 (https://github.com/loiste-interactive/infra-issues/issues/301))
-* Added few extra batteries
 
 ## watertreatment
 
