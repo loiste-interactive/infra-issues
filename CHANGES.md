@@ -1,6 +1,7 @@
 # January 20th 2016 (Version 1.0.6)
 
-* Fixed Xbox 360 controller not working out of the box – reset to default controls from settings for this to take effect 
+* Fixed Xbox 360 controller not working out of the box
+  * Reset to default controls from settings for this to take effect 
 * Fixed camera equip hints never being displayed
 
 ## office
