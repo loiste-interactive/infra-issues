@@ -1,4 +1,4 @@
-# In the Next Update (Version 1.0.6)
+# January 20th 2016 (Version 1.0.6)
 
 * Fixed Xbox 360 controller not working out of the box
 * Fixed camera equip hints never being displayed
