@@ -1,8 +1,10 @@
 # In the Next Update (Version 1.0.7)
 
-* Added mouse button icons for hints
 * Added "show hints" option to the options menu
 * Added "invert mouse" option to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/274))
+* Changed mouse button text to icons in hints
+* Changed the camera hint to hide when no longer looking at a camera target
+* Changed the camera hint not to be displayed after a while if the player ignores it
 * Fixed achievements not unlocking after loading a saved game from the main menu (issue [#276](https://github.com/loiste-interactive/infra-issues/issues/276))
 * Fixed being able to get stuck on a black screen when something goes wrong (level transition errors, etc.)
   * The game will now always throw you into the main menu instead
