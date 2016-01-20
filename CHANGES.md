@@ -2,9 +2,10 @@
 
 * Added "show hints" option to the options menu
 * Added "invert mouse" option to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/274))
-* Changed mouse button text to icons in hints
+* Changed hints to use mouse icons instead of text for the binding
 * Changed the camera hint to hide when no longer looking at a camera target
 * Changed the camera hint not to be displayed after a while if the player ignores it
+* Fixed missing hint icons for the Xbox 360 controller (issue [#307](https://github.com/loiste-interactive/infra-issues/issues/307))
 * Fixed achievements not unlocking after loading a saved game from the main menu (issue [#276](https://github.com/loiste-interactive/infra-issues/issues/276))
 * Fixed being able to get stuck on a black screen when something goes wrong (level transition errors, etc.)
   * The game will now always throw you into the main menu instead
@@ -14,7 +15,7 @@
 * Fixed intro controls breaking if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
 * Fixed player view starting underground if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
 * Fixed the binding for skipping the intro missing from the options menu
-* Fixed being able to rebind keys to the controller in the options menu
+* Fixed being able to rebind keys to a controller in the options menu
   * The controls menu is intended for keyboard & mouse only
 * Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
