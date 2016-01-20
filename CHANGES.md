@@ -19,6 +19,12 @@
 * Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
 
+## reserve 1
+
+* Changed train brake sounds [#259]
+* Fixed leaking displacement [#301]
+* Added few extra batteries
+
 ## watertreatment
 
 * Fixed misleading grit classifier note
