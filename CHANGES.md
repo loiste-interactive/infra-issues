@@ -3,6 +3,7 @@
 * Fixed a rare case where the player view control is never disabled (issue [#300] (https://github.com/loiste-interactive/infra-issues/issues/300))
   * Affects documents, climbing and "cutscenes"
 * Fixed intro controls breaking if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
+* Fixed player view starting underground if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
 * Fixed the binding for skipping the intro missing from the options menu
 * Fixed being able to rebind keys to the controller in the options menu
   * The controls menu is intended for keyboard & mouse only
