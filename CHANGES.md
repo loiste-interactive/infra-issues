@@ -1,5 +1,6 @@
 # In the Next Update (Version 1.0.7)
 
+* Added mouse button icons for hints
 * Added "show hints" option to the options menu
 * Added "invert mouse" option to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/274))
 * Fixed achievements not unlocking after loading a saved game from the main menu (issue [#276](https://github.com/loiste-interactive/infra-issues/issues/276))
@@ -22,14 +23,14 @@
 
 ## sewer
 
-* Changed unreachable geocache location (issue [#311]
+* Fixed unreachable geocache location (issue [#311]
 (https://github.com/loiste-interactive/infra-issues/issues/311))
 
 ## sewer2
 
-* Added missing metadata
-* Added more bricks to emergency bolt cutter part
-* Changed crate locations in climbing part
+* Added more bricks to the emergency bolt cutter part
+* Changed crate locations in the climbing part
+* Fixed missing metadata
 
 # January 20th 2016 (Version 1.0.6)
 
