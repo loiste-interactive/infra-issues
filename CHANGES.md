@@ -2,7 +2,7 @@
 
 * Added "show hints" option to the options menu
 * Added "invert mouse" option to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/274))
-* Changed hints to use mouse icons instead of text for the binding
+* Changed hints to use icons instead of text for mouse bindings
 * Changed the camera hint to hide when no longer looking at a camera target
 * Changed the camera hint not to be displayed after a while if the player ignores it
 * Fixed missing hint icons for the Xbox 360 controller (issue [#307](https://github.com/loiste-interactive/infra-issues/issues/307))
