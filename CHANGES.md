@@ -16,6 +16,17 @@
 * Fixed the sprint button not being bound on the controller
   * It's now bound to the left stick
 
+## sewer
+
+* Changed unreachable geocache location (issue [#311]
+(https://github.com/loiste-interactive/infra-issues/issues/311))
+
+## sewer2
+
+* Added missing metadata
+* Added more bricks to emergency bolt cutter part
+* Changed crate locations in climbing part
+
 # January 20th 2016 (Version 1.0.6)
 
 * Fixed Xbox 360 controller not working out of the box
