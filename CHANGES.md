@@ -1,5 +1,7 @@
 # In the Next Update (Version 1.0.7)
 
+* Added "invert mouse" to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/#274))
+* Fixed the "reset controls to defaults" button in the options menu also resetting the dropdown choices (but not to their defaults)
 * Fixed a rare case where the player view control is never disabled (issue [#300] (https://github.com/loiste-interactive/infra-issues/issues/300))
   * Affects documents, climbing and "cutscenes"
 * Fixed intro controls breaking if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
