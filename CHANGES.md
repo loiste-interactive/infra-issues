@@ -52,6 +52,8 @@
 ## tunnel4
 
 * Deleted player clip in foliage building
+* Fixed areaportal (issue [#295]
+(https://github.com/loiste-interactive/infra-issues/issues/295))
 * Fixed foliage building key being able to open gate in end of level
 * Fixed raft water sound playing after raft ride
 * Fixed missing door animations (issue [#298]
