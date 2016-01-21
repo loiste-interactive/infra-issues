@@ -37,6 +37,7 @@
 * Changed the office worker voices a bit
   * Removed really high frequencies from certain voices
   * Adjusted the volume for certain voices
+* Changed the timing of the reception scene a bit
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
 * Fixed ghost subtitles when "using" a male office worker and then immediately "using" a female office worker
