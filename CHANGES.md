@@ -54,6 +54,7 @@
 * Added a camera target to the maintenance log in the power plant
 * Changed train brake sounds (issue [#259]
 (https://github.com/loiste-interactive/infra-issues/issues/259))
+* Fixed player monologue and the phone call playing on top of each other
 * Fixed leaking displacement (issue [#301]
 (https://github.com/loiste-interactive/infra-issues/issues/301))
 
