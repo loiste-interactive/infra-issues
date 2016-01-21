@@ -7,6 +7,7 @@
 * Changed the camera hint not to be displayed after the player ignores it for a few times
 * Changed keycard, zoom, unzoom and crouch hints to be only displayed once
 * Changed player cell phone disconnect tone to be louder
+* Changed the crouch button on Xbox 360 controllers to be a toggle
 * Fixed hint display & success counts not being saved under certain circumstances
 * Fixed achievement progress being overridden for "Photographist", "An Eye for Detail", "No Stone Unturned", "The Conspiracy Unfolds", "Structural Analyst Extraordinaire", "Restoring the Flow", and "TFTC" when starting a new game and making progress
   * Achievement progress is now only overridden if it's an improvement over the old value
