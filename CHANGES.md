@@ -49,6 +49,14 @@
 
 * Fixed a missing line from the player monologue when the ceiling starts to collapse
 
+## tunnel4
+
+* Deleted player clip in foliage building
+* Fixed foliage building key being able to open gate in end of level
+* Fixed raft water sound playing after raft ride
+* Fixed missing door animations (issue [#298]
+(https://github.com/loiste-interactive/infra-issues/issues/298))
+
 ## watertreatment
 
 * Fixed misleading grit classifier note
