@@ -32,6 +32,10 @@
 
 * Added conversations for the groups of three in the 7th floor corridor and in the atrium
 * Added use highlights for the company car
+* Added an additional voice for the male office workers
+* Changed the office worker voices a bit
+  * Removed really high frequencies from certain voices
+  * Adjusted the volume for certain voices
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
 * Fixed ghost subtitles when "using" a male office worker and then immediately "using" a female office worker
@@ -51,13 +55,13 @@
 
 ## tunnel4
 
-* Deleted player clip in foliage building
-* Fixed areaportal (issue [#295]
+* Fixed an area portal issue (issue [#295]
 (https://github.com/loiste-interactive/infra-issues/issues/295))
 * Fixed foliage building key being able to open gate in end of level
 * Fixed raft water sound playing after raft ride
-* Fixed missing door animations (issue [#298]
+* Fixed a certain door missing animations (issue [#298]
 (https://github.com/loiste-interactive/infra-issues/issues/298))
+* Removed a player clip from the foliage building
 
 ## watertreatment
 
