@@ -5,6 +5,7 @@
 * Changed hints to use icons instead of text for mouse bindings
 * Changed the camera hint to hide when no longer looking at a camera target
 * Changed the camera hint not to be displayed after a while if the player ignores it
+* Fixed the analogue sticks not working by default on the Xbox 360 controller
 * Fixed missing hint icons for the Xbox 360 controller (issue [#307](https://github.com/loiste-interactive/infra-issues/issues/307))
 * Fixed achievements not unlocking after loading a saved game from the main menu (issue [#276](https://github.com/loiste-interactive/infra-issues/issues/276))
 * Fixed being able to get stuck on a black screen when something goes wrong (level transition errors, etc.)
