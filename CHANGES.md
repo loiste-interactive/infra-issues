@@ -13,6 +13,7 @@
   * Achievement progress is now only overridden if it's an improvement over the old value
 * Fixed "Restoring the Flow" achievement (issue [#315](https://github.com/loiste-interactive/infra-issues/issues/315))
 * Fixed the analogue sticks not working by default on the Xbox 360 controller
+  * Reset to default controls for this to take effect
 * Fixed missing hint icons for the Xbox 360 controller (issue [#307](https://github.com/loiste-interactive/infra-issues/issues/307))
 * Fixed achievements not unlocking after loading a saved game from the main menu (issue [#276](https://github.com/loiste-interactive/infra-issues/issues/276))
 * Fixed being able to get stuck on a black screen when something goes wrong (level transition errors, etc.)
