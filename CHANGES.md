@@ -34,6 +34,7 @@
 * Added use highlights for the company car
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
+* Fixed ghost subtitles when "using" a male office worker and then immediately "using" a female office worker
 
 ## reserve1
 
