@@ -34,7 +34,7 @@
 ## office
 
 * Added conversations for the groups of three in the 7th floor corridor and in the atrium
-* Added lipsyncing to all the characters
+* Added lipsyncing to the random office workers
 * Added an additional voice for the male office workers
   * A voice is randomly picked for each office worker
 * Added use highlights for the company car
