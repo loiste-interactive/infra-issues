@@ -66,6 +66,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/298))
 * Removed a player clip from the foliage building
 
+## tower
+
+* Fixed the player's voice coming from the phone speaker instead of the player in payphone calls
+
 ## watertreatment
 
 * Fixed misleading grit classifier note
