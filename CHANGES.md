@@ -6,6 +6,8 @@
 * Changed the camera hint to hide when no longer looking at a camera target
 * Changed the camera hint not to be displayed after a while if the player ignores it
 * Changed use, zoom, unzoom and crouch hints to be only displayed once
+* Fixed achievement progress being overridden for "Photographist", "An Eye for Detail", "No Stone Unturned", "The Conspiracy Unfolds", "Structural Analyst Extraordinaire", "Restoring the Flow", and "TFTC" when starting a new game and making progress
+  * Achievement progress is now only overridden if it's an improvement over the old value
 * Fixed "Restoring the Flow" achievement (issue [#315](https://github.com/loiste-interactive/infra-issues/issues/315))
 * Fixed the analogue sticks not working by default on the Xbox 360 controller
 * Fixed missing hint icons for the Xbox 360 controller (issue [#307](https://github.com/loiste-interactive/infra-issues/issues/307))
