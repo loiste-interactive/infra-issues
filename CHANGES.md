@@ -42,6 +42,10 @@
 * Fixed leaking displacement (issue [#301]
 (https://github.com/loiste-interactive/infra-issues/issues/301))
 
+## tunnel
+
+* Fixed a missing line from the player monologue when the ceiling starts to collapse
+
 ## watertreatment
 
 * Fixed misleading grit classifier note
