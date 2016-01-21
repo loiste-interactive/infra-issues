@@ -16,11 +16,11 @@
 * Fixed intro controls breaking if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
 * Fixed player view starting underground if the game is saved and loaded in the middle of the intro (issue [#291] (https://github.com/loiste-interactive/infra-issues/issues/291))
 * Fixed the binding for skipping the intro missing from the options menu
-* Fixed being able to rebind keys to a controller in the options menu
+* Fixed being able to rebind keys to a Xbox 360 controller in the options menu
   * The controls menu is intended for keyboard & mouse only
-* Fixed the sprint button not being bound on the controller
+* Fixed the sprint button not being bound on the Xbox 360 controller
   * It's now bound to the left stick
-* Fixed the reload button not being bound on the controller
+* Fixed the reload button not being bound on the Xbox 360 controller
   * It's now bound to the Y button
 
 ## office
