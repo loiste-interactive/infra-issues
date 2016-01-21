@@ -33,6 +33,7 @@
 * Added conversations for the groups of three in the 7th floor corridor and in the atrium
 * Added use highlights for the company car
 * Added an additional voice for the male office workers
+  * A voice is randomly picked for each office worker
 * Changed the office worker voices a bit
   * Removed really high frequencies from certain voices
   * Adjusted the volume for certain voices
