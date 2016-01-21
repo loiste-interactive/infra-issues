@@ -44,7 +44,7 @@
 * Changed the timing of the reception scene a bit
 * Fixed keycard reader hint not disappearing when the keycard reader is used (issue [#306]
 (https://github.com/loiste-interactive/infra-issues/issues/306))
-* Fixed crocuh hint appearing when jumping from the 8th floor (issue [#318]
+* Fixed crouch hint appearing when jumping from the 8th floor (issue [#318]
 (https://github.com/loiste-interactive/infra-issues/issues/318))
 * Fixed ghost subtitles when "using" a male office worker and then immediately "using" a female office worker
 
