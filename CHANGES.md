@@ -1,4 +1,4 @@
-# In the Next Update (Version 1.0.7)
+# January 22nd 2016 (Version 1.0.7)
 
 * Added "show hints" option to the options menu
 * Added "invert mouse" option to the options menu with the ability to "invert X", "invert Y" or "invert X + Y" (issue [#274] (https://github.com/loiste-interactive/infra-issues/issues/274))
