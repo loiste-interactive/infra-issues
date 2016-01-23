@@ -8,6 +8,7 @@
 * Changed the crouch button on Xbox 360 controllers from B to the right stick
   * Reset to default controls to apply
 * Changed the default sensitivity of Xbox 360 controllers from 2.0 to 0.6
+* Changed the in-game computers to be usable with a Xbox 360 controller (issue [#317] (https://github.com/loiste-interactive/infra-issues/issues/317))
 * Fixed main menu skipping the chapter selection and going straight to the game if you have unlocked chapters but no saved games
 
 ## reserve1
