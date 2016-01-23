@@ -6,6 +6,7 @@
   * Reset to default controls to apply
 * Changed the crouch button on Xbox 360 controllers from B to the right stick
   * Reset to default controls to apply
+* Changed the default sensitivity of Xbox 360 controllers from 2.0 to 0.6
 * Fixed main menu skipping the chapter selection and going straight to the game if you have unlocked chapters but no saved games
 
 # January 22nd 2016 (Version 1.0.7)
