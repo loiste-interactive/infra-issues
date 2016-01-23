@@ -14,6 +14,10 @@
 
 * Changed timings of the monologue when picking up the bolt cutters early
 
+## tower
+
+* Fixed the phone foley sound playing before the disconnect tone in the phone call
+
 # January 22nd 2016 (Version 1.0.7)
 
 * Added "show hints" option to the options menu
