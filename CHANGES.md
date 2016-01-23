@@ -16,7 +16,7 @@
 
 ## tower
 
-* Fixed the phone foley sound playing before the disconnect tone in the phone call
+* Fixed the phone foley sound playing before the disconnect tone in the phone call to boss
 
 # January 22nd 2016 (Version 1.0.7)
 
