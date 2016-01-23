@@ -2,6 +2,7 @@
 
 * Added "controller sensitivity" slider to the options menu
 * Added "invert controller look" option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
+* Changed the sprint button on Xbox 360 controllers to be a toggle
 
 # January 22nd 2016 (Version 1.0.7)
 
