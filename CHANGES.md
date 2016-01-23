@@ -1,7 +1,7 @@
 # In the Next Update (Version 1.0.8)
 
-* Added controller sensitivity slider to the options menu
-* Added controller look invert option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
+* Added "controller sensitivity" slider to the options menu
+* Added "invert controller look" option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
 
 # January 22nd 2016 (Version 1.0.7)
 
