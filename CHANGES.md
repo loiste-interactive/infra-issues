@@ -4,6 +4,8 @@
 * Added "invert controller look" option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
 * Changed the sprint button on Xbox 360 controllers to be a toggle
   * Reset to default controls to apply
+* Changed the crouch button on Xbox 360 controllers from B to the right stick
+  * Reset to default controls to apply
 
 # January 22nd 2016 (Version 1.0.7)
 
