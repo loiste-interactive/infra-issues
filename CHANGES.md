@@ -16,6 +16,12 @@
 ## reserve1
 
 * Changed timings of the monologue when picking up the bolt cutters early
+* Fixed small cave enterance
+
+## reserve3
+
+* Added phonecall attemt when finding the corpse
+* Increased interior ambient lighting
 
 ## tunnel3
 
