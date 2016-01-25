@@ -19,6 +19,7 @@
 
 * Changed timings of the monologue when picking up the bolt cutters early
 * Fixed small cave enterance
+* Fixed monologues interrupting phonecalls
 
 ## reserve3
 
