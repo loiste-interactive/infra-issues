@@ -21,6 +21,10 @@
 
 * Added camera target to the map and catwalk
 
+## furnace
+
+* Brightened interior ambient lighting
+
 ## tower
 
 * Fixed the phone foley sound playing before the disconnect tone in the phone call to boss
