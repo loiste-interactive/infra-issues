@@ -15,6 +15,7 @@
 * Fixed main menu accepting input while transitioning between screens
   * This was especially an issue with Xbox 360 controllers where you would get stuck between the load game menu and the main menu since the button press would register on both screens
 * Fixed the pause menu still accepting keyboard input after returning to the main menu
+* Fixed the credits remaining rolling after restarting from checkpoint during the credits (issue [#369] (https://github.com/loiste-interactive/infra-issues/issues/369))
 
 ## reserve1
 
