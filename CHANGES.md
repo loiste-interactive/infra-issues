@@ -10,10 +10,11 @@
   * Reset to default controls to apply
 * Changed the default sensitivity of Xbox 360 controllers from 2.0 to 0.6
 * Changed the in-game computers to be usable with a Xbox 360 controller (issue [#317] (https://github.com/loiste-interactive/infra-issues/issues/317))
+* Changed the raft not to break immediately when touching a wall
 * Fixed main menu skipping the chapter selection and going straight to the game if you have unlocked chapters but no saved games
 * Fixed main menu accepting input while transitioning between screens
   * This was especially an issue with Xbox 360 controllers where you would get stuck between the load game menu and the main menu since the button press would register on both screens
-* Changed dock breaking mechanics
+* Fixed the pause menu still accepting keyboard input after returning to the main menu
 
 ## reserve1
 
