@@ -20,6 +20,13 @@
 
 * Fixed the phone foley sound playing before the disconnect tone in the phone call to boss
 
+## sewer2
+
+* Added delay to ending button
+* Added new camera target
+* Added light to floodgate power switch
+* Changed climbing part
+
 # January 22nd 2016 (Version 1.0.7)
 
 * Added "show hints" option to the options menu
