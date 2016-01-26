@@ -46,6 +46,10 @@
 * Added new camera target
 * Added light to floodgate power switch
 * Changed climbing part
+* Fixed hints being visible during the credits (issue [#367] 
+(https://github.com/loiste-interactive/infra-issues/issues/367))
+* Fixed character says "Last batteries" before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
+
 
 # January 22nd 2016 (Version 1.0.7)
 
