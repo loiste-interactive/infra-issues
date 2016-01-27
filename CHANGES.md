@@ -21,20 +21,41 @@
 
 * Changed timings of the monologue when picking up the bolt cutters early
 * Fixed small cave entrance
-* Fixed monologue interrupting the phone call
+* Fixed monologue interrupting the phone call (issue [#340] 
+(https://github.com/loiste-interactive/infra-issues/issues/340), also fixed elsewhere)
+* Fixed the range of a certain camera target (issue [#336] 
+(https://github.com/loiste-interactive/infra-issues/issues/336))
 
 ## reserve3
 
 * Changed the corpse monologue so that the player will attempt a phone call
-* Changed the interior ambient lighting to be a bit brighter
+* Changed the interior ambient lighting to be a bit brighter (issue [#330] 
+(https://github.com/loiste-interactive/infra-issues/issues/330))
+* Fixed fade distance on some objects with low graphics settings (issue [#294] 
+(https://github.com/loiste-interactive/infra-issues/issues/294))
+* Fixed the range of a certain camera target (issue [#333] 
+(https://github.com/loiste-interactive/infra-issues/issues/333))
 
 ## tunnel3
 
-* Added camera targets to the map and catwalk
+* Added camera target to the map (issue [#352] 
+(https://github.com/loiste-interactive/infra-issues/issues/352))
+* Added camera target to the catwalk
+
+## tunnel4
+
+* Added a camera target to the maintenance log (issue [#353] 
+(https://github.com/loiste-interactive/infra-issues/issues/353))
+* Fixed a couple of spots where the player could get stuck (issue [#321] 
+(https://github.com/loiste-interactive/infra-issues/issues/321), [#354] 
+(https://github.com/loiste-interactive/infra-issues/issues/354))
 
 ## furnace
 
-* Changed the interior ambient lighting to be a bit brighter
+* Changed the interior ambient lighting to be a bit brighter (issue [#325] 
+(https://github.com/loiste-interactive/infra-issues/issues/325))
+* Fixed missing use highlights on the blue screen computer (issue [#256] 
+(https://github.com/loiste-interactive/infra-issues/issues/256))
 
 ## tower
 
