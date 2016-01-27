@@ -10,7 +10,6 @@
   * Reset to default controls to apply
 * Changed the default sensitivity of Xbox 360 controllers from 2.0 to 0.6
 * Changed the in-game computers to be usable with a Xbox 360 controller (issue [#317] (https://github.com/loiste-interactive/infra-issues/issues/317))
-* Changed the raft not to break immediately when touching a wall
 * Fixed main menu skipping the chapter selection and going straight to the game if you have unlocked chapters but no saved games
 * Fixed main menu accepting input while transitioning between screens
   * This was especially an issue with Xbox 360 controllers where you would get stuck between the load game menu and the main menu since the button press would register on both screens
@@ -20,7 +19,8 @@
 ## reserve1
 
 * Changed timings of the monologue when picking up the bolt cutters early
-* Fixed small cave entrance
+* Fixed small cave entrance (issue [#326] 
+(https://github.com/loiste-interactive/infra-issues/issues/326))
 * Fixed monologue interrupting the phone call (issue [#340] 
 (https://github.com/loiste-interactive/infra-issues/issues/340), also fixed elsewhere)
 * Fixed the range of a certain camera target (issue [#336] 
@@ -41,11 +41,13 @@
 * Added camera target to the map (issue [#352] 
 (https://github.com/loiste-interactive/infra-issues/issues/352))
 * Added camera target to the catwalk
+* Changed the raft not to break immediately when touching a wall
 
 ## tunnel4
 
 * Added a camera target to the maintenance log (issue [#353] 
 (https://github.com/loiste-interactive/infra-issues/issues/353))
+* Changed the raft not to break immediately when touching a wall
 * Fixed a couple of spots where the player could get stuck (issue [#321] 
 (https://github.com/loiste-interactive/infra-issues/issues/321), [#354] 
 (https://github.com/loiste-interactive/infra-issues/issues/354))
