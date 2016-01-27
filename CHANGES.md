@@ -25,7 +25,7 @@
 
 ## reserve3
 
-* Added phonecall attemt when finding the corpse
+* Added phonecall attempt when finding the corpse
 * Increased interior ambient lighting
 
 ## tunnel3
