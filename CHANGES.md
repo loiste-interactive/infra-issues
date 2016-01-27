@@ -3,6 +3,7 @@
 * Added "controller sensitivity" slider to the options menu
 * Added "invert controller look" option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
 * Added album art for the soundtrack
+* Added a hint for equipping the flashlight when first entering a really dark area
 * Changed the power consumption of the camera screen from 0.5% per second to 0.33% per second (issue [#323] (https://github.com/loiste-interactive/infra-issues/issues/323))
 * Changed the sprint button on Xbox 360 controllers to be a toggle
   * Reset to default controls to apply
