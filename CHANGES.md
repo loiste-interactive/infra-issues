@@ -29,6 +29,7 @@
 
 ## reserve2
 
+* Added a hint for the climb button to the elevator part
 * Fixed the "train track cleanup" line cutting short in the phone call to boss
 
 ## reserve3
