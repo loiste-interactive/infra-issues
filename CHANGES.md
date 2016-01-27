@@ -32,6 +32,12 @@
 
 * Added a hint for the climb button to the elevator part
 * Fixed the "train track cleanup" line cutting short in the phone call to boss
+* Fixed tree fading out noticeably (issue [#262] 
+(https://github.com/loiste-interactive/infra-issues/issues/262))
+* Fixed certain camera target having too short range (issue [#337] 
+(https://github.com/loiste-interactive/infra-issues/issues/337))
+* Fixed low res reflections on the puddles (issue [#348] 
+(https://github.com/loiste-interactive/infra-issues/issues/348))
 
 ## reserve3
 
