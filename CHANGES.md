@@ -85,6 +85,9 @@
 * Added a new camera target
 * Added a light to the floodgate power switch
 * Changed the climbing part
+* Changed the textures for Hartmann's notes
+  * Fixed spelling mistakes and grammar
+  * Also they are mostly handwritten now
 * Fixed hints being visible during the credits (issue [#367] 
 (https://github.com/loiste-interactive/infra-issues/issues/367))
 * Fixed the player saying "last batteries" just before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
