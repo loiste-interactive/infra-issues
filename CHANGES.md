@@ -30,7 +30,7 @@
 
 ## tunnel3
 
-* Added camera target to the map and catwalk
+* Added camera targets to the map and catwalk
 
 ## furnace
 
