@@ -27,6 +27,10 @@
 * Fixed the range of a certain camera target (issue [#336] 
 (https://github.com/loiste-interactive/infra-issues/issues/336))
 
+## reserve2
+
+* Fixed the "train track cleanup" line cutting short in the phone call to boss
+
 ## reserve3
 
 * Changed the corpse monologue so that the player will attempt a phone call
