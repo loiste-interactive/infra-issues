@@ -20,13 +20,13 @@
 ## reserve1
 
 * Changed timings of the monologue when picking up the bolt cutters early
-* Fixed small cave enterance
-* Fixed monologues interrupting phonecalls
+* Fixed small cave entrance
+* Fixed monologue interrupting the phone call
 
 ## reserve3
 
-* Added phonecall attempt when finding the corpse
-* Increased interior ambient lighting
+* Changed the corpse monologue so that the player will attempt a phone call
+* Changed the interior ambient lighting to be a bit brighter
 
 ## tunnel3
 
@@ -34,7 +34,7 @@
 
 ## furnace
 
-* Brightened interior ambient lighting
+* Changed the interior ambient lighting to be a bit brighter
 
 ## tower
 
@@ -42,14 +42,13 @@
 
 ## sewer2
 
-* Added delay to ending button
-* Added new camera target
-* Added light to floodgate power switch
-* Changed climbing part
+* Added some delay before the ending button becomes pressable
+* Added a new camera target
+* Added a light to the floodgate power switch
+* Changed the climbing part
 * Fixed hints being visible during the credits (issue [#367] 
 (https://github.com/loiste-interactive/infra-issues/issues/367))
-* Fixed character says "Last batteries" before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
-
+* Fixed the player saying "last batteries" just before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
 
 # January 22nd 2016 (Version 1.0.7)
 
