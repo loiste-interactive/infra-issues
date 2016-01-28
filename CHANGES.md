@@ -31,20 +31,20 @@
 ## office
 
 * Changed the generic office workers to look at the player when talking to him
-* Fixed the female office worker model hand clipping through her clothes occasionally (issue [#342](https://github.com/loiste-interactive/infra-issues/issues/342))
 * Fixed position of the eyes for the female office worker model
 * Fixed the position of the right eye for some of the female faces
 * Fixed the position of the right eye for some of the male faces
+* Fixed the female office worker model hand clipping through her clothes occasionally (issue [#342](https://github.com/loiste-interactive/infra-issues/issues/342))
 
 ## reserve1
 
 * Changed timings of the monologue when picking up the bolt cutters early
 * Fixed small cave entrance (issue [#326] 
 (https://github.com/loiste-interactive/infra-issues/issues/326))
-* Fixed the monologues interrupting the phone call (issue [#340] 
-(https://github.com/loiste-interactive/infra-issues/issues/340), also fixed elsewhere)
 * Fixed the range of a certain camera target (issue [#336] 
 (https://github.com/loiste-interactive/infra-issues/issues/336))
+* Fixed the monologues interrupting the phone call (issue [#340] 
+(https://github.com/loiste-interactive/infra-issues/issues/340), also fixed elsewhere)
 
 ## reserve2
 
