@@ -25,6 +25,7 @@
 * Fixed the hint display fonts breaking after a resolution change (issue [#374](https://github.com/loiste-interactive/infra-issues/issues/374))
 * Fixed hints for the shift key not using the shift key icon
 * Fixed black edges appearing on some hint icons with lower resolutions
+* Fixed main menu music stopping playing after switching speaker type in the options menu (issue [#375](https://github.com/loiste-interactive/infra-issues/issues/375))
 
 ## reserve1
 
