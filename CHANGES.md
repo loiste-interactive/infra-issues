@@ -27,6 +27,9 @@
 * Fixed black edges appearing on some hint icons with lower resolutions
 * Fixed main menu music stopping playing after switching speaker type in the options menu (issue [#375](https://github.com/loiste-interactive/infra-issues/issues/375))
 * Fixed level transitions erroneously clearing previous map state (issue [#376](https://github.com/loiste-interactive/infra-issues/issues/376))
+* Fixed position of the eyes for the female office worker model
+* Fixed the position of the right eye for some of the female faces
+* Fixed the position of the right eye for some of the male faces
 
 ## reserve1
 
