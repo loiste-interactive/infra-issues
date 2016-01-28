@@ -92,21 +92,21 @@
 
 ## watertreatment
 
-* Fixed watertreatment screen displaying incorrect informations (issue [#358] 
-(https://github.com/loiste-interactive/infra-issues/issues/358))
 * Fixed missing door animations (issue [#297] 
 (https://github.com/loiste-interactive/infra-issues/issues/297))
 * Fixed out of bounds error (issue [#283] 
 (https://github.com/loiste-interactive/infra-issues/issues/283))
-* Fixed possibility skip most of the puzzles (issue [#296] 
+* Fixed possibility to skip most of the puzzles (issue [#296] 
 (https://github.com/loiste-interactive/infra-issues/issues/296))
 * Fixed disappearing valves (issue [#304] 
 (https://github.com/loiste-interactive/infra-issues/issues/304))
 * Fixed lighting color error (issue [#305] 
 (https://github.com/loiste-interactive/infra-issues/issues/305))
+* Fixed watertreatment screen displaying incorrect informations (issue [#358] 
+(https://github.com/loiste-interactive/infra-issues/issues/358))
 * Fixed door stuck open (issue [#362] 
 (https://github.com/loiste-interactive/infra-issues/issues/362))
-* Fixed door card reader stays on (issue [#360] 
+* Fixed door card reader staying on (issue [#360] 
 (https://github.com/loiste-interactive/infra-issues/issues/360))
 
 ## sewer2
