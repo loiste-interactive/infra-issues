@@ -26,7 +26,7 @@
 * Fixed hints for the shift key not using the shift key icon
 * Fixed black edges appearing on some hint icons with lower resolutions
 * Fixed main menu music stopping playing after switching speaker type in the options menu (issue [#375](https://github.com/loiste-interactive/infra-issues/issues/375))
-* Fixed all level transitions clearing previous map state (issue [#376](https://github.com/loiste-interactive/infra-issues/issues/376))
+* Fixed level transitions erroneously clearing previous map state (issue [#376](https://github.com/loiste-interactive/infra-issues/issues/376))
 
 ## reserve1
 
