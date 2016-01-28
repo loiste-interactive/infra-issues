@@ -19,7 +19,6 @@
   * This was especially an issue with Xbox 360 controllers where you would get stuck between the load game menu and the main menu since the button press would register on both screens
 * Fixed the pause menu still accepting keyboard input after returning to the main menu
 * Fixed the credits remaining rolling after restarting from checkpoint during the credits (issue [#369] (https://github.com/loiste-interactive/infra-issues/issues/369))
-* Fixed the female office worker model hand clipping through her clothes occasionally (issue [#342](https://github.com/loiste-interactive/infra-issues/issues/342))
 * Fixed compression artifacts on some of the hint icons
 * Fixed being able to save the game while the credits are rolling (issue [#371](https://github.com/loiste-interactive/infra-issues/issues/371))
 * Fixed the hint display fonts breaking after a resolution change (issue [#374](https://github.com/loiste-interactive/infra-issues/issues/374))
@@ -27,6 +26,11 @@
 * Fixed black edges appearing on some hint icons with lower resolutions
 * Fixed main menu music stopping playing after switching speaker type in the options menu (issue [#375](https://github.com/loiste-interactive/infra-issues/issues/375))
 * Fixed level transitions erroneously clearing previous map state (issue [#376](https://github.com/loiste-interactive/infra-issues/issues/376))
+
+## office
+
+* Changed the generic office workers to look at the player when talking to him
+* Fixed the female office worker model hand clipping through her clothes occasionally (issue [#342](https://github.com/loiste-interactive/infra-issues/issues/342))
 * Fixed position of the eyes for the female office worker model
 * Fixed the position of the right eye for some of the female faces
 * Fixed the position of the right eye for some of the male faces
