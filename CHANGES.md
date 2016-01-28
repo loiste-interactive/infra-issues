@@ -92,12 +92,12 @@
 
 ## watertreatment
 
-* Fixed missing door animations (issue [#297] 
-(https://github.com/loiste-interactive/infra-issues/issues/297))
 * Fixed out of bounds error (issue [#283] 
 (https://github.com/loiste-interactive/infra-issues/issues/283))
 * Fixed possibility to skip most of the puzzles (issue [#296] 
 (https://github.com/loiste-interactive/infra-issues/issues/296))
+* Fixed missing door animations (issue [#297] 
+(https://github.com/loiste-interactive/infra-issues/issues/297))
 * Fixed disappearing valves (issue [#304] 
 (https://github.com/loiste-interactive/infra-issues/issues/304))
 * Fixed lighting color error (issue [#305] 
