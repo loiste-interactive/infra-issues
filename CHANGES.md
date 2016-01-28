@@ -24,6 +24,7 @@
 * Fixed being able to save the game while the credits are rolling (issue [#371](https://github.com/loiste-interactive/infra-issues/issues/371))
 * Fixed the hint display fonts breaking after a resolution change (issue [#374](https://github.com/loiste-interactive/infra-issues/issues/374))
 * Fixed hints for the shift key not using the shift key icon
+* Fixed black edges appearing on some hint icons with lower resolutions
 
 ## reserve1
 
