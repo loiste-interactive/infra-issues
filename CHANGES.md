@@ -44,7 +44,7 @@
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
-* Added new room to the sawmill
+* Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Changed the sawmill lighting to be more realistic
 * Fixed the "train track cleanup" line cutting short in the phone call to boss
