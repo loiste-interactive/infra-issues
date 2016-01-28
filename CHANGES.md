@@ -22,6 +22,7 @@
 * Fixed the female office worker model hand clipping through her clothes occasionally (issue [#342](https://github.com/loiste-interactive/infra-issues/issues/342))
 * Fixed compression artifacts on some of the hint icons
 * Fixed being able to save the game while the credits are rolling (issue [#371](https://github.com/loiste-interactive/infra-issues/issues/371))
+* Fixed the hint display fonts breaking after a resolution change (issue [#374](https://github.com/loiste-interactive/infra-issues/issues/374))
 
 ## reserve1
 
