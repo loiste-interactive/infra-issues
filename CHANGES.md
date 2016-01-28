@@ -98,6 +98,7 @@
 * Fixed hints being visible during the credits (issue [#367] 
 (https://github.com/loiste-interactive/infra-issues/issues/367))
 * Fixed the player saying "last batteries" just before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
+* Fixed the player dying from the collapse in the safe area (issue [#365] (https://github.com/loiste-interactive/infra-issues/issues/365))
 
 # January 22nd 2016 (Version 1.0.7)
 
