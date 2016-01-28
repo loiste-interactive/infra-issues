@@ -112,6 +112,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/362))
 * Fixed door card reader staying on (issue [#360] 
 (https://github.com/loiste-interactive/infra-issues/issues/360))
+* Fixed missing use highlights on the sample report
 
 ## sewer2
 
