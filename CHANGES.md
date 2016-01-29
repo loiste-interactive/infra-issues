@@ -89,6 +89,10 @@
 * Fixed #332 camera target having too short range
 * Fixed #316 elevator button having un highlighted down button
 
+## tunnel2
+
+* Fixed stopping the facility triggering wrong global #414
+
 ## tunnel3
 
 * Added camera target to the map (issue [#352] 
@@ -106,6 +110,9 @@
 * Fixed a couple of spots where the player could get stuck (issue [#321] 
 (https://github.com/loiste-interactive/infra-issues/issues/321), [#354] 
 (https://github.com/loiste-interactive/infra-issues/issues/354))
+* fixed #401 camera target having short range
+* Fixed flow meter triggering wrong global #413
+* Fixed unusable ladder #397
 
 ## furnace
 
