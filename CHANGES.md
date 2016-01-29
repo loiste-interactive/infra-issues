@@ -53,6 +53,8 @@
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Changed the sawmill lighting to be more realistic
+* Changed the texture for the folder in the forest guard's cabin
+  * Better text and handwritten now
 * Fixed the "train track cleanup" line cutting short in the phone call to boss
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
@@ -107,6 +109,10 @@
 
 ## watertreatment
 
+* Changed the texture for the "alarm code" note
+  * Better text and handwritten now
+* Changed the texture for the note hidden in the control building
+  * Better text and handwritten now
 * Fixed out of bounds error (issue [#283] 
 (https://github.com/loiste-interactive/infra-issues/issues/283))
 * Fixed possibility to skip most of the puzzles (issue [#296] 
@@ -132,8 +138,7 @@
 * Added a light to the floodgate power switch
 * Changed the climbing part
 * Changed the textures for Hartmann's notes
-  * Fixed spelling mistakes and grammar
-  * Also they are mostly handwritten now
+  * Better text and handwritten now
 * Fixed hints being visible during the credits (issue [#367] 
 (https://github.com/loiste-interactive/infra-issues/issues/367))
 * Fixed the player saying "last batteries" just before the credits roll (issue [#366] (https://github.com/loiste-interactive/infra-issues/issues/366))
