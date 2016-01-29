@@ -1,3 +1,21 @@
+# In 1.0.9
+
+## reserve2
+
+* Added a hint for the climb button to the elevator part
+* Added a new room to the sawmill
+* Added a newspaper to the sawmill
+* Changed the sawmill lighting to be more realistic
+* Fixed the "train track cleanup" line cutting short in the phone call to boss
+* Fixed tree fading out noticeably (issue [#262] 
+(https://github.com/loiste-interactive/infra-issues/issues/262))
+* Fixed problem with certain locked door (issue [#299] 
+(https://github.com/loiste-interactive/infra-issues/issues/299))
+* Fixed certain camera target having too short range (issue [#337] 
+(https://github.com/loiste-interactive/infra-issues/issues/337))
+* Fixed low res reflections on the puddles (issue [#348] 
+(https://github.com/loiste-interactive/infra-issues/issues/348))
+
 # In the Next Update (Version 1.0.8)
 
 * Added "controller sensitivity" slider to the options menu
@@ -49,21 +67,8 @@
 
 ## reserve2
 
-* Added a hint for the climb button to the elevator part
-* Added a new room to the sawmill
-* Added a newspaper to the sawmill
-* Changed the sawmill lighting to be more realistic
 * Changed the texture for the folder in the forest guard's cabin
   * Better text and handwritten now
-* Fixed the "train track cleanup" line cutting short in the phone call to boss
-* Fixed tree fading out noticeably (issue [#262] 
-(https://github.com/loiste-interactive/infra-issues/issues/262))
-* Fixed problem with certain locked door (issue [#299] 
-(https://github.com/loiste-interactive/infra-issues/issues/299))
-* Fixed certain camera target having too short range (issue [#337] 
-(https://github.com/loiste-interactive/infra-issues/issues/337))
-* Fixed low res reflections on the puddles (issue [#348] 
-(https://github.com/loiste-interactive/infra-issues/issues/348))
 
 ## reserve3
 
