@@ -23,6 +23,8 @@
 * Added album art for the soundtrack
 * Added a hint for equipping the flashlight when first entering a really dark area
 * Added sounds for crouching
+* Added reslists and map sound manifests
+  * Should improve load times and reduce the chance of audio hitching
 * Changed the power consumption of taking a picture with the camera from 5% to 4% per picture
 * Changed the power consumption of the camera screen from 0.5% per second to 0.33% per second (issue [#323] (https://github.com/loiste-interactive/infra-issues/issues/323))
 * Changed the sprint button on Xbox 360 controllers to be a toggle
