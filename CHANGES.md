@@ -77,6 +77,8 @@
 
 ## tunnel
 
+* Changed the texture for the folder in the water sensor puzzle path
+  * Better text and handwritten now
 * Fixed #332 camera target having too short range
 * Fixed #316 elevator button having un highlighted down button
 
@@ -89,6 +91,8 @@
 
 ## tunnel4
 
+* Changed the texture for the corruption folder
+  * Fixed grammar and spelling mistakes
 * Added a camera target to the maintenance log (issue [#353] 
 (https://github.com/loiste-interactive/infra-issues/issues/353))
 * Changed the raft not to break immediately when touching a wall
