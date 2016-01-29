@@ -1,4 +1,4 @@
-# In 1.0.9
+# Upcoming In 1.0.9
 
 ## reserve2
 
@@ -16,7 +16,7 @@
 * Fixed low res reflections on the puddles (issue [#348] 
 (https://github.com/loiste-interactive/infra-issues/issues/348))
 
-# In the Next Update (Version 1.0.8)
+# Upcoming In 1.0.8
 
 * Added "controller sensitivity" slider to the options menu
 * Added "invert controller look" option to the options menu (issue [#331] (https://github.com/loiste-interactive/infra-issues/issues/331))
