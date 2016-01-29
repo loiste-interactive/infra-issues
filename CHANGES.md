@@ -72,6 +72,11 @@
 * Fixed the range of a certain camera target (issue [#333] 
 (https://github.com/loiste-interactive/infra-issues/issues/333))
 
+## tunnel
+
+* Fixed #332 camera target having too short range
+* Fixed #316 elevator button having un highlighted down button
+
 ## tunnel3
 
 * Added camera target to the map (issue [#352] 
