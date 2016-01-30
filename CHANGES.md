@@ -86,8 +86,10 @@
 
 * Changed the texture for the folder in the water sensor puzzle path
   * Better text and handwritten now
-* Fixed #332 camera target having too short range
-* Fixed #316 elevator button having un highlighted down button
+* Fixed the range of a certain camera target (issue [#332] 
+(https://github.com/loiste-interactive/infra-issues/issues/332))
+* Fixed the elevator button having two separate spots where it could be used and the other one doing nothing (issue [#316] 
+(https://github.com/loiste-interactive/infra-issues/issues/316))
 
 ## tunnel2
 
@@ -95,29 +97,33 @@
 
 ## tunnel3
 
-* Added camera target to the map (issue [#352] 
+* Added a camera target to the map (issue [#352] 
 (https://github.com/loiste-interactive/infra-issues/issues/352))
-* Added camera target to the catwalk
+* Added a camera target to the catwalk
 * Changed the raft not to break immediately when touching a wall
 
 ## tunnel4
 
-* Changed the texture for the corruption folder
-  * Fixed grammar and spelling mistakes
 * Added a camera target to the maintenance log (issue [#353] 
 (https://github.com/loiste-interactive/infra-issues/issues/353))
 * Changed the raft not to break immediately when touching a wall
+* Changed the texture for the corruption folder
+  * Fixed grammar and spelling mistakes
 * Fixed a couple of spots where the player could get stuck (issue [#321] 
 (https://github.com/loiste-interactive/infra-issues/issues/321), [#354] 
 (https://github.com/loiste-interactive/infra-issues/issues/354))
-* fixed #401 camera target having short range
-* Fixed flow meter triggering wrong global #413
-* Fixed unusable ladder #397
+* Fixed the range of a certain camera target (issue [#401] 
+(https://github.com/loiste-interactive/infra-issues/issues/401))
+* Fixed the water flow meter triggering the wrong global (issue [#413] 
+(https://github.com/loiste-interactive/infra-issues/issues/413))
+* Fixed an unusable ladder (issue [#397] 
+(https://github.com/loiste-interactive/infra-issues/issues/397))
 
 ## furnace
 
 * Changed the interior ambient lighting to be a bit brighter (issue [#325] 
 (https://github.com/loiste-interactive/infra-issues/issues/325))
+* Changed the entrance to the third fuse room
 * Fixed missing use highlights on the blue screen computer (issue [#256] 
 (https://github.com/loiste-interactive/infra-issues/issues/256))
 
