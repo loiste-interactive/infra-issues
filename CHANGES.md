@@ -71,12 +71,14 @@
 
 * Changed the texture for the folder in the forest guard's cabin
   * Better text and handwritten now
+* Changed the texture for Hartman's noticeboard
+  * Better text and handwritten now
 
 ## reserve3
 
 * Changed the corpse monologue so that the player will attempt a phone call
 * Changed the interior ambient lighting to be a bit brighter (issue [#330](https://github.com/loiste-interactive/infra-issues/issues/330))
-* Changed the texture for Hartmann's stash note
+* Changed the texture for Hartman's stash note
   * Better text and handwritten now
 * Fixed fade distance on some objects with low graphics settings (issue [#294] 
 (https://github.com/loiste-interactive/infra-issues/issues/294))
@@ -87,7 +89,7 @@
 
 * Changed the texture for the folder in the water sensor puzzle path
   * Better text and handwritten now
-* Changed the texture for Erik's note about Hartmann
+* Changed the texture for Erik's note about Hartman
   * Better text and handwritten now
 * Changed the texture for Lukas' note about the keypad door
   * Better text and handwritten now
@@ -186,7 +188,7 @@
 * Added a new camera target
 * Added a light to the floodgate power switch
 * Changed the climbing part
-* Changed the textures for Hartmann's notes
+* Changed the textures for Hartman's notes
   * Better text and handwritten now
 * Changed the texture for Robin's note about the override button
   * Better text and handwritten now
@@ -398,7 +400,7 @@
 ## reserve2
 
 * Fixed problem with level change to `reserve3`
-* Fixed missing music from the Hartmann tape scene
+* Fixed missing music from the Hartman tape scene
 
 # January 15th 2016 (Release 1.0.0)
 
@@ -412,7 +414,7 @@
   * Sneaky – get through the hacker den without triggering any of the alarms
   * The End? – complete INFRA: Part 1
   * Also 6 secret achievements!
-* Changed the Hartmann tapes and the `furnace` announcements and the `tower` payphone calls to sound distorted
+* Changed the Hartman tapes and the `furnace` announcements and the `tower` payphone calls to sound distorted
 * Changed the textures of all the newspapers
   * The articles have been rewritten from scratch
   * The dates on the newspapers have been fixed
