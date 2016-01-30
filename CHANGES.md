@@ -148,13 +148,15 @@
 (https://github.com/loiste-interactive/infra-issues/issues/304))
 * Fixed lighting color error (issue [#305] 
 (https://github.com/loiste-interactive/infra-issues/issues/305))
-* Fixed watertreatment screen displaying incorrect informations (issue [#358] 
+* Fixed screens displaying incorrect information (issue [#358] 
 (https://github.com/loiste-interactive/infra-issues/issues/358))
 * Fixed door stuck open (issue [#362] 
 (https://github.com/loiste-interactive/infra-issues/issues/362))
 * Fixed door card reader staying on (issue [#360] 
 (https://github.com/loiste-interactive/infra-issues/issues/360))
 * Fixed missing use highlights on the sample report
+* Fixed floppy disks having use highlights (issue [#341] 
+(https://github.com/loiste-interactive/infra-issues/issues/341))
 
 ## sewer2
 
