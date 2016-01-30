@@ -106,11 +106,14 @@
   * Better text and handwritten now
 * Changed the texture for the note addressed to Marko
   * Better text and handwritten now
+* Changed the exit pipe indicator to be functional even if the valve isn't attached (issue [#388] 
+(https://github.com/loiste-interactive/infra-issues/issues/388))
+* Changed certain green mushrooms to damage the player (issue [#351] 
+(https://github.com/loiste-interactive/infra-issues/issues/351))
 * Fixed stopping the facility triggering the wrong global (issue [#414] 
 (https://github.com/loiste-interactive/infra-issues/issues/414))
 * Fixed pumps being able to be closed when water is flowing, preventing blocking progress
-* Fixed door not closing once open
-* Fixed exit pipe indicator light turning on after attaching the valve
+* Fixed a certain door not closing once opened
 
 ## tunnel3
 
@@ -149,8 +152,10 @@
 * Changed the entrance to the third fuse room
 * Fixed missing use highlights on the blue screen computer (issue [#256] 
 (https://github.com/loiste-interactive/infra-issues/issues/256))
-* Increased damage of the leaking steam
-* Blocked gap where player could skip gas fire
+* Fixed the player being able to run through certain steam without dying (issue [#379] 
+(https://github.com/loiste-interactive/infra-issues/issues/379))
+* Fixed it being possible to skip a certain gas fire (issue [#356] 
+(https://github.com/loiste-interactive/infra-issues/issues/356))
 
 ## tower
 
