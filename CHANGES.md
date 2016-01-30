@@ -104,6 +104,8 @@
   * Better text and handwritten now
 * Fixed stopping the facility triggering the wrong global (issue [#414] 
 (https://github.com/loiste-interactive/infra-issues/issues/414))
+* Fixed pumps being able to be closed when water is flowing, preventing blocking progress
+* Fixed door not closing once open
 
 ## tunnel3
 
