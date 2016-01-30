@@ -73,14 +73,14 @@
 
 * Changed the texture for the folder in the forest guard's cabin
   * Better text and handwritten now
-* Changed the texture for Hartmann's noticeboard
+* Changed the texture for Hartman's noticeboard
   * Better text and handwritten now
 
 ## reserve3
 
 * Changed the corpse monologue so that the player will attempt a phone call
 * Changed the interior ambient lighting to be a bit brighter (issue [#330](https://github.com/loiste-interactive/infra-issues/issues/330))
-* Changed the texture for Hartmann's stash note
+* Changed the texture for Hartman's stash note
   * Better text and handwritten now
 * Fixed fade distance on some objects with low graphics settings (issue [#294] 
 (https://github.com/loiste-interactive/infra-issues/issues/294))
