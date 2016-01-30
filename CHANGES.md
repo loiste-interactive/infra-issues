@@ -110,6 +110,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/414))
 * Fixed pumps being able to be closed when water is flowing, preventing blocking progress
 * Fixed door not closing once open
+* Fixed exit pipe indicator light turning on after attaching the valve
 
 ## tunnel3
 
@@ -148,6 +149,8 @@
 * Changed the entrance to the third fuse room
 * Fixed missing use highlights on the blue screen computer (issue [#256] 
 (https://github.com/loiste-interactive/infra-issues/issues/256))
+* Increased damage of the leaking steam
+* Blocked gap where player could skip gas fire
 
 ## tower
 
