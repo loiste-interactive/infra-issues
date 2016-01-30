@@ -75,8 +75,9 @@
 ## reserve3
 
 * Changed the corpse monologue so that the player will attempt a phone call
-* Changed the interior ambient lighting to be a bit brighter (issue [#330] 
-(https://github.com/loiste-interactive/infra-issues/issues/330))
+* Changed the interior ambient lighting to be a bit brighter (issue [#330](https://github.com/loiste-interactive/infra-issues/issues/330))
+* Changed the texture for Hartmann's stash note
+  * Better text and handwritten now
 * Fixed fade distance on some objects with low graphics settings (issue [#294] 
 (https://github.com/loiste-interactive/infra-issues/issues/294))
 * Fixed the range of a certain camera target (issue [#333] 
@@ -86,6 +87,10 @@
 
 * Changed the texture for the folder in the water sensor puzzle path
   * Better text and handwritten now
+* Changed the texture for Erik's note about Hartmann
+  * Better text and handwritten now
+* Changed the texture for Lukas' note about the keypad door
+  * Better text and handwritten now
 * Fixed the range of a certain camera target (issue [#332] 
 (https://github.com/loiste-interactive/infra-issues/issues/332))
 * Fixed the elevator button having two separate spots where it could be used and the other one doing nothing (issue [#316] 
@@ -93,6 +98,10 @@
 
 ## tunnel2
 
+* Changed the texture for Erik's note about Robin
+  * Better text and handwritten now
+* Changed the texture for the note addressed to Marko
+  * Better text and handwritten now
 * Fixed stopping the facility triggering the wrong global (issue [#414] 
 (https://github.com/loiste-interactive/infra-issues/issues/414))
 
@@ -102,6 +111,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/352))
 * Added a camera target to the catwalk
 * Changed the raft not to break immediately when touching a wall
+* Changed the texture for Erik's note to Robin
+  * Better text and handwritten now
 
 ## tunnel4
 
@@ -110,6 +121,10 @@
 * Changed the raft not to break immediately when touching a wall
 * Changed the texture for the corruption folder
   * Fixed grammar and spelling mistakes
+* Changed the texture for Kleinmann's note about the dynamite and stuff
+  * Better text and handwritten now
+* Changed the texture for Erik's note to Robin about the mushrooms
+  * Better text and handwritten now
 * Fixed a couple of spots where the player could get stuck (issue [#321] 
 (https://github.com/loiste-interactive/infra-issues/issues/321), [#354] 
 (https://github.com/loiste-interactive/infra-issues/issues/354))
@@ -158,6 +173,11 @@
 * Fixed floppy disks having use highlights (issue [#341] 
 (https://github.com/loiste-interactive/infra-issues/issues/341))
 
+## sewer
+
+* Changed the texture for the mushroom machine instruction table
+  * Better text and handwritten now
+
 ## sewer2
 
 * Added some delay before the ending button becomes pressable
@@ -165,6 +185,8 @@
 * Added a light to the floodgate power switch
 * Changed the climbing part
 * Changed the textures for Hartmann's notes
+  * Better text and handwritten now
+* Changed the texture for Robin's note about the override button
   * Better text and handwritten now
 * Fixed hints being visible during the credits (issue [#367] 
 (https://github.com/loiste-interactive/infra-issues/issues/367))
