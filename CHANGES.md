@@ -93,7 +93,8 @@
 
 ## tunnel2
 
-* Fixed stopping the facility triggering wrong global #414
+* Fixed stopping the facility triggering the wrong global (issue [#414] 
+(https://github.com/loiste-interactive/infra-issues/issues/414))
 
 ## tunnel3
 
