@@ -6,7 +6,6 @@
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Changed the sawmill lighting to be more realistic
-* Fixed the "train track cleanup" line cutting short in the phone call to boss
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
@@ -15,6 +14,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/337))
 * Fixed low res reflections on the puddles (issue [#348] 
 (https://github.com/loiste-interactive/infra-issues/issues/348))
+* Removed unnecessary crates from the sawmill
 
 # January 31st 2016 (Version 1.0.8)
 
@@ -75,6 +75,7 @@
   * Better text and handwritten now
 * Changed the texture for Hartman's noticeboard
   * Better text and handwritten now
+* Fixed the "train track cleanup" line cutting short in the phone call to boss
 
 ## reserve3
 
