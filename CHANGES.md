@@ -16,6 +16,33 @@
 (https://github.com/loiste-interactive/infra-issues/issues/348))
 * Removed unnecessary crates from the sawmill
 
+## watertreatment
+
+* Added camera target to broken secondary clarifier(issue [#437]
+(https://github.com/loiste-interactive/infra-issues/issues/437))
+* Added camera target to broken window clarifier(issue [#433] 
+(https://github.com/loiste-interactive/infra-issues/issues/433))
+* Fixed the water sampler use highlights(issue [#453] 
+(https://github.com/loiste-interactive/infra-issues/issues/453))
+* Fixed too bright watertreatment log(issue [#440] 
+(https://github.com/loiste-interactive/infra-issues/issues/440))
+* Fixed light on alarm stays green when disarmed(issue [#439] 
+(https://github.com/loiste-interactive/infra-issues/issues/439))
+* Fixed blue tint in doorway(issue [#436] 
+(https://github.com/loiste-interactive/infra-issues/issues/436))
+* Fixed the gate ajar(issue [#412] 
+(https://github.com/loiste-interactive/infra-issues/issues/412))
+* Fixed blue screen computer(issue [#411] 
+(https://github.com/loiste-interactive/infra-issues/issues/411))
+* Fixed sample report(issue [#410] 
+(https://github.com/loiste-interactive/infra-issues/issues/410))
+* Fixed the missing valves(issue [#409] 
+(https://github.com/loiste-interactive/infra-issues/issues/409))
+* Fixed static door(issue [#408] 
+(https://github.com/loiste-interactive/infra-issues/issues/408))
+* Fixed the glowing mushrooms camera target(issue [#438] 
+(https://github.com/loiste-interactive/infra-issues/issues/438))
+
 # January 31st 2016 (Version 1.0.8)
 
 * Added "controller sensitivity" slider to the options menu
