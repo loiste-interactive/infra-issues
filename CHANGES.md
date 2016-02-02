@@ -4,6 +4,7 @@
 * Changed the player landing sound volume to be twice as loud
   * Was almost inaudible previously
   * Doesn't affect "rough landings" where the volume was okay
+* Changed the amount of lines shown by default in `developer` mode at the upper left corner from 8 to 32
 * Fixed a possible crash when transitioning from `office` to `reserve1` on low memory systems
 * Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time
 * Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time
