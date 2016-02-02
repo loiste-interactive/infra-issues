@@ -14,6 +14,10 @@
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Changed the sawmill lighting to be more realistic
+* Changed the texture of the note in the flooded sawmill basement
+  * Better text and handwritten now
+* Changed the texture of the switchyard breaker note
+  * Better text and handwritten now
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
@@ -28,6 +32,10 @@
 
 * Fixed stash & stash note lighting error (issue [#418] 
 (https://github.com/loiste-interactive/infra-issues/issues/418))
+* Changed the texture of the note in the caves
+  * Better text and handwritten now
+* Changed the texture of Erik's note in the control building
+  * Better text and handwritten now
 
 ## tunnel
 
@@ -35,6 +43,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/444))
 * Changed keypad screen to be off when there is no power (issue [#450]
 (https://github.com/loiste-interactive/infra-issue/450))
+* Changed the texture of the map
+  * Better text and handwritten now
 * Fixed some misaligned models
 * Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
@@ -44,11 +54,35 @@
 (https://github.com/loiste-interactive/infra-issues/issues/387))
 * Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
+* Fixed misaligned text on Hartman's note to Kleinmann
+
+## tunnel2
+
+* Changed the texture of the polluted water note
+  * Better text and handwritten now
+* Changed the texture of the note near the pools
+  * Better text and handwritten now
+
+## tunnel3
+
+* Fixed misaligned text on Erik's note to Robin
 
 ## tunnel4
 
 * Changed the paint on the keypad (issue [#396]
 (https://github.com/loiste-interactive/infra-issues/issues/396))
+* Changed the texture of the maintenance log
+  * Better text and handwritten now
+* Changed the texture of the generator G2 note
+  * Better text and handwritten now
+* Fixed misaligned text on Erik's note to Robin about the mushrooms
+
+## tower
+
+* Changed the texture of the binder in the tower
+  * Better text and handwritten now
+* Changed the texture of the "upper fuses" note
+  * Better text and handwritten now
 
 ## watertreatment
 
@@ -56,6 +90,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/437))
 * Added camera target to the broken window (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
+* Changed the texture of the maintenance log
+  * Better text and handwritten now
+* Changed the texture of the grit classifier note
+  * Better text and handwritten now
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
 * Fixed too bright watertreatment log (issue [#440] 
@@ -80,6 +118,10 @@
 ## sewer
 
 * Fixed an issue with the computer screens that was introduced in the last update
+
+## sewer2
+
+* Fixed misaligned text on the override button note
 
 # January 31st 2016 (Version 1.0.8)
 
