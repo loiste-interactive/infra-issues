@@ -32,6 +32,11 @@
 * Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
 
+## tunnel4
+
+* Changed the paint on the keypad(issue [#396]
+(https://github.com/loiste-interactive/infra-issues/issues/396))
+
 ## watertreatment
 
 * Added camera target to the broken secondary clarifier (issue [#437]
