@@ -69,6 +69,10 @@
 * Fixed the glowing mushrooms camera target having too small range (issue [#438] 
 (https://github.com/loiste-interactive/infra-issues/issues/438))
 
+## sewer
+
+* Fixed an issue with the computer screens that was introduced in the last update
+
 # January 31st 2016 (Version 1.0.8)
 
 * Added "controller sensitivity" slider to the options menu
