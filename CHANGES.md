@@ -34,7 +34,7 @@
 
 ## tunnel4
 
-* Changed the paint on the keypad(issue [#396]
+* Changed the paint on the keypad (issue [#396]
 (https://github.com/loiste-interactive/infra-issues/issues/396))
 
 ## watertreatment
