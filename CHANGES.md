@@ -18,45 +18,45 @@
 
 ## tunnel
 
-* Added more valve spots(issue [#444]
+* Added more valve spots (issue [#444]
 (https://github.com/loiste-interactive/infra-issues/issues/444))
-* Fixed misaligned digit on the keypad screen(issue [#446]
+* Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
-* Fixed camera target range(issue [#445]
+* Fixed camera target range (issue [#445]
 (https://github.com/loiste-interactive/infra-issues/issues/445))
-* Fixed the elevator monologue(issue [#387]
+* Fixed the elevator monologue (issue [#387]
 (https://github.com/loiste-interactive/infra-issues/issues/387))
-* Fixed lighting glitch(issue [#161]
+* Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
 * Fixed some misaligned models
-* Changed keypad sceen to be off when there is no power(issue [#450]
+* Changed keypad sceen to be off when there is no power (issue [#450]
 (https://github.com/loiste-interactive/infra-issue/450))
 
 ## watertreatment
 
-* Added camera target to broken secondary clarifier(issue [#437]
+* Added camera target to broken secondary clarifier (issue [#437]
 (https://github.com/loiste-interactive/infra-issues/issues/437))
-* Added camera target to broken window clarifier(issue [#433] 
+* Added camera target to broken window clarifier (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
-* Fixed the water sampler use highlights(issue [#453] 
+* Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
-* Fixed too bright watertreatment log(issue [#440] 
+* Fixed too bright watertreatment log (issue [#440] 
 (https://github.com/loiste-interactive/infra-issues/issues/440))
-* Fixed light on alarm stays green when disarmed(issue [#439] 
+* Fixed light on alarm stays green when disarmed (issue [#439] 
 (https://github.com/loiste-interactive/infra-issues/issues/439))
-* Fixed blue tint in doorway(issue [#436] 
+* Fixed blue tint in doorway (issue [#436] 
 (https://github.com/loiste-interactive/infra-issues/issues/436))
-* Fixed the gate ajar(issue [#412] 
+* Fixed the gate ajar (issue [#412] 
 (https://github.com/loiste-interactive/infra-issues/issues/412))
-* Fixed blue screen computer(issue [#411] 
+* Fixed blue screen computer (issue [#411] 
 (https://github.com/loiste-interactive/infra-issues/issues/411))
-* Fixed sample report(issue [#410] 
+* Fixed sample report (issue [#410] 
 (https://github.com/loiste-interactive/infra-issues/issues/410))
-* Fixed the missing valves(issue [#409] 
+* Fixed the missing valves (issue [#409] 
 (https://github.com/loiste-interactive/infra-issues/issues/409))
-* Fixed static door(issue [#408] 
+* Fixed static door (issue [#408] 
 (https://github.com/loiste-interactive/infra-issues/issues/408))
-* Fixed the glowing mushrooms camera target(issue [#438] 
+* Fixed the glowing mushrooms camera target (issue [#438] 
 (https://github.com/loiste-interactive/infra-issues/issues/438))
 
 # January 31st 2016 (Version 1.0.8)
