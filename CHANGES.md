@@ -15,6 +15,21 @@
 * Fixed low res reflections on the puddles (issue [#348] 
 (https://github.com/loiste-interactive/infra-issues/issues/348))
 * Removed unnecessary crates from the sawmill
+## tunnel
+
+* Added more valve spots(issue [#444]
+(https://github.com/loiste-interactive/infra-issues/issues/444))
+* Fixed misaligned digit on the keypad screen(issue [#446]
+(https://github.com/loiste-interactive/infra-issues/issues/446))
+* Fixed camera target range(issue [#445]
+(https://github.com/loiste-interactive/infra-issues/issues/445))
+* Fixed the elevator monologue(issue [#387]
+(https://github.com/loiste-interactive/infra-issues/issues/387))
+* Fixed lighting glitch(issue [#161]
+(https://github.com/loiste-interactive/infra-issues/issues/161))
+* Fixed some misaligned models
+* Changed keypad sceen to be off when there is no power(issue [#450]
+(https://github.com/loiste-interactive/infra-issue
 
 ## watertreatment
 
