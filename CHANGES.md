@@ -30,7 +30,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/161))
 * Fixed some misaligned models
 * Changed keypad sceen to be off when there is no power(issue [#450]
-(https://github.com/loiste-interactive/infra-issue
+(https://github.com/loiste-interactive/infra-issue/450))
 
 ## watertreatment
 
