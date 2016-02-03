@@ -91,9 +91,9 @@
   * Better text and handwritten now
 * Changed the texture of Erik's note in the control building
   * Better text and handwritten now
+* Fixed misaligned text on the stash note
 * Fixed stash & stash note lighting error (issue [#418] 
 (https://github.com/loiste-interactive/infra-issues/issues/418))
-* Fixed misaligned text on the stash note
 
 ## tunnel
 
