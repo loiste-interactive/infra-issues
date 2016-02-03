@@ -60,7 +60,7 @@
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
 
-# Upcoming In 1.0.9
+# February 3rd 2016 (Version 1.0.9)
 
 * Changed the player landing sound threshold so that it plays more often
 * Changed the player landing sound volume to be twice as loud
