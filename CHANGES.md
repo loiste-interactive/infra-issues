@@ -110,9 +110,9 @@
   * Better text and handwritten now
 * Changed the texture of the generator G2 note
   * Better text and handwritten now
-* Fixed misaligned text on Erik's note to Robin about the mushrooms
 * Changed the paint on the keypad (issue [#396]
 (https://github.com/loiste-interactive/infra-issues/issues/396))
+* Fixed misaligned text on Erik's note to Robin about the mushrooms
 
 ## tower
 
