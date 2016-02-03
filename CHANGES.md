@@ -71,10 +71,10 @@
 * Fixed a possible crash when transitioning from `office` to `reserve1` on low memory systems
 * Fixed the "Hartman's Speech" track erroneously titled as "Hartmann's Speech" on the soundtrack
 * Fixed several important documents and screens being blurry on the lowest graphics settings
-* Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time (issue [#431] 
-(https://github.com/loiste-interactive/infra-issues/issues/431))
 * Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time (issue [#417] 
 (https://github.com/loiste-interactive/infra-issues/issues/417))
+* Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time (issue [#431] 
+(https://github.com/loiste-interactive/infra-issues/issues/431))
 
 ## office
 
