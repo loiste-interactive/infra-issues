@@ -73,7 +73,7 @@
 
 ## office
 
-* Fixed erronenous word on a certain newspaper (issue [#449] 
+* Fixed erroneous word on a certain newspaper (issue [#449] 
 (https://github.com/loiste-interactive/infra-issues/issues/449))
 
 ## reserve2
