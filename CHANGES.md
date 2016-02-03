@@ -91,12 +91,14 @@
   * Better text and handwritten now
 * Fixed stash & stash note lighting error (issue [#418] 
 (https://github.com/loiste-interactive/infra-issues/issues/418))
+* Fixed misaligned text on the stash note
 
 ## tunnel
 
 * Changed the texture of the map
   * Better text and handwritten now
 * Fixed misaligned text on Hartman's note to Kleinmann
+* Fixed misaligned text on Erik's note to Robin
 
 ## tunnel2
 
@@ -104,6 +106,7 @@
   * Better text and handwritten now
 * Changed the texture of the note near the pools
   * Better text and handwritten now
+* Fixed misaligned text on Erik's note about Robin
 
 ## tunnel3
 
@@ -118,6 +121,7 @@
 * Changed the paint on the keypad (issue [#396]
 (https://github.com/loiste-interactive/infra-issues/issues/396))
 * Fixed misaligned text on Erik's note to Robin about the mushrooms
+* Fixed misaligned text on Kleinmann's note about the dynamite
 
 ## tower
 
