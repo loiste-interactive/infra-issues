@@ -1,7 +1,5 @@
 # Upcoming In 1.0.10
 
-* Added $nolod flags to readable documents which had it missing
-
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
@@ -73,6 +71,7 @@
 * Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time
 * Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time
 * Fixed the "Hartman's Speech" track erroneously titled as "Hartmann's Speech" on the soundtrack
+* Fixed several important documents and screens being blurry on the lowest graphics settings
 
 ## office
 
@@ -144,6 +143,8 @@
 
 ## sewer
 
+* Changed the texture of the tablets in the Hacker Den
+  * Improved text
 * Fixed an issue with the computer screens that was introduced in the last update
 
 ## sewer2
