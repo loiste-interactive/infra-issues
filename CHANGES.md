@@ -69,10 +69,12 @@
 * Changed batteries to use a bloated hitbox to make them easier to pick up from drawers
 * Changed the amount of lines shown by default in `developer` mode at the upper left corner from 8 to 32
 * Fixed a possible crash when transitioning from `office` to `reserve1` on low memory systems
-* Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time
-* Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time
 * Fixed the "Hartman's Speech" track erroneously titled as "Hartmann's Speech" on the soundtrack
 * Fixed several important documents and screens being blurry on the lowest graphics settings
+* Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time (issue [#431] 
+(https://github.com/loiste-interactive/infra-issues/issues/431))
+* Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time (issue [#417] 
+(https://github.com/loiste-interactive/infra-issues/issues/417))
 
 ## office
 
