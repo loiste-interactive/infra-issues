@@ -127,6 +127,8 @@
   * Better text and handwritten now
 * Changed the texture of the grit classifier note
   * Better text and handwritten now
+* Fixed spelling errors on the newspaper (issue [#459]
+(https://github.com/loiste-interactive/infra-issues/issues/459))
 
 ## sewer
 
