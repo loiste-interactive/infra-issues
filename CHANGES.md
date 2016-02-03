@@ -70,6 +70,7 @@
 * Fixed a possible crash when transitioning from `office` to `reserve1` on low memory systems
 * Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time
 * Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time
+* Fixed the "Hartman's Speech" track erroneously titled as "Hartmann's Speech" on the soundtrack
 
 ## office
 
