@@ -71,6 +71,11 @@
 * Fixed a rare crash when transitioning from `reserve1` to `reserve2` after playing for an extended period of time
 * Fixed a rare crash when transitioning from `tower` to `watertreatment` after playing for an extended period of time
 
+## office
+
+* Fixed erronenous word on a certain newspaper (issue [#449] 
+(https://github.com/loiste-interactive/infra-issues/issues/449))
+
 ## reserve2
 
 * Changed the texture of the note in the flooded sawmill basement
