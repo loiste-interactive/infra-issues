@@ -37,31 +37,31 @@
 
 ## reserve3
 
-* Fixed stash & stash note lighting error (issue [#418] 
-(https://github.com/loiste-interactive/infra-issues/issues/418))
 * Changed the texture of the note in the caves
   * Better text and handwritten now
 * Changed the texture of Erik's note in the control building
   * Better text and handwritten now
+* Fixed stash & stash note lighting error (issue [#418] 
+(https://github.com/loiste-interactive/infra-issues/issues/418))
 
 ## tunnel
 
 * Added more valve spots (issue [#444]
 (https://github.com/loiste-interactive/infra-issues/issues/444))
-* Changed keypad screen to be off when there is no power (issue [#450]
-(https://github.com/loiste-interactive/infra-issue/450))
 * Changed the texture of the map
   * Better text and handwritten now
+* Changed keypad screen to be off when there is no power (issue [#450]
+(https://github.com/loiste-interactive/infra-issue/450))
 * Fixed some misaligned models
-* Fixed misaligned digit on the keypad screen (issue [#446]
-(https://github.com/loiste-interactive/infra-issues/issues/446))
-* Fixed certain camera target having too small range (issue [#445]
-(https://github.com/loiste-interactive/infra-issues/issues/445))
-* Fixed the elevator monologue (issue [#387]
-(https://github.com/loiste-interactive/infra-issues/issues/387))
+* Fixed misaligned text on Hartman's note to Kleinmann
 * Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
-* Fixed misaligned text on Hartman's note to Kleinmann
+* Fixed the elevator monologue (issue [#387]
+(https://github.com/loiste-interactive/infra-issues/issues/387))
+* Fixed certain camera target having too small range (issue [#445]
+(https://github.com/loiste-interactive/infra-issues/issues/445))
+* Fixed misaligned digit on the keypad screen (issue [#446]
+(https://github.com/loiste-interactive/infra-issues/issues/446))
 
 ## tunnel2
 
@@ -76,13 +76,13 @@
 
 ## tunnel4
 
-* Changed the paint on the keypad (issue [#396]
-(https://github.com/loiste-interactive/infra-issues/issues/396))
 * Changed the texture of the maintenance log
   * Better text and handwritten now
 * Changed the texture of the generator G2 note
   * Better text and handwritten now
 * Fixed misaligned text on Erik's note to Robin about the mushrooms
+* Changed the paint on the keypad (issue [#396]
+(https://github.com/loiste-interactive/infra-issues/issues/396))
 
 ## tower
 
@@ -93,34 +93,34 @@
 
 ## watertreatment
 
-* Added camera target to the broken secondary clarifier (issue [#437]
-(https://github.com/loiste-interactive/infra-issues/issues/437))
 * Added camera target to the broken window (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
+* Added camera target to the broken secondary clarifier (issue [#437]
+(https://github.com/loiste-interactive/infra-issues/issues/437))
 * Changed the texture of the maintenance log
   * Better text and handwritten now
 * Changed the texture of the grit classifier note
   * Better text and handwritten now
-* Fixed the water sampler use highlights (issue [#453] 
-(https://github.com/loiste-interactive/infra-issues/issues/453))
-* Fixed too bright watertreatment log (issue [#440] 
-(https://github.com/loiste-interactive/infra-issues/issues/440))
-* Fixed light on alarm staying green when disarmed (issue [#439] 
-(https://github.com/loiste-interactive/infra-issues/issues/439))
-* Fixed blue tint in doorway (issue [#436] 
-(https://github.com/loiste-interactive/infra-issues/issues/436))
-* Fixed the gate being ajar to the wrong side (issue [#412] 
-(https://github.com/loiste-interactive/infra-issues/issues/412))
-* Fixed blue screen computer not being usable (issue [#411] 
-(https://github.com/loiste-interactive/infra-issues/issues/411))
-* Fixed sample report being finicky (issue [#410] 
-(https://github.com/loiste-interactive/infra-issues/issues/410))
-* Fixed the missing valves(issue [#409] 
-(https://github.com/loiste-interactive/infra-issues/issues/409))
 * Fixed a door turning static when transitioning from `tower` (issue [#408] 
 (https://github.com/loiste-interactive/infra-issues/issues/408))
+* Fixed the missing valves(issue [#409] 
+(https://github.com/loiste-interactive/infra-issues/issues/409))
+* Fixed sample report being finicky (issue [#410] 
+(https://github.com/loiste-interactive/infra-issues/issues/410))
+* Fixed blue screen computer not being usable (issue [#411] 
+(https://github.com/loiste-interactive/infra-issues/issues/411))
+* Fixed the gate being ajar to the wrong side (issue [#412] 
+(https://github.com/loiste-interactive/infra-issues/issues/412))
+* Fixed blue tint in doorway (issue [#436] 
+(https://github.com/loiste-interactive/infra-issues/issues/436))
 * Fixed the glowing mushrooms camera target having too small range (issue [#438] 
 (https://github.com/loiste-interactive/infra-issues/issues/438))
+* Fixed light on alarm staying green when disarmed (issue [#439] 
+(https://github.com/loiste-interactive/infra-issues/issues/439))
+* Fixed too bright watertreatment log (issue [#440] 
+(https://github.com/loiste-interactive/infra-issues/issues/440))
+* Fixed the water sampler use highlights (issue [#453] 
+(https://github.com/loiste-interactive/infra-issues/issues/453))
 
 ## sewer
 
