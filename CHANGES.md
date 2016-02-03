@@ -1,5 +1,7 @@
 # Upcoming In 1.0.10
 
+* Added $nolod flags to readable documents which had it missing
+
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
