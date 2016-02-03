@@ -6,10 +6,6 @@
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Changed the sawmill lighting to be more realistic
-* Changed the texture of the note in the flooded sawmill basement
-  * Better text and handwritten now
-* Changed the texture of the switchyard breaker note
-  * Better text and handwritten now
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
