@@ -3,7 +3,8 @@
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
-* Added a security checkpoint next to the elevator on the dam
+* Added a new room to the dam
+   * A security checkpoint next to the elevator exit, houses new puzzle elements
 * Added a new door control mechanism to the dam
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
