@@ -8,6 +8,8 @@
 * Added a new door control mechanism to the dam
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
+* Added new particles to the switchyard
+* Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
 * Fixed tree fading out noticeably (issue [#262] 
