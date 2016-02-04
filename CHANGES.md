@@ -9,6 +9,8 @@
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
 * Added new particles to the switchyard
+* Added camera target to the broken birdwatching tower (issue [#426] 
+(https://github.com/loiste-interactive/infra-issues/issues/426))
 * Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
