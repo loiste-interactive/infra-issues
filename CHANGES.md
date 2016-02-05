@@ -1,4 +1,4 @@
-# Upcoming In 1.0.10
+# Upcoming In 1.0.11
 
 ## reserve2
 
@@ -70,6 +70,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/440))
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
+
+# Upcoming In 1.0.10
+
+* Fixed erroneously shipping debug versions of certain binaries
 
 # February 3rd 2016 (Version 1.0.9)
 
