@@ -71,7 +71,7 @@
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
 
-# Upcoming In 1.0.10
+# February 5th 2016 (Version 1.0.10)
 
 * Fixed erroneously shipping debug versions of certain binaries
 
