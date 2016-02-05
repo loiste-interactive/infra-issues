@@ -1,5 +1,9 @@
 # Upcoming In 1.0.11
 
+* Added a hint explaining the camera focus rectangle
+* Added a hint explaining the camera successful picture sound
+* Fixed multiline captions for hints
+
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
