@@ -22,6 +22,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/337))
 * Fixed low res reflections on the puddles (issue [#348] 
 (https://github.com/loiste-interactive/infra-issues/issues/348))
+* Fixed the rock ramp at the end of the level being finicky to climb back up (issue [#447] 
+(https://github.com/loiste-interactive/infra-issues/issues/47))
 * Removed unnecessary crates from the sawmill
 
 ## tunnel
