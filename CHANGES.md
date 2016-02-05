@@ -6,7 +6,8 @@
 
 ## reserve1
 
-* Fixed flickering particles
+* Fixed flickering water splash particles at the power plant
+* Fixed the fuse particles at the power plant clipping through nearby geometry
 
 ## reserve2
 
