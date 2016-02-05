@@ -7,6 +7,11 @@
 * Fixed flickering water splash particles (issue [#240] 
 (https://github.com/loiste-interactive/infra-issues/issues/240))
 
+## reserve1
+
+* Fixed overlapping subtitles in the phone call to boss
+* Fixed the timing of a specific subtitle in the phone call to boss
+
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
