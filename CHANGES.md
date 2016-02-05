@@ -3,11 +3,9 @@
 * Added a hint explaining the camera focus rectangle
 * Added a hint explaining the camera successful picture sound
 * Fixed multiline captions for hints
-
-## reserve1
-
-* Fixed flickering water splash particles at the power plant
-* Fixed the fuse particles at the power plant clipping through nearby geometry
+* Fixed electrical glow particles clipping through nearby geometry
+* Fixed flickering water splash particles (issue [#240] 
+(https://github.com/loiste-interactive/infra-issues/issues/240))
 
 ## reserve2
 
@@ -23,8 +21,6 @@
 * Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
-* Fixed flickering particles (issue [#240] 
-(https://github.com/loiste-interactive/infra-issues/issues/240))
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
