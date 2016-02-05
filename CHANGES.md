@@ -4,6 +4,10 @@
 * Added a hint explaining the camera successful picture sound
 * Fixed multiline captions for hints
 
+## reserve1
+
+* Fixed flickering particles
+
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
@@ -18,6 +22,8 @@
 * Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
+* Fixed flickering particles (issue [#240] 
+(https://github.com/loiste-interactive/infra-issues/issues/240))
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
