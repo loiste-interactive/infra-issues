@@ -40,6 +40,9 @@
 (https://github.com/loiste-interactive/infra-issues/issues/428))
 * Fixed the rock ramp at the end of the level being finicky to climb back up (issue [#447] 
 (https://github.com/loiste-interactive/infra-issues/issues/447))
+* Fixed bunch of floating objects (issue [#474] 
+(https://github.com/loiste-interactive/infra-issues/issues/474) and issue [#476] 
+(https://github.com/loiste-interactive/infra-issues/issues/476))
 * Removed unnecessary crates from the sawmill
 
 ## tunnel
