@@ -4,6 +4,8 @@
 * Added a hint explaining the camera successful picture sound
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
+* Fixed the down arrow and right arrow icons being the wrong way around in the options menu
+* Fixed the options menu not binding the right shift and right control keys along with the shift and control keys
 * Fixed flickering water splash particles (issue [#240] 
 (https://github.com/loiste-interactive/infra-issues/issues/240))
 
