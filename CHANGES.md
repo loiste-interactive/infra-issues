@@ -40,6 +40,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/337))
 * Fixed low res reflections on the puddles (issue [#348] 
 (https://github.com/loiste-interactive/infra-issues/issues/348))
+* Fixed the broken wires being unphotographable when too close (issue [#425] 
+(https://github.com/loiste-interactive/infra-issues/issues/425))
 * Fixed water particles clipping throught the wall (issue [#428] 
 (https://github.com/loiste-interactive/infra-issues/issues/428))
 * Fixed the rock ramp at the end of the level being finicky to climb back up (issue [#447] 
