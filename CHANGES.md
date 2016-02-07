@@ -2,6 +2,8 @@
 
 * Added a hint explaining the camera focus rectangle
 * Added a hint explaining the camera successful picture sound
+* Added a different death sound for dying in water
+* Added a different death sound for dying in electrified water
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
 * Fixed the down arrow and right arrow icons being the wrong way around in the options menu
