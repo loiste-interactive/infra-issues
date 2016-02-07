@@ -29,6 +29,7 @@
 * Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
+* Fixed the achievement `Step and Jump` being unlockable even when the power was off
 * Fixed tree fading out noticeably (issue [#262] 
 (https://github.com/loiste-interactive/infra-issues/issues/262))
 * Fixed problem with certain locked door (issue [#299] 
