@@ -44,6 +44,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/428))
 * Fixed the rock ramp at the end of the level being finicky to climb back up (issue [#447] 
 (https://github.com/loiste-interactive/infra-issues/issues/447))
+* Fixed the note on the exit gate interupting the gate opreation (issue [#467] 
+(https://github.com/loiste-interactive/infra-issues/issues/467))
 * Fixed player getting stuck between the rocks near the forest guard's cabin (issue [#473] 
 (https://github.com/loiste-interactive/infra-issues/issues/473))
 * Fixed bunch of floating objects (issue [#474] 
