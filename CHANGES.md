@@ -5,7 +5,7 @@
 * Added a different death sound for dying in water
 * Added a different death sound for dying in electrified water
 * Added a break sound for a certain glass bottle model
-* Added dynamic lighting for the water impact particle effects
+* Added dynamic lighting of the water impact particle effects
 * Changed the impact sound for the brick model
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
