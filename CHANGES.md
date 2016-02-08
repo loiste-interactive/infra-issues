@@ -4,12 +4,15 @@
 * Added a hint explaining the camera successful picture sound
 * Added a different death sound for dying in water
 * Added a different death sound for dying in electrified water
+* Added a break sound for a certain glass bottle model
+* Changed the impact sound for the brick model
+* Changed all maps in chapter 3 to use a darker variant of the water splash & ripple effect for physics props
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
 * Fixed the down arrow and right arrow icons being the wrong way around in the options menu
 * Fixed the options menu not binding the right shift and right control keys along with the left shift and left control keys
 * Fixed a certain glass bottle model not floating on water
-* Fixed water splash and ripple effects almost never occurring with physics props
+* Fixed water splash & ripple effects almost never occurring with physics props
 * Fixed flickering water splash particles (issue [#240] 
 (https://github.com/loiste-interactive/infra-issues/issues/240))
 
