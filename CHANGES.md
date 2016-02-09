@@ -9,6 +9,7 @@
 * Added quick save and quick load to the controls in the options menu
 * Changed the impact sound for the brick model
 * Changed the default binding for quick load from F7 to F9
+* Changed the amount of characters that the developer console can hold from 65536 to 131072
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
 * Fixed the down arrow and right arrow icons being the wrong way around in the options menu
