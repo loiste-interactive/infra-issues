@@ -6,7 +6,7 @@
 * Added a different death sound for dying in electrified water
 * Added a break sound for a certain glass bottle model
 * Added dynamic lighting of the water impact particle effects
-* Added quick save and quick load keys to the controls in the options menu
+* Added quick save and quick load to the controls in the options menu
 * Changed the impact sound for the brick model
 * Changed the default binding for quick load from F7 to F9
 * Fixed multiline captions for hints
