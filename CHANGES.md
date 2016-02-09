@@ -7,6 +7,7 @@
 * Added a break sound for a certain glass bottle model
 * Added dynamic lighting of the water impact particle effects
 * Changed the impact sound for the brick model
+* Changed the default binding for quick load from F7 to F9
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
 * Fixed the down arrow and right arrow icons being the wrong way around in the options menu
