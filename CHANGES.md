@@ -20,6 +20,13 @@
 * Fixed flickering water splash particles (issue [#240] 
 (https://github.com/loiste-interactive/infra-issues/issues/240))
 
+## office
+
+* Changed Carla's textures
+* Changed the randomization of the generic office workers
+  * Their hair texture and normal map are now randomized instead of simply tinting the hair
+  * Their skin texture and normal map are now randomized instead of simply tinting the skin
+
 ## reserve1
 
 * Fixed overlapping subtitles in the phone call to boss
