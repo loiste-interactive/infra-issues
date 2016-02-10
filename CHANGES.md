@@ -142,6 +142,13 @@
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
 
+## sewer
+
+* Fixed the debris collisions at the start of sewer (issue [#381] 
+(https://github.com/loiste-interactive/infra-issues/issues/381))
+* Fixed player complains about deep water just before the end (issue [#370] 
+(https://github.com/loiste-interactive/infra-issues/issues/370))
+
 # February 5th 2016 (Version 1.0.10)
 
 * Fixed erroneously shipping debug versions of certain binaries
