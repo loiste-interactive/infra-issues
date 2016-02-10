@@ -95,6 +95,8 @@
 
 * Added an autosave to corruption document (issue [#390] 
 (https://github.com/loiste-interactive/infra-issues/issues/390))
+* Fixed the catwalk camera target having too large range (issue [#389]
+(https://github.com/loiste-interactive/infra-issues/issues/389))
 
 ## tunnel4
 
