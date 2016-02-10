@@ -93,8 +93,8 @@
 
 * Added functional light switch to office (issue [#394] 
 (https://github.com/loiste-interactive/infra-issues/issues/394))
-* Added button sounds to alarm keypad (issue [#370] 
-(https://github.com/loiste-interactive/infra-issues/issues/370))
+* Added button sounds to alarm keypad when it's off(issue [#470] 
+(https://github.com/loiste-interactive/infra-issues/issues/470))
 * Fixed the junk collisions near water (issue [#393] 
 (https://github.com/loiste-interactive/infra-issues/issues/393))
 * Fixed a lever sound (issue [#400] 
