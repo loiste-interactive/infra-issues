@@ -93,13 +93,13 @@
 
 * Added functional light switch to office (issue [#394] 
 (https://github.com/loiste-interactive/infra-issues/issues/394))
-* Fixed the junk collisions near water(issue [#393] 
+* Fixed the junk collisions near water (issue [#393] 
 (https://github.com/loiste-interactive/infra-issues/issues/393))
-* Fixed a lever sound(issue [#400] 
+* Fixed a lever sound (issue [#400] 
 (https://github.com/loiste-interactive/infra-issues/issues/400))
-* Fixed raft keeps emitting particles after it breaks(issue [#392] 
+* Fixed raft keeps emitting particles after it breaks (issue [#392] 
 (https://github.com/loiste-interactive/infra-issues/issues/392))
-* Removed red indicator light(issue [#454] 
+* Removed red indicator light (issue [#454] 
 (https://github.com/loiste-interactive/infra-issues/issues/454))
 
 ## watertreatment
