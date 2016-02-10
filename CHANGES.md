@@ -91,6 +91,11 @@
 * Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
 
+## tunnel 3
+
+* Added an autosave to corruption document (issue [#390] 
+(https://github.com/loiste-interactive/infra-issues/issues/390))
+
 ## tunnel4
 
 * Added button sounds to alarm keypad when it's off (issue [#470] 
