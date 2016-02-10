@@ -97,6 +97,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/437))
 * Fixed a door turning static when transitioning from `tower` (issue [#408] 
 (https://github.com/loiste-interactive/infra-issues/issues/408))
+* Fixed floating prop(issue [#479] 
+(https://github.com/loiste-interactive/infra-issues/issues/479))
 * Fixed the missing valves(issue [#409] 
 (https://github.com/loiste-interactive/infra-issues/issues/409))
 * Fixed sample report being finicky (issue [#410] 
