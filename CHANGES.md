@@ -31,6 +31,7 @@
 
 * Fixed overlapping subtitles in the phone call to boss
 * Fixed the timing of a specific subtitle in the phone call to boss
+* Removed invisible walls
 
 ## reserve2
 
