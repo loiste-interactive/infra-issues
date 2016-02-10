@@ -38,7 +38,7 @@
 * Added a hint for the climb button to the elevator part
 * Added a new rooms to the dam
    * A security checkpoint next to the elevator exit, houses new puzzle elements
-   * A tunnel leading from the control room, collapsed
+   * A collapsed tunnel leading from the control room
 * Added a new door control mechanism to the dam
 * Added new particles to the switchyard
 * Added a new room to the sawmill
