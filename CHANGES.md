@@ -75,6 +75,8 @@
 
 ## tunnel
 
+* Added button sounds to alarm keypad when it's off (issue [#471] 
+(https://github.com/loiste-interactive/infra-issues/issues/471))
 * Added more valve spots (issue [#444]
 (https://github.com/loiste-interactive/infra-issues/issues/444))
 * Changed keypad screen to be off when there is no power (issue [#450]
@@ -91,10 +93,10 @@
 
 ## tunnel4
 
+* Added button sounds to alarm keypad when it's off (issue [#470] 
+(https://github.com/loiste-interactive/infra-issues/issues/470))
 * Added functional light switch to office (issue [#394] 
 (https://github.com/loiste-interactive/infra-issues/issues/394))
-* Added button sounds to alarm keypad when it's off(issue [#470] 
-(https://github.com/loiste-interactive/infra-issues/issues/470))
 * Fixed the junk collisions near water (issue [#393] 
 (https://github.com/loiste-interactive/infra-issues/issues/393))
 * Fixed a lever sound (issue [#400] 
