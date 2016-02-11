@@ -48,9 +48,9 @@
 (https://github.com/loiste-interactive/infra-issues/issues/426) and issue [#469] 
 (https://github.com/loiste-interactive/infra-issues/issues/469))
 * Changed the dam to be fully repairable
+   * Changed the way the switchyard breaker works
    * Moved the sluice gate control panel to the control room
      * Changed the way the panel functions
-   * Changed the way the switchyard breaker works
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
 * Fixed the achievement `Step and Jump` being unlockable even when the power was off
