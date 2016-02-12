@@ -1,24 +1,4 @@
-# Upcoming In 1.0.11
-
-* Added a hint explaining the camera focus rectangle
-* Added a hint explaining the camera successful picture sound
-* Added a different death sound for dying in water
-* Added a different death sound for dying in electrified water
-* Added a break sound for a certain glass bottle model
-* Added dynamic lighting of the water impact particle effects
-* Added quick save and quick load to the controls in the options menu
-* Changed the impact sound for the brick model
-* Changed the default binding for quick load from F7 to F9
-* Changed the amount of characters that the developer console can hold from 65536 to 131072
-* Fixed multiline captions for hints
-* Fixed electrical glow particles clipping through nearby geometry
-* Fixed the down arrow and right arrow icons being the wrong way around in the options menu
-* Fixed the options menu not binding the right shift and right control keys along with the left shift and left control keys
-* Fixed a certain glass bottle model not floating on water
-* Fixed water impact effects almost never occurring with physics props
-* Fixed a missing texture on the spark particle effect when the player dies of electrocution
-* Fixed flickering water splash particles (issue [#240] 
-(https://github.com/loiste-interactive/infra-issues/issues/240))
+# Upcoming in 1.1.0
 
 ## office
 
@@ -97,7 +77,7 @@
 * Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
 
-## tunnel 3
+## tunnel3
 
 * Added an autosave to corruption document (issue [#390] 
 (https://github.com/loiste-interactive/infra-issues/issues/390))
@@ -156,6 +136,28 @@
 (https://github.com/loiste-interactive/infra-issues/issues/381))
 * Fixed player complains about deep water just before the end (issue [#370] 
 (https://github.com/loiste-interactive/infra-issues/issues/370))
+
+# Upcoming In 1.0.11
+
+* Added a hint explaining the camera focus rectangle
+* Added a hint explaining the camera successful picture sound
+* Added a different death sound for dying in water
+* Added a different death sound for dying in electrified water
+* Added a break sound for a certain glass bottle model
+* Added dynamic lighting of the water impact particle effects
+* Added quick save and quick load to the controls in the options menu
+* Changed the impact sound for the brick model
+* Changed the default binding for quick load from F7 to F9
+* Changed the amount of characters that the developer console can hold from 65536 to 131072
+* Fixed multiline captions for hints
+* Fixed electrical glow particles clipping through nearby geometry
+* Fixed the down arrow and right arrow icons being the wrong way around in the options menu
+* Fixed the options menu not binding the right shift and right control keys along with the left shift and left control keys
+* Fixed a certain glass bottle model not floating on water
+* Fixed water impact effects almost never occurring with physics props
+* Fixed a missing texture on the spark particle effect when the player dies of electrocution
+* Fixed flickering water splash particles (issue [#240] 
+(https://github.com/loiste-interactive/infra-issues/issues/240))
 
 # February 5th 2016 (Version 1.0.10)
 
