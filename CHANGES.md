@@ -3,9 +3,12 @@
 ## office
 
 * Changed Carla's textures
+* Changed Steve to use different textures
+* Changed Amit to use different textures
 * Changed the randomization of the generic office workers
   * Their hair texture and normal map are now randomized instead of simply tinting the hair
   * Their skin texture and normal map are now randomized instead of simply tinting the skin
+* Fixed the boss's eyes sometimes randomly changing color
 
 ## reserve1
 
