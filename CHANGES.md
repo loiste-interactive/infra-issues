@@ -140,16 +140,16 @@
 * Fixed player complains about deep water just before the end (issue [#370] 
 (https://github.com/loiste-interactive/infra-issues/issues/370))
 
-# Upcoming In 1.0.11
+# February 15th 2016 (Version 1.0.11)
 
 * Added a hint explaining the camera focus rectangle
 * Added a hint explaining the camera successful picture sound
 * Added a different death sound for dying in water
 * Added a different death sound for dying in electrified water
-* Added a break sound for a certain glass bottle model
 * Added dynamic lighting of the water impact particle effects
 * Added quick save and quick load to the controls in the options menu
-* Changed the impact sound for the brick model
+* Changed the break sound of a certain glass bottle model
+* Changed the impact sound of the brick model
 * Changed the default binding for quick load from F7 to F9
 * Changed the default binding for crouch to also include right control
 * Changed the default binding for sprint to also include right shift
