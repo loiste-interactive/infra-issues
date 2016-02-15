@@ -151,6 +151,9 @@
 * Added quick save and quick load to the controls in the options menu
 * Changed the impact sound for the brick model
 * Changed the default binding for quick load from F7 to F9
+* Changed the default binding for crouch to also include right control
+* Changed the default binding for sprint to also include right shift
+* Changed the hint display to not display the control and shift keys twice if also bound to right control and right shift
 * Changed the amount of characters that the developer console can hold from 65536 to 131072
 * Fixed multiline captions for hints
 * Fixed electrical glow particles clipping through nearby geometry
@@ -161,6 +164,8 @@
 * Fixed a missing texture on the spark particle effect when the player dies of electrocution
 * Fixed flickering water splash particles (issue [#240] 
 (https://github.com/loiste-interactive/infra-issues/issues/240))
+* Fixed the female arms crossed animation partially (issue [#377] 
+(https://github.com/loiste-interactive/infra-issues/issues/377))
 
 # February 5th 2016 (Version 1.0.10)
 
