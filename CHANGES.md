@@ -62,6 +62,11 @@
 (https://github.com/loiste-interactive/infra-issues/issues/476))
 * Removed unnecessary crates from the sawmill
 
+## reserve3
+
+* Fixed the broken window collision model (issue [#481]
+(https://github.com/loiste-interactive/infra-issues/issues/481))
+
 ## tunnel
 
 * Added button sounds to alarm keypad when it's off (issue [#471] 
