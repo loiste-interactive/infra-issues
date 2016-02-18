@@ -3,6 +3,7 @@
 ## office
 
 * Changed Carla's textures
+* Changed lighting of some office rooms
 * Changed Steve to use different textures
 * Changed Amit to use different textures
 * Changed the randomization of the generic office workers
