@@ -20,14 +20,14 @@
 ## reserve2
 
 * Added a hint for the climb button to the elevator part
-* Added a new rooms to the dam
+* Added new rooms to the dam
    * A security checkpoint next to the elevator exit, houses new puzzle elements
    * A collapsed tunnel leading from the control room
 * Added a new door control mechanism to the dam
 * Added new particles to the switchyard
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
-* Added new achievement when fixing the dam
+* Added a new achievement when fixing the dam
 * Added missing camera targets (issue [#426] 
 (https://github.com/loiste-interactive/infra-issues/issues/426) and issue [#469] 
 (https://github.com/loiste-interactive/infra-issues/issues/469))
