@@ -104,10 +104,15 @@
 
 ## watertreatment
 
+* Added new grit classifier puzzle
+* Added valves to sewer pipe building
 * Added camera target to the broken window (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
 * Added camera target to the broken secondary clarifier (issue [#437]
 (https://github.com/loiste-interactive/infra-issues/issues/437))
+* Added camera target to the tablet (issue [#486]
+(https://github.com/loiste-interactive/infra-issues/issues/486))
+* Changed blower building route
 * Changed the white keycard location (issue [#460]
 (https://github.com/loiste-interactive/infra-issues/issues/460))
 * Fixed a door turning static when transitioning from `tower` (issue [#408] 
