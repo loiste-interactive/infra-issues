@@ -130,6 +130,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/339))
 * Fixed the floating door (issue [#407] 
 (https://github.com/loiste-interactive/infra-issues/issues/407))
+* Fixed sparks from fuses clip through several levels (issue [#357] 
+(https://github.com/loiste-interactive/infra-issues/issues/357))
 * Changed floor crap (issue [#405] 
 (https://github.com/loiste-interactive/infra-issues/issues/405))
 
