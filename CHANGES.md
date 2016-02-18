@@ -84,6 +84,8 @@
 
 * Added camera target to the newspaper (issue [#483] 
 (https://github.com/loiste-interactive/infra-issues/issues/483))
+* Fixed the door magically locks behind the player at the start of map (issue [#458] 
+(https://github.com/loiste-interactive/infra-issues/issues/458))
 
 ## tunnel3
 
