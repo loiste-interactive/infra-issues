@@ -64,6 +64,8 @@
 
 ## reserve3
 
+* Added playerclip to concrete barrier(issue [#385]
+(https://github.com/loiste-interactive/infra-issues/issues/385))
 * Fixed the broken window collision model (issue [#481]
 (https://github.com/loiste-interactive/infra-issues/issues/481))
 * Changed the flood door to slide down(issue [#457]
