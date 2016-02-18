@@ -66,6 +66,8 @@
 
 * Fixed the broken window collision model (issue [#481]
 (https://github.com/loiste-interactive/infra-issues/issues/481))
+* Changed the flood door to slide down(issue [#457]
+(https://github.com/loiste-interactive/infra-issues/issues/457))
 
 ## tunnel
 
