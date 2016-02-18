@@ -86,6 +86,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/390))
 * Fixed the catwalk camera target having too large range (issue [#389]
 (https://github.com/loiste-interactive/infra-issues/issues/389))
+* Fixed three different documents count as one camera target (issue [#488]
+(https://github.com/loiste-interactive/infra-issues/issues/488))
 
 ## tunnel4
 
