@@ -124,6 +124,15 @@
 * Removed red indicator light (issue [#454] 
 (https://github.com/loiste-interactive/infra-issues/issues/454))
 
+## tower
+
+* Fixed door sounds (issue [#339] 
+(https://github.com/loiste-interactive/infra-issues/issues/339))
+* Fixed the floating door (issue [#407] 
+(https://github.com/loiste-interactive/infra-issues/issues/407))
+* Changed floor crap (issue [#405] 
+(https://github.com/loiste-interactive/infra-issues/issues/405))
+
 ## watertreatment
 
 * Added new grit classifier puzzle
