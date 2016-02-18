@@ -64,6 +64,8 @@
 
 ## reserve3
 
+* Added more playerclips to the cliff path (issue [#482]
+(https://github.com/loiste-interactive/infra-issues/issues/482))
 * Added playerclip to concrete barrier(issue [#385]
 (https://github.com/loiste-interactive/infra-issues/issues/385))
 * Fixed the broken window collision model (issue [#481]
