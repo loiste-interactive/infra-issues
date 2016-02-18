@@ -70,6 +70,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/444))
 * Changed keypad screen to be off when there is no power (issue [#450]
 (https://github.com/loiste-interactive/infra-issue/450))
+* Fixed missing autosave (issue [#490] 
+(https://github.com/loiste-interactive/infra-issues/issues/490))
 * Fixed some misaligned models
 * Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
