@@ -80,6 +80,11 @@
 * Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
 
+## tunnel2
+
+* Added camera target to the newspaper (issue [#483] 
+(https://github.com/loiste-interactive/infra-issues/issues/483))
+
 ## tunnel3
 
 * Added an autosave to corruption document (issue [#390] 
