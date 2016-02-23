@@ -25,7 +25,9 @@
 * Added new rooms to the dam
    * A security checkpoint next to the elevator exit, houses new puzzle elements
    * A collapsed tunnel leading from the control room
+   * A laboratory to the Western side of the dam
 * Added a new door control mechanism to the dam
+* Added new camera targets to the dam
 * Added new particles to the switchyard
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
@@ -37,6 +39,7 @@
    * Changed the way the switchyard breaker works
    * Moved the sluice gate control panel to the control room
      * Changed the way the panel functions
+* Changed the layout of the Western side of the dam
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
 * Fixed the achievement `Step and Jump` being unlockable even when the power was off
