@@ -1,5 +1,7 @@
 # Upcoming in 1.1.0
 
+* Changed player's voice
+
 ## office
 
 * Changed Carla's textures
@@ -182,6 +184,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/381))
 * Fixed player complains about deep water just before the end (issue [#370] 
 (https://github.com/loiste-interactive/infra-issues/issues/370))
+
+## sewer2
+
+* Added player monologue when triggering the event
 
 # February 15th 2016 (Version 1.0.11)
 
