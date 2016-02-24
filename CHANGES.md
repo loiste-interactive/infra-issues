@@ -126,30 +126,30 @@
 (https://github.com/loiste-interactive/infra-issues/issues/470))
 * Added functional light switch to office (issue [#394] 
 (https://github.com/loiste-interactive/infra-issues/issues/394))
+* Fixed raft keeps emitting particles after it breaks (issue [#392] 
+(https://github.com/loiste-interactive/infra-issues/issues/392))
 * Fixed the junk collisions near water (issue [#393] 
 (https://github.com/loiste-interactive/infra-issues/issues/393))
 * Fixed a lever sound (issue [#400] 
 (https://github.com/loiste-interactive/infra-issues/issues/400))
-* Fixed raft keeps emitting particles after it breaks (issue [#392] 
-(https://github.com/loiste-interactive/infra-issues/issues/392))
 * Removed red indicator light (issue [#454] 
 (https://github.com/loiste-interactive/infra-issues/issues/454))
 
 ## tower
 
-* Fixed door sounds (issue [#339] 
-(https://github.com/loiste-interactive/infra-issues/issues/339))
-* Fixed the floating door (issue [#407] 
-(https://github.com/loiste-interactive/infra-issues/issues/407))
-* Fixed sparks from fuses clip through several levels (issue [#357] 
-(https://github.com/loiste-interactive/infra-issues/issues/357))
 * Changed floor crap (issue [#405] 
 (https://github.com/loiste-interactive/infra-issues/issues/405))
+* Fixed door sounds (issue [#339] 
+(https://github.com/loiste-interactive/infra-issues/issues/339))
+* Fixed sparks from fuses clip through several levels (issue [#357] 
+(https://github.com/loiste-interactive/infra-issues/issues/357))
+* Fixed the floating door (issue [#407] 
+(https://github.com/loiste-interactive/infra-issues/issues/407))
 
 ## watertreatment
 
 * Added new grit classifier puzzle
-* Added new achievement (issue [#361] 
+* Added a new achievement (issue [#361] 
 (https://github.com/loiste-interactive/infra-issues/issues/361))
 * Added valves to sewer pipe building
 * Added camera target to the broken window (issue [#433] 
@@ -163,10 +163,6 @@
 (https://github.com/loiste-interactive/infra-issues/issues/460))
 * Fixed a door turning static when transitioning from `tower` (issue [#408] 
 (https://github.com/loiste-interactive/infra-issues/issues/408))
-* Fixed floating prop (issue [#479] 
-(https://github.com/loiste-interactive/infra-issues/issues/479))
-* Fixed illogical keycard coloring scheme (issue [#489]
-(https://github.com/loiste-interactive/infra-issues/issues/489))
 * Fixed the missing valves(issue [#409] 
 (https://github.com/loiste-interactive/infra-issues/issues/409))
 * Fixed sample report being finicky (issue [#410] 
@@ -185,6 +181,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/440))
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
+* Fixed floating prop (issue [#479] 
+(https://github.com/loiste-interactive/infra-issues/issues/479))
+* Fixed illogical keycard coloring scheme (issue [#489]
+(https://github.com/loiste-interactive/infra-issues/issues/489))
 
 ## sewer
 
