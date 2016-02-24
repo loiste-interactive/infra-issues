@@ -55,6 +55,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/348))
 * Fixed the broken wires being unphotographable when too close (issue [#425] 
 (https://github.com/loiste-interactive/infra-issues/issues/425))
+* Fixed the crow sitting on the bird watching tower sometimes not flying away (issue [#427] 
+(https://github.com/loiste-interactive/infra-issues/issues/427))
 * Fixed water particles clipping throught the wall (issue [#428] 
 (https://github.com/loiste-interactive/infra-issues/issues/428))
 * Fixed the rock ramp at the end of the level being finicky to climb back up (issue [#447] 
