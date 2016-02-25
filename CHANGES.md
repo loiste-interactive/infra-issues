@@ -34,6 +34,7 @@
 * Added new particles to the switchyard
 * Added a new room to the sawmill
 * Added a newspaper to the sawmill
+* Added a new repailable spot to the dam
 * Added a new achievement when fixing the dam
 * Added missing camera targets (issue [#426] 
 (https://github.com/loiste-interactive/infra-issues/issues/426) and issue [#469] 
