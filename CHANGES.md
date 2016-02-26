@@ -19,10 +19,10 @@
 ## reserve1
 
 * Added a camera target to the wooden bridge
+* Added detail to the logging zone
 * Fixed overlapping subtitles in the phone call to boss
 * Fixed the timing of a specific subtitle in the phone call to boss
 * Removed invisible walls
-* Added some detail to the logging zone
 
 ## reserve2
 
