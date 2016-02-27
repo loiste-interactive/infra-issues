@@ -41,6 +41,7 @@
 * Added missing camera targets (issue [#426] 
 (https://github.com/loiste-interactive/infra-issues/issues/426) and issue [#469] 
 (https://github.com/loiste-interactive/infra-issues/issues/469))
+* Changed the murkiness of the water in the generator hall
 * Changed the room before Hartman's office to a secretary's office / waiting space
    * Moved the secretary's note from the Western wing to here
 * Changed the dam to be fully repairable
