@@ -87,21 +87,19 @@
 (https://github.com/loiste-interactive/infra-issues/issues/482))
 * Added playerclip to concrete barrier(issue [#385]
 (https://github.com/loiste-interactive/infra-issues/issues/385))
-* Fixed the broken window collision model (issue [#481]
-(https://github.com/loiste-interactive/infra-issues/issues/481))
 * Changed the flood door to slide down(issue [#457]
 (https://github.com/loiste-interactive/infra-issues/issues/457))
+* Fixed the broken window collision model (issue [#481]
+(https://github.com/loiste-interactive/infra-issues/issues/481))
 
 ## tunnel
 
-* Added button sounds to alarm keypad when it's off (issue [#471] 
-(https://github.com/loiste-interactive/infra-issues/issues/471))
 * Added more valve spots (issue [#444]
 (https://github.com/loiste-interactive/infra-issues/issues/444))
+* Added button sounds to alarm keypad when it's off (issue [#471] 
+(https://github.com/loiste-interactive/infra-issues/issues/471))
 * Changed keypad screen to be off when there is no power (issue [#450]
 (https://github.com/loiste-interactive/infra-issue/450))
-* Fixed missing autosave (issue [#490] 
-(https://github.com/loiste-interactive/infra-issues/issues/490))
 * Fixed some misaligned models
 * Fixed lighting glitch (issue [#161]
 (https://github.com/loiste-interactive/infra-issues/issues/161))
@@ -111,6 +109,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/445))
 * Fixed misaligned digit on the keypad screen (issue [#446]
 (https://github.com/loiste-interactive/infra-issues/issues/446))
+* Fixed missing autosave (issue [#490] 
+(https://github.com/loiste-interactive/infra-issues/issues/490))
 
 ## tunnel2
 
