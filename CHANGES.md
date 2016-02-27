@@ -143,6 +143,11 @@
 * Removed red indicator light (issue [#454] 
 (https://github.com/loiste-interactive/infra-issues/issues/454))
 
+## furnace
+
+* Fixed ending event being skipable
+* Removed finicly ladder near planks
+
 ## tower
 
 * Changed floor crap (issue [#405] 
