@@ -46,12 +46,12 @@
 * Changed the murkiness of the water in the generator hall
 * Changed the textures of the info signs
 * Changed the room before Hartman's office to a secretary's office / waiting space
-   * Moved the secretary's note from the Western wing to here
+   * Moved the secretary's note from the western wing to here
 * Changed the dam to be fully repairable
    * Changed the way the switchyard breaker works
    * Moved the sluice gate control panel to the control room
      * Changed the way the panel functions
-* Changed the layout of the Western side of the dam
+* Changed the layout of the western side of the dam
 * Changed the sawmill lighting to be more realistic
 * Fixed the elevator teleporting down a bit when freefalling
 * Fixed the achievement `Step and Jump` being unlockable even when the power was off
