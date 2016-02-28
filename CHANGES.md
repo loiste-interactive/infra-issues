@@ -87,10 +87,12 @@
 
 ## reserve3
 
-* Added more playerclips to the cliff path (issue [#482]
-(https://github.com/loiste-interactive/infra-issues/issues/482))
 * Added playerclip to concrete barrier(issue [#385]
 (https://github.com/loiste-interactive/infra-issues/issues/385))
+* Added more playerclips to the cliff path (issue [#482]
+(https://github.com/loiste-interactive/infra-issues/issues/482))
+* Added a camera target for the fallen ladder (issue [#496]
+(https://github.com/loiste-interactive/infra-issues/issues/496))
 * Changed the flood door to slide down(issue [#457]
 (https://github.com/loiste-interactive/infra-issues/issues/457))
 * Fixed the broken window collision model (issue [#481]
