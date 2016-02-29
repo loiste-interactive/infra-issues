@@ -1,6 +1,7 @@
 # Upcoming in 1.1.0
 
 * Changed player's voice
+* Changed the sound effect for "spot repaired" and "corruption uncovered" to be louder
 * Fixed a large amount of dustmotes causing very noticeable visual artifacts when viewed at a distance (issue [#493] 
 (https://github.com/loiste-interactive/infra-issues/issues/493))
   * Noticeable in `office` and `reserve2`
