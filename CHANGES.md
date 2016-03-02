@@ -19,6 +19,7 @@
 
 ## reserve1
 
+* Added some detail and clutter to the start area
 * Added a camera target to the wooden bridge
 * Added detail to the logging zone
 * Fixed overlapping subtitles in the phone call to boss
