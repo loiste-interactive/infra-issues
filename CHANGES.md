@@ -70,6 +70,8 @@
 * Fixed models being too bright (issue [#423] 
 (https://github.com/loiste-interactive/infra-issues/issues/423) and issue [#475] 
 (https://github.com/loiste-interactive/infra-issues/issues/475))
+* Fixed broken areaportal at the dam (issue [#424] 
+(https://github.com/loiste-interactive/infra-issues/issues/424))
 * Fixed the broken wires being unphotographable when too close (issue [#425] 
 (https://github.com/loiste-interactive/infra-issues/issues/425))
 * Fixed the crow sitting on the bird watching tower sometimes not flying away (issue [#427] 
