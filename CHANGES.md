@@ -147,7 +147,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/394))
 * Added button sounds to alarm keypad when it's off (issue [#470] 
 (https://github.com/loiste-interactive/infra-issues/issues/470))
-* Fixed raft keeps emitting particles after it breaks (issue [#392] 
+* Fixed raft emitting particles after it breaks (issue [#392] 
 (https://github.com/loiste-interactive/infra-issues/issues/392))
 * Fixed the junk collisions near water (issue [#393] 
 (https://github.com/loiste-interactive/infra-issues/issues/393))
