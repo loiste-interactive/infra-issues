@@ -175,6 +175,7 @@
 * Added new grit classifier puzzle
 * Added a new achievement (issue [#361] 
 (https://github.com/loiste-interactive/infra-issues/issues/361))
+* Added new red keycard
 * Added valves to sewer pipe building
 * Added camera target to the broken window (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
