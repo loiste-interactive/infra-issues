@@ -24,8 +24,9 @@
 ## reserve1
 
 * Added detail and clutter to the start area
-* Added a camera target to the wooden bridge
 * Added detail to the logging zone
+* Added a camera target to the wooden bridge
+* * Changed one of the cliff faces to be more realistic
 * Changed certain model (issue [#477] 
 (https://github.com/loiste-interactive/infra-issues/issues/477))
 * Fixed overlapping subtitles in the phone call to boss
