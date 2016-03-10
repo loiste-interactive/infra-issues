@@ -26,6 +26,8 @@
 * Added detail and clutter to the start area
 * Added a camera target to the wooden bridge
 * Added detail to the logging zone
+* Changed certain model (issue [#477] 
+(https://github.com/loiste-interactive/infra-issues/issues/477))
 * Fixed overlapping subtitles in the phone call to boss
 * Fixed the timing of a specific subtitle in the phone call to boss
 * Fixed map monologue interrupting corruption monologue
