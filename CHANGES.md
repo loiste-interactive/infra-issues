@@ -28,9 +28,15 @@
 * Added detail to the logging zone
 * Fixed overlapping subtitles in the phone call to boss
 * Fixed the timing of a specific subtitle in the phone call to boss
-* Removed invisible walls
-* Fixed train signal global not triggering
 * Fixed map monologue interrupting corruption monologue
+* Fixed train signal global not triggering (issue [#372] 
+(https://github.com/loiste-interactive/infra-issues/issues/372))
+* Fixed certain geocache being finicky to pick up (issue [#384] 
+(https://github.com/loiste-interactive/infra-issues/issues/384))
+* Fixed certain invisible walls (issue [#420] 
+(https://github.com/loiste-interactive/infra-issues/issues/420))
+* Fixed out of bounds issue (issue [#492] 
+(https://github.com/loiste-interactive/infra-issues/issues/492))
 
 ## reserve2
 
