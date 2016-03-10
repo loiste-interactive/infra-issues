@@ -35,6 +35,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/372))
 * Fixed certain geocache being finicky to pick up (issue [#384] 
 (https://github.com/loiste-interactive/infra-issues/issues/384))
+* Fixed some issues with the cable raft (issue [#419] 
+(https://github.com/loiste-interactive/infra-issues/issues/419))
 * Fixed certain invisible walls (issue [#420] 
 (https://github.com/loiste-interactive/infra-issues/issues/420))
 * Fixed out of bounds issue (issue [#492] 
