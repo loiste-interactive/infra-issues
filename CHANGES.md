@@ -4,6 +4,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/258))
 * Changed player's voice
 * Changed the sound effect for "spot repaired" and "corruption uncovered" to be louder
+* Fixed a certain gate model texture (issue [#399]
+(https://github.com/loiste-interactive/infra-issues/issues/399))
 * Fixed a large amount of dustmotes causing very noticeable visual artifacts when viewed at a distance (issue [#493] 
 (https://github.com/loiste-interactive/infra-issues/issues/493))
   * Noticeable in `office` and `reserve2`
