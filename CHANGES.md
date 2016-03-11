@@ -178,11 +178,11 @@
 
 * Changed the floor crap (issue [#405] 
 (https://github.com/loiste-interactive/infra-issues/issues/405))
-* Fixed door sounds (issue [#339] 
+* Fixed wrong door sounds (issue [#339] 
 (https://github.com/loiste-interactive/infra-issues/issues/339))
-* Fixed sparks from fuses clip through several levels (issue [#357] 
+* Fixed sparks from fuses clipping through several levels (issue [#357] 
 (https://github.com/loiste-interactive/infra-issues/issues/357))
-* Fixed the floating door (issue [#407] 
+* Fixed a certain floating door (issue [#407] 
 (https://github.com/loiste-interactive/infra-issues/issues/407))
 
 ## watertreatment
