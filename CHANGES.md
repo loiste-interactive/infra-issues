@@ -42,6 +42,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/419))
 * Fixed certain invisible walls (issue [#420] 
 (https://github.com/loiste-interactive/infra-issues/issues/420))
+* Fixed props having incorrect lighting (issue [#475] 
+(https://github.com/loiste-interactive/infra-issues/issues/475))
 * Fixed out of bounds issue (issue [#492] 
 (https://github.com/loiste-interactive/infra-issues/issues/492))
 
