@@ -32,6 +32,8 @@
 * Fixed overlapping subtitles in the phone call to boss
 * Fixed the timing of a specific subtitle in the phone call to boss
 * Fixed map monologue interrupting corruption monologue
+* Fixed illogical train breaking sound (issue [#259] 
+(https://github.com/loiste-interactive/infra-issues/issues/259))
 * Fixed train signal global not triggering (issue [#372] 
 (https://github.com/loiste-interactive/infra-issues/issues/372))
 * Fixed certain geocache being finicky to pick up (issue [#384] 
