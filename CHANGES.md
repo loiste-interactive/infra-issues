@@ -12,10 +12,15 @@
 
 ## office
 
-* Changed Carla's textures
+* Added new player VO
+    * Added to when loitering for too long in the hallways
+    * Added to when trying to use the locked gate in the fire escape
+    * Added to when grabbing all the required gear from the player's office
+* Added corruption targets to both of the newspapers (issue [#107]
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/107))
+    * Triggered when the papers are read
+* Changed player's collegues to use custom models
 * Changed lighting of some office rooms
-* Changed Steve to use different textures
-* Changed Amit to use different textures
 * Changed the randomization of the generic office workers
   * Their hair texture and normal map are now randomized instead of simply tinting the hair
   * Their skin texture and normal map are now randomized instead of simply tinting the skin
@@ -23,10 +28,16 @@
 
 ## reserve1
 
+* Added new autosaves
+   * Added to when fixing the water flow meter
+   * Added to when picking up the bolt cutters
+   * Added to when cutting the chain with the bolt cutters
+   * Added to when photographing the Morning Wood office document
 * Added detail and clutter to the start area
 * Added detail to the logging zone
 * Added a camera target to the wooden bridge
 * Changed one of the cliff faces to be more realistic
+* Changed the transformer camera target to stay enabled
 * Changed certain model (issue [#477] 
 (https://github.com/loiste-interactive/infra-issues/issues/477))
 * Fixed overlapping subtitles in the phone call to boss
@@ -49,6 +60,9 @@
 
 ## reserve2
 
+* Added new autosaves
+   * Added to when exiting the elevator
+   * Added to when turning on the generator hall power
 * Added a hint for the climb button to the elevator part
 * Added new rooms to the dam
    * A security checkpoint next to the elevator exit, houses new puzzle elements
@@ -64,6 +78,8 @@
 * Added missing camera targets (issue [#426] 
 (https://github.com/loiste-interactive/infra-issues/issues/426) and issue [#469] 
 (https://github.com/loiste-interactive/infra-issues/issues/469))
+* Changed the sawmill generator room power to be toggleable
+   * Also added a mistake target which is fired when the power is turned on, but unfired if the power is turned off
 * Changed the murkiness of the water in the generator hall
 * Changed the textures of the info signs
 * Changed the room before Hartman's office to a secretary's office / waiting space
@@ -111,6 +127,7 @@
 
 ## reserve3
 
+* Added missing camera targets
 * Added playerclip to concrete barrier(issue [#385]
 (https://github.com/loiste-interactive/infra-issues/issues/385))
 * Added more playerclips to the cliff path (issue [#482]
@@ -119,6 +136,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/496))
 * Changed the flood door to slide down(issue [#457]
 (https://github.com/loiste-interactive/infra-issues/issues/457))
+* Fixed props having incorrect lighting
 * Fixed the broken window collision model (issue [#481]
 (https://github.com/loiste-interactive/infra-issues/issues/481))
 
@@ -233,6 +251,9 @@
 
 ## sewer
 
+* Added missing corruption target to the other tablet
+* Added missing camera targets
+* Added trigger_hurt to a certain broken pipe
 * Fixed the debris collisions at the start of sewer (issue [#381] 
 (https://github.com/loiste-interactive/infra-issues/issues/381))
 * Fixed player complains about deep water just before the end (issue [#370] 
