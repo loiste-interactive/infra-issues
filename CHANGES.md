@@ -19,11 +19,13 @@
 * Added corruption targets to both of the newspapers (issue [#107]
 (https://github.com/loiste-interactive/infra-playtest-issues/issues/107))
     * Triggered when the papers are read
-* Changed player's collegues to use custom models
 * Changed lighting of some office rooms
 * Changed the randomization of the generic office workers
   * Their hair texture and normal map are now randomized instead of simply tinting the hair
   * Their skin texture and normal map are now randomized instead of simply tinting the skin
+* Changed Amit's character to use another model in the intro scene
+* Changed face textures and materials for all character models
+* Changed head models for most of the characters
 * Fixed the boss's eyes sometimes randomly changing color
 
 ## reserve1
