@@ -1,4 +1,4 @@
-# Upcoming in 1.1.0
+# March 15th 2016 (Version 1.1.0)
 
 * Added use highlights to toilets (issue [#258]
 (https://github.com/loiste-interactive/infra-issues/issues/258))
@@ -35,6 +35,7 @@
    * Added to when picking up the bolt cutters
    * Added to when cutting the chain with the bolt cutters
    * Added to when photographing the Morning Wood office document
+* Added a new hidden achievement
 * Added detail and clutter to the start area
 * Added detail to the logging zone
 * Added a camera target to the wooden bridge
@@ -212,7 +213,7 @@
 ## watertreatment
 
 * Added new grit classifier puzzle
-* Added a new achievement (issue [#361] 
+* Added a new hidden achievement (issue [#361] 
 (https://github.com/loiste-interactive/infra-issues/issues/361))
 * Added new red keycard
 * Added valve to old grit classifier room
