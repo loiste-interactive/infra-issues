@@ -27,6 +27,8 @@
 * Changed face textures and materials for all character models
 * Changed head models for most of the characters
 * Fixed the boss's eyes sometimes randomly changing color
+* Fixed being able to pick up items through the cabinet door (issue [#452]
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/452))
 
 ## reserve1
 
