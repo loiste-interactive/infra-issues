@@ -1,4 +1,4 @@
-# Upcoming in 1.1.1
+# March 17th 2016 (Version 1.1.1)
 
 * Fixed credits not rolling
 * Fixed Unicode not displaying properly in subtitles or credits
