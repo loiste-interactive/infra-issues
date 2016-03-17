@@ -1,3 +1,13 @@
+# Upcoming in 1.1.1
+
+* Fixed credits not rolling
+* Fixed Unicode not displaying properly with the Source Sans Pro font
+
+## office
+
+* Fixed the player's greeting in the beginning missing subtitles
+* Changed one of the nag subtitles when the player doesn't go get his stuff
+
 # March 15th 2016 (Version 1.1.0)
 
 * Added use highlights to toilets (issue [#258]
