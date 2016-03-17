@@ -5,8 +5,8 @@
 
 ## office
 
-* Fixed the player's greeting in the beginning missing subtitles
-* Changed one of the nag subtitles when the player doesn't go get his stuff
+* Fixed missing subtitles from the player's greeting at the meeting
+* Changed one of the nag monologue subtitles when the player doesn't go get his stuff
 
 # March 15th 2016 (Version 1.1.0)
 
