@@ -5,8 +5,8 @@
 
 ## office
 
-* Fixed missing subtitles from the player's greeting at the meeting
 * Changed one of the nag monologue subtitles when the player doesn't go get his stuff
+* Fixed missing subtitles from the player's greeting at the meeting
 
 ## watertreatment
 
