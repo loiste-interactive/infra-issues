@@ -8,6 +8,10 @@
 * Fixed missing subtitles from the player's greeting at the meeting
 * Changed one of the nag monologue subtitles when the player doesn't go get his stuff
 
+## watertreatment
+
+* Added poison building label
+
 # March 15th 2016 (Version 1.1.0)
 
 * Added use highlights to toilets (issue [#258]
