@@ -1,7 +1,7 @@
 # Upcoming in 1.1.1
 
 * Fixed credits not rolling
-* Fixed Unicode not displaying properly with the Source Sans Pro font
+* Fixed Unicode not displaying properly
 
 ## office
 
