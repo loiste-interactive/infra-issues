@@ -1,3 +1,14 @@
+# In the next update
+
+## reserve2
+
+* Fixed the lab door note being parented to the door (issue [#498]
+(https://github.com/loiste-interactive/infra-issues/issues/498))
+* Fixed one of the synchroscopes being unsuable after generator are turned off and on again (issue [#514]
+(https://github.com/loiste-interactive/infra-issues/issues/514))
+* Fixed the valve at th lab missing sounds (issue [#515]
+(https://github.com/loiste-interactive/infra-issues/issues/515))
+
 # March 17th 2016 (Version 1.1.1)
 
 * Fixed credits not rolling
