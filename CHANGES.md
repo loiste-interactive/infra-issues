@@ -6,7 +6,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/497))
 * Fixed the lab door note being parented to the door (issue [#498]
 (https://github.com/loiste-interactive/infra-issues/issues/498))
-* Fixed one of the synchroscopes being unuseable after generator are turned off and on again (issue [#514]
+* Fixed one of the synchroscopes being unuseable after the generators are turned off and on again (issue [#514]
 (https://github.com/loiste-interactive/infra-issues/issues/514))
 * Fixed the valve at the lab missing sounds (issue [#515]
 (https://github.com/loiste-interactive/infra-issues/issues/515))
