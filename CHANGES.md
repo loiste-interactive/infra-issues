@@ -2,6 +2,8 @@
 
 ## reserve2
 
+* Fixed weird behaviour with certain locked door handles (issue [#497]
+(https://github.com/loiste-interactive/infra-issues/issues/497))
 * Fixed the lab door note being parented to the door (issue [#498]
 (https://github.com/loiste-interactive/infra-issues/issues/498))
 * Fixed one of the synchroscopes being unsuable after generator are turned off and on again (issue [#514]
