@@ -1,4 +1,4 @@
-# In the next update
+# Upcoming in 1.1.2
 
 ## reserve2
 
