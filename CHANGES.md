@@ -12,6 +12,7 @@
 * Changed saved games so that it's no longer possible to load old incompatible saved games
 * Changed saved games so that saved games in the same level are now loaded much faster
 * Changed the loading screen (removed the spinner and added a progress bar instead)
+* Changed load games to use a different fade in instead of the respawn effect
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Fixed the player character being able to talk while dead
