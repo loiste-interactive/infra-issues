@@ -1,15 +1,74 @@
 # Upcoming in 1.1.2
 
+* Added a hint for throwing held objects
+* Added a fade in & fade out to level transitions
+* Added a fade out when loading a saved game or starting a new game from the main menu
+* Added a fade in after the loading screen when starting a new game
+* Added information about the saved games to the load game and save game menus (chapter and time played)
+* Added "use selection outline" to the options menu (it's now separate from use highlights)
+* Added a dialog to the main menu that will prompt you to restart the level if you try to load an incompatible saved game
+* Added generic dialogue for the female office workers
+* Changed some of the various notes to be properly handwritten with better language
+* Changed saved games so that it's no longer possible to load old incompatible saved games
+* Changed saved games so that saved games in the same level are now loaded much faster
+* Changed the loading screen (removed the spinner and added a progress bar instead)
+* Changed the document view so that it zooms in closer with certain documents (issue [#494] 
+(https://github.com/loiste-interactive/infra-issues/issues/494))
+* Fixed the player character being able to talk while dead
+* Fixed being able to zoom in while the respawn effect is active
+* Fixed the respawn effect interfering with the document view and other cases where the camera is controlled
+* Fixed camera targets, etc. not always saving their state properly
+* Fixed film grain affecting screen fades
+* Fixed color correction affecting screen fades
+* Fixed closed captions not being affected by screen fades
+* Fixed minor memory leaks
+* Fixed being able to quick save while in the main menu
+* Fixed a crash when trying to start a game on a map that no longer exists
+* Fixed a rare issue where the player could no longer equip his camera after dying
+* Fixed closed captions sometimes disappearing for a while after dying (issue [#319] 
+(https://github.com/loiste-interactive/infra-issues/issues/319))
+* Fixed crouched player no longer crouching after exiting the document view (issue [#382] 
+(https://github.com/loiste-interactive/infra-issues/issues/382))
+* Fixed zoomed in player no longer being zoomed in after exiting the document view (issue [#416] 
+(https://github.com/loiste-interactive/infra-issues/issues/416))
+* Fixed missing localization tokens for "autosave" and "quicksave" in the main menu (issue [#512] 
+(https://github.com/loiste-interactive/infra-issues/issues/512))
+
+## office
+
+* Fixed car driver door being solid red if use highlights are turned off (issue [#324]
+(https://github.com/loiste-interactive/infra-issues/issues/324))
+
 ## reserve2
 
-* Fixed weird behaviour with certain locked door handles (issue [#497]
-(https://github.com/loiste-interactive/infra-issues/issues/497))
+* Fixed weird behaviour with certain locked door handles
 * Fixed the lab door note being parented to the door (issue [#498]
 (https://github.com/loiste-interactive/infra-issues/issues/498))
 * Fixed one of the synchroscopes being unuseable after the generators are turned off and on again (issue [#514]
 (https://github.com/loiste-interactive/infra-issues/issues/514))
 * Fixed the valve at the lab missing sounds (issue [#515]
 (https://github.com/loiste-interactive/infra-issues/issues/515))
+
+## tunnel4
+
+* Changed the office lighting to be dimmer
+* Fixed air duct at the end of map having a gap
+* Fixed flickering debris outside office door
+* Fixed some mining area lighting issues
+* Fixed flickering door
+* Fixed certain notes being unusable
+
+## watertreatment
+
+* Fixed displacement tear
+* Fixed sewer pipe room red light reflection
+* Fixed flickering debris near poison room
+* Fixed installation CD insertion behavior
+* Fixed  some models being too bright
+
+## sewer2
+
+* Fixed leaking pipe camera target not triggering when close
 
 # March 17th 2016 (Version 1.1.1)
 
