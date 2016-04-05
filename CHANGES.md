@@ -44,6 +44,11 @@
 * Fixed car driver door being solid red if use highlights are turned off (issue [#324]
 (https://github.com/loiste-interactive/infra-issues/issues/324))
 
+## reserve1
+
+* Fixed chapter title never being displayed at the start of the map (issue [#320] 
+(https://github.com/loiste-interactive/infra-issues/issues/320))
+
 ## reserve2
 
 * Fixed weird behaviour with certain locked door handles
