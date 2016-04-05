@@ -13,6 +13,7 @@
 * Changed saved games so that saved games in the same level are now loaded much faster
 * Changed the loading screen (removed the spinner and added a progress bar instead)
 * Changed load games to use a different fade in instead of the respawn effect
+* Changed the water splash sound to have a bit more variation
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Fixed the player character being able to talk while dead
@@ -26,6 +27,7 @@
 * Fixed being able to quick save while in the main menu
 * Fixed a crash when trying to start a game on a map that no longer exists
 * Fixed a rare issue where the player could no longer equip his camera after dying
+* Fixed the subtitle for the first geocache saying "a geocache" instead of "geocache"
 * Fixed closed captions sometimes disappearing for a while after dying (issue [#319] 
 (https://github.com/loiste-interactive/infra-issues/issues/319))
 * Fixed crouched player no longer crouching after exiting the document view (issue [#382] 
