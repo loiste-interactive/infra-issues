@@ -52,6 +52,10 @@
 * Fixed the valve at the lab missing sounds (issue [#515]
 (https://github.com/loiste-interactive/infra-issues/issues/515))
 
+## tunnel1
+
+* Fixed timing issue with the "shouldn't have jinxed it" line
+
 ## tunnel4
 
 * Changed the office lighting to be dimmer
