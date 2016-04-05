@@ -52,6 +52,10 @@
 * Fixed the valve at the lab missing sounds (issue [#515]
 (https://github.com/loiste-interactive/infra-issues/issues/515))
 
+## reserve3
+
+* Fixed timing issues in the "old Bergmann water tunnel" monologue
+
 ## tunnel1
 
 * Fixed timing issue with the "shouldn't have jinxed it" line
