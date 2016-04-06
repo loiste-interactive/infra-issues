@@ -26,7 +26,6 @@
 * Fixed minor memory leaks
 * Fixed being able to quick save while in the main menu
 * Fixed a crash when trying to start a game on a map that no longer exists
-* Fixed a rare issue where the player could no longer equip his camera after dying
 * Fixed the subtitle for the first geocache saying "a geocache" instead of "geocache"
 * Fixed input lag when VSync is enabled
 * Fixed climbing being really finicky with what can be climbed on (issue [#310] 
