@@ -15,6 +15,7 @@
 * Changed load games to use a different fade in instead of the respawn effect
 * Changed the water splash sound to have a bit more variation
 * Changed the respawn effect
+* Changed use highlights and selection glow to be hidden when the camera is being controlled
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Fixed the player character being able to talk while dead
