@@ -18,8 +18,6 @@
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Fixed the player character being able to talk while dead
-* Fixed being able to zoom in while the respawn effect is active
-* Fixed the respawn effect interfering with the document view and other cases where the camera is controlled
 * Fixed camera targets, etc. not always saving their state properly
 * Fixed film grain affecting screen fades
 * Fixed color correction affecting screen fades
