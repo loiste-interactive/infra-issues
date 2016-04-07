@@ -35,6 +35,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/310))
 * Fixed closed captions sometimes disappearing for a while after dying (issue [#319] 
 (https://github.com/loiste-interactive/infra-issues/issues/319))
+* Fixed soundscapes stopping playing after the player dies until the player moves to a new soundscape (issue [#373] 
+(https://github.com/loiste-interactive/infra-issues/issues/373))
 * Fixed crouched player no longer crouching after exiting the document view (issue [#382] 
 (https://github.com/loiste-interactive/infra-issues/issues/382))
 * Fixed zoomed in player no longer being zoomed in after exiting the document view (issue [#416] 
