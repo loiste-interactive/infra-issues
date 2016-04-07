@@ -30,6 +30,7 @@
 * Fixed input lag when VSync is enabled
 * Fixed glitchy respawn sound fade
 * Fixed use highlights for several objects
+* Fixed a rare issue where the player could no longer equip his camera after dying
 * Fixed climbing being really finicky with what can be climbed on (issue [#310] 
 (https://github.com/loiste-interactive/infra-issues/issues/310))
 * Fixed closed captions sometimes disappearing for a while after dying (issue [#319] 
