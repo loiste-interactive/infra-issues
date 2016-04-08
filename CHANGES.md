@@ -83,11 +83,15 @@
 
 ## watertreatment
 
+* Fixed being able to get the playable area (issue [#529]
+(https://github.com/loiste-interactive/infra-issues/issues/529))
 * Fixed displacement tear
 * Fixed sewer pipe room red light reflection
 * Fixed flickering debris near poison room
 * Fixed installation CD insertion behavior
 * Fixed  some models being too bright
+* Removed a water sample on the floor near the test machine (issue [#532]
+(https://github.com/loiste-interactive/infra-issues/issues/532))
 
 ## sewer
 
