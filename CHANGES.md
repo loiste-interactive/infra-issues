@@ -92,6 +92,7 @@
 ## sewer2
 
 * Fixed leaking pipe camera target not triggering when close
+* Removed "the Bergmann tunnel underneath has collapsed" line
 
 # March 17th 2016 (Version 1.1.1)
 
