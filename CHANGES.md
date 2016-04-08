@@ -72,6 +72,10 @@
 
 * Fixed timing issue with the "shouldn't have jinxed it" line
 
+## tunnel3
+
+* Fixed the player's camera screen disappearing when entering the raft with the camera equipped
+
 ## tunnel4
 
 * Changed the office lighting to be dimmer
