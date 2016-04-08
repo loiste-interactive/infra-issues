@@ -91,7 +91,7 @@
 * Fixed a player's line getting cut off in the phone call to his boss if he has turned on some of the water flow meters
 * Fixed a player's line missing subtitles in the phone call to his boss if he has turned on all of the water flow meters (issue [#442]
 (https://github.com/loiste-interactive/infra-issues/issues/442))
-* Fixed being able to get the playable area (issue [#529]
+* Fixed being able to get out of the playable area (issue [#529]
 (https://github.com/loiste-interactive/infra-issues/issues/529))
 * Removed a water sample on the floor near the test machine (issue [#532]
 (https://github.com/loiste-interactive/infra-issues/issues/532))
