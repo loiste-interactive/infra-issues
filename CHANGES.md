@@ -89,6 +89,10 @@
 * Fixed installation CD insertion behavior
 * Fixed  some models being too bright
 
+## sewer
+
+* Added "that's convenient" line to finding the metro maintenance access
+
 ## sewer2
 
 * Fixed leaking pipe camera target not triggering when close
