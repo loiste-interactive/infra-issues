@@ -46,6 +46,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/416))
 * Fixed missing localization tokens for "autosave" and "quicksave" in the main menu (issue [#512] 
 (https://github.com/loiste-interactive/infra-issues/issues/512))
+* Removed demo recording
 
 ## office
 
