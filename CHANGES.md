@@ -44,6 +44,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/382))
 * Fixed zoomed in player no longer being zoomed in after exiting the document view (issue [#416] 
 (https://github.com/loiste-interactive/infra-issues/issues/416))
+* Fixed camera screen sometimes not focusing after dying (issue [#422] 
+(https://github.com/loiste-interactive/infra-issues/issues/422))
 * Fixed missing localization tokens for "autosave" and "quicksave" in the main menu (issue [#512] 
 (https://github.com/loiste-interactive/infra-issues/issues/512))
 * Removed demo recording (issue [#124] 
