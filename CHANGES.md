@@ -32,7 +32,9 @@
 * Fixed use highlights for several objects
 * Fixed a rare issue where the player could no longer equip his camera after dying
 * Fixed chapter titles not being affected by screen fades
-* Fixed being able to climb on held objects
+* Fixed being able to climb on top of held objects
+* Fixed finicky crate physics (issue [#93] 
+(https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed unused models and materials not getting unloaded on level changes, leading to out of memory crashes (issue [#289] 
 (https://github.com/loiste-interactive/infra-issues/issues/289))
 * Fixed climbing being really finicky with what can be climbed on (issue [#310] 
