@@ -8,6 +8,7 @@
 * Added "use selection outline" to the options menu (it's now separate from use highlights)
 * Added a dialog to the main menu that will prompt you to restart the level if you try to load an incompatible saved game
 * Added generic dialogue for the female office workers
+* Added full Steam Cloud support for saved games (previously only unlocked chapters and level stats were synced)
 * Changed some of the various notes to be properly handwritten with better language
 * Changed saved games so that it's no longer possible to load old incompatible saved games
 * Changed saved games so that saved games in the same level are now loaded much faster
