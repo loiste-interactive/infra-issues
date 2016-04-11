@@ -81,6 +81,9 @@
 ## tunnel1
 
 * Fixed timing issue with the "shouldn't have jinxed it" line
+* Fixed visual artifacts with the collapsing ceiling (issue [#386]
+(https://github.com/loiste-interactive/infra-issues/issues/386))
+
 
 ## tunnel3
 
