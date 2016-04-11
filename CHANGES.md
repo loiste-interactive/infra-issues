@@ -49,6 +49,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/416))
 * Fixed camera screen sometimes not focusing after dying (issue [#422] 
 (https://github.com/loiste-interactive/infra-issues/issues/422))
+* Fixed camera screen sometimes staying off after picking up props when equipped (issue [#432] 
+(https://github.com/loiste-interactive/infra-issues/issues/432))
 * Fixed missing localization tokens for "autosave" and "quicksave" in the main menu (issue [#512] 
 (https://github.com/loiste-interactive/infra-issues/issues/512))
 * Removed demo recording (issue [#124] 
