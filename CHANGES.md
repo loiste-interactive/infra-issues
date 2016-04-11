@@ -72,6 +72,8 @@
 ## reserve2
 
 * Fixed weird behaviour with certain locked door handles
+* Fixed flickering water in the generator room when looking out of the window in a certain angle (issue [#495]
+(https://github.com/loiste-interactive/infra-issues/issues/495))
 * Fixed the lab door note being parented to the door (issue [#498]
 (https://github.com/loiste-interactive/infra-issues/issues/498))
 * Fixed one of the synchroscopes being unuseable after the generators are turned off and on again (issue [#514]
