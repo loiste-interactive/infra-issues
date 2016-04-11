@@ -36,6 +36,8 @@
 * Fixed being able to climb on top of held objects
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
+* Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
+(https://github.com/loiste-interactive/infra-issues/issues/121))
 * Fixed unused models and materials not getting unloaded on level changes, leading to out of memory crashes (issue [#289] 
 (https://github.com/loiste-interactive/infra-issues/issues/289))
 * Fixed climbing being really finicky with what can be climbed on (issue [#310] 
