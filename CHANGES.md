@@ -80,6 +80,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/514))
 * Fixed the valve at the lab missing sounds (issue [#515]
 (https://github.com/loiste-interactive/infra-issues/issues/515))
+* Fixed screen jumping up an down when walking on the sawmill generator room floor(issue [#543]
+(https://github.com/loiste-interactive/infra-issues/issues/543))
 * Fixed player getting stuck to the small rocks near the cottage (issue [#545]
 (https://github.com/loiste-interactive/infra-issues/issues/545))
 
