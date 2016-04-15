@@ -77,6 +77,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/495))
 * Fixed the lab door note being parented to the door (issue [#498]
 (https://github.com/loiste-interactive/infra-issues/issues/498))
+* Fixed issues with dam areaportals (issue [#499]
+(https://github.com/loiste-interactive/infra-issues/issues/499))
 * Fixed one of the synchroscopes being unuseable after the generators are turned off and on again (issue [#514]
 (https://github.com/loiste-interactive/infra-issues/issues/514))
 * Fixed the valve at the lab missing sounds (issue [#515]
