@@ -62,8 +62,21 @@
 
 ## office
 
+* Fixed zoom hint appearing at wrong times (issue [#314]
+(https://github.com/loiste-interactive/infra-issues/issues/314))
 * Fixed car driver door being solid red if use highlights are turned off (issue [#324]
 (https://github.com/loiste-interactive/infra-issues/issues/324))
+* Fixed certain office worker staring at a black screen (issue [#343]
+(https://github.com/loiste-interactive/infra-issues/issues/343))
+* Fixed the key envelope being usable after it's taken (issue [#346]
+(https://github.com/loiste-interactive/infra-issues/issues/346))
+* Fixed being able to jump down the lobby without dying (issue [#347]
+(https://github.com/loiste-interactive/infra-issues/issues/347))
+* Fixed being able to get stuck behind certain ladder (issue [#502]
+(https://github.com/loiste-interactive/infra-issues/issues/502))
+* Fixed cutscenes not working properly (issue [#533]
+(https://github.com/loiste-interactive/infra-issues/issues/534) and issue [#534]
+(https://github.com/loiste-interactive/infra-issues/issues/534))
 
 ## reserve1
 
