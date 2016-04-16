@@ -72,6 +72,7 @@
 
 ## reserve2
 
+* Added new autosaves
 * Added a new route to the turbine hall to make backtracking less of a hassle
 * Added a new corruption document
 * Added camera target for the tree growing on the concrete
