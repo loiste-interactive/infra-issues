@@ -75,7 +75,7 @@
 * Added new autosaves
 * Added a new route to the turbine hall to make backtracking less of a hassle
 * Added a new corruption document
-* Added camera target for the tree growing on the concrete
+* Added a camera target for the tree growing on the concrete
 * Fixed weird behaviour with certain locked door handles
 * Fixed flickering water in the generator room when looking out of the window in a certain angle (issue [#495]
 (https://github.com/loiste-interactive/infra-issues/issues/495))
