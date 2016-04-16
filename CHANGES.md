@@ -106,11 +106,11 @@
 
 * Changed the pipe room fuse to affect the pipe room (issue [#513 main branch]
 (https://github.com/loiste-interactive/infra-issues/issues/513))
+* Fixed timing issue with the "Shouldn't have jinxed it" line
 * Fixed the A2 pipe lights (issue [#513 main branch]
 (https://github.com/loiste-interactive/infra-issues/issues/513))
 * Fixed the heavy door lights (issue [#508 main branch]
 (https://github.com/loiste-interactive/infra-issues/issues/508))
-* Fixed timing issue with the "shouldn't have jinxed it" line
 * Fixed visual artifacts with the collapsing ceiling (issue [#386]
 (https://github.com/loiste-interactive/infra-issues/issues/386))
 
