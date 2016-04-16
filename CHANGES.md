@@ -69,6 +69,8 @@
 
 * Fixed chapter title never being displayed at the start of the map (issue [#320] 
 (https://github.com/loiste-interactive/infra-issues/issues/320))
+* Fixed player's head clipping through the bridge (issue [#551] 
+(https://github.com/loiste-interactive/infra-issues/issues/551))
 
 ## reserve2
 
