@@ -82,6 +82,8 @@
 * Fixed cutscenes not working properly (issue [#533]
 (https://github.com/loiste-interactive/infra-issues/issues/533) and [#534]
 (https://github.com/loiste-interactive/infra-issues/issues/534))
+* Fixed a small reflection issue near the server room (issue [#539]
+(https://github.com/loiste-interactive/infra-issues/issues/539))
 
 ## reserve1
 
