@@ -62,6 +62,8 @@
 
 ## office
 
+* Added use highlights to the toilet in the sauna (issue [#536]
+(https://github.com/loiste-interactive/infra-issues/issues/536))
 * Added footsteps to the parking garage cutscene (issue [#556]
 (https://github.com/loiste-interactive/infra-issues/issues/556))
 * Fixed zoom hint appearing at wrong times (issue [#314]
