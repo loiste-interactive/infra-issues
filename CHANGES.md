@@ -67,6 +67,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/536))
 * Added footsteps to the parking garage cutscene (issue [#556]
 (https://github.com/loiste-interactive/infra-issues/issues/556))
+* Added footsteps to the starting scene (issue [#557]
+(https://github.com/loiste-interactive/infra-issues/issues/557))
 * Fixed zoom hint appearing at wrong times (issue [#314]
 (https://github.com/loiste-interactive/infra-issues/issues/314))
 * Fixed car driver door being solid red if use highlights are turned off (issue [#324]
