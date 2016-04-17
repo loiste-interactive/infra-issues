@@ -62,6 +62,8 @@
 
 ## office
 
+* Added footsteps to the parking garage cutscene (issue [#556]
+(https://github.com/loiste-interactive/infra-issues/issues/556))
 * Fixed zoom hint appearing at wrong times (issue [#314]
 (https://github.com/loiste-interactive/infra-issues/issues/314))
 * Fixed car driver door being solid red if use highlights are turned off (issue [#324]
