@@ -86,6 +86,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/534))
 * Fixed a small reflection issue near the server room (issue [#539]
 (https://github.com/loiste-interactive/infra-issues/issues/539))
+* Fixed various lighting issues (issue [#555]
+(https://github.com/loiste-interactive/infra-issues/issues/555))
 
 ## reserve1
 
