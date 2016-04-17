@@ -81,6 +81,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/347))
 * Fixed being able to get stuck behind certain ladder (issue [#502]
 (https://github.com/loiste-interactive/infra-issues/issues/502))
+* Fixed being able to see a card corridor too clearly (issue [#503]
+(https://github.com/loiste-interactive/infra-issues/issues/503))
 * Fixed cutscenes not working properly (issue [#533]
 (https://github.com/loiste-interactive/infra-issues/issues/533) and [#534]
 (https://github.com/loiste-interactive/infra-issues/issues/534))
