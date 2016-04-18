@@ -165,6 +165,7 @@
 * Changed the flooded electrified hallway door opening direction (issue [#548] 
 (https://github.com/loiste-interactive/infra-issues/issues/548))
 * Changed the office lighting to be dimmer
+* Changed the tunnel climbing part route
 * Fixed air duct at the end of map having a gap
 * Fixed button highlights (issue [#549] 
 (https://github.com/loiste-interactive/infra-issues/issues/549))
