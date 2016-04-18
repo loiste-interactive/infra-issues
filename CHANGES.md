@@ -129,12 +129,9 @@
 
 * Fixed the concrete barrier player clip (issue [#541] 
 (https://github.com/loiste-interactive/infra-issues/issues/541))
-* Fixed the office door lighting (issue [#123] 
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/123))
-* Fixed the prop physics barrel (issue [#185] 
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/185))
-* Fixed the tunnel railing lighting (issue [#184] 
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/184))
+* Fixed the office door lighting
+* Fixed the prop physics barrel
+* Fixed the tunnel railing lighting
 * Fixed timing issues in the "old Bergmann water tunnel" monologue
 
 ## tunnel1
@@ -158,8 +155,7 @@
 
 ## tunnel4
 
-* Added new ladder to climbing part (issue [#188] 
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/188))
+* Added new ladder to climbing part
 * Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
 (https://github.com/loiste-interactive/infra-issues/issues/550))
 * Changed the flooded electrified hallway door opening direction (issue [#548] 
