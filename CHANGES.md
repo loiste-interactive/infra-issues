@@ -35,6 +35,7 @@
 * Fixed a rare issue where the player could no longer equip his camera after dying
 * Fixed chapter titles not being affected by screen fades
 * Fixed being able to climb on top of held objects
+* Fixed attenuation for some dialogue
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
