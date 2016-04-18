@@ -181,6 +181,7 @@
 * Fixed incorrect subtitles for the "an elevator that didn't fall down?" line
 * Fixed incorrect subtitles for the "let's see if we can't get it to work" line
 * Fixed timing issues with the "sometimes I wonder if I'm getting paid enough for this" line and the recorded announcement
+* Fixed attenuation for the recorded announcements
 * Fixed illogical behaviour with the minitrain controls (issue [#501]
 (https://github.com/loiste-interactive/infra-issues/issues/501))
 
