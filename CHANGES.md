@@ -34,7 +34,7 @@
 * Fixed use highlights for several objects
 * Fixed a rare issue where the player could no longer equip his camera after dying
 * Fixed chapter titles not being affected by screen fades
-* Fixed being able to climb on top of held objects
+* Fixed being able to climb on held objects
 * Fixed attenuation for some dialogue
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
@@ -71,6 +71,8 @@
 * Added footsteps to the starting scene (issue [#557]
 (https://github.com/loiste-interactive/infra-issues/issues/557))
 * Changed the location of the geocache slightly
+* Fixed reflection issues in the kithen
+* Fixed the walking NPC in the lobby disapperearing visibly
 * Fixed zoom hint appearing at wrong times (issue [#314]
 (https://github.com/loiste-interactive/infra-issues/issues/314))
 * Fixed car driver door being solid red if use highlights are turned off (issue [#324]
@@ -95,6 +97,9 @@
 
 ## reserve1
 
+* Fixed train horn playing after the train has already arrived
+* Fixed the dam crack achievement being hard to trigger
+* Fixed certain static barrels being physics objects
 * Fixed chapter title never being displayed at the start of the map (issue [#320] 
 (https://github.com/loiste-interactive/infra-issues/issues/320))
 * Fixed player's head clipping through the bridge (issue [#516] 
@@ -108,7 +113,9 @@
 * Added a new route to the turbine hall to make backtracking less of a hassle
 * Added a new corruption document
 * Added a camera target for the tree growing on the concrete
+* Changed the keyholder to be less confusing
 * Fixed weird behaviour with certain locked door handles
+* Fixed synchroscopes being off-center when synched
 * Fixed flickering water in the generator room when looking out of the window in a certain angle (issue [#495]
 (https://github.com/loiste-interactive/infra-issues/issues/495))
 * Fixed the lab door note being parented to the door (issue [#498]
@@ -130,23 +137,22 @@
 
 * Fixed the concrete barrier player clip (issue [#541] 
 (https://github.com/loiste-interactive/infra-issues/issues/541))
+* Fixed certain static barrels being physics objects
 * Fixed the office door lighting
-* Fixed the prop physics barrel
 * Fixed the tunnel railing lighting
 * Fixed timing issues in the "old Bergmann water tunnel" monologue
 
 ## tunnel1
 
-* Changed the pipe room fuse to affect the pipe room (issue [#513 main branch]
+* Changed the pipe room fuse to affect the pipe room (issue [#513]
 (https://github.com/loiste-interactive/infra-issues/issues/513))
 * Fixed timing issue with the "Shouldn't have jinxed it" line
-* Fixed the A2 pipe lights (issue [#513 main branch]
+* Fixed the A2 pipe lights (issue [#513]
 (https://github.com/loiste-interactive/infra-issues/issues/513))
-* Fixed the heavy door lights (issue [#508 main branch]
+* Fixed the heavy door lights (issue [#508]
 (https://github.com/loiste-interactive/infra-issues/issues/508))
 * Fixed visual artifacts with the collapsing ceiling (issue [#386]
 (https://github.com/loiste-interactive/infra-issues/issues/386))
-
 
 ## tunnel3
 
@@ -186,6 +192,7 @@
 * Fixed illogical behaviour with the minitrain controls (issue [#501]
 (https://github.com/loiste-interactive/infra-issues/issues/501))
 
+
 ## watertreatment
 
 * Fixed displacement tear
@@ -194,11 +201,11 @@
 * Fixed installation CD insertion behavior
 * Fixed some models being too bright
 * Fixed a player's line getting cut off in the phone call to his boss if he has turned on some of the water flow meters
-* Fixed a player's line missing subtitles in the phone call to his boss if he has turned on all of the water flow meters (issue [#442]
+* Fixed a player's line missing subtitles in the phone call to his boss if he has turned on all of the water flow meters (issue [#442 MB]
 (https://github.com/loiste-interactive/infra-issues/issues/442))
 * Fixed being able to get out of the playable area (issue [#529]
 (https://github.com/loiste-interactive/infra-issues/issues/529))
-* Removed a water sample on the floor near the test machine (issue [#532]
+* Removed a water sample on the floor near the test machine (issue [#543]
 (https://github.com/loiste-interactive/infra-issues/issues/532))
 
 ## sewer
@@ -249,8 +256,7 @@
     * Added to when loitering for too long in the hallways
     * Added to when trying to use the locked gate in the fire escape
     * Added to when grabbing all the required gear from the player's office
-* Added corruption targets to both of the newspapers (issue [#107]
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/107))
+* Added corruption targets to both of the newspapers
     * Triggered when the papers are read
 * Changed lighting of some office rooms
 * Changed the randomization of the generic office workers
@@ -260,8 +266,7 @@
 * Changed face textures and materials for all character models
 * Changed head models for most of the characters
 * Fixed the boss's eyes sometimes randomly changing color
-* Fixed being able to pick up items through the cabinet door (issue [#452]
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/452))
+* Fixed being able to pick up items through the cabinet door
 
 ## reserve1
 
