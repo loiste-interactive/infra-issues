@@ -127,6 +127,14 @@
 
 ## reserve3
 
+* Fixed the concrete barrier player clip (issue [#541] 
+(https://github.com/loiste-interactive/infra-issues/issues/541))
+* Fixed the office door lighting (issue [#123] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/123))
+* Fixed the prop physics barrel (issue [#185] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/185))
+* Fixed the tunnel railing lighting (issue [#184] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/184))
 * Fixed timing issues in the "old Bergmann water tunnel" monologue
 
 ## tunnel1
@@ -144,16 +152,32 @@
 
 ## tunnel3
 
+* Fixed being able to use the water flow monitor instruments through the door (issue [#552] 
+(https://github.com/loiste-interactive/infra-issues/issues/552))
 * Fixed the player's camera screen disappearing when entering the raft with the camera equipped
 
 ## tunnel4
 
+* Added new ladder to climbing part (issue [#188] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/188))
+* Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
+(https://github.com/loiste-interactive/infra-issues/issues/550))
+* Changed the flooded electrified hallway door opening direction (issue [#548] 
+(https://github.com/loiste-interactive/infra-issues/issues/548))
 * Changed the office lighting to be dimmer
 * Fixed air duct at the end of map having a gap
+* Fixed button highlights (issue [#549] 
+(https://github.com/loiste-interactive/infra-issues/issues/549))
+* Fixed being able to use the water flow monitor instruments through the door (issue [#547] 
+(https://github.com/loiste-interactive/infra-issues/issues/547))
 * Fixed flickering debris outside office door
 * Fixed some mining area lighting issues
 * Fixed flickering door
 * Fixed certain notes being unusable
+* * Fixed light switch highlights (issue [#521] 
+(https://github.com/loiste-interactive/infra-issues/issues/521))
+* Fixed the key box (issue [#395] 
+(https://github.com/loiste-interactive/infra-issues/issues/395))
 
 ## furnace
 
