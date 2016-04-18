@@ -221,6 +221,7 @@
 
 ## sewer2
 
+* Fixed notes on the map being difficult to interact with
 * Fixed leaking pipe camera target not triggering when close
 * Removed "the Bergmann tunnel underneath has collapsed" line
 
