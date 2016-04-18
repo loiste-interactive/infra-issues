@@ -174,7 +174,7 @@
 * Fixed some mining area lighting issues
 * Fixed flickering door
 * Fixed certain notes being unusable
-* * Fixed light switch highlights (issue [#521] 
+* Fixed light switch highlights (issue [#521] 
 (https://github.com/loiste-interactive/infra-issues/issues/521))
 * Fixed the key box (issue [#395] 
 (https://github.com/loiste-interactive/infra-issues/issues/395))
