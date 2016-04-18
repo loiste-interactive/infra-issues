@@ -202,6 +202,13 @@
 ## sewer
 
 * Added "that's convenient" line to finding the metro maintenance access
+* Added missing player clips (issue [#540]
+(https://github.com/loiste-interactive/infra-issues/issues/540))
+* Fixed valve loop sound
+* Fixed being able to get out of the playable area (issue [#527]
+(https://github.com/loiste-interactive/infra-issues/issues/527))
+* Removed trigger_push (issue [#544]
+(https://github.com/loiste-interactive/infra-issues/issues/544))
 
 ## sewer2
 
