@@ -18,6 +18,7 @@
 * Changed the respawn effect
 * Changed use highlights and selection outlines to be hidden when the camera is being controlled
 * Changed the camera to only register a single camera target per picture – the one closest to the center of the screen
+* Changed closed doors to be useable from further away if they are not locked
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Fixed the player character being able to talk while dead
