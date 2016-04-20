@@ -118,6 +118,7 @@
 * Added a camera target for the tree growing on the concrete
 * Changed the keyholder to be less confusing
 * Fixed weird behaviour with certain locked door handles
+* Fixed the switchyard fire causing performance issues
 * Fixed synchroscopes being off-center when synched
 * Fixed flickering water in the generator room when looking out of the window in a certain angle (issue [#495]
 (https://github.com/loiste-interactive/infra-issues/issues/495))
