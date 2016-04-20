@@ -36,6 +36,7 @@
 * Fixed chapter titles not being affected by screen fades
 * Fixed being able to climb on held objects
 * Fixed attenuation for some dialogue
+* Fixed an issue where the player could get stuck crouching if the game was saved while the view was being controlled
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
