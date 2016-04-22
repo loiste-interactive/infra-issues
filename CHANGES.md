@@ -116,6 +116,8 @@
 * Added new autosaves
 * Added a new route to the turbine hall to make backtracking less of a hassle
 * Added a new corruption document
+* Added a mistake target to when turning on the turbine hall power
+   * Can be untriggered by turning the power off
 * Added a camera target for the tree growing on the concrete
 * Added player clips to certain places (issue [#559] 
 (https://github.com/loiste-interactive/infra-issues/issues/559))
