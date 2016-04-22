@@ -117,7 +117,9 @@
 * Added a new route to the turbine hall to make backtracking less of a hassle
 * Added a new corruption document
 * Added a camera target for the tree growing on the concrete
-* Changed the keyholder to be less confusing
+* Added player clips to certain places (issue [#559] 
+(https://github.com/loiste-interactive/infra-issues/issues/559))
+* Changed the cabin keyholder to be less confusing
 * Fixed weird behaviour with certain locked door handles
 * Fixed the switchyard fire causing performance issues
 * Fixed synchroscopes being off-center when synched
