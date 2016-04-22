@@ -40,7 +40,7 @@
 * Fixed an issue where the player could get stuck crouching if the game was saved while the view was being controlled
 * Fixed weird white lines appearing on NPCs on low graphics settings
 * Fixed NPCs drawing incorrectly on low graphics settings
-* Fixed held objects becoming immaterial if you pick up another object while still holding the other one
+* Fixed held objects glitching out if you pick up another object while still holding the other one
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
