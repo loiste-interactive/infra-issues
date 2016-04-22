@@ -69,6 +69,7 @@
 
 ## office
 
+* Added detail to certain areas
 * Added autosave to when picking up the letter from the reception
 * Added use highlights to the toilet in the sauna (issue [#536]
 (https://github.com/loiste-interactive/infra-issues/issues/536))
