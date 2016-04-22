@@ -41,6 +41,7 @@
 * Fixed weird white lines appearing on NPCs on low graphics settings
 * Fixed NPCs drawing incorrectly on low graphics settings
 * Fixed held objects glitching out if you pick up another object while still holding the other one
+* Fixed misaligned document view for a certain model
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
