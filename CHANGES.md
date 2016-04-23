@@ -228,6 +228,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/540))
 * Fixed being able to get out of the playable area (issue [#527]
 (https://github.com/loiste-interactive/infra-issues/issues/527))
+* Fixed being able to lose the diesel canister to the elevator shaft (issue [#562]
+(https://github.com/loiste-interactive/infra-issues/issues/562))
 * Fixed sewer entrance door not being closeable (issue [#565]
 (https://github.com/loiste-interactive/infra-issues/issues/565))
 * Removed trigger_push (issue [#544]
