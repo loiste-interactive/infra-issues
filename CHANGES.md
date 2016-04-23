@@ -230,6 +230,8 @@
 * Fixed valve loop sound
 * Fixed being able to get out of the playable area (issue [#527]
 (https://github.com/loiste-interactive/infra-issues/issues/527))
+* Fixed sewer entrance door not being closeable (issue [#565]
+(https://github.com/loiste-interactive/infra-issues/issues/565))
 * Removed trigger_push (issue [#544]
 (https://github.com/loiste-interactive/infra-issues/issues/544))
 
