@@ -224,10 +224,9 @@
 
 ## sewer
 
-* Added "that's convenient" line to finding the metro maintenance access
+* Added "That's convenient" line to when finding the metro maintenance access
 * Added missing player clips (issue [#540]
 (https://github.com/loiste-interactive/infra-issues/issues/540))
-* Fixed valve loop sound
 * Fixed being able to get out of the playable area (issue [#527]
 (https://github.com/loiste-interactive/infra-issues/issues/527))
 * Fixed sewer entrance door not being closeable (issue [#565]
