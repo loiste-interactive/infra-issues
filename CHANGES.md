@@ -226,6 +226,8 @@
 
 * Added missing player clips (issue [#540]
 (https://github.com/loiste-interactive/infra-issues/issues/540))
+* Added a camera target for the broken stairs (issue [#567]
+(https://github.com/loiste-interactive/infra-issues/issues/567))
 * Fixed being able to get out of the playable area (issue [#527]
 (https://github.com/loiste-interactive/infra-issues/issues/527))
 * Fixed being able to lose the diesel canister to the elevator shaft (issue [#562]
