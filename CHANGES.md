@@ -178,11 +178,12 @@
 
 ## tunnel4
 
-* Added new ladder to climbing part
+* Added player clips to certain places
 * Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
 (https://github.com/loiste-interactive/infra-issues/issues/550))
+* Changed the climbing part on the power plant under construction
+* Changed the dynamite explosion kill radius to be smaller
 * Changed the office lighting to be dimmer
-* Changed the tunnel climbing part route
 * Changed the flooded electrified hallway door opening direction (issue [#548] 
 (https://github.com/loiste-interactive/infra-issues/issues/548))
 * Fixed some mining area lighting issues
@@ -200,13 +201,10 @@
 
 ## furnace
 
-* Fixed incorrect subtitles for the "an elevator that didn't fall down?" line
-* Fixed incorrect subtitles for the "let's see if we can't get it to work" line
-* Fixed timing issues with the "sometimes I wonder if I'm getting paid enough for this" line and the recorded announcement
+* Fixed incorrect subtitles and timing issues with VO
 * Fixed attenuation for the recorded announcements
 * Fixed illogical behaviour with the minitrain controls (issue [#501]
 (https://github.com/loiste-interactive/infra-issues/issues/501))
-
 
 ## watertreatment
 
