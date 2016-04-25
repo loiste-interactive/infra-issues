@@ -66,6 +66,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/432))
 * Fixed missing localization tokens for "autosave" and "quicksave" in the main menu (issue [#512] 
 (https://github.com/loiste-interactive/infra-issues/issues/512))
+* Removed a certain climb foley sound
 * Removed demo recording (issue [#124] 
 (https://github.com/loiste-interactive/infra-issues/issues/124))
 
