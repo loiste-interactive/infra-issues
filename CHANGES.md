@@ -178,6 +178,7 @@
 
 ## tunnel4
 
+* Added a new camera target to the changed route in the power plant under construction
 * Added player clips to certain places
 * Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
 (https://github.com/loiste-interactive/infra-issues/issues/550))
