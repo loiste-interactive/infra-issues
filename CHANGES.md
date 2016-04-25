@@ -180,23 +180,22 @@
 * Added new ladder to climbing part
 * Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
 (https://github.com/loiste-interactive/infra-issues/issues/550))
-* Changed the flooded electrified hallway door opening direction (issue [#548] 
-(https://github.com/loiste-interactive/infra-issues/issues/548))
 * Changed the office lighting to be dimmer
 * Changed the tunnel climbing part route
-* Fixed air duct at the end of map having a gap
-* Fixed button highlights (issue [#549] 
-(https://github.com/loiste-interactive/infra-issues/issues/549))
-* Fixed being able to use the water flow monitor instruments through the door (issue [#547] 
-(https://github.com/loiste-interactive/infra-issues/issues/547))
-* Fixed flickering debris outside office door
+* Changed the flooded electrified hallway door opening direction (issue [#548] 
+(https://github.com/loiste-interactive/infra-issues/issues/548))
 * Fixed some mining area lighting issues
-* Fixed flickering door
 * Fixed certain notes being unusable
-* Fixed light switch highlights (issue [#521] 
-(https://github.com/loiste-interactive/infra-issues/issues/521))
 * Fixed the key box (issue [#395] 
 (https://github.com/loiste-interactive/infra-issues/issues/395))
+* Fixed an alternative route door unlocking when it shouldn't (issue [#500] 
+(https://github.com/loiste-interactive/infra-issues/issues/500))
+* Fixed light switch highlights (issue [#521] 
+(https://github.com/loiste-interactive/infra-issues/issues/521))
+* Fixed being able to use the water flow monitor instruments through the door (issue [#547] 
+(https://github.com/loiste-interactive/infra-issues/issues/547))
+* Fixed button highlights (issue [#549] 
+(https://github.com/loiste-interactive/infra-issues/issues/549))
 
 ## furnace
 
