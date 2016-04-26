@@ -129,6 +129,7 @@
 * Added player clips to certain places (issue [#559] 
 (https://github.com/loiste-interactive/infra-issues/issues/559))
 * Changed the cabin keyholder to be less confusing
+* Fixed player being able to climb out of the elevator
 * Fixed weird behaviour with certain locked door handles
 * Fixed the switchyard fire causing performance issues
 * Fixed synchroscopes being off-center when synched
