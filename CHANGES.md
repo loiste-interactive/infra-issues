@@ -21,6 +21,8 @@
 * Changed closed doors to be useable from further away if they are not locked
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
+* Changed the player not to collide with small physics props (issue [#570] 
+(https://github.com/loiste-interactive/infra-issues/issues/570))
 * Fixed the player character being able to talk while dead
 * Fixed camera targets, etc. not always saving their state properly
 * Fixed film grain affecting screen fades
@@ -43,6 +45,7 @@
 * Fixed held objects glitching out if you pick up another object while still holding the other one
 * Fixed misaligned document view for a certain model
 * Fixed being able to use entities while the view is being controlled – was especially a problem with the various in-game computers
+* Fixed scaffolding model lighting
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
