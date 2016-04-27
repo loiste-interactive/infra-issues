@@ -211,6 +211,11 @@
 * Fixed illogical behaviour with the minitrain controls (issue [#501]
 (https://github.com/loiste-interactive/infra-issues/issues/501))
 
+## tower
+
+* Fixed certain doors missing sounds (issue [#520] 
+(https://github.com/loiste-interactive/infra-issues/issues/520))
+
 ## watertreatment
 
 * Fixed displacement tear
