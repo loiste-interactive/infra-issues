@@ -49,6 +49,7 @@
 * Fixed misaligned document view for a certain model
 * Fixed being able to use entities while the view is being controlled – was especially a problem with the various in-game computers
 * Fixed scaffolding model lighting
+* Fixed corruption targets not counting as a successful photo for the camera hints
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
