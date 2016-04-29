@@ -21,6 +21,7 @@
 * Changed closed doors to be useable from further away if they are not locked
 * Changed the flashlight equip hint not to be shown if the player has already equipped his flashlight at least once
 * Changed the camera equip hint not to be shown if the player has already equipped his camera at least once
+* Changed the camera focus indicator hint to be shown until the player takes a successful photo
 * Changed the document view so that it zooms in closer with certain documents (issue [#494] 
 (https://github.com/loiste-interactive/infra-issues/issues/494))
 * Changed the player not to collide with small physics props (issue [#570] 
