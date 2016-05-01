@@ -224,6 +224,8 @@
 
 ## watertreatment
 
+* Added detail to the office (issue [#572]
+(https://github.com/loiste-interactive/infra-issues/issues/572))
 * Fixed displacement tear
 * Fixed sewer pipe room red light reflection
 * Fixed flickering debris near poison room
