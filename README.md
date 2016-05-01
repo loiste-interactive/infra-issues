@@ -36,3 +36,4 @@ Thanks!
 | <img src="http://i.imgur.com/ZDEl4tE.jpg" height=150>          | `tower`             | 4       | Heavy Industry of the Past |
 | <img src="http://i.imgur.com/DOdYnMq.jpg" height=150> | `watertreatment`    | 5       | Fresh Water                |
 | <img src="http://i.imgur.com/pUwQGG4.jpg" height=150> | `sewer`    | 5       | Fresh Water                |
+| <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `sewer2`    | 5       | Fresh Water                |
