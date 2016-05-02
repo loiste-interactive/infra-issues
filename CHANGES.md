@@ -502,25 +502,25 @@
 * Added new grit classifier puzzle
 * Added a new hidden achievement (issue [#361] 
 (https://github.com/loiste-interactive/infra-issues/issues/361))
-* Added new red keycard
-* Added valve to old grit classifier room
-* Added valve to sewer pipe building
-* Added camera target to the broken window (issue [#433] 
+* Added a new red keycard
+* Added a valve to old grit classifier room
+* Added a valve to sewer pipe building
+* Added a camera target to the broken window (issue [#433] 
 (https://github.com/loiste-interactive/infra-issues/issues/433))
-* Added camera target to the broken secondary clarifier (issue [#437]
+* Added a camera target to the broken secondary clarifier (issue [#437]
 (https://github.com/loiste-interactive/infra-issues/issues/437))
-* Added camera target to the tablet (issue [#486]
+* Added a camera target to the tablet (issue [#486]
 (https://github.com/loiste-interactive/infra-issues/issues/486))
-* Changed blower building route
+* Changed the blower building route
 * Changed the white keycard location (issue [#460]
 (https://github.com/loiste-interactive/infra-issues/issues/460))
 * Fixed a door turning static when transitioning from `tower` (issue [#408] 
 (https://github.com/loiste-interactive/infra-issues/issues/408))
 * Fixed the missing valves(issue [#409] 
 (https://github.com/loiste-interactive/infra-issues/issues/409))
-* Fixed sample report being finicky (issue [#410] 
+* Fixed the sample report being finicky (issue [#410] 
 (https://github.com/loiste-interactive/infra-issues/issues/410))
-* Fixed blue screen computer not being usable (issue [#411] 
+* Fixed the blue screen computer not being usable (issue [#411] 
 (https://github.com/loiste-interactive/infra-issues/issues/411))
 * Fixed the gate being ajar to the wrong side (issue [#412] 
 (https://github.com/loiste-interactive/infra-issues/issues/412))
@@ -528,13 +528,13 @@
 (https://github.com/loiste-interactive/infra-issues/issues/436))
 * Fixed the glowing mushrooms camera target having too small range (issue [#438] 
 (https://github.com/loiste-interactive/infra-issues/issues/438))
-* Fixed light on alarm staying green when disarmed (issue [#439] 
+* Fixed the light on alarm staying green when disarmed (issue [#439] 
 (https://github.com/loiste-interactive/infra-issues/issues/439))
 * Fixed too bright watertreatment log (issue [#440] 
 (https://github.com/loiste-interactive/infra-issues/issues/440))
 * Fixed the water sampler use highlights (issue [#453] 
 (https://github.com/loiste-interactive/infra-issues/issues/453))
-* Fixed floating prop (issue [#479] 
+* Fixed a floating prop (issue [#479] 
 (https://github.com/loiste-interactive/infra-issues/issues/479))
 * Fixed illogical keycard coloring scheme (issue [#489]
 (https://github.com/loiste-interactive/infra-issues/issues/489))
