@@ -94,6 +94,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/557))
 * Changed the location of the geocache slightly
 * Fixed reflection issues in the kithen
+* Fixed being able to jump down the lobby without dying
+* Fixed the receptionist scene continuing even if the player has left the immediate area
 * Fixed the walking NPC in the lobby disapperearing visibly
 * Fixed zoom hint appearing at wrong times (issue [#314]
 (https://github.com/loiste-interactive/infra-issues/issues/314))
@@ -119,9 +121,12 @@
 
 ## reserve1
 
+* Added new autosaves
+* Added corruption camera target for the logging zone map
 * Fixed train horn playing after the train has already arrived
 * Fixed the dam crack achievement being hard to trigger
 * Fixed certain static barrels being physics objects
+* Fixed out of bounds issues
 * Fixed chapter title never being displayed at the start of the map (issue [#320] 
 (https://github.com/loiste-interactive/infra-issues/issues/320))
 * Fixed player's head clipping through the bridge (issue [#516] 
@@ -163,12 +168,13 @@
 
 ## reserve3
 
-* Fixed the concrete barrier player clip (issue [#541] 
-(https://github.com/loiste-interactive/infra-issues/issues/541))
+* Added camera target for the broken railing at the Bergmann tunnel
 * Fixed certain static barrels being physics objects
 * Fixed the office door lighting
 * Fixed the tunnel railing lighting
-* Fixed timing issues in the "old Bergmann water tunnel" monologue
+* Fixed the cliff face being difficult to climb
+* Fixed the concrete barrier player clip (issue [#541] 
+(https://github.com/loiste-interactive/infra-issues/issues/541))
 
 ## tunnel1
 
@@ -184,21 +190,21 @@
 
 ## tunnel3
 
+* Fixed the player's camera screen disappearing when entering the raft with the camera equipped
 * Fixed being able to use the water flow monitor instruments through the door (issue [#552] 
 (https://github.com/loiste-interactive/infra-issues/issues/552))
-* Fixed the player's camera screen disappearing when entering the raft with the camera equipped
 
 ## tunnel4
 
 * Added a new camera target to the changed route at the power plant under construction
 * Added player clips to certain places
-* Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
-(https://github.com/loiste-interactive/infra-issues/issues/550))
 * Changed the climbing part on the power plant under construction
 * Changed the dynamite explosion kill radius to be smaller
 * Changed the office lighting to be dimmer
 * Changed the flooded electrified hallway door opening direction (issue [#548] 
 (https://github.com/loiste-interactive/infra-issues/issues/548))
+* Changed the flooded electrified hallway crate to smaller crate (issue [#550] 
+(https://github.com/loiste-interactive/infra-issues/issues/550))
 * Fixed some mining area lighting issues
 * Fixed certain notes being unusable
 * Fixed the key box (issue [#395] 
@@ -221,6 +227,7 @@
 
 ## tower
 
+* Fixed power lines in the skybox moving in the wind
 * Fixed certain doors missing sounds (issue [#520] 
 (https://github.com/loiste-interactive/infra-issues/issues/520))
 
@@ -228,9 +235,9 @@
 
 * Added detail to the office (issue [#572]
 (https://github.com/loiste-interactive/infra-issues/issues/572))
-* Fixed displacement tear
-* Fixed sewer pipe room red light reflection
-* Fixed flickering debris near poison room
+* Changed the pipes at the sludge building to affect the conveyor belt sludge
+* Fixed reflection issues
+* Fixed flickering debris
 * Fixed installation CD insertion behavior
 * Fixed some models being too bright
 * Fixed a player's line getting cut off in the phone call to his boss if he has turned on some of the water flow meters
@@ -247,6 +254,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/540))
 * Added a camera target for the broken stairs (issue [#567]
 (https://github.com/loiste-interactive/infra-issues/issues/567))
+* Fixed hacker den windows being non-solid
 * Fixed being able to get out of the playable area (issue [#527]
 (https://github.com/loiste-interactive/infra-issues/issues/527))
 * Fixed being able to lose the diesel canister to the elevator shaft (issue [#562]
@@ -258,6 +266,7 @@
 
 ## sewer2
 
+* Changed the hint for throwing held objects to reappear in this level since it's essential to progress
 * Fixed notes on the map being difficult to interact with
 * Fixed leaking pipe camera target not triggering when close
 * Removed "the Bergmann tunnel underneath has collapsed" line
