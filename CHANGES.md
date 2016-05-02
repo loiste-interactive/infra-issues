@@ -52,6 +52,8 @@
 * Fixed corruption targets not counting as a successful photo for the camera hints
 * Fixed a crash when saving the game on resolutions smaller than 512 × 512
 * Fixed saved game screenshot aspect ratios
+* Fixed the player moving faster while crouching diagonally
+* Fixed the player moving faster on ladders diagonally
 * Fixed finicky crate physics (issue [#93] 
 (https://github.com/loiste-interactive/infra-issues/issues/93))
 * Fixed flashlight sometimes coming up without animation after respawn (issue [#121] 
