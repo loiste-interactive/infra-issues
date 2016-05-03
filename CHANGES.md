@@ -1,6 +1,7 @@
 # May 3rd 2016 (Version 1.1.3)
 
-* Fixed a crash on equipping the camera when hints are disabled
+* Fixed a crash on equipping the camera when hints are disabled (issue [#573] 
+(https://github.com/loiste-interactive/infra-issues/issues/573))
 
 # May 3rd 2016 (Version 1.1.2)
 
