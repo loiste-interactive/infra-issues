@@ -3,6 +3,10 @@
 * Fixed a crash on equipping the camera when hints are disabled (issue [#573] 
 (https://github.com/loiste-interactive/infra-issues/issues/573))
 
+## watertreatment
+
+* Fixed the player's "where is everybody" line triggering multiple times
+
 # May 3rd 2016 (Version 1.1.2)
 
 * Added a hint for throwing held objects
