@@ -1,4 +1,4 @@
-# Upcoming in 1.1.2
+# May 3rd 2016 (Version 1.1.2)
 
 * Added a hint for throwing held objects
 * Added a fade in & fade out to level transitions
