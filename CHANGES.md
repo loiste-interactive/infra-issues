@@ -6,6 +6,7 @@
 ## watertreatment
 
 * Fixed the player's "where is everybody" line triggering multiple times
+* Fixed issues with the contents of the emails
 
 # May 3rd 2016 (Version 1.1.2)
 
