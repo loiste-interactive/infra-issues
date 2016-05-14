@@ -2,7 +2,7 @@
 
 * Added autosaves to be loadable from the pause menu
 * Added a subtle red tint to the player hurt effect – on lower settings this is displayed instead of the post-processing effect, but on higher graphics settings this is displayed in addition to the post-processing effect
-* Added demo recording back (issue [#124 main branch] 
+* Added demo recording back (issue [#124] 
 (https://github.com/loiste-interactive/infra-issues/issues/124))
 * Changed "restart from checkpoint" pause menu option to read "restart from last save"
 * Changed the player hurt effect to be also played for the killing blow
@@ -11,11 +11,11 @@
 * Fixed the pause menu being briefly visible during level loading
 * Fixed a case where the player could receive 0 fall damage if near the fall damage velocity threshold (i.e. screen would shake, but no damage effects would appear and no damage would be actually taken)
 * Fixed frame rate drop when taking a photo (or repairing a spot, etc.) for the first time
-* Fixed demo recording issue where the game would crash when the player died (issue [#124 main branch] 
+* Fixed demo recording issue where the game would crash when the player died (issue [#124] 
 (https://github.com/loiste-interactive/infra-issues/issues/124))
-* Fixed demo playback ending when the player dies (issue [#124 main branch] 
+* Fixed demo playback ending when the player dies (issue [#124] 
 (https://github.com/loiste-interactive/infra-issues/issues/124))
-* Fixed demo playback issue where the electrified water death sound was still playing after the player had respawned (issue [#124 main branch] 
+* Fixed demo playback issue where the electrified water death sound was still playing after the player had respawned (issue [#124] 
 (https://github.com/loiste-interactive/infra-issues/issues/124))
 
 ## office
