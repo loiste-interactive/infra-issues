@@ -1,3 +1,12 @@
+# Upcoming in 1.1.5
+
+* Changed flashlight hints not to be shown while the player view is being controlled
+* Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
+
+## tunnel2
+
+* Changed the monitors to use localized text
+
 # May 14th 2016 (Version 1.1.4)
 
 * Added autosaves to be loadable from the pause menu
