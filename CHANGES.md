@@ -3,7 +3,7 @@
 * Changed flashlight hints not to be shown while the player view is being controlled
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
-* Fixed pause menu mouse focus issues
+* Fixed pause menu and main menu mouse focus issues
 
 ## tunnel2
 
