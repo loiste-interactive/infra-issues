@@ -4,6 +4,15 @@
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
+* Fixed certain elevator LED screen having plain font instead of pixels
+
+## office
+
+* Fixed poor timings in the meeting scene
+* Fixed some subtitles in the meeting scene fading out too early
+* Fixed a missing comma from a certain subtitle in the meeting scene
+* Fixed a minor timing issue with the hallway conversation
+* Removed out of place gestures from the meeting scene
 
 ## tunnel2
 
