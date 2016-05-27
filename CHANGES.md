@@ -1,5 +1,6 @@
 # Upcoming in 1.1.5
 
+* Added footstep sounds for puddles
 * Changed flashlight hints not to be shown while the player view is being controlled
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
