@@ -7,7 +7,7 @@
 * Fixed pause menu and main menu mouse focus issues
 * Fixed certain elevator LED screen having plain font instead of pixels
 * Fixed some buttons and valves being difficult to use if not looking directly at them
-* Fixed use highlights being displayed on irrelevant models near useable buttons
+* Fixed use highlights being displayed on irrelevant models near useable objects
 * Fixed use highlights not displaying on textures that don't have an alpha channel
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
