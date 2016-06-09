@@ -2,7 +2,7 @@
 
 * Added footstep sounds for puddles
 * Changed flashlight hints not to be shown while the player view is being controlled
-* Changed the "show hints" option text to "show tutorial messages"
+* Changed the "show hints" option text to "tutorial messages"
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
