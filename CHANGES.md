@@ -2,7 +2,10 @@
 
 * Added footstep sounds for puddles
 * Changed flashlight hints not to be shown while the player view is being controlled
-* Changed the "show hints" option text to "tutorial messages"
+* Changed the "show hints" label in the options menu to say "tutorial messages" instead
+* Changed the "spot repaired" and "corruption uncovered" sounds to be the same as the "successful photo" sound
+* Changed the player to always say something after taking a photo of a document
+* Changed the player to always say something after repairing a spot
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
