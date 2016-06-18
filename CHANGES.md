@@ -1,6 +1,7 @@
 # Upcoming in 1.1.5
 
 * Added footstep sounds for puddles
+* Added use selection outlines to objects that don't have use highlights (glass bottles, clutter, etc.)
 * Changed flashlight hints not to be shown while the player view is being controlled
 * Changed the "show hints" label in the options menu to say "tutorial messages" instead
 * Changed the "spot repaired" and "corruption uncovered" sounds to be the same as the "successful photo" sound
@@ -10,9 +11,11 @@
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
 * Fixed certain elevator LED screen having plain font instead of pixels
-* Fixed some buttons and valves being difficult to use if not looking directly at them
-* Fixed use highlights being displayed on irrelevant models near useable objects
-* Fixed use highlights not displaying on textures that don't have an alpha channel
+* Fixed numerous issues with use highlights
+* Fixed numerous issues with use selection outlines
+* Fixed numerous issues with the crosshair
+* Fixed numerous issues with objects being hard to use unless directly looking at them
+* Fixed numerous issues with being able to use objects through walls
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 
