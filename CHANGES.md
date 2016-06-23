@@ -13,11 +13,13 @@
 * Fixed certain elevator LED screen having plain font instead of pixels
 * Fixed numerous issues with use highlights
 * Fixed numerous issues with use selection outlines
-* Fixed numerous issues with the crosshair
+* Fixed numerous issues with the crosshair appearing on objects that can't be used
 * Fixed numerous issues with objects being hard to use unless directly looking at them
 * Fixed numerous issues with being able to use objects through walls
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
+* Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
+(https://github.com/loiste-interactive/infra-issues/issues/597))
 
 ## office
 
