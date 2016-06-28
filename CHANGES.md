@@ -29,6 +29,12 @@
 * Fixed a minor timing issue with the hallway conversation
 * Removed out of place gestures from the meeting scene
 
+## reserve1
+
+* Fixed lighting issues on certain rocks
+* Fixed signal box repair target never triggering (issue [#621] 
+(https://github.com/loiste-interactive/infra-issues/issues/621))
+
 ## tunnel2
 
 * Changed the monitors to use localized text
