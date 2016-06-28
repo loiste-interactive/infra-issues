@@ -34,6 +34,8 @@
 * Changed the position of the first geocache (issue [#610] 
 (https://github.com/loiste-interactive/infra-issues/issues/610))
 * Fixed lighting issues on certain rocks
+* Fixed cottage doors missing use highlights (issue [#257] 
+(https://github.com/loiste-interactive/infra-issues/issues/257))
 * Fixed player being able to climb on top of his car (issue [#609] 
 (https://github.com/loiste-interactive/infra-issues/issues/609))
 * Fixed signal box repair target never triggering (issue [#621] 
