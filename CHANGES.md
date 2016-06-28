@@ -34,11 +34,11 @@
 * Changed the position of the first geocache (issue [#610] 
 (https://github.com/loiste-interactive/infra-issues/issues/610))
 * Fixed lighting issues on certain rocks
-* Fixed cottage doors missing use highlights (issue [#257] 
+* Fixed the cottage doors missing use highlights (issue [#257] 
 (https://github.com/loiste-interactive/infra-issues/issues/257))
 * Fixed player being able to climb on top of his car (issue [#609] 
 (https://github.com/loiste-interactive/infra-issues/issues/609))
-* Fixed signal box repair target never triggering (issue [#621] 
+* Fixed the signal box repair target never triggering (issue [#621] 
 (https://github.com/loiste-interactive/infra-issues/issues/621))
 
 ## tunnel2
@@ -47,11 +47,13 @@
 
 ## sewer
 
-* Removed redundant repair target (issue [#622] 
+* Removed a redundant repair target (issue [#622] 
 * Fixed certain trees missing collisions
 (https://github.com/loiste-interactive/infra-issues/issues/622))
 * Fixed player getting stuck to debris at the pump station (issue [#612] 
 (https://github.com/loiste-interactive/infra-issues/issues/612))
+* Fixed a certain door being useable from the wrong side (issue [#618] 
+(https://github.com/loiste-interactive/infra-issues/issues/618))
 
 # May 14th 2016 (Version 1.1.4)
 
