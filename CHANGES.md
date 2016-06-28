@@ -45,6 +45,11 @@
 
 * Changed the monitors to use localized text
 
+## sewer
+
+* Removed redundant repair target (issue [#622] 
+(https://github.com/loiste-interactive/infra-issues/issues/622))
+
 # May 14th 2016 (Version 1.1.4)
 
 * Added autosaves to be loadable from the pause menu
