@@ -55,6 +55,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/612))
 * Fixed a certain door being useable from the wrong side (issue [#618] 
 (https://github.com/loiste-interactive/infra-issues/issues/618))
+* Fixed hacker den windows missing collisions (issue [#619] 
+(https://github.com/loiste-interactive/infra-issues/issues/619))
 
 # May 14th 2016 (Version 1.1.4)
 
