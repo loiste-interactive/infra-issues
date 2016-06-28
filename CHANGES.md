@@ -31,6 +31,7 @@
 
 ## reserve1
 
+* Changed the position of the first geocache
 * Fixed lighting issues on certain rocks
 * Fixed signal box repair target never triggering (issue [#621] 
 (https://github.com/loiste-interactive/infra-issues/issues/621))
