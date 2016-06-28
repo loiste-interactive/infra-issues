@@ -48,6 +48,7 @@
 ## sewer
 
 * Removed redundant repair target (issue [#622] 
+* Fixed certain trees missing collisions
 (https://github.com/loiste-interactive/infra-issues/issues/622))
 * Fixed player getting stuck to debris at the pump station (issue [#612] 
 (https://github.com/loiste-interactive/infra-issues/issues/612))
