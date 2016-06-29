@@ -50,6 +50,8 @@
 * Added signs to the remote controlled gates to clarify their function (issue [#568] 
 (https://github.com/loiste-interactive/infra-issues/issues/568))
 * Fixed certain trees missing collisions
+* Fixed wierd climbing spot in front of the forklift (issue [#566] 
+(https://github.com/loiste-interactive/infra-issues/issues/566))
 * Fixed a certain door getting stuck open (issue [#611] 
 (https://github.com/loiste-interactive/infra-issues/issues/611))
 * Fixed player getting stuck to debris at the pump station (issue [#612] 
