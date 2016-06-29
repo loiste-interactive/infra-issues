@@ -47,7 +47,8 @@
 
 ## sewer
 
-* Removed a redundant repair target (issue [#622] (https://github.com/loiste-interactive/infra-issues/issues/622))
+* Added signs to the remote controlled gates to clarify their function (issue [#568] 
+(https://github.com/loiste-interactive/infra-issues/issues/568))
 * Fixed certain trees missing collisions
 * Fixed a certain door getting stuck open (issue [#611] 
 (https://github.com/loiste-interactive/infra-issues/issues/611))
@@ -57,6 +58,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/618))
 * Fixed hacker den windows missing collisions (issue [#619] 
 (https://github.com/loiste-interactive/infra-issues/issues/619))
+* Removed a redundant repair target (issue [#622] (https://github.com/loiste-interactive/infra-issues/issues/622))
 
 # May 14th 2016 (Version 1.1.4)
 
