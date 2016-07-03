@@ -60,7 +60,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/618))
 * Fixed hacker den windows missing collisions (issue [#619] 
 (https://github.com/loiste-interactive/infra-issues/issues/619))
-* Removed a redundant repair target (issue [#622] (https://github.com/loiste-interactive/infra-issues/issues/622))
+* Fixed a repair spot that was impossible to obtain (issue [#622] (https://github.com/loiste-interactive/infra-issues/issues/622))
 
 # May 14th 2016 (Version 1.1.4)
 
