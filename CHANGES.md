@@ -61,6 +61,7 @@
 * Fixed hacker den windows missing collisions (issue [#619] 
 (https://github.com/loiste-interactive/infra-issues/issues/619))
 * Fixed a repair spot that was impossible to obtain (issue [#622] (https://github.com/loiste-interactive/infra-issues/issues/622))
+* Fixed an invisible floating button in front of the forklift (issue [#624] (https://github.com/loiste-interactive/infra-issues/issues/624))
 
 # May 14th 2016 (Version 1.1.4)
 
