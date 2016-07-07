@@ -11,7 +11,8 @@
 * Changed Mark to always say something after repairing a spot
 * Changed the main menu camera movement to be faster
 * Changed the options menu to use submenus instead of tabs
-* Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible
+* Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible (issue [#599] 
+(https://github.com/loiste-interactive/infra-issues/issues/599))
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
