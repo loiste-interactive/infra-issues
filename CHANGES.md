@@ -2,11 +2,15 @@
 
 * Added footstep sounds for puddles
 * Added use selection outlines to objects that don't have use highlights (glass bottles, clutter, etc.)
+* Added keyboard/gamepad support to the options menu – completes Full Controller Support (issue [#117] 
+(https://github.com/loiste-interactive/infra-issues/issues/117))
 * Changed flashlight hints not to be shown while the player view is being controlled
 * Changed the "show hints" label in the options menu to say "tutorial messages" instead
 * Changed the "spot repaired" and "corruption uncovered" sounds to be the same as the "successful photo" sound
 * Changed Mark to always say something after taking a photo of a document
 * Changed Mark to always say something after repairing a spot
+* Changed the main menu camera movement to be faster
+* Changed the options menu to use submenus instead of tabs
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
