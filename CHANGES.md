@@ -16,7 +16,7 @@
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
 * Fixed sounds playing quieter than usual when the player view is being controlled (raft ride, document view, climbing, etc.)
 * Fixed pause menu and main menu mouse focus issues
-* Fixed certain elevator LED screen having plain font instead of pixels
+* Fixed certain elevator LED screen having a regular font instead of a LED font
 * Fixed numerous issues with use highlights
 * Fixed numerous issues with use selection outlines
 * Fixed numerous issues with the crosshair appearing on objects that can't be used
