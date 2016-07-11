@@ -11,6 +11,7 @@
 * Changed Mark to always say something after repairing a spot
 * Changed the main menu camera movement to be faster
 * Changed the options menu to use submenus instead of tabs
+* Changed the options menu slider tick sound
 * Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible (issue [#599] 
 (https://github.com/loiste-interactive/infra-issues/issues/599))
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
@@ -22,6 +23,7 @@
 * Fixed numerous issues with the crosshair appearing on objects that can't be used
 * Fixed numerous issues with objects being hard to use unless directly looking at them
 * Fixed numerous issues with being able to use objects through walls
+* Fixed the options menu slider tick sound playing too often when dragging sliders
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
