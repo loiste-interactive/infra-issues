@@ -25,6 +25,7 @@
 * Fixed numerous issues with objects being hard to use unless directly looking at them
 * Fixed numerous issues with being able to use objects through walls
 * Fixed the options menu slider tick sound playing too often when dragging sliders
+* Fixed slight input lag in equipping the camera
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
