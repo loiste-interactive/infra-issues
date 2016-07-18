@@ -13,6 +13,7 @@
 * Changed the options menu to use submenus instead of tabs
 * Changed the options menu slider tick sound
 * Changed the mouse cursor to be hidden in the main menu when using the keyboard or a controller
+* Changed Mark's deep water warning monologue
 * Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible (issue [#599] 
 (https://github.com/loiste-interactive/infra-issues/issues/599))
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
@@ -26,6 +27,7 @@
 * Fixed numerous issues with being able to use objects through walls
 * Fixed the options menu slider tick sound playing too often when dragging sliders
 * Fixed slight input lag in equipping the camera
+* Fixed Mark warning himself about deep water even when the water isn't that deep
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
