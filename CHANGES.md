@@ -58,7 +58,7 @@
 
 ## tunnel2
 
-* Fixed the monitors not using localized text
+* Changed the monitors to use localized text
 
 ## sewer
 
