@@ -66,7 +66,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/608))
 * Fixed issues with transition to `reserve3` (issue [#626] 
 (https://github.com/loiste-interactive/infra-issues/issues/626))
-* Fixed the dam camera target counting towards the total twice – once in reserve1 and once in reserve2 (issue [#641] 
+* Fixed the dam camera target counting towards the total twice – once in `reserve1` and once in `reserve2` (issue [#641] 
 (https://github.com/loiste-interactive/infra-issues/issues/641))
 
 ## reserve3
