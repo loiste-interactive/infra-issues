@@ -73,6 +73,8 @@
 
 * Fixed player getting stuck behind a certain tree (issue [#602] 
 (https://github.com/loiste-interactive/infra-issues/issues/602))
+* Fixed the hidden stash missing use highlights (issue [#603] 
+(https://github.com/loiste-interactive/infra-issues/issues/603))
 * Fixed the cliff near the end of the level being finicky to walk (issue [#604] 
 (https://github.com/loiste-interactive/infra-issues/issues/604) and [#605] 
 (https://github.com/loiste-interactive/infra-issues/issues/605))
