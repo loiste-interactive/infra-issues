@@ -69,6 +69,13 @@
 
 ## reserve3
 
+* Fixed player getting stuck behind a certain tree (issue [#602] 
+(https://github.com/loiste-interactive/infra-issues/issues/602))
+* Fixed the cliff near the end of the level being finicky to walk (issue [#604] 
+(https://github.com/loiste-interactive/infra-issues/issues/604) and issue [#605] 
+(https://github.com/loiste-interactive/infra-issues/issues/605))
+* Fixed the tunnel entrance camera target being photographable from weird angles (issue [#613] 
+(https://github.com/loiste-interactive/infra-issues/issues/613))
 * Fixed issues with transition to `reserve2` (issue [#626] 
 (https://github.com/loiste-interactive/infra-issues/issues/626))
 
