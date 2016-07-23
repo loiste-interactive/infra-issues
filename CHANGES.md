@@ -56,6 +56,22 @@
 * Fixed the signal box repair target never triggering (issue [#621] 
 (https://github.com/loiste-interactive/infra-issues/issues/621))
 
+## reserve2
+
+* Fixed the lab door note floating in mid-air (issue [#579] 
+(https://github.com/loiste-interactive/infra-issues/issues/579))
+* Fixed a typo on one of the info boards (issue [#589] 
+(https://github.com/loiste-interactive/infra-issues/issues/589))
+* Fixed certain autosaves triggering constantly when standing on them (issue [#608] 
+(https://github.com/loiste-interactive/infra-issues/issues/608))
+* Fixed issues with transition to `reserve3` (issue [#626] 
+(https://github.com/loiste-interactive/infra-issues/issues/626))
+
+## reserve3
+
+* Fixed issues with transition to `reserve2` (issue [#626] 
+(https://github.com/loiste-interactive/infra-issues/issues/626))
+
 ## tunnel2
 
 * Changed the monitors to use localized text
