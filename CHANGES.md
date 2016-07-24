@@ -124,6 +124,11 @@
 * Fixed incorrect door status light (issue [#637] 
 (https://github.com/loiste-interactive/infra-issues/issues/637))
 
+## tunnel3
+
+* Fixed player getting stuck when transitioning from `tunnel2` (issue [#596] 
+(https://github.com/loiste-interactive/infra-issues/issues/596))
+
 ## tower
 
 * Changed certain swithces to be less confusing (issue [#577] 
