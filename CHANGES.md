@@ -61,6 +61,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/609))
 * Fixed the signal box repair target never triggering (issue [#621] 
 (https://github.com/loiste-interactive/infra-issues/issues/621))
+* Fixed padlocks retaining use highlights after use (issue [#642] 
+(https://github.com/loiste-interactive/infra-issues/issues/642))
 
 ## reserve2
 
@@ -74,6 +76,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/626))
 * Fixed the dam camera target counting towards the total twice – once in `reserve1` and once in `reserve2` (issue [#641] 
 (https://github.com/loiste-interactive/infra-issues/issues/641))
+* Fixed the sawmill padlock retaining use highlights after use (issue [#642] 
+(https://github.com/loiste-interactive/infra-issues/issues/642))
 
 ## reserve3
 
@@ -95,7 +99,14 @@
 
 ## tower
 
+* Changed certain swithces to be less confusing (issue [#577] 
+(https://github.com/loiste-interactive/infra-issues/issues/577))
 * Fixed the busy tone for a certain phone number playing while the call tone was still playing
+* Fixed out of bounds issues (issue [#526] 
+(https://github.com/loiste-interactive/infra-issues/issues/526) and [#530] 
+(https://github.com/loiste-interactive/infra-issues/issues/530))
+* Fixed the ladder padlock retaining use highlights after use (issue [#642] 
+(https://github.com/loiste-interactive/infra-issues/issues/642))
 
 ## sewer
 
@@ -116,6 +127,8 @@
 * Fixed an invisible floating button in front of the forklift (issue [#624] (https://github.com/loiste-interactive/infra-issues/issues/624))
 * Fixed unusual behaviour with certain faulty button (issue [#627] (https://github.com/loiste-interactive/infra-issues/issues/627))
 * Fixed forklift ignition key being usable after startup (issue [#639] (https://github.com/loiste-interactive/infra-issues/issues/639))
+* Fixed the padlock retaining use highlights after use (issue [#642] 
+(https://github.com/loiste-interactive/infra-issues/issues/642))
 
 ## sewer2
 
