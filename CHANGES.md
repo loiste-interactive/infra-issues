@@ -2,6 +2,7 @@
 
 * Added footstep sounds for puddles
 * Added use selection outlines to objects that don't have use highlights (glass bottles, clutter, etc.)
+* Added a hint for the use key
 * Added keyboard/gamepad support to the options menu – completes Full Controller Support (issue [#117] 
 (https://github.com/loiste-interactive/infra-issues/issues/117))
 * Changed flashlight hints not to be shown while the player view is being controlled
@@ -36,8 +37,6 @@
 
 ## office
 
-* Added a hint for the use key (issue [#598] 
-(https://github.com/loiste-interactive/infra-issues/issues/598))
 * Changed the hint for using the keycard reader not to show up until the player interacts with the door (issue [#598] 
 (https://github.com/loiste-interactive/infra-issues/issues/598))
 * Fixed poor timings in the meeting scene
