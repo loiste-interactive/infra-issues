@@ -117,6 +117,10 @@
 * Fixed unusual behaviour with certain faulty button (issue [#627] (https://github.com/loiste-interactive/infra-issues/issues/627))
 * Fixed forklift ignition key being usable after startup (issue [#639] (https://github.com/loiste-interactive/infra-issues/issues/639))
 
+## sewer2
+
+* Fixed the bolt cutter use highlights reappearing if the gate is closed (issue [#643] (https://github.com/loiste-interactive/infra-issues/issues/643))
+
 # May 14th 2016 (Version 1.1.4)
 
 * Added autosaves to be loadable from the pause menu
