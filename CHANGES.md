@@ -105,7 +105,17 @@
 
 ## tunnel2
 
+* Added camera target for the broken fence (issue [#630] 
+(https://github.com/loiste-interactive/infra-issues/issues/630))
 * Changed the monitors to use localized text
+* Fixed the keycard pickup spot being useable after pickup (issue [#623] 
+(https://github.com/loiste-interactive/infra-issues/issues/623))
+* Fixed player getting stuck near the cliff face (issue [#629] 
+(https://github.com/loiste-interactive/infra-issues/issues/629))
+* Fixed indoor cables being affected by the wind (issue [#636] 
+(https://github.com/loiste-interactive/infra-issues/issues/636))
+* Fixed incorrect door status light (issue [#637] 
+(https://github.com/loiste-interactive/infra-issues/issues/637))
 
 ## tower
 
