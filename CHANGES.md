@@ -16,6 +16,7 @@
 * Changed the mouse cursor to be hidden in the main menu when using the keyboard or a controller
 * Changed Mark's deep water warning monologue
 * Changed all subtitles to italic where the person is speaking through a speaker
+* Changed Mark's jacket sleeves to glow better in the dark
 * Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible (issue [#599] 
 (https://github.com/loiste-interactive/infra-issues/issues/599))
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
