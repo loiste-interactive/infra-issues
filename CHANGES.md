@@ -109,6 +109,8 @@
 * Added camera target for the broken fence (issue [#630] 
 (https://github.com/loiste-interactive/infra-issues/issues/630))
 * Changed the monitors to use localized text
+* Fixed player not being able to climb to the other three pools of water
+* Fixed the water in the pools not acting like water
 * Fixed player getting stuck behind certain railing (issue [#580] 
 (https://github.com/loiste-interactive/infra-issues/issues/580))
 * Fixed player getting stuck to the exit pipe (issue [#584] 
