@@ -93,6 +93,16 @@
 * Fixed issues with transition to `reserve2` (issue [#626] 
 (https://github.com/loiste-interactive/infra-issues/issues/626))
 
+## tunnel
+
+* Added missing flood door labels
+* Added missing camera target (issue [#606] 
+(https://github.com/loiste-interactive/infra-issues/issues/606))
+* Added missing flood door player clip (issue [#607] 
+(https://github.com/loiste-interactive/infra-issues/issues/607))
+* Fixed the pipe room flood door valve getting stuck (issue [#620] 
+(https://github.com/loiste-interactive/infra-issues/issues/620))
+
 ## tunnel2
 
 * Changed the monitors to use localized text
