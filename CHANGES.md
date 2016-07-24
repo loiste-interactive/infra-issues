@@ -37,6 +37,7 @@
 
 ## office
 
+* Changed the text for the keycard reader hint
 * Changed the hint for using the keycard reader not to show up until the player interacts with the door (issue [#598] 
 (https://github.com/loiste-interactive/infra-issues/issues/598))
 * Fixed poor timings in the meeting scene
