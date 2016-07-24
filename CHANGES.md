@@ -93,6 +93,10 @@
 
 * Changed the monitors to use localized text
 
+## tower
+
+* Fixed the busy tone for a certain phone number playing while the call tone was still playing
+
 ## sewer
 
 * Added signs to the remote controlled gates to clarify their function (issue [#568] 
