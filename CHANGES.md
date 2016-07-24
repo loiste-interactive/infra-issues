@@ -44,8 +44,6 @@
 * Fixed some subtitles in the meeting scene fading out too early
 * Fixed a missing comma from a certain subtitle in the meeting scene
 * Fixed a minor timing issue with the hallway conversation
-* Fixed the hint for using the keycard reader showing up too early (issue [#598] 
-(https://github.com/loiste-interactive/infra-issues/issues/598))
 * Fixed the key prompts not using localized text (issue [#601] 
 (https://github.com/loiste-interactive/infra-issues/issues/601))
 * Removed out of place gestures from the meeting scene
