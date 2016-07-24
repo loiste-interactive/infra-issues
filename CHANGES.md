@@ -110,6 +110,8 @@
 * Changed the monitors to use localized text
 * Fixed player getting stuck behind certain railing (issue [#580] 
 (https://github.com/loiste-interactive/infra-issues/issues/580))
+* Fixed player getting stuck to the exit pipe (issue [#584] 
+(https://github.com/loiste-interactive/infra-issues/issues/584))
 * Fixed player blocking the toiler seat cover (issue [#591] 
 (https://github.com/loiste-interactive/infra-issues/issues/591))
 * Fixed the keycard pickup spot being useable after pickup (issue [#623] 
