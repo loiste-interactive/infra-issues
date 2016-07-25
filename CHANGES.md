@@ -32,6 +32,7 @@
 * Fixed slight input lag in equipping the camera
 * Fixed Mark warning himself about deep water even when the water isn't that deep
 * Fixed a crash when clicking the play button when not signed into Steam – now displays an error message instead
+* Fixed breakable prop gibs not floating on water
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
