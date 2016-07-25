@@ -158,6 +158,18 @@
 * Fixed the ladder padlock retaining use highlights after use (issue [#642] 
 (https://github.com/loiste-interactive/infra-issues/issues/642))
 
+## watertreatment
+
+* Fixed being able to turn on the secondary clarifier when the selected grit classifier is off
+* Fixed out of bounds issue (issue [#574] 
+(https://github.com/loiste-interactive/infra-issues/issues/574))
+* Fixed a certain floating rack (issue [#585] 
+(https://github.com/loiste-interactive/infra-issues/issues/585))
+* Fixed player getting stuck on a certain cardboard box (issue [#586] 
+(https://github.com/loiste-interactive/infra-issues/issues/586))
+* Fixed player blocking the toiler seat cover (issue [#595] 
+(https://github.com/loiste-interactive/infra-issues/issues/595))
+
 ## sewer
 
 * Added signs to the remote controlled gates to clarify their function (issue [#568] 
