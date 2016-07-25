@@ -39,6 +39,8 @@
 
 ## office
 
+* Added "Are you sure you want to leave?" prompt when trying to skip the meeting (issue [#600] 
+(https://github.com/loiste-interactive/infra-issues/issues/600))
 * Changed the text for the keycard reader hint
 * Changed the receptionist's subtitle color to purple
 * Changed sound mixing so that the receptionist dialogue ducks other dialogue
