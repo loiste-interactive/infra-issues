@@ -41,6 +41,7 @@
 
 * Changed the text for the keycard reader hint
 * Changed the receptionist's subtitle color to purple
+* Changed sound mixing so that the receptionist dialogue ducks other dialogue
 * Changed the hint for using the keycard reader not to show up until the player interacts with the door (issue [#598] 
 (https://github.com/loiste-interactive/infra-issues/issues/598))
 * Changed the text of the keycard reader note (issue [#644] 
