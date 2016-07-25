@@ -36,6 +36,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
 (https://github.com/loiste-interactive/infra-issues/issues/597))
+* Fixed player being able to pick up breakable prop gibs (issue [#645] 
+(https://github.com/loiste-interactive/infra-issues/issues/645))
 
 ## office
 
