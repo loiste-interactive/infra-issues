@@ -133,6 +133,11 @@
 * Fixed player getting stuck when transitioning from `tunnel2` (issue [#596] 
 (https://github.com/loiste-interactive/infra-issues/issues/596))
 
+## tunnel4
+
+* Fixed Mark warning himself about deep water after the raft breaks, as if it wasn't obvious (issue [#628] 
+(https://github.com/loiste-interactive/infra-issues/issues/628))
+
 ## furnace
 
 * Changed certain button to a more relevant lever (issue [#404] 
