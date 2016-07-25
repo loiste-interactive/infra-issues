@@ -45,6 +45,7 @@
 * Added a confirmation prompt for skipping the meeting (issue [#600] 
 (https://github.com/loiste-interactive/infra-issues/issues/600))
 * Changed the text for the keycard reader hint
+* Changed the slides used in the meeting
 * Changed the receptionist's subtitle color to purple
 * Changed sound mixing so that the receptionist dialogue ducks other dialogue
 * Changed the hint for using the keycard reader not to show up until the player interacts with the door (issue [#598] 
