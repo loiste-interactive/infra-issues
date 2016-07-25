@@ -49,8 +49,12 @@
 * Fixed some subtitles in the meeting scene fading out too early
 * Fixed a missing comma from a certain subtitle in the meeting scene
 * Fixed a minor timing issue with the hallway conversation
+* Fixed player being able to climb the railing in the third floor (issue [#578] 
+(https://github.com/loiste-interactive/infra-issues/issues/578))
 * Fixed the key prompts not using localized text (issue [#601] 
 (https://github.com/loiste-interactive/infra-issues/issues/601))
+* Fixed certain door frame being usable (issue [#615] 
+(https://github.com/loiste-interactive/infra-issues/issues/615))
 * Removed out of place gestures from the meeting scene
 
 ## reserve1
