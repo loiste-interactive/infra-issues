@@ -133,6 +133,20 @@
 * Fixed player getting stuck when transitioning from `tunnel2` (issue [#596] 
 (https://github.com/loiste-interactive/infra-issues/issues/596))
 
+## furnace
+
+* Changed certain button to a more relevant lever (issue [#404] 
+(https://github.com/loiste-interactive/infra-issues/issues/404))
+* Fixed the ladle control switch being usable after the initial use despite not doing anything (issue [#575] 
+(https://github.com/loiste-interactive/infra-issues/issues/575))
+* Fixed out of bounds issues (issue [#581] 
+(https://github.com/loiste-interactive/infra-issues/issues/581) and [#582] 
+(https://github.com/loiste-interactive/infra-issues/issues/582))
+* Fixed the control room key pickup spot being useable after pickup (issue [#625] 
+(https://github.com/loiste-interactive/infra-issues/issues/625))
+* Removed certain crate which could be used to get stuck (issue [#576] 
+(https://github.com/loiste-interactive/infra-issues/issues/576))
+
 ## tower
 
 * Changed certain swithces to be less confusing (issue [#577] 
