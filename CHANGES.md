@@ -125,10 +125,10 @@
 
 ## tunnel2
 
-* Added camera target for the broken wall of the chroline tank building
+* Added camera target for the broken wall of the chlorine tank building
 * Added camera target for the broken fence (issue [#630] 
 (https://github.com/loiste-interactive/infra-issues/issues/630))
-* Added working meter and sound for the chroline tnaka (issue [#631] 
+* Added working meter and sound for the chlorine tank (issue [#631] 
 (https://github.com/loiste-interactive/infra-issues/issues/631))
 * Changed the monitors to use localized text
 * Changed the elevation of the red pipe by the cliff (issue [#646] 
