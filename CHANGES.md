@@ -41,6 +41,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/645))
 * Fixed subtitles not disappearing immediately if the sound is stopped (issue [#649] 
 (https://github.com/loiste-interactive/infra-issues/issues/649))
+* Fixed the camera screen being off when equipped for the first time after dying in a map with no saved game (issue [#653] 
+(https://github.com/loiste-interactive/infra-issues/issues/653))
 
 ## office
 
