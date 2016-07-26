@@ -123,6 +123,7 @@
 
 ## tunnel2
 
+* Added camera target for the broken wall of the chroline tank building
 * Added camera target for the broken fence (issue [#630] 
 (https://github.com/loiste-interactive/infra-issues/issues/630))
 * Added working meter and sound for the chroline tnaka (issue [#631] 
