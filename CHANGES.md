@@ -68,6 +68,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/601))
 * Fixed certain door frame being usable (issue [#615] 
 (https://github.com/loiste-interactive/infra-issues/issues/615))
+* Fixed office main doors getting stuck open (issue [#651] 
+(https://github.com/loiste-interactive/infra-issues/issues/651))
+* Fixed sauna missing drains (issue [#654] 
+(https://github.com/loiste-interactive/infra-issues/issues/654))
 * Removed out of place gestures from the meeting scene
 
 ## reserve1
