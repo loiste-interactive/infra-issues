@@ -128,7 +128,7 @@
 * Added working meter and sound for the chroline tnaka (issue [#631] 
 (https://github.com/loiste-interactive/infra-issues/issues/631))
 * Changed the monitors to use localized text
-* Chnaged the elevation of the red pipe by the cliff (issue [#646] 
+* Changed the elevation of the red pipe by the cliff (issue [#646] 
 (https://github.com/loiste-interactive/infra-issues/issues/646))
 * Fixed player not being able to climb to the other three pools of water
 * Fixed the water in the pools not acting like water
