@@ -158,6 +158,8 @@
 
 * Added camera targets for the raft ride (issue [#429] 
 (https://github.com/loiste-interactive/infra-issues/issues/429))
+* Changed the raft to rotate a bit in the direction it's being steered in
+* Fixed the raft model clipping with the water surface
 * Fixed player getting stuck when transitioning from `tunnel2` (issue [#596] 
 (https://github.com/loiste-interactive/infra-issues/issues/596))
 
