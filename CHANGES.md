@@ -68,10 +68,16 @@
 (https://github.com/loiste-interactive/infra-issues/issues/601))
 * Fixed certain door frame being usable (issue [#615] 
 (https://github.com/loiste-interactive/infra-issues/issues/615))
+* Fixed elevator lights staying on when it goes dark the second time (issue [#650] 
+(https://github.com/loiste-interactive/infra-issues/issues/650))
 * Fixed office main doors getting stuck open (issue [#651] 
 (https://github.com/loiste-interactive/infra-issues/issues/651))
+* Fixed sauna toilet missing flush particle (issue [#652] 
+(https://github.com/loiste-interactive/infra-issues/issues/652))
 * Fixed sauna missing drains (issue [#654] 
 (https://github.com/loiste-interactive/infra-issues/issues/654))
+* Fixed cubemap issues with the elevator blackout scene (issue [#660] 
+(https://github.com/loiste-interactive/infra-issues/issues/660))
 * Removed out of place gestures from the meeting scene
 
 ## reserve1
