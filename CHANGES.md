@@ -208,6 +208,7 @@
 ## watertreatment
 
 * Fixed being able to turn on the secondary clarifier when the selected grit classifier is off
+* Fixed some mistakes in the email content on the computer
 * Fixed out of bounds issue (issue [#574] 
 (https://github.com/loiste-interactive/infra-issues/issues/574))
 * Fixed a certain floating rack (issue [#585] 
