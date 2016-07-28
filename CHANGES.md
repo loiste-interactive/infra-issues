@@ -37,6 +37,7 @@
 * Fixed breakable prop gibs not floating on water
 * Fixed Tab key behaviour in the main menu
 * Fixed issues in the main menu and on in-game computers when the cursor is dragged outside the computer screen
+* Fixed subtitle shadows getting cut off in some cases
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
