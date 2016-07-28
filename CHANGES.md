@@ -43,6 +43,7 @@
 * Fixed hint text shadow being a bit too intense
 * Fixed subtitles being slightly off-center
 * Fixed quickload bind being useable in the main menu
+* Fixed gamepad getting stuck if you try binding keys in the options menu
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
