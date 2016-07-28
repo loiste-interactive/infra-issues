@@ -42,7 +42,7 @@
 * Fixed subtitle shadows getting cut off in some cases
 * Fixed hint text shadow being a bit too intense
 * Fixed subtitles being slightly off-center
-* Fixed being able to quickload in the main menu
+* Fixed accidental quickloads in the main menu
 * Fixed invisible useable valves (issue [#590] 
 (https://github.com/loiste-interactive/infra-issues/issues/590))
 * Fixed some voices missing spatialization, appearing to be too loud (issue [#597] 
