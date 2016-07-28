@@ -197,7 +197,7 @@
 
 ## tower
 
-* Changed certain swithces to be less confusing (issue [#577] 
+* Changed certain switches to be less confusing (issue [#577] 
 (https://github.com/loiste-interactive/infra-issues/issues/577))
 * Fixed the busy tone for a certain phone number playing while the call tone was still playing
 * Fixed out of bounds issues (issue [#526] 
