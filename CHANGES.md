@@ -20,6 +20,7 @@
 * Changed the developer console size
 * Changed options menu sliders to be thinner
 * Changed all lines of subtitles to be centered, instead of just the whole subtitle item
+* Changed options menu scrollbars to be draggable with the mouse
 * Changed certain lower priority subtitles (such as the hallway conversations at the office) to be hidden while important subtitles (such as the receptionist dialogue at the office) are visible (issue [#599] 
 (https://github.com/loiste-interactive/infra-issues/issues/599))
 * Fixed fallback fonts – fixes rendering issues with Japanese, Chinese and Korean characters
