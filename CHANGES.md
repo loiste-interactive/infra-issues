@@ -1,4 +1,4 @@
-# Upcoming in 1.1.5
+July 30th 2016 (Version 1.1.5)
 
 * Added footstep sounds for puddles
 * Added use selection outlines to objects that don't have use highlights (glass bottles, clutter, etc.)
