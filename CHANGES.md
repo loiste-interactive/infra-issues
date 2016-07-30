@@ -1,3 +1,10 @@
+# Coming in 1.1.6
+
+## office
+
+* Fixed one of the door windows being detached from the door itself (issue [#681] 
+(https://github.com/loiste-interactive/infra-issues/issues/681))
+
 # July 30th 2016 (Version 1.1.5)
 
 * Added footstep sounds for puddles
