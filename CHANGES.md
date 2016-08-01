@@ -7,6 +7,13 @@
 * Fixed receptionist subtitles turning white when you interact with her after she has played the scripted scenes (issue [#683] 
 (https://github.com/loiste-interactive/infra-issues/issues/683))
 
+## reserve3
+
+* Fixed the secret stash being difficult to photograph (issue [#690] 
+(https://github.com/loiste-interactive/infra-issues/issues/690))
+* Fixed the secret stash counting as two separate corruption targets, even though it only awarded one
+* Fixed the broken railing being photographable from very far away
+
 ## sewer2
 
 * Fixed performance issues (issue [#691] 
