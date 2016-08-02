@@ -18,6 +18,8 @@
 
 * Fixed the barrel being detachable from the crane (issue [#693] 
 (https://github.com/loiste-interactive/infra-issues/issues/693))
+* Fixed the fuel canisters not colliding with each other on the shelf
+* Fixed the delay in the crane switch sounds
 
 ## sewer2
 
