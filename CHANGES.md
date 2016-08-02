@@ -14,6 +14,11 @@
 * Fixed the secret stash counting as two separate corruption targets, even though it only awarded one
 * Fixed the broken railing being photographable from very far away
 
+## sewer
+
+* Fixed the barrel being detachable from the crane (issue [#693] 
+(https://github.com/loiste-interactive/infra-issues/issues/693))
+
 ## sewer2
 
 * Fixed performance issues (issue [#691] 
