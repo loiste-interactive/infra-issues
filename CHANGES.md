@@ -1,5 +1,7 @@
 # Coming in 1.1.6
 
+* Changed the camera battery indicator to be more accurate
+
 ## office
 
 * Fixed one of the door windows being detached from the door itself (issue [#681] 
