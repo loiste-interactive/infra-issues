@@ -1,6 +1,7 @@
 # Coming in 1.1.6
 
 * Changed the camera battery indicator to be more accurate
+* Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
 
 ## office
 
