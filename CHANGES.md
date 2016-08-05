@@ -5,11 +5,12 @@
 
 ## office
 
-* Fixed a crash when "restarting from last save" in the meeting if no saved games exist
 * Fixed one of the door windows being detached from the door itself (issue [#681] 
 (https://github.com/loiste-interactive/infra-issues/issues/681))
 * Fixed receptionist subtitles turning white when you interact with her after she has played the scripted scenes (issue [#683] 
 (https://github.com/loiste-interactive/infra-issues/issues/683))
+* Fixed a crash when "restarting from last save" in the meeting if no saved games exist (issue [#699] 
+(https://github.com/loiste-interactive/infra-issues/issues/699))
 
 ## reserve3
 
