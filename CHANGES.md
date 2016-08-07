@@ -2,6 +2,8 @@
 
 * Changed the camera battery indicator to be more accurate
 * Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
+* Fixed off-center multiline hints (issue [#675] 
+(https://github.com/loiste-interactive/infra-issues/issues/675))
 
 ## office
 
