@@ -1,10 +1,10 @@
 # Coming in INFRA: Part 2
 
-* Changed vehicle textures to look more realistic this might help
+* Changed vehicle textures to look more realistic
 * Changed the camera battery indicator to be more accurate
 * Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
 * Changed game content to be loaded from pack files – drastically lowers loading times (we were seeing a 52% improvement on HDDs and 63% on SSDs)
-* Fixed the game not automatically flushing content from memory on level changes when low on memory – if you were experiencing crashes on a low-memory system
+* Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed off-center multiline hints (issue [#675] 
 (https://github.com/loiste-interactive/infra-issues/issues/675))
 
