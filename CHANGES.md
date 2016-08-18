@@ -4,6 +4,9 @@
 * Changed the camera battery indicator to be more accurate
 * Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
 * Changed game content to be loaded from pack files – drastically lowers loading times (we were seeing a 52% improvement on HDDs and 63% on SSDs)
+* Changed the appearance of the pause menu
+* Changed the default position of the developer console
+* Changed use selection outlines to be hidden while in the menu
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed off-center multiline hints (issue [#675] 
 (https://github.com/loiste-interactive/infra-issues/issues/675))
