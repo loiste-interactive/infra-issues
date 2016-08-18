@@ -28,6 +28,10 @@
 * Fixed the secret stash counting as two separate corruption targets, even though it only awarded one
 * Fixed the broken railing being photographable from very far away
 
+## tower
+
+* Fixed poor subtitle timing at the start of the phone call
+
 ## sewer
 
 * Fixed the barrel being detachable from the crane (issue [#693] 
