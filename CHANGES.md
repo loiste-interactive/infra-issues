@@ -7,6 +7,7 @@
 * Changed the appearance of the pause menu
 * Changed the default position of the developer console
 * Changed use selection outlines to be hidden while in the menu
+* Changed document view to also be exitable with the ESC key
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed occasional delays in Mark's battery monologue
 * Fixed off-center multiline hints (issue [#675] 
