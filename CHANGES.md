@@ -8,7 +8,7 @@
 * Changed the default position of the developer console
 * Changed use selection outlines to be hidden while in the menu
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
-* Fixed occasional delay in Mark's battery pick up monologue
+* Fixed occasional delays in Mark's battery monologue
 * Fixed off-center multiline hints (issue [#675] 
 (https://github.com/loiste-interactive/infra-issues/issues/675))
 
