@@ -12,9 +12,9 @@
 * Fixed occasional delays in Mark's battery monologue
 * Fixed off-center multiline hints (issue [#675] 
 (https://github.com/loiste-interactive/infra-issues/issues/675))
-* Fixed toilets flushing player client down to sewer (issue [#698] 
+* Fixed the player being able to flush himself down certain toilets (issue [#698] 
 (https://github.com/loiste-interactive/infra-issues/issues/698))
-* Removed OnLockedUse hack from doors (issue [#701] 
+* Fixed certain doors playing the locked animation and sound when opened (issue [#701] 
 (https://github.com/loiste-interactive/infra-issues/issues/701))
 
 ## office
