@@ -9,6 +9,7 @@
 * Changed use selection outlines to be hidden while in the menu
 * Changed document view to also be exitable with the ESC key
 * Changed NPCs to be less likely to wear certain colors
+* Changed NPCs to be less likely to wear certain clothes
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed occasional delays in Mark's battery monologue
 * Fixed NPCs using wrong colors for collared shirts
