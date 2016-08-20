@@ -1,6 +1,7 @@
 # Coming in INFRA: Part 2
 
 * Added LODs for NPCs
+* Added more eye textures for NPCs
 * Changed vehicle textures to look more realistic
 * Changed the camera battery indicator to be more accurate
 * Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
