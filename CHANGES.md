@@ -16,6 +16,7 @@
 * Fixed occasional delays in Mark's battery monologue
 * Fixed NPCs using wrong colors for collared shirts
 * Fixed ponytail position on the female office worker model
+* Fixed a hitch when equipping the camera for the first time
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
