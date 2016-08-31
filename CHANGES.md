@@ -62,6 +62,7 @@
 * Fixed the fuel canisters not colliding with each other on the shelf
 * Fixed delay in the crane switch sounds
 * Fixed an unobtainable camera target
+* Fixed sparks from the broken transformer clipping through walls
 
 ## sewer2
 
