@@ -2,6 +2,8 @@
 
 * Added LODs for NPCs
 * Added more eye textures for NPCs
+* Added crouched death animations (issue [#465] 
+(https://github.com/loiste-interactive/infra-issues/issues/465))
 * Changed vehicle textures to look more realistic
 * Changed the camera battery indicator to be more accurate
 * Changed font rendering to generate mipmaps for certain fonts – drastically improves icon quality for the camera screen and text quality for in-game computers
@@ -18,6 +20,7 @@
 * Fixed NPCs using wrong colors for collared shirts
 * Fixed ponytail position on the female office worker model
 * Fixed a hitch when equipping the camera for the first time
+* Fixed player being unable to crouch after respawn if he died while crouched on a level that had no saved games
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
