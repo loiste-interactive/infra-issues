@@ -25,6 +25,7 @@
 * Fixed fall damage sounds for light and medium damage being the wrong way around
 * Fixed fall death sound not always playing
 * Fixed player hurt post-processing effect not playing in quick succession
+* Fixed the "coughing" closed caption not staying on-screen for long enough
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
