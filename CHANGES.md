@@ -15,12 +15,15 @@
 * Changed NPCs to be less likely to wear certain colors
 * Changed NPCs to be less likely to wear certain clothes
 * Changed the game to not be pausable when the credits are about to roll
+* Changed the death and hurt post-processing effect durations
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed occasional delays in Mark's battery monologue
 * Fixed NPCs using wrong colors for collared shirts
 * Fixed ponytail position on the female office worker model
 * Fixed a hitch when equipping the camera for the first time
 * Fixed player being unable to crouch after respawn if he died while crouched on a level that had no saved games
+* Fixed fall damage sounds for light and medium damage being the wrong way around
+* Fixed fall death sound not always playing
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
