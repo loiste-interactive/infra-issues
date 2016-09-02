@@ -2,6 +2,7 @@
 
 * Added LODs for NPCs
 * Added more eye textures for NPCs
+* Added a backlight to the camera screen
 * Added crouched death animations (issue [#465] 
 (https://github.com/loiste-interactive/infra-issues/issues/465))
 * Changed vehicle textures to look more realistic
