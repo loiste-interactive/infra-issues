@@ -28,6 +28,7 @@
 * Fixed player hurt post-processing effect not playing in quick succession
 * Fixed the "coughing" closed caption not staying on-screen for long enough
 * Fixed doors being able to block each other from opening or closing
+* Fixed grainy saved game screenshots in the main menu
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
