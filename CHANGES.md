@@ -17,7 +17,6 @@
 * Changed NPCs to be less likely to wear certain clothes
 * Changed the game to not be pausable when the credits are about to roll
 * Changed the death and hurt post-processing effect durations
-* Changed saved game screenshots to fade faster in the main menu
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed occasional delays in Mark's battery monologue
 * Fixed NPCs using wrong colors for collared shirts
@@ -30,6 +29,7 @@
 * Fixed the "coughing" closed caption not staying on-screen for long enough
 * Fixed doors being able to block each other from opening or closing
 * Fixed grainy saved game screenshots in the main menu
+* Fixed delayed animation for saved game screenshots in the main menu
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
