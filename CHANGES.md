@@ -30,7 +30,7 @@
 * Fixed doors being able to block each other from opening or closing
 * Fixed grainy saved game screenshots in the main menu
 * Fixed delayed animation for saved game screenshots in the main menu
-* Fixed player coughs and grunts sometimes being cut off
+* Fixed player coughs and grunts using the wrong sound channel, occasionally causing them to overlap with player monologue or causing them to be cut off by other sounds
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
 * Fixed off-center multiline hints (issue [#675] 
