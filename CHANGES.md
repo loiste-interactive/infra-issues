@@ -41,6 +41,7 @@
 (https://github.com/loiste-interactive/infra-issues/issues/701))
 * Fixed clipping issues with ties (issue [#517] 
 (https://github.com/loiste-interactive/infra-issues/issues/517))
+* Removed collisions from the green mushrooms
 
 ## office
 
