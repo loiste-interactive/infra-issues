@@ -17,6 +17,7 @@
 * Changed NPCs to be less likely to wear certain clothes
 * Changed the game to not be pausable when the credits are about to roll
 * Changed the death and hurt post-processing effect durations
+* Changed vertex weights of NPC skins
 * Fixed the game not automatically flushing content from memory on level changes when low on memory – this might help if you were experiencing crashes on a low-memory system
 * Fixed occasional delays in Mark's battery monologue
 * Fixed NPCs using wrong colors for collared shirts
@@ -41,6 +42,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/701))
 * Fixed clipping issues with ties (issue [#517] 
 (https://github.com/loiste-interactive/infra-issues/issues/517))
+* Fixed gaps in character models (issue [#268] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/268))
 * Removed collisions from the green mushrooms
 
 ## office
