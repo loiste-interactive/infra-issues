@@ -85,12 +85,12 @@
 
 ## sewer2
 
+* Changed one of the dynamic lights to make better use of it
 * Fixed performance issues (issue [#691] 
 (https://github.com/loiste-interactive/infra-issues/issues/691))
 * Fixed an invisible wall where a pillar had collapsed
 * Fixed the player getting stuck on the wall when walking up the stairs to the chained gate
 * Fixed the player getting stuck on some of the debris near the openable flood door
-* Changed one of the dynamic lights to make better use of it
 
 # July 30th 2016 (Version 1.1.5)
 
