@@ -61,10 +61,10 @@
 
 ## reserve3
 
-* Fixed the secret stash being difficult to photograph (issue [#690] 
-(https://github.com/loiste-interactive/infra-issues/issues/690))
 * Fixed the secret stash counting as two separate corruption targets, even though it only awarded one
 * Fixed the broken railing being photographable from very far away
+* Fixed the secret stash being difficult to photograph (issue [#690] 
+(https://github.com/loiste-interactive/infra-issues/issues/690))
 
 ## tunnel
 
@@ -76,21 +76,21 @@
 
 ## sewer
 
-* Fixed the barrel being detachable from the crane (issue [#693] 
-(https://github.com/loiste-interactive/infra-issues/issues/693))
 * Fixed the fuel canisters not colliding with each other on the shelf
 * Fixed delay in the crane switch sounds
 * Fixed an unobtainable camera target
 * Fixed sparks from the broken transformer clipping through walls
+* Fixed the barrel being detachable from the crane (issue [#693] 
+(https://github.com/loiste-interactive/infra-issues/issues/693))
 
 ## sewer2
 
 * Changed one of the dynamic lights to make better use of it
-* Fixed performance issues (issue [#691] 
-(https://github.com/loiste-interactive/infra-issues/issues/691))
 * Fixed an invisible wall where a pillar had collapsed
 * Fixed the player getting stuck on the wall when walking up the stairs to the chained gate
 * Fixed the player getting stuck on some of the debris near the openable flood door
+* Fixed performance issues (issue [#691] 
+(https://github.com/loiste-interactive/infra-issues/issues/691))
 
 # July 30th 2016 (Version 1.1.5)
 
