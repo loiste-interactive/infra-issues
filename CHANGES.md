@@ -35,16 +35,16 @@
 * Fixed player coughs and grunts using the wrong sound channel, occasionally causing them to overlap with player monologue or causing them to be cut off by other sounds
 * Fixed prop color not being used with static props where the model has use highlights (issue [#56] 
 (https://github.com/loiste-interactive/infra-issues/issues/56))
+* Fixed gaps in character models (issue [#268] 
+(https://github.com/loiste-interactive/infra-playtest-issues/issues/268))
+* Fixed clipping issues with ties (issue [#517] 
+(https://github.com/loiste-interactive/infra-issues/issues/517))
 * Fixed off-center multiline hints (issue [#675] 
 (https://github.com/loiste-interactive/infra-issues/issues/675))
 * Fixed the player being able to flush himself down certain toilets (issue [#698] 
 (https://github.com/loiste-interactive/infra-issues/issues/698))
 * Fixed certain doors playing the locked animation and sound when opened (issue [#701] 
 (https://github.com/loiste-interactive/infra-issues/issues/701))
-* Fixed clipping issues with ties (issue [#517] 
-(https://github.com/loiste-interactive/infra-issues/issues/517))
-* Fixed gaps in character models (issue [#268] 
-(https://github.com/loiste-interactive/infra-playtest-issues/issues/268))
 * Removed collisions from the green mushrooms
 
 ## office
@@ -56,6 +56,8 @@
 (https://github.com/loiste-interactive/infra-issues/issues/683))
 * Fixed a crash when "restarting from last save" in the meeting if no saved games exist (issue [#699] 
 (https://github.com/loiste-interactive/infra-issues/issues/699))
+* Fixed skybridge missing faces (issue [#722] 
+(https://github.com/loiste-interactive/infra-issues/issues/722))
 
 ## reserve3
 
