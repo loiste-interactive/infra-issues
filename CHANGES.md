@@ -1,5 +1,6 @@
 # Coming in INFRA: Part 2
 
+* Added new maps
 * Added LODs for NPCs
 * Added more eye textures for NPCs
 * Added a backlight to the camera screen
@@ -58,9 +59,11 @@
 (https://github.com/loiste-interactive/infra-issues/issues/699))
 * Fixed skybridge missing faces (issue [#722] 
 (https://github.com/loiste-interactive/infra-issues/issues/722))
+* Changed Mark's line "so I heard I get to visit a dam too" to "looks like I get to visit a dam too"
 
 ## reserve3
 
+* Added a phone call to the corpse room
 * Fixed the secret stash counting as two separate corruption targets, even though it only awarded one
 * Fixed the broken railing being photographable from very far away
 * Fixed the secret stash being difficult to photograph (issue [#690] 
@@ -70,9 +73,15 @@
 
 * Removed the second alarm panel code and added a hint
 
+## tunnel3
+
+* Changed Mark's line "who builds an outhouse in a fresh water tunnel?" to "who's shitting in everybody's drinking water?"
+* Fixed Mark's line "moonshine" preventing other lines from playing for a short while after it
+* Removed Mark's line for looking at the raft
+
 ## tower
 
-* Fixed poor subtitle timing at the start of the phone call
+* Changed contents of the phone call when descending the tower
 
 ## sewer
 
