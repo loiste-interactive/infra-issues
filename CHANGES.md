@@ -1,6 +1,6 @@
 # Coming in INFRA: Part 2
 
-* Added new maps
+* Added new levels
 * Added LODs for NPCs
 * Added more eye textures for NPCs
 * Added a backlight to the camera screen
