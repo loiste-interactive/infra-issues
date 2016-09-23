@@ -61,6 +61,10 @@
 (https://github.com/loiste-interactive/infra-issues/issues/722))
 * Changed Mark's line "so I heard I get to visit a dam too" to "looks like I get to visit a dam too"
 
+## reserve2
+
+* Added a phone call for repairing the dam
+
 ## reserve3
 
 * Added a phone call to the corpse room
