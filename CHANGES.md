@@ -1,4 +1,4 @@
-# Coming in INFRA: Part 2
+# INFRA: Part 2
 
 * Added new levels
 * Added LODs for NPCs
