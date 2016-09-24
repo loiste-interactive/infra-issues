@@ -1,4 +1,4 @@
-# INFRA: Part 2
+# September 25th 2016 (2.0.0)
 
 * Added new levels
 * Added LODs for NPCs
