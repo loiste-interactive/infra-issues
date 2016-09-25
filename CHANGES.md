@@ -2,11 +2,11 @@
 
 ## tunnel4
 
-* Fixed raft breaking immediately on level start (if you now have a broken saved game in this level, the game prompt you to restart the level which will skip you past the raft ride)
+* Fixed raft breaking immediately on level start (broken saved games should be fixed as well)
 
 ## metro
 
-* Fixed the maintenance tram failing to appear after loading a saved game (the game will try to fix broken saved games automatically) (issue [#729] 
+* Fixed the maintenance tram failing to appear after loading a saved game (broken saved games should be fixed as well) (issue [#729] 
 (https://github.com/loiste-interactive/infra-issues/issues/729))
 
 # September 25th 2016 (Version 2.0.0)
