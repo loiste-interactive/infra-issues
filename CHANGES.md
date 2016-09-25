@@ -1,3 +1,9 @@
+# Next Update
+
+## stormdrain
+
+* Fixed level transition to `cistern` booting you to the main menu in some cases
+
 # September 25th 2016 (Version 2.0.1)
 
 ## tunnel4
