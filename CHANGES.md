@@ -7,7 +7,7 @@
 
 ## metro
 
-* Fixed seemingly random black screen (issue [#749] 
+* Fixed seemingly random black screen in some cases (issue [#749] 
 (https://github.com/loiste-interactive/infra-issues/issues/749))
 
 ## cistern
