@@ -10,6 +10,10 @@
 * Fixed seemingly random black screen in some cases (issue [#749] 
 (https://github.com/loiste-interactive/infra-issues/issues/749))
 
+## central
+
+* Changed the texture for the door code hint to look better
+
 ## cistern
 
 * Fixed level transition from `stormdrain` to `cistern` booting you to the main menu in some cases
