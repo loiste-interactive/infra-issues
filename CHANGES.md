@@ -8,7 +8,7 @@
 
 ## metro
 
-* Fixed missing maintenance tram and random black screen in certain saves (issue [#749] 
+* Fixed missing maintenance tram and random black screen in some cases (issue [#749] 
 (https://github.com/loiste-interactive/infra-issues/issues/749))
 
 ## central
