@@ -2,12 +2,13 @@
 
 * Fixed incompatible saves not showing up in the main menu
 * Fixed a crash in some cases when entering deep water
+* Fixed a possible black screen when loading a save
 * Fixed INFRA: Part 1 decisions not reflecting in INFRA: Part 2 in some cases (issue [#747] 
 (https://github.com/loiste-interactive/infra-issues/issues/747))
 
 ## metro
 
-* Fixed broken maintenance tram and random black screen in certain old saves (issue [#749] 
+* Fixed missing maintenance tram and random black screen in certain saves (issue [#749] 
 (https://github.com/loiste-interactive/infra-issues/issues/749))
 
 ## central
