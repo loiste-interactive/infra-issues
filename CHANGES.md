@@ -2,7 +2,7 @@
 
 ## tunnel4
 
-* Fixed raft breaking immediately on level start
+* Fixed the raft breaking immediately on level start
 
 ## metro
 
