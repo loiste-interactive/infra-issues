@@ -5,6 +5,11 @@
 * Fixed INFRA: Part 1 decisions not reflecting in INFRA: Part 2 in some cases (issue [#747] 
 (https://github.com/loiste-interactive/infra-issues/issues/747))
 
+## metro
+
+* Fixed seemingly random black screen (issue [#749] 
+(https://github.com/loiste-interactive/infra-issues/issues/749))
+
 ## cistern
 
 * Fixed level transition from `stormdrain` to `cistern` booting you to the main menu in some cases
