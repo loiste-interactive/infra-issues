@@ -2,7 +2,7 @@
 
 ## tunnel4
 
-* Fixed raft breaking immediately on level start (broken saved games should be fixed as well)
+* Fixed raft breaking immediately on level start
 
 ## metro
 
