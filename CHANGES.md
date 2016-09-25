@@ -13,7 +13,7 @@
 
 ## central
 
-* Changed the texture for the door code hint to look better
+* Changed the texture for the door code hint
 
 ## cistern
 
