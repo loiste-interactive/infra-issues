@@ -1,5 +1,7 @@
 # Next Update
 
+* Fixed incompatible saves not showing up in the main menu
+
 ## cistern
 
 * Fixed level transition from `stormdrain` to `cistern` booting you to the main menu in some cases
