@@ -1,6 +1,7 @@
 # Next Update
 
 * Fixed incompatible saves not showing up in the main menu
+* Fixed a crash in some cases when entering deep water
 
 ## cistern
 
