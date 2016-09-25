@@ -6,7 +6,7 @@
 
 ## metro
 
-* Fixed the maintenance tram failing to appear after loading a saved game (broken saved games should be fixed as well) (issue [#729] 
+* Fixed the maintenance tram failing to appear (issue [#729] 
 (https://github.com/loiste-interactive/infra-issues/issues/729))
 
 # September 25th 2016 (Version 2.0.0)
