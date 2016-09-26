@@ -37,11 +37,11 @@ Thanks!
 | <img src="http://i.imgur.com/DOdYnMq.jpg" height=150> | `watertreatment`    | 5       | Fresh Water                |
 | <img src="http://i.imgur.com/pUwQGG4.jpg" height=150> | `sewer`    | 5       | Fresh Water                |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `sewer2`    | 5       | Fresh Water                |
-| <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `sewer3`    | 6       | Public Transport                |
-| <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `metro`    | 6       | Public Transport                |
+| <img src="http://i.imgur.com/og5edkj.jpg" height=150> | `sewer3`    | 6       | Public Transport                |
+| <img src="http://i.imgur.com/Cs3nMCI.jpg" height=150> | `metro`    | 6       | Public Transport                |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `metroride`    | 6       | Public Transport                |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `waterplant`    | 6       | Public Transport                |
-| <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `minitrain`    | 6       | Public Transport                |
+| <img src="http://i.imgur.com/FIqmHzc.jpg" height=150> | `minitrain`    | 6       | Public Transport                |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `central`    | 6       | Public Transport                |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `servicetunnel`    | 7       | Working Overtime               |
 | <img src="http://i.imgur.com/mMWGHEA.jpg" height=150> | `skyscraper`    | 7       | Working Overtime               |
