@@ -1,4 +1,4 @@
-# Next Update
+# September 26th 2016 (Version 2.0.2)
 
 * Fixed incompatible saves not showing up in the main menu
 * Fixed a crash in some cases when entering deep water
