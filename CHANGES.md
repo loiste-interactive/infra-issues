@@ -4,7 +4,7 @@
 
 * Fixed it being possible to exit the crane while it was still moving (issue [#768] 
 (https://github.com/loiste-interactive/infra-issues/issues/768))
-* Fixed the crane not moving sideways when using a controller (issue [#769] 
+* Fixed the crane not moving sideways when playing with a controller (issue [#769] 
 (https://github.com/loiste-interactive/infra-issues/issues/769))
 
 # September 26th 2016 (Version 2.0.2)
