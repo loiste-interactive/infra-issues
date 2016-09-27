@@ -1,3 +1,9 @@
+# Next Update
+
+## bunker
+
+* Fixed the crane not moving sideways when using a controller
+
 # September 26th 2016 (Version 2.0.2)
 
 * Fixed incompatible saves not showing up in the main menu
