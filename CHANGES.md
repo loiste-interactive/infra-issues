@@ -2,7 +2,7 @@
 
 ## bunker
 
-* Fixed it being possible to exit the crane while it was still moving (issue [#768] 
+* Fixed an issue where it was possible to exit the crane while it was still moving (issue [#768] 
 (https://github.com/loiste-interactive/infra-issues/issues/768))
 * Fixed the crane not moving sideways when playing with a controller (issue [#769] 
 (https://github.com/loiste-interactive/infra-issues/issues/769))
