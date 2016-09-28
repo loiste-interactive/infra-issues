@@ -10,6 +10,7 @@
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
+
 ## cistern
 
 * Fixed misplaced sprites for the ceiling lights
