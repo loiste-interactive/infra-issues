@@ -6,8 +6,10 @@
 
 * Added a working speedometer to the maintenance tram
 * Added working instrument lights to the maintenance tram
+* Added a working horn to the maintenance tram
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
-
+* Fixed the maintenance tram headlights missing sprites
+* Fixed the maintenance tram brake lever not rotating enough
 ## cistern
 
 * Fixed misplaced sprites for the ceiling lights
