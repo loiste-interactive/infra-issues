@@ -1,3 +1,17 @@
+# Upcoming
+
+* Changed the viewmodel animation when moving to be a bit more responsive
+
+## metro & metroride
+
+* Added a working speedometer to the maintenance tram
+* Added working instrument lights to the maintenance tram
+* Changed the tram handling - acceleration and deceleration are a bit more smooth
+
+## cistern
+
+* Fixed misplaced sprites for the ceiling lights
+
 # September 27th 2016 (Version 2.0.3)
 
 ## bunker
