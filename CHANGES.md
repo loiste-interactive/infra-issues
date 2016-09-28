@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed crouching while on a ladder not working properly
 * Changed the viewmodel animation when moving to be a bit more responsive
 
 ## metro & metroride
