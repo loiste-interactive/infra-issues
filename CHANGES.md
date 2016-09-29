@@ -20,7 +20,7 @@
 * Fixed crouching while on a ladder not working properly
 * Fixed a rare issue where players could get stuck on computer screens (issue [#758] 
 (https://github.com/loiste-interactive/infra-issues/issues/758))
-* Changed the viewmodel animation when moving to be a bit more responsive
+* Fixed a bug with viewmodel bobbing, causing it to be a bit unresponsive
 
 # September 27th 2016 (Version 2.0.3)
 
