@@ -4,12 +4,14 @@
 
 ## metro & metroride
 
-* Added more camera targets
+* Added new camera target locations
 * Added a working speedometer to the maintenance tram
 * Added working instrument lights to the maintenance tram
 * Added a working horn to the maintenance tram
 * Added proper sound for the maintenance tram diesel engine
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
+* Fixed the collapse camera targets having too short range(issue [#782] 
+(https://github.com/loiste-interactive/infra-issues/issues/782))
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
