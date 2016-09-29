@@ -4,6 +4,7 @@
 
 ## metro & metroride
 
+* Added more camera targets
 * Added a working speedometer to the maintenance tram
 * Added working instrument lights to the maintenance tram
 * Added a working horn to the maintenance tram
