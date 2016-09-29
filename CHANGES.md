@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed a regression where players couldn't to bring up the phone in the `office` meeting anymore
+
 ## metro & metroride
 
 * Added a working speedometer to the maintenance tram
