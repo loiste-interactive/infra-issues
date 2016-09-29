@@ -1,6 +1,8 @@
 # Upcoming
 
 * Fixed crouching while on a ladder not working properly
+* Fixed a rare issue where players could get stuck on computer screens (issue [#758] 
+(https://github.com/loiste-interactive/infra-issues/issues/758))
 * Changed the viewmodel animation when moving to be a bit more responsive
 
 ## metro & metroride
