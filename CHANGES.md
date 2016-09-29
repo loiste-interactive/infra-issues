@@ -1,10 +1,5 @@
 # Upcoming
 
-* Fixed crouching while on a ladder not working properly
-* Fixed a rare issue where players could get stuck on computer screens (issue [#758] 
-(https://github.com/loiste-interactive/infra-issues/issues/758))
-* Changed the viewmodel animation when moving to be a bit more responsive
-
 ## metro & metroride
 
 * Added a working speedometer to the maintenance tram
@@ -19,6 +14,13 @@
 ## central
 
 * Fixed misplaced sprites for the ceiling lights
+
+# Next Update
+
+* Fixed crouching while on a ladder not working properly
+* Fixed a rare issue where players could get stuck on computer screens (issue [#758] 
+(https://github.com/loiste-interactive/infra-issues/issues/758))
+* Changed the viewmodel animation when moving to be a bit more responsive
 
 # September 27th 2016 (Version 2.0.3)
 
