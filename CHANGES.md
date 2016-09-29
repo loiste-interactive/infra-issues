@@ -15,7 +15,7 @@
 
 * Fixed misplaced sprites for the ceiling lights
 
-# Next Update
+# September 29th 2016 (Version 2.0.4)
 
 * Fixed crouching while on a ladder not working properly
 * Fixed a bug with viewmodel bobbing, causing it to be a bit unresponsive
