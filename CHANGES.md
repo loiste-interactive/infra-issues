@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed rare issue with viewmodels shaking like crazy when standing on certain kind of slopes
+
 # metro
 
 * Added a working speedometer to the maintenance tram
