@@ -1,7 +1,5 @@
 # Upcoming
 
-* Fixed a regression where players couldn't to bring up the phone in the `office` meeting anymore
-
 # metro
 
 * Added a working speedometer to the maintenance tram
@@ -33,6 +31,10 @@
 ## central
 
 * Fixed misplaced sprites for the ceiling lights
+
+# September 30th 2016 (Version 2.0.5)
+
+* Fixed a regression where players couldn't to bring up the phone in the `office` meeting anymore
 
 # September 29th 2016 (Version 2.0.4)
 
