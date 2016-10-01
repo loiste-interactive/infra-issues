@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed rare issue with viewmodels shaking like crazy when standing on certain kind of slopes
+* Fixed an issue with viewmodels shaking like crazy when standing on certain kind of slopes
 
 # metro
 
