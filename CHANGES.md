@@ -2,6 +2,7 @@
 
 * Fixed an issue with viewmodels shaking like crazy when standing on certain kind of slopes
 * Fixed being unable to equip the camera with mouse wheel down
+* Fixed the camera getting unequipped on its own on level transitions
 
 # metro
 
