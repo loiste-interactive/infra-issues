@@ -6,6 +6,7 @@
 * Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
 * Fixed the crosshair fading in too late after a screen fade in
 * Fixed unuseable radiophones receiving use highlights
+* Fixed a possible issue with unuseable boots receiving use highlights
 
 # metro
 
