@@ -8,6 +8,10 @@
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
 
+# furnace
+
+* Changed Mark's line "is that gas that I smell?" to "smells like there's a gas leak in here"
+
 # metro
 
 * Added a working speedometer to the maintenance tram
