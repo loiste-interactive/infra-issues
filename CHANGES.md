@@ -12,6 +12,15 @@
 
 * Changed Mark's line "is that gas that I smell?" to "smells like there's a gas leak in here"
 
+# watertreatment
+
+* Added labels to water sample analyzer switches
+* Added barrels to make it look that the area is not accessible (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
+* Fixed watertreatment global
+* Fixed doors (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
+* Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
+* Fixed grit classifier signs (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
+
 # metro
 
 * Added a working speedometer to the maintenance tram
