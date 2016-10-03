@@ -7,6 +7,7 @@
 * Fixed the crosshair fading in too late after a screen fade in
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
+* Fixed cardboard_box_001 collision
 
 # furnace
 
@@ -51,6 +52,11 @@
 
 * Fixed misplaced sprites for the ceiling lights
 * Removed the smeared text from the door code hint
+
+## bunker
+
+* Added mushroom teddybear
+* Added lights to bodyroom door
 
 # September 30th 2016 (Version 2.0.5)
 
