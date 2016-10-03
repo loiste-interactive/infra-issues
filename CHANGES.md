@@ -57,6 +57,7 @@
 
 * Added mushroom teddybear
 * Added lights to bodyroom door
+* Changed hatch locked sound
 
 # September 30th 2016 (Version 2.0.5)
 
