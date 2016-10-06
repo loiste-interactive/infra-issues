@@ -85,7 +85,7 @@
 
 ## servicetunnel
 
-* Fixed an issue with the level transition to skyscraper (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
+* Fixed an issue with the level transition to `skyscraper` (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
 
 # September 30th 2016 (Version 2.0.5)
 
