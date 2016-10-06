@@ -7,11 +7,11 @@
 ## watertreatment
 
 * Added labels to water sample analyzer switches
-* Added barrels to make it look that the area is not accessible (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
+* Added barrels to make it seem more obvious that a certain area is not accessible (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
 * Fixed watertreatment global
-* Fixed doors (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
-* Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
-* Fixed grit classifier signs (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
+* Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
+* Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
+* Fixed grit classifier signs being inverted (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
 
 ## metro
 
@@ -40,10 +40,10 @@
 
 ## waterplant
 
-* Added camera target (issue [#783] (https://github.com/loiste-interactive/infra-issues/issues/783))
-* Fixed corruption document not being photographable (issue [#775] (https://github.com/loiste-interactive/infra-issues/issues/775))
-* Fixed television reflections (issue [#776] (https://github.com/loiste-interactive/infra-issues/issues/776))
-* Removed one blue screen (issue [#761] (https://github.com/loiste-interactive/infra-issues/issues/761))
+* Added camera target for the hallway fire (issue [#783] (https://github.com/loiste-interactive/infra-issues/issues/783))
+* Fixed certain corruption document not being photographable (issue [#775] (https://github.com/loiste-interactive/infra-issues/issues/775))
+* Fixed television having weird reflections (issue [#776] (https://github.com/loiste-interactive/infra-issues/issues/776))
+* Removed one of the blue screen monitors from the control room (issue [#761] (https://github.com/loiste-interactive/infra-issues/issues/761))
 
 ## central
 
