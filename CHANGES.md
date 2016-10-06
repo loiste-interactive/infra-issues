@@ -64,6 +64,7 @@
 * Fixed being unable to equip the camera with mouse wheel down
 * Fixed the camera getting unequipped on its own on level transitions
 * Fixed the crosshair fading in too late after a screen fade in
+* Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
 * Fixed collision model of cardboard_box_001.mdl
@@ -82,12 +83,12 @@
 
 ## servicetunnel
 
-* Fixed bunker codes text
+* Fixed misaligned text in the bunker codes document
 * Fixed an issue with the level transition to `skyscraper` (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
 
 ## bunker
 
-* Fixed documents misplaced text
+* Fixed misaligned text in certain documents
 * Fixed gas sensors sign (issue [#793] (https://github.com/loiste-interactive/infra-issues/issues/793))
 
 # September 30th 2016 (Version 2.0.5)
