@@ -89,7 +89,7 @@
 ## bunker
 
 * Fixed misaligned text in certain documents
-* Fixed gas sensors sign (issue [#793] (https://github.com/loiste-interactive/infra-issues/issues/793))
+* Fixed gas sensors sign grammar (issue [#793] (https://github.com/loiste-interactive/infra-issues/issues/793))
 
 # September 30th 2016 (Version 2.0.5)
 
