@@ -1,25 +1,8 @@
 # Upcoming
 
-* Fixed viewmodels shaking like crazy when standing on certain kind of slopes
-* Fixed being unable to equip the camera with mouse wheel down
-* Fixed the camera getting unequipped on its own on level transitions
-* Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
-* Fixed the crosshair fading in too late after a screen fade in
-* Fixed unuseable radiophones receiving use highlights
-* Fixed a possible issue with unuseable boots receiving use highlights
-* Fixed cardboard_box_001 collision
-
 ## reserve2
 
 * Removed catwalk color settings
-
-## tunnel2
-
-* Changed Mark's line when pulling the fire alarm from "shit" to "shit, that wasn't the lights" (issue [#593] (https://github.com/loiste-interactive/infra-issues/issues/593))
-
-## furnace
-
-* Changed Mark's line "is that gas that I smell?" to "smells like there's a gas leak in here"
 
 ## watertreatment
 
@@ -41,7 +24,6 @@
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
-
 
 ## metroride
 
@@ -66,11 +48,6 @@
 ## central
 
 * Fixed misplaced sprites for the ceiling lights
-* Removed the smeared text from the door code hint
-
-## servicetunnel
-
-* Fixed an issue with the level transition to skyscraper (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
 
 ## bunker
 
@@ -82,6 +59,33 @@
 (https://github.com/loiste-interactive/infra-issues/issues/777))
 * Fixed gas sensors sign (issue [#793] 
 (https://github.com/loiste-interactive/infra-issues/issues/793))
+
+# Next Update
+
+* Fixed viewmodels shaking like crazy when standing on certain kind of slopes
+* Fixed being unable to equip the camera with mouse wheel down
+* Fixed the camera getting unequipped on its own on level transitions
+* Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
+* Fixed the crosshair fading in too late after a screen fade in
+* Fixed unuseable radiophones receiving use highlights
+* Fixed a possible issue with unuseable boots receiving use highlights
+* Fixed cardboard_box_001 collision
+
+## tunnel2
+
+* Changed Mark's line when pulling the fire alarm from "shit" to "shit, that wasn't the lights" (issue [#593] (https://github.com/loiste-interactive/infra-issues/issues/593))
+
+## furnace
+
+* Changed Mark's line "is that gas that I smell?" to "smells like there's a gas leak in here"
+
+## central
+
+* Removed the smeared text from the door code hint
+
+## servicetunnel
+
+* Fixed an issue with the level transition to skyscraper (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
 
 # September 30th 2016 (Version 2.0.5)
 
