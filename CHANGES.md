@@ -57,8 +57,6 @@
 * Changed hatch locked sound
 * Fixed centrifuge room corruption targets (issue [#777] 
 (https://github.com/loiste-interactive/infra-issues/issues/777))
-* Fixed gas sensors sign (issue [#793] 
-(https://github.com/loiste-interactive/infra-issues/issues/793))
 
 # Next Update
 
@@ -86,6 +84,10 @@
 ## servicetunnel
 
 * Fixed an issue with the level transition to `skyscraper` (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
+
+## bunker
+
+* Fixed gas sensors sign (issue [#793] (https://github.com/loiste-interactive/infra-issues/issues/793))
 
 # September 30th 2016 (Version 2.0.5)
 
