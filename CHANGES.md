@@ -67,7 +67,7 @@
 * Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
-* Fixed collision model of cardboard_box_001.mdl
+* Fixed the collision model of certain cardboard boxes
 
 ## tunnel2
 
