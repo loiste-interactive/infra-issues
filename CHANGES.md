@@ -52,6 +52,13 @@
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
 
+## waterplant
+
+* Added camera target (issue [#783] (https://github.com/loiste-interactive/infra-issues/issues/783))
+* Fixed corruption document not being photographable (issue [#775 (https://github.com/loiste-interactive/infra-issues/issues/775))
+* Fixed television reflections (issue [#776] (https://github.com/loiste-interactive/infra-issues/issues/776))
+* Removed one blue screen (issue [#761] (https://github.com/loiste-interactive/infra-issues/issues/761))
+
 ## central
 
 * Fixed misplaced sprites for the ceiling lights
