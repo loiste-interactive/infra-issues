@@ -63,7 +63,6 @@
 * Fixed viewmodels shaking like crazy when standing on certain kind of slopes
 * Fixed being unable to equip the camera with mouse wheel down
 * Fixed the camera getting unequipped on its own on level transitions
-* Fixed a rare issue where the crosshair would get stuck on-screen after a level transition
 * Fixed the crosshair fading in too late after a screen fade in
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
