@@ -9,6 +9,10 @@
 * Fixed a possible issue with unuseable boots receiving use highlights
 * Fixed cardboard_box_001 collision
 
+## reserve2
+
+* Removed catwalk color settings
+
 ## tunnel2
 
 * Changed Mark's line when pulling the fire alarm from "shit" to "shit, that wasn't the lights" (issue [#593] (https://github.com/loiste-interactive/infra-issues/issues/593))
