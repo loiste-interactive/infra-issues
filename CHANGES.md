@@ -66,7 +66,7 @@
 * Fixed the crosshair fading in too late after a screen fade in
 * Fixed unuseable radiophones receiving use highlights
 * Fixed a possible issue with unuseable boots receiving use highlights
-* Fixed cardboard_box_001 collision
+* Fixed collision model of cardboard_box_001.mdl
 
 ## tunnel2
 
