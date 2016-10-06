@@ -58,7 +58,7 @@
 * Fixed centrifuge room corruption targets (issue [#777] 
 (https://github.com/loiste-interactive/infra-issues/issues/777))
 
-# Next Update
+# October 6th 2016 (Version 2.0.6)
 
 * Fixed viewmodels shaking like crazy when standing on certain kind of slopes
 * Fixed being unable to equip the camera with mouse wheel down
