@@ -64,6 +64,10 @@
 * Fixed misplaced sprites for the ceiling lights
 * Removed the smeared text from the door code hint
 
+## servicetunnel
+
+* Fixed an issue with the level transition to skyscraper (issue [#796] (https://github.com/loiste-interactive/infra-issues/issues/796))
+
 ## bunker
 
 * Added mushroom teddybear
