@@ -51,6 +51,9 @@
 * Fixed misplaced sprites for the ceiling lights
 * Fixed a banner missing textures (issue [#728] 
 (https://github.com/loiste-interactive/infra-issues/issues/728))
+* Fixed the metro accident VHS tape missing corruption target (issue [#780] 
+(https://github.com/loiste-interactive/infra-issues/issues/780))
+
 
 ## bunker
 
