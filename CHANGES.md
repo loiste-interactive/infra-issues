@@ -48,6 +48,7 @@
 ## central
 
 * Added a geocache
+* Chaned the arrival monitors to blink like on the previous metro stations
 * Fixed misplaced sprites for the ceiling lights
 * Fixed a banner missing textures (issue [#728] 
 (https://github.com/loiste-interactive/infra-issues/issues/728))
