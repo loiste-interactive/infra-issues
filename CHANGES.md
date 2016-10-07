@@ -47,6 +47,7 @@
 
 ## central
 
+* Added a geocache
 * Fixed misplaced sprites for the ceiling lights
 
 ## bunker
