@@ -49,6 +49,8 @@
 
 * Added a geocache
 * Fixed misplaced sprites for the ceiling lights
+* Fixed a banner missing textures (issue [#728] 
+(https://github.com/loiste-interactive/infra-issues/issues/728))
 
 ## bunker
 
