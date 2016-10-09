@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed a rare issue where the flashlight reload hint would sometimes remain on-screen even after turning off the flashlight
+
 ## reserve2
 
 * Removed catwalk color settings
