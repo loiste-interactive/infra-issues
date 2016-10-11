@@ -44,6 +44,7 @@
 ## waterplant
 
 * Added camera target for the hallway fire (issue [#783] (https://github.com/loiste-interactive/infra-issues/issues/783))
+* Fixed email title and typo
 * Fixed certain corruption document not being photographable (issue [#775] (https://github.com/loiste-interactive/infra-issues/issues/775))
 * Fixed television having weird reflections (issue [#776] (https://github.com/loiste-interactive/infra-issues/issues/776))
 * Removed one of the blue screen monitors from the control room (issue [#761] (https://github.com/loiste-interactive/infra-issues/issues/761))
