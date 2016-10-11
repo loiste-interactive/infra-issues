@@ -79,7 +79,7 @@
 
 # October 11th 2016 (Version 2.0.7)
 
-* Fixed an issue that could cause a lot of sounds not to play for people who playtested INFRA
+* Fixed an issue with the sound cache, causing a long loading screen when starting up the game for the very first time, and could cause sounds not to play for people who playtested INFRA
 
 # October 6th 2016 (Version 2.0.6)
 
