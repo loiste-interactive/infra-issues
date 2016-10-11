@@ -51,6 +51,13 @@
 * Fixed television having weird reflections (issue [#776] (https://github.com/loiste-interactive/infra-issues/issues/776))
 * Removed one of the blue screen monitors from the control room (issue [#761] (https://github.com/loiste-interactive/infra-issues/issues/761))
 
+## minitrain
+
+* Changed notepad code text
+* Fixed minitrain wheels spinning sometimes when stopped
+* Fixed crossed texts
+* Fixed some flickering models
+
 ## central
 
 * Added a geocache
