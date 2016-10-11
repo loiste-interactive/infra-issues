@@ -68,7 +68,6 @@
 * Fixed the metro accident VHS tape missing corruption target (issue [#780] 
 (https://github.com/loiste-interactive/infra-issues/issues/780))
 
-
 ## bunker
 
 * Added mushroom teddybear
@@ -77,6 +76,10 @@
 * Changed hatch locked sound
 * Fixed centrifuge room corruption targets (issue [#777] 
 (https://github.com/loiste-interactive/infra-issues/issues/777))
+
+# October 11th 2016 (Version 2.0.7)
+
+* Fixed an issue that could cause a lot of sounds not to play for people who playtested INFRA
 
 # October 6th 2016 (Version 2.0.6)
 
