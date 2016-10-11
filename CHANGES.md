@@ -53,7 +53,7 @@
 
 ## minitrain
 
-* Changed number 4 to look like less 6
+* Changed the number 4 in the notepad to look less like a 6
 * Fixed minitrain wheels spinning sometimes when stopped
 * Fixed crossed texts
 * Fixed some flickering models
