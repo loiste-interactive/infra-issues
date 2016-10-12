@@ -85,6 +85,7 @@
 * Changed hatch sounds
 * Changed minitrain dodging part autosaves to dangerous autosaves  (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 * Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
+* Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
 
 # October 11th 2016 (Version 2.0.7)
 
