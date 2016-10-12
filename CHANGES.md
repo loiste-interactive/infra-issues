@@ -78,6 +78,14 @@
 * Fixed centrifuge room corruption targets (issue [#777] 
 (https://github.com/loiste-interactive/infra-issues/issues/777))
 
+## stormdrain
+
+* Added two photo spot (issue [#744] 
+(https://github.com/loiste-interactive/infra-issues/issues/744))
+* Changed hatch sounds
+* Changed minitrain dodging part autosaves to dangerous autosaves  (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
+* Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
+
 # October 11th 2016 (Version 2.0.7)
 
 * Fixed an issue with the sound cache, causing a long loading screen when starting up the game for the very first time, and could cause sounds not to play for people who playtested INFRA
