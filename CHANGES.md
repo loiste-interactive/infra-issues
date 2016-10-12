@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed a rare issue where the flashlight reload hint would sometimes remain on-screen even after turning off the flashlight
+* Fixed a rare issue where the phone would appear without a screen on its own after a level transition
 
 ## reserve2
 
