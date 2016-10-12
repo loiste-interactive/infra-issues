@@ -11,7 +11,7 @@
 
 * Added labels to water sample analyzer switches
 * Added barrels to make it seem more obvious that a certain area is not accessible (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
-* Fixed watertreatment global
+* Fixed level state not being reflected in the INFRA: Part 2 waterplant
 * Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed grit classifier signs being inverted (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
