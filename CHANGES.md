@@ -75,8 +75,8 @@
 
 ## bunker
 
-* Added mushroom teddybear
-* Added lights to bodyroom and laboratory door
+* Added a mushroom teddybear
+* Added lights above certain doorways
 * Changed breaker switch to control room button
 * Changed hatch locked sound
 * Fixed centrifuge room corruption targets (issue [#777] (https://github.com/loiste-interactive/infra-issues/issues/777))
