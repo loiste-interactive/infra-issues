@@ -16,6 +16,12 @@
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed grit classifier signs being inverted (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
 
+## sewer2
+
+* Changed the end button not to activate until the player has read at least 3 documents and detached the valve from the flood door
+* Changed the end button to disable the documents in the room when pressed
+* Fixed the end button sprite not syncing up with the sound
+
 ## metro
 
 * Added a working speedometer to the maintenance tram
@@ -64,10 +70,8 @@
 * Added a geocache
 * Chaned the arrival monitors to blink like on the previous metro stations
 * Fixed misplaced sprites for the ceiling lights
-* Fixed a banner missing textures (issue [#728] 
-(https://github.com/loiste-interactive/infra-issues/issues/728))
-* Fixed the metro accident VHS tape missing corruption target (issue [#780] 
-(https://github.com/loiste-interactive/infra-issues/issues/780))
+* Fixed a banner missing textures (issue [#728] (https://github.com/loiste-interactive/infra-issues/issues/728))
+* Fixed the metro accident VHS tape missing corruption target (issue [#780] (https://github.com/loiste-interactive/infra-issues/issues/780))
 
 ## bunker
 
@@ -75,13 +79,11 @@
 * Added lights to bodyroom and laboratory door
 * Changed breaker switch to control room button
 * Changed hatch locked sound
-* Fixed centrifuge room corruption targets (issue [#777] 
-(https://github.com/loiste-interactive/infra-issues/issues/777))
+* Fixed centrifuge room corruption targets (issue [#777] (https://github.com/loiste-interactive/infra-issues/issues/777))
 
 ## stormdrain
 
-* Added two photo spot (issue [#744] 
-(https://github.com/loiste-interactive/infra-issues/issues/744))
+* Added two photo spot (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
 * Changed hatch sounds
 * Changed minitrain dodging part autosaves to dangerous autosaves  (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 * Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
