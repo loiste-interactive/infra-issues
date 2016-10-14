@@ -90,6 +90,7 @@
 * Changed minitrain gate puzzle (issue [#788] (https://github.com/loiste-interactive/infra-issues/issues/788))
 * Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
 * Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
+* Fixed being able to get inside the wall with the minitrain (issue [#790] (https://github.com/loiste-interactive/infra-issues/issues/790))
 * Removed one minitrain dodging part autosave (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 
 # October 11th 2016 (Version 2.0.7)
