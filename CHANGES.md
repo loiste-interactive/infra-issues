@@ -11,6 +11,10 @@
 
 * Removed catwalk color settings
 
+## tunnel4
+
+* Fixed wrong document near the mushrooms
+
 ## furnace
 
 * Changed Mark's lines when entering the steel factory
