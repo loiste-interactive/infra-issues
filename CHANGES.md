@@ -11,6 +11,10 @@
 
 * Removed catwalk color settings
 
+## furnace
+
+* Changed Mark's lines when entering the steel factory
+
 ## watertreatment
 
 * Added labels to water sample analyzer switches
