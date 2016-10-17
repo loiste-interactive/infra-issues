@@ -94,6 +94,7 @@
 ## stormdrain
 
 * Added new photo spots (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
+* Added missing door latch model (issue [#785] (https://github.com/loiste-interactive/infra-issues/issues/785))
 * Changed hatch sounds
 * Changed floodgate puzzle puzzle (issue [#787] (https://github.com/loiste-interactive/infra-issues/issues/787))
 * Changed minitrain gate puzzle (issue [#788] (https://github.com/loiste-interactive/infra-issues/issues/788))
