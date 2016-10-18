@@ -120,6 +120,7 @@
 ## cistern
 
 * Changed crate locations and added two more (issue [#762] (https://github.com/loiste-interactive/infra-issues/issues/762))
+* Fixed junk making hard to stack boxes (issue [#767] (https://github.com/loiste-interactive/infra-issues/issues/767))
 * Fixed the note by the noose being too hard to read (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 
 # October 11th 2016 (Version 2.0.7)
