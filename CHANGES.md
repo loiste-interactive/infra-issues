@@ -34,6 +34,13 @@
 * Changed the end button to disable the documents in the room when pressed
 * Fixed the end button sprite not syncing up with the sound
 
+## sewer3
+
+* Added camera target to broken window and collapsed ceiling
+* Changed floodgate speed
+* Fixed the flood door camera target distance
+* Fixed not being able to walk under the floodgate without crouching
+
 ## metro
 
 * Added a working speedometer to the maintenance tram
