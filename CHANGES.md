@@ -117,6 +117,10 @@
 * Fixed being able to get inside the wall with the minitrain (issue [#790] (https://github.com/loiste-interactive/infra-issues/issues/790))
 * Removed one minitrain dodging part autosave (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 
+## cistern
+
+* Fixed the note by the noose being too hard to read(issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
+
 # October 11th 2016 (Version 2.0.7)
 
 * Fixed an issue with the sound cache, causing a long loading screen when starting up the game for the very first time, and could cause sounds not to play for people who playtested INFRA
