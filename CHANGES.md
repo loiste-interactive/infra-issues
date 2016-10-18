@@ -104,6 +104,7 @@
 
 ## stormdrain
 
+* Added wave particles and other improvements
 * Added new photo spots (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
 * Added missing door latch model (issue [#785] (https://github.com/loiste-interactive/infra-issues/issues/785))
 * Changed hatch sounds
