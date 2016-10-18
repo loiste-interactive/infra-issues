@@ -119,7 +119,7 @@
 
 ## cistern
 
-* Fixed the note by the noose being too hard to read(issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
+* Fixed the note by the noose being too hard to read (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 
 # October 11th 2016 (Version 2.0.7)
 
