@@ -21,12 +21,12 @@
 
 ## watertreatment
 
-* Added labels to water sample analyzer switches
-* Added barrels to make it seem more obvious that a certain area is not accessible (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
+* Added labels to the water sample analyzer switches
+* Added barrels to block off a certain area (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
 * Fixed level state not being reflected in the INFRA: Part 2 waterplant
 * Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
-* Fixed grit classifier signs being inverted (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
+* Fixed grit classifier signs being the wrong way around (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
 
 ## sewer2
 
@@ -104,7 +104,7 @@
 
 ## stormdrain
 
-* Added wave particles and other improvements
+* Added particles and other improvements to the flood wave
 * Added new photo spots (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
 * Added missing door latch model (issue [#785] (https://github.com/loiste-interactive/infra-issues/issues/785))
 * Changed hatch sounds
@@ -122,9 +122,9 @@
 * Added more playerclips (issue [#763] (https://github.com/loiste-interactive/infra-issues/issues/763))
 * Changed crate locations and added two more (issue [#762] (https://github.com/loiste-interactive/infra-issues/issues/762))
 * Fixed invisible walls on the scaffolding (issue [#764] (https://github.com/loiste-interactive/infra-issues/issues/764))
-* Fixed junk making hard to stack boxes (issue [#767] (https://github.com/loiste-interactive/infra-issues/issues/767))
+* Fixed junk making boxes hard to stack (issue [#767] (https://github.com/loiste-interactive/infra-issues/issues/767))
 * Fixed putting crates on top of the elevator will glitch (issue [#786] (https://github.com/loiste-interactive/infra-issues/issues/786))
-* Fixed the note by the noose being too hard to read (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
+* Fixed the note by the noose being hard to read (issue [#803] (https://github.com/loiste-interactive/infra-issues/issues/803))
 
 # October 11th 2016 (Version 2.0.7)
 
