@@ -122,6 +122,8 @@
 * Added more playerclips (issue [#763] (https://github.com/loiste-interactive/infra-issues/issues/763))
 * Changed crate locations and added two more (issue [#762] (https://github.com/loiste-interactive/infra-issues/issues/762))
 * Changed elevator to move slower with one motor (issue [#766] (https://github.com/loiste-interactive/infra-issues/issues/766))
+* Fixed elevator button sounds
+* Fixed generator sound being too loud
 * Fixed invisible walls on the scaffolding (issue [#764] (https://github.com/loiste-interactive/infra-issues/issues/764))
 * Fixed elevator moving when motors powered off (issue [#765] (https://github.com/loiste-interactive/infra-issues/issues/765))
 * Fixed junk making boxes hard to stack (issue [#767] (https://github.com/loiste-interactive/infra-issues/issues/767))
