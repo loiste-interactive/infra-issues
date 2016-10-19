@@ -120,6 +120,7 @@
 ## cistern
 
 * Added more playerclips (issue [#763] (https://github.com/loiste-interactive/infra-issues/issues/763))
+* Changed flood door light models
 * Changed crate locations and added two more (issue [#762] (https://github.com/loiste-interactive/infra-issues/issues/762))
 * Changed elevator to move slower with one motor (issue [#766] (https://github.com/loiste-interactive/infra-issues/issues/766))
 * Fixed elevator button animations
