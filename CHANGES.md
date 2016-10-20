@@ -101,9 +101,11 @@
 
 * Added an autosave after the tape ends (issue [#773] (https://github.com/loiste-interactive/infra-issues/issues/773))
 * Fixed a corruption target
+* Fixed not being able to get funicular back up/down when it's moving
 * Fixed being able to get stuck at the electric room (issue [#725] (https://github.com/loiste-interactive/infra-issues/issues/725))
 * Fixed sensors red lines (issue [#727] (https://github.com/loiste-interactive/infra-issues/issues/727))
 * Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
+* Fixed not being able to turn off funicular power (issue [#791] (https://github.com/loiste-interactive/infra-issues/issues/791))
 
 ## bunker
 
