@@ -129,6 +129,7 @@
 * Changed floodgate puzzle puzzle (issue [#787] (https://github.com/loiste-interactive/infra-issues/issues/787))
 * Changed minitrain gate puzzle (issue [#788] (https://github.com/loiste-interactive/infra-issues/issues/788))
 * Fixed water leak sound and changed color
+* Fixed some valves getting stuck
 * Fixed an issue where the flood wave model would clip through the wall
 * Fixed being able to dodge minitrains by hugging the fence (issue [#732] (https://github.com/loiste-interactive/infra-issues/issues/732))
 * Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
