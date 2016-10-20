@@ -112,7 +112,8 @@
 
 ## stormdrain
 
-* Added particles and other improvements to the flood wave
+* Added particles to the flood wave
+* Added better sounds to the flood wave
 * Added new photo spots (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
 * Added missing door latch model (issue [#785] (https://github.com/loiste-interactive/infra-issues/issues/785))
 * Changed hatch sounds
@@ -120,6 +121,7 @@
 * Changed floodgate puzzle puzzle (issue [#787] (https://github.com/loiste-interactive/infra-issues/issues/787))
 * Changed minitrain gate puzzle (issue [#788] (https://github.com/loiste-interactive/infra-issues/issues/788))
 * Fixed water leak sound and changed color
+* Fixed an issue where the flood wave model would clip through the wall
 * Fixed being able to dodge minitrains by hugging the fence (issue [#732] (https://github.com/loiste-interactive/infra-issues/issues/732))
 * Fixed minitrain wheels (issue [#770] (https://github.com/loiste-interactive/infra-issues/issues/770))
 * Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
