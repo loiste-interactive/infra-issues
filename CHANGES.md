@@ -97,7 +97,10 @@
 
 ## servicetunnel
 
+* Added autosave after the tape ends. (issue [#725] (https://github.com/loiste-interactive/infra-issues/issues/725))
 * Fixed corruption target
+* Fixed being able to get stuck at the Electric room (issue [#725] (https://github.com/loiste-interactive/infra-issues/issues/725))
+* Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
 
 ## bunker
 
