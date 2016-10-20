@@ -53,6 +53,7 @@
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
+* Fixed the maintenance tram lights not respecting the light switch positions when the train power is switched on
 * Fixed spelling mistake on the conference room projector screen
 
 ## metroride
