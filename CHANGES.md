@@ -48,6 +48,7 @@
 * Added working instrument lights to the maintenance tram
 * Added a working horn to the maintenance tram
 * Added proper sound for the maintenance tram diesel engine
+* Added a line for Mark when trying to start up the tram without the keys
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
 * Fixed nodraw being visible (issue [#778] (https://github.com/loiste-interactive/infra-issues/issues/778))
 * Fixed the maintenance tram headlights missing sprites
