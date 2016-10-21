@@ -40,6 +40,7 @@
 * Fixed Mark stopping counting batteries after entering falling into the sewer (issue [#724] (https://github.com/loiste-interactive/infra-issues/issues/724))
 * Fixed Mark complaining about deep water near the end of the level (issue [#724] (https://github.com/loiste-interactive/infra-issues/issues/724))
 * Fixed being unable to close a certain door (issue [#704] (https://github.com/loiste-interactive/infra-issues/issues/704))
+* Fixed a certain door missing the "locked" animation (issue [#704] (https://github.com/loiste-interactive/infra-issues/issues/704))
 
 ## sewer2
 
