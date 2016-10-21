@@ -131,6 +131,7 @@
 * Added better sounds to the flood wave
 * Added new photo spots (issue [#744] (https://github.com/loiste-interactive/infra-issues/issues/744))
 * Added missing door latch model (issue [#785] (https://github.com/loiste-interactive/infra-issues/issues/785))
+* Changed minitrain tunnel blast door to be locked from other side
 * Changed hatch sounds
 * Changed Mark to say "that was close" instead of "that was way too close, again" after barely escaping the flood wave
 * Changed floodgate puzzle puzzle (issue [#787] (https://github.com/loiste-interactive/infra-issues/issues/787))
