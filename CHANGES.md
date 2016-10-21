@@ -8,6 +8,7 @@
 * Fixed options menu using wrong icons for MOUSE4 and MOUSE5 (issue [#808] (https://github.com/loiste-interactive/infra-issues/issues/808))
 * Fixed a rare issue where the flashlight couldn't be equipped anymore (issue [#809] (https://github.com/loiste-interactive/infra-issues/issues/809))
 * Fixed catwalk model UVs (issue [#811] (https://github.com/loiste-interactive/infra-issues/issues/811))
+* Fixed the phone remaining up after load game if the game was autosaved while the phone was up (issue [#814] (https://github.com/loiste-interactive/infra-issues/issues/814))
 
 ## reserve1
 
