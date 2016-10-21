@@ -136,6 +136,7 @@
 * Changed Mark to say "that was close" instead of "that was way too close, again" after barely escaping the flood wave
 * Changed floodgate puzzle puzzle (issue [#787] (https://github.com/loiste-interactive/infra-issues/issues/787))
 * Changed minitrain gate puzzle (issue [#788] (https://github.com/loiste-interactive/infra-issues/issues/788))
+* Fixed special coffee bugs
 * Fixed water leak sound and changed color
 * Fixed some valves getting stuck
 * Fixed an issue where the flood wave model would clip through the wall
