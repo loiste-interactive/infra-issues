@@ -35,6 +35,12 @@
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed grit classifier signs being the wrong way around (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
 
+## sewer
+
+* Fixed Mark stopping counting batteries after entering falling into the sewer (issue [#724] (https://github.com/loiste-interactive/infra-issues/issues/724))
+* Fixed Mark complaining about deep water near the end of the level (issue [#724] (https://github.com/loiste-interactive/infra-issues/issues/724))
+* Fixed being unable to close a certain door (issue [#704] (https://github.com/loiste-interactive/infra-issues/issues/704))
+
 ## sewer2
 
 * Changed the end button not to activate until the player has read at least 3 documents and detached the valve from the flood door
