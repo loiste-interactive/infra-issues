@@ -8,6 +8,10 @@
 * Fixed a rare issue where the flashlight couldn't be equipped anymore (issue [#809] (https://github.com/loiste-interactive/infra-issues/issues/809))
 * Fixed catwalk model UVs (issue [#811] (https://github.com/loiste-interactive/infra-issues/issues/811))
 
+## reserve1
+
+* Fixed the camera target for the tree on the train tracks
+
 ## reserve2
 
 * Removed catwalk color settings
