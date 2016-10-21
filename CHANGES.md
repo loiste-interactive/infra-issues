@@ -73,7 +73,7 @@
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
-* Fixed the collapse camera targets having too short range (issue [#782] (https://github.com/loiste-interactive/infra-issues/issues/782))
+* Fixed the collapse camera target (issue [#782] (https://github.com/loiste-interactive/infra-issues/issues/782))
 * Fixed a certain metal bar blocking player movement (issue [#797] (https://github.com/loiste-interactive/infra-issues/issues/797))
 
 ## waterplant
