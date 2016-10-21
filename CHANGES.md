@@ -107,6 +107,7 @@
 
 * Added beer effects
 * Added an autosave after the tape ends (issue [#773] (https://github.com/loiste-interactive/infra-issues/issues/773))
+* Fixed collapse sounds
 * Fixed brush holes in the sewer
 * Fixed a corruption target
 * Fixed not being able to get funicular back up/down when it's moving
