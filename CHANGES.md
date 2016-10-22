@@ -70,6 +70,7 @@
 * Fixed the maintenance tram lights not respecting the light switch positions when the train power is switched on
 * Fixed the maintenance tram headlights turning on and off when entering/exiting the tram
 * Fixed spelling mistake on the conference room projector screen
+* Fixed locked door animation
 * Fixed use highlight going through shelf (issue [#731] (https://github.com/loiste-interactive/infra-issues/issues/731))
 * Fixed archive shelf sound issue (issue [#730] (https://github.com/loiste-interactive/infra-issues/issues/730))
 * Fixed being able to open the switch control panel inside the box (issue [#746] (https://github.com/loiste-interactive/infra-issues/issues/746))
