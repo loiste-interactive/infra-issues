@@ -70,6 +70,7 @@
 * Fixed the maintenance tram headlights turning on and off when entering/exiting the tram
 * Fixed spelling mistake on the conference room projector screen
 * Fixed being able to open the switch control panel inside the box (issue [#746] (https://github.com/loiste-interactive/infra-issues/issues/746))
+* Fixed mirrored locker labels (issue [#756] (https://github.com/loiste-interactive/infra-issues/issues/756))
 * Fixed nodraw being visible (issue [#778] (https://github.com/loiste-interactive/infra-issues/issues/778))
 * Fixed being impossible to read the newspaper with the lights on (issue [#800] (https://github.com/loiste-interactive/infra-issues/issues/800))
 
