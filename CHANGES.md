@@ -63,13 +63,14 @@
 * Added proper sound for the maintenance tram diesel engine
 * Added a line for Mark when trying to start up the tram without the keys
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
-* Fixed nodraw being visible (issue [#778] (https://github.com/loiste-interactive/infra-issues/issues/778))
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
 * Fixed the maintenance tram lights not respecting the light switch positions when the train power is switched on
 * Fixed the maintenance tram headlights turning on and off when entering/exiting the tram
 * Fixed spelling mistake on the conference room projector screen
+* Fixed nodraw being visible (issue [#778] (https://github.com/loiste-interactive/infra-issues/issues/778))
+
 
 ## metroride
 
