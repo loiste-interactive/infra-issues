@@ -42,6 +42,7 @@
 * Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed grit classifier signs being the wrong way around (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
+* Fixed secondary clarifier having bad collisions (issue [#818] (https://github.com/loiste-interactive/infra-issues/issues/818))
 
 ## sewer
 
