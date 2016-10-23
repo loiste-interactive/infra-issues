@@ -14,6 +14,10 @@
 
 * Fixed the camera target for the tree on the train tracks
 
+## reserve2
+
+* Fixed the broken catwalk camera target being photographable from outside the dam
+
 ## reserve3
 
 * Removed catwalk color settings
