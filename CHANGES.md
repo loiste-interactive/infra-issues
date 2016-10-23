@@ -153,7 +153,7 @@
 
 * Added a mushroom teddybear
 * Added lights above certain doorways
-* Changed breaker switch to control room button
+* Changed breaker switches to a button in the control room
 * Changed hatch locked sound
 * Fixed centrifuge room corruption targets (issue [#777] (https://github.com/loiste-interactive/infra-issues/issues/777))
 
