@@ -40,12 +40,12 @@
 
 * Added labels to the water sample analyzer switches
 * Added barrels to block off a certain area (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
-* Changed certain ladder to other thing (issue [#742] (https://github.com/loiste-interactive/infra-issues/issues/742))
+* Changed the ladder to the secondary clarifier (issue [#742] (https://github.com/loiste-interactive/infra-issues/issues/742))
+* Changed the cracked window to break more easily (issue [#816] (https://github.com/loiste-interactive/infra-issues/issues/816))
 * Fixed level state not being reflected in the INFRA: Part 2 waterplant
 * Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed grit classifier signs being the wrong way around (issue [#740] (https://github.com/loiste-interactive/infra-issues/issues/740))
-* Fixed the cracked window not breaking very easily (issue [#816] (https://github.com/loiste-interactive/infra-issues/issues/816))
 * Fixed secondary clarifier having bad collisions (issue [#818] (https://github.com/loiste-interactive/infra-issues/issues/818))
 
 ## sewer
@@ -59,6 +59,7 @@
 
 * Changed the end button not to activate until the player has read at least 3 documents and detached the valve from the flood door
 * Changed the end button to disable the documents in the room when pressed
+* Changed the emergency bolt cutter glass to break more easily
 * Fixed the end button sprite not syncing up with the sound
 
 ## sewer3
