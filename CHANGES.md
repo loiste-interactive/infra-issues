@@ -17,6 +17,7 @@
 ## reserve2
 
 * Fixed the broken catwalk camera target being photographable from outside the dam
+* Fixed bad reflections on certain objects (issue [#663] (https://github.com/loiste-interactive/infra-issues/issues/663))
 
 ## reserve3
 
