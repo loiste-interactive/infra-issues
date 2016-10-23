@@ -39,7 +39,7 @@
 
 * Added labels to the water sample analyzer switches
 * Added barrels to block off a certain area (issue [#714] (https://github.com/loiste-interactive/infra-issues/issues/714))
-* Changed ladder to other thing (issue [#742] (https://github.com/loiste-interactive/infra-issues/issues/742))
+* Changed certain ladder to other thing (issue [#742] (https://github.com/loiste-interactive/infra-issues/issues/742))
 * Fixed level state not being reflected in the INFRA: Part 2 waterplant
 * Fixed certain doors getting stuck open (issue [#717] (https://github.com/loiste-interactive/infra-issues/issues/717))
 * Fixed kebab highlights projecting on to a cabinet door (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
