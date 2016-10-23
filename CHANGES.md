@@ -65,6 +65,7 @@
 
 * Added camera target to broken window and collapsed ceiling
 * Changed floodgate speed
+* Changed the cracked window to break more easily
 * Fixed the flood door camera target distance
 * Fixed not being able to walk under the floodgate without crouching
 
