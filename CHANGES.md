@@ -30,6 +30,7 @@
 
 ## tunnel4
 
+* Changed the "tunnel report" document to use a typewriter font
 * Fixed wrong document near the mushrooms
 
 ## furnace
@@ -79,6 +80,7 @@
 * Added a line for Mark when trying to start up the tram without the keys
 * Added light to maintenace door
 * Changed the tram handling - acceleration and deceleration are a bit more smooth
+* Changed the typewriter documents to use a consistent font
 * Fixed the maintenance tram headlights missing sprites
 * Fixed the maintenance tram brake lever not rotating enough
 * Fixed the maintenance tram throttle lever not rotating properly
@@ -86,6 +88,7 @@
 * Fixed the maintenance tram headlights turning on and off when entering/exiting the tram
 * Fixed spelling mistake on the conference room projector screen
 * Fixed locked door animation
+* Fixed typos from some of the archive documents
 * Fixed use highlight going through shelf (issue [#731] (https://github.com/loiste-interactive/infra-issues/issues/731))
 * Fixed archive shelf sound issue (issue [#730] (https://github.com/loiste-interactive/infra-issues/issues/730))
 * Fixed being able to open the switch control panel inside the box (issue [#746] (https://github.com/loiste-interactive/infra-issues/issues/746))
@@ -140,10 +143,12 @@
 
 * Added beer effects
 * Added an autosave after the tape ends (issue [#773] (https://github.com/loiste-interactive/infra-issues/issues/773))
+* Changed the typewriter documents to use a consistent font
 * Fixed collapse sounds
 * Fixed brush holes in the sewer
 * Fixed a corruption target
 * Fixed not being able to get funicular back up/down when it's moving
+* Fixed typos from some of the documents
 * Fixed being able to get stuck at the electric room (issue [#725] (https://github.com/loiste-interactive/infra-issues/issues/725))
 * Fixed sensors red lines (issue [#727] (https://github.com/loiste-interactive/infra-issues/issues/727))
 * Fixed being to pick up batteries through the box (issue [#789] (https://github.com/loiste-interactive/infra-issues/issues/789))
@@ -155,6 +160,7 @@
 * Added lights above certain doorways
 * Changed breaker switches to a button in the control room
 * Changed hatch locked sound
+* Changed the typewriter documents to use a consistent font
 * Fixed centrifuge room corruption targets (issue [#777] (https://github.com/loiste-interactive/infra-issues/issues/777))
 
 ## stormdrain
@@ -183,6 +189,7 @@
 * Added more playerclips (issue [#763] (https://github.com/loiste-interactive/infra-issues/issues/763))
 * Changed container cardboard box to smaller and removed some other moving models
 * Changed flood door light models
+* Changed the "cistern report" document to use a typewriter font
 * Changed crate locations and added two more (issue [#762] (https://github.com/loiste-interactive/infra-issues/issues/762))
 * Changed elevator to move slower with one motor (issue [#766] (https://github.com/loiste-interactive/infra-issues/issues/766))
 * Fixed elevator button animations
