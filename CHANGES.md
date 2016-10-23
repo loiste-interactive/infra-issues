@@ -108,6 +108,7 @@
 * Added pump sign
 * Added camera target for the hallway fire (issue [#783] (https://github.com/loiste-interactive/infra-issues/issues/783))
 * Changed hatch area to be more noticeable
+* Changed ladder to other thing (issue [#742] (https://github.com/loiste-interactive/infra-issues/issues/742))
 * Fixed sewer pipe repair target
 * Fixed some floating models
 * Fixed email title and typo
