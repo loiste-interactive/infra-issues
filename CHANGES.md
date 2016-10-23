@@ -2,6 +2,7 @@
 
 * Added "previous autosave" to the load game menu (issue [#807] (https://github.com/loiste-interactive/infra-issues/issues/807))
 * Changed viewmodel bobbing to feel a bit more responsive
+* Changed bricks to be heavier
 * Fixed a rare issue where the flashlight reload hint would sometimes remain on-screen even after turning off the flashlight
 * Fixed some doors getting stuck open
 * Fixed viewmodels not bobbing while on ladders
