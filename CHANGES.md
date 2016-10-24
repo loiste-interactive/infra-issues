@@ -1,5 +1,9 @@
 # In the next update
 
+## tunnel3
+
+* Added missing camera target (issue [#736] (https://github.com/loiste-interactive/infra-issues/issues/736))
+
 ## tunnel4
 
 * Fixed raft viewproxy entity transitioning to the next level (issue [#824] (https://github.com/loiste-interactive/infra-issues/issues/824))
