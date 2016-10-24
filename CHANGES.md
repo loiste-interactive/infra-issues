@@ -1,3 +1,10 @@
+# In the next update
+
+## office
+
+* Fixed the car park door missing locked sounds (issue [#670] (https://github.com/loiste-interactive/infra-issues/issues/670))
+* Fixed certain ventilation nozzles in car park being misplaced (issue [#685] (https://github.com/loiste-interactive/infra-issues/issues/685))
+
 # October 24th 2016 (Version 2.1.1)
 
 * Fixed a regression where it was not possible to save the game to empty slots
