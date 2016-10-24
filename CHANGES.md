@@ -8,6 +8,7 @@
 * Fixed viewmodels not bobbing while on ladders
 * Fixed viewmodels shaking like crazy when entering ladders while sprinting
 * Fixed empty slots being clickable in the load game menu of the main menu
+* Fixed delay in some button sounds
 * Fixed barrel model collision (issue [#640] (https://github.com/loiste-interactive/infra-issues/issues/640))
 * Fixed a rare issue where the phone would appear without a screen on its own after a level transition (issue [#806] (https://github.com/loiste-interactive/infra-issues/issues/806))
 * Fixed options menu using wrong icons for MOUSE4 and MOUSE5 (issue [#808] (https://github.com/loiste-interactive/infra-issues/issues/808))
