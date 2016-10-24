@@ -1,4 +1,6 @@
-# In the next update
+# October 24th 2016 (Version 2.1.1)
+
+* Fixed not being able to save the game to empty slots
 
 ## tunnel2
 
