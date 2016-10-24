@@ -5,6 +5,10 @@
 * Fixed the car park door missing locked sounds (issue [#670] (https://github.com/loiste-interactive/infra-issues/issues/670))
 * Fixed certain ventilation nozzles in car park being misplaced (issue [#685] (https://github.com/loiste-interactive/infra-issues/issues/685))
 
+## metroride
+
+* Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
+
 # October 24th 2016 (Version 2.1.1)
 
 * Fixed a regression where it was not possible to save the game to empty slots
@@ -19,7 +23,7 @@
 
 ## tunnel4
 
-* Fixed raft viewproxy entity transitioning to the next level (issue [#824] (https://github.com/loiste-interactive/infra-issues/issues/824))
+* Fixed the raft viewproxy entity transitioning to the next level (issue [#824] (https://github.com/loiste-interactive/infra-issues/issues/824))
 
 # October 24th 2016 (Version 2.1.0)
 
