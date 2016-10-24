@@ -1,3 +1,9 @@
+# In the next update
+
+## tunnel4
+
+* Fixed raft viewproxy entity transitioning to the next level (issue [#824] (https://github.com/loiste-interactive/infra-issues/issues/824))
+
 # October 24th 2016 (Version 2.1.0)
 
 * Added "previous autosave" to the load game menu (issue [#807] (https://github.com/loiste-interactive/infra-issues/issues/807))
