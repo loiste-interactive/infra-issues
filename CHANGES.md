@@ -1,5 +1,9 @@
 # In the next update
 
+## tunnel2
+
+* Fixed certain corruption camera target having too short range (issue [#737] (https://github.com/loiste-interactive/infra-issues/issues/737))
+
 ## tunnel3
 
 * Added missing camera target (issue [#736] (https://github.com/loiste-interactive/infra-issues/issues/736))
