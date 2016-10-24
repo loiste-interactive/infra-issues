@@ -96,6 +96,7 @@
 * Fixed audio range of radio (issue [#753] (https://github.com/loiste-interactive/infra-issues/issues/753))
 * Fixed mirrored locker labels (issue [#756] (https://github.com/loiste-interactive/infra-issues/issues/756))
 * Fixed nodraw being visible (issue [#778] (https://github.com/loiste-interactive/infra-issues/issues/778))
+* Fixed maintenance tram gate lighting (issue [#798] (https://github.com/loiste-interactive/infra-issues/issues/798))
 * Fixed being impossible to read the newspaper with the lights on (issue [#800] (https://github.com/loiste-interactive/infra-issues/issues/800))
 
 
@@ -112,6 +113,7 @@
 * Fixed the maintenance tram throttle lever not rotating properly
 * Fixed the collapse camera target (issue [#782] (https://github.com/loiste-interactive/infra-issues/issues/782))
 * Fixed a certain metal bar blocking player movement (issue [#797] (https://github.com/loiste-interactive/infra-issues/issues/797))
+* Fixed maintenance tram gate lighting (issue [#798] (https://github.com/loiste-interactive/infra-issues/issues/798))
 
 ## waterplant
 
