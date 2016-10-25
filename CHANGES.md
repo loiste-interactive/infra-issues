@@ -21,7 +21,7 @@
 
 * Fixed the forklift ingition key retaining use highlights after using (issue [#708] (https://github.com/loiste-interactive/infra-issues/issues/708))
 * Fixed a certain door having wrong sounds (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/711))
-* Fixed a certain bottle being not a physics object (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/712))
+* Fixed a certain bottle being not a physics object (issue [#712] (https://github.com/loiste-interactive/infra-issues/issues/712))
 
 ## metroride
 
