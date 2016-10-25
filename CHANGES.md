@@ -23,8 +23,10 @@
 
 ## stormdrain
 
-* Changed the wire puzzle back wall to white (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
+* Changed the wire puzzle back wall to white to make the wires more easy to follow (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
 * Changed the wire puzzle text (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
+* Fixed a certain steam leak camera target being finicky to photograph
+* Fixed a certain latch model clipping through a door (issue [#827] (https://github.com/loiste-interactive/infra-issues/issues/827))
 
 # October 24th 2016 (Version 2.1.1)
 
