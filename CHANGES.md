@@ -23,9 +23,11 @@
 
 ## stormdrain
 
+* Added a note to the flushing line valve (issue [#819] (https://github.com/loiste-interactive/infra-issues/issues/819))
 * Changed the wire puzzle back wall to white to make the wires more easy to follow (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
 * Changed the wire puzzle text (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
 * Fixed a certain steam leak camera target being finicky to photograph
+
 * Fixed the "This looks familiar" monologue triggering even when not looking at the minitrain (issue [#820] (https://github.com/loiste-interactive/infra-issues/issues/820))
 * Fixed a certain latch model clipping through a door (issue [#827] (https://github.com/loiste-interactive/infra-issues/issues/827))
 
