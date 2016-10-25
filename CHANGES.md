@@ -30,6 +30,7 @@
 ## bunker
 
 * Fixed anarchronistic wine bottles 
+* Fixed the metro accident corruption target being photographable through the control room blinds (issue [#838] (https://github.com/loiste-interactive/infra-issues/issues/838))
 
 ## stormdrain
 
