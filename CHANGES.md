@@ -21,6 +21,11 @@
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
 
+## stormdrain
+
+* Changed the wire puzzle back wall to white (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
+* Changed the wire puzzle text (issue [#835] (https://github.com/loiste-interactive/infra-issues/issues/835))
+
 # October 24th 2016 (Version 2.1.1)
 
 * Fixed a regression where it was not possible to save the game to empty slots
