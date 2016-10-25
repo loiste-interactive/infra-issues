@@ -14,6 +14,7 @@
 * Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed lab door  (issue [#829] (https://github.com/loiste-interactive/infra-issues/issues/829))
 * Fixed the printer spamming switch bug (issue [#830] (https://github.com/loiste-interactive/infra-issues/issues/830))
+* Fixed water flowing towards closed gate (issue [#831] (https://github.com/loiste-interactive/infra-issues/issues/831))
 
 ## metroride
 
