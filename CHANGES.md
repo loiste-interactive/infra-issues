@@ -27,6 +27,10 @@
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
 
+## bunker
+
+* Fixed anarchronistic wine bottles 
+
 ## stormdrain
 
 * Added a note to the flushing line valve (issue [#819] (https://github.com/loiste-interactive/infra-issues/issues/819))
