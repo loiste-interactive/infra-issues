@@ -13,9 +13,15 @@
 
 * Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed unbroken beaker spawning when placed beaker is broken (issue [#822] (https://github.com/loiste-interactive/infra-issues/issues/822))
-* Fixed lab door  (issue [#829] (https://github.com/loiste-interactive/infra-issues/issues/829))
+* Fixed lab door having inverted behaviour (issue [#829] (https://github.com/loiste-interactive/infra-issues/issues/829))
 * Fixed the printer spamming switch bug (issue [#830] (https://github.com/loiste-interactive/infra-issues/issues/830))
 * Fixed water flowing towards closed gate (issue [#831] (https://github.com/loiste-interactive/infra-issues/issues/831))
+
+## sewer
+
+* Fixed the forklift ingition key retaining use highlights after using (issue [#708] (https://github.com/loiste-interactive/infra-issues/issues/708))
+* Fixed a certain door having wrong sounds (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/711))
+* Fixed a certain bottle being not a physics object (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/712))
 
 ## metroride
 
