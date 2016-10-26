@@ -1,5 +1,7 @@
 # In the next update
 
+* Removed cooldown from door locked sounds
+
 ## office
 
 * Fixed the car park door missing locked sounds (issue [#670] (https://github.com/loiste-interactive/infra-issues/issues/670))
