@@ -1,5 +1,6 @@
 # In the next update
 
+* Added gamma slider to the options menu
 * Removed cooldown from door locked sounds
 
 ## office
