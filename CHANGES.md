@@ -53,6 +53,10 @@
 * Fixed the "This looks familiar" monologue triggering even when not looking at the minitrain (issue [#820] (https://github.com/loiste-interactive/infra-issues/issues/820))
 * Fixed a certain latch model clipping through a door (issue [#827] (https://github.com/loiste-interactive/infra-issues/issues/827))
 
+## cistern
+
+* Fixed clumsy writing in the "cistern report" document
+
 # October 24th 2016 (Version 2.1.1)
 
 * Fixed a regression where it was not possible to save the game to empty slots
