@@ -23,6 +23,10 @@
 * Fixed a certain door having wrong sounds (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/711))
 * Fixed a certain bottle being not a physics object (issue [#712] (https://github.com/loiste-interactive/infra-issues/issues/712))
 
+## sewer3
+
+* Fixed script errors when transitioning backwards from metro to sewer3 (issue [#833] (https://github.com/loiste-interactive/infra-issues/issues/833))
+
 ## metroride
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
