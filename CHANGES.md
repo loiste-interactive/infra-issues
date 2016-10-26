@@ -29,6 +29,7 @@
 
 ## bunker
 
+* Changed Periodic Table of Elements
 * Fixed anachronistic wine bottles 
 * Fixed the metro accident corruption target being photographable through the control room blinds (issue [#838] (https://github.com/loiste-interactive/infra-issues/issues/838))
 
