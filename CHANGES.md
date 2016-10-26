@@ -25,6 +25,11 @@
 * Fixed a certain door having wrong sounds (issue [#711] (https://github.com/loiste-interactive/infra-issues/issues/711))
 * Fixed a certain bottle being not a physics object (issue [#712] (https://github.com/loiste-interactive/infra-issues/issues/712))
 
+## tower
+
+* Changed the phone switchboard note to use a typewriter font
+* Fixed typo in the phone switchboard note (issue [#813] (https://github.com/loiste-interactive/infra-issues/issues/813))
+
 ## sewer3
 
 * Fixed script errors when transitioning backwards from metro to sewer3 (issue [#833] (https://github.com/loiste-interactive/infra-issues/issues/833))
