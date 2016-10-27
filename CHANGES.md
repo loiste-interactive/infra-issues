@@ -14,7 +14,7 @@
 
 ## tunnel2
 
-* Fixed unfinished facility plan (issue [#826] (https://github.com/loiste-interactive/infra-issues/issues/826))
+* Fixed unfinished facility plan texture (issue [#826] (https://github.com/loiste-interactive/infra-issues/issues/826))
 
 ## watertreatment
 
