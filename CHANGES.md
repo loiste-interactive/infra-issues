@@ -44,6 +44,7 @@
 
 ## metro
 
+* Fixed audio range of radio (issue [#753] (https://github.com/loiste-interactive/infra-issues/issues/753))
 * Fixed issues with the ATM UI textures (issue [#853] (https://github.com/loiste-interactive/infra-issues/issues/853))
 
 ## metroride
