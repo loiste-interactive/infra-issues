@@ -2,7 +2,7 @@
 
 * Added gamma slider to the options menu
 * Changed Mark to always say something when picking up a geocache
-* Fixed an error in a subtitle when picking up a geocache
+* Fixed an error in a certain subtitle when picking up a geocache
 * Removed cooldown from door locked sounds
 
 ## office
