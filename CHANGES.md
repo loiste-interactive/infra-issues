@@ -52,7 +52,7 @@
 
 ## waterplant
 
-* Fixed a regression that caused the second repair target not to trigger and the minitrain gate not to open
+* Fixed a regression that caused the second repair target not to trigger and the exit gate not to open
 
 ## bunker
 
@@ -68,6 +68,7 @@
 * Fixed a certain steam leak camera target being finicky to photograph
 * Fixed the "this looks familiar" monologue triggering even when not looking at the minitrain (issue [#820] (https://github.com/loiste-interactive/infra-issues/issues/820))
 * Fixed a certain latch model clipping through a door (issue [#827] (https://github.com/loiste-interactive/infra-issues/issues/827))
+* Fixed the "this looks familiar" monologue not playing if the "that was too close" monologue had not been played (issue [#845] (https://github.com/loiste-interactive/infra-issues/issues/845))
 
 ## cistern
 
