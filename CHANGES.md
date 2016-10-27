@@ -1,4 +1,4 @@
-# In the next update
+# October 27th 2016 (Version 2.2.0)
 
 * Added gamma slider to the options menu
 * Changed Mark to always say something when picking up a geocache
