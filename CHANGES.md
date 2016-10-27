@@ -56,6 +56,10 @@
 
 * Fixed a regression that caused the second repair target not to trigger and the exit gate not to open
 
+## servicetunnel
+
+* Fixed being able to open bunker door without turning on power
+
 ## bunker
 
 * Changed Periodic Table of Elements
