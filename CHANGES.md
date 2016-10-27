@@ -49,6 +49,10 @@
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
 
+## waterplant
+
+* Fixed a regression that caused the second repair target not to trigger and the minitrain gate not to open
+
 ## bunker
 
 * Changed Periodic Table of Elements
