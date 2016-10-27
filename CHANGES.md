@@ -12,6 +12,10 @@
 
 * Fixed the dam elevator call button missing sounds (issue [#668] (https://github.com/loiste-interactive/infra-issues/issues/668))
 
+## tunnel2
+
+* Fixed unfinished facility plan (issue [#826] (https://github.com/loiste-interactive/infra-issues/issues/826))
+
 ## watertreatment
 
 * Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
