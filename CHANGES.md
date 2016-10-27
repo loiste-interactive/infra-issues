@@ -43,10 +43,6 @@
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
 
-## minitrain
-
-* Fixed certain track pieces having collisions (issue [#847] (https://github.com/loiste-interactive/infra-issues/issues/847))
-
 ## bunker
 
 * Changed Periodic Table of Elements
