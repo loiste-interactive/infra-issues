@@ -22,7 +22,7 @@
 ## watertreatment
  
 * Added labels to the water sample analyzer switches
-* Added new achievement 'Purification' to when fixing all the problems at the plant area (issue [#821] (https://github.com/loiste-interactive/infra-issues/issues/821))
+* Added new achievement `Purification` to when fixing all the problems at the plant area (issue [#821] (https://github.com/loiste-interactive/infra-issues/issues/821))
 * Fixed traffic moving too fast
 * Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed unbroken beaker spawning when placed beaker is broken (issue [#822] (https://github.com/loiste-interactive/infra-issues/issues/822))
