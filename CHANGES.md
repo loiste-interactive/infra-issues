@@ -22,6 +22,7 @@
 ## watertreatment
 
 * Added labels to the water sample analyzer switches
+* Fixed cars moving too fast
 * Fixed kebab highlights (issue [#723] (https://github.com/loiste-interactive/infra-issues/issues/723))
 * Fixed unbroken beaker spawning when placed beaker is broken (issue [#822] (https://github.com/loiste-interactive/infra-issues/issues/822))
 * Fixed lab door having inverted behaviour (issue [#829] (https://github.com/loiste-interactive/infra-issues/issues/829))
