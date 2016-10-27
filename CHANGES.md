@@ -49,6 +49,7 @@
 ## metroride
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
+* Fixed not being able to take photos through the tram windows (issue [#842] (https://github.com/loiste-interactive/infra-issues/issues/842))
 
 ## waterplant
 
