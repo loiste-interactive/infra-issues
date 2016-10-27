@@ -39,6 +39,10 @@
 
 * Fixed script errors when transitioning backwards from metro to sewer3 (issue [#833] (https://github.com/loiste-interactive/infra-issues/issues/833))
 
+## metro
+
+* Fixed issues with the ATM UI textures (issue [#853] (https://github.com/loiste-interactive/infra-issues/issues/853))
+
 ## metroride
 
 * Fixed the train viewproxy entity transitioning to the next level (issue [#825] (https://github.com/loiste-interactive/infra-issues/issues/825))
