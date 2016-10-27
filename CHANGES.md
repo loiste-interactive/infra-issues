@@ -4,6 +4,7 @@
 * Changed Mark to always say something when picking up a geocache
 * Fixed an error in a certain subtitle when picking up a geocache
 * Removed cooldown from door locked sounds
+* Removed minitrain tracks collisions (issue [#847] (https://github.com/loiste-interactive/infra-issues/issues/847))
 
 ## office
 
