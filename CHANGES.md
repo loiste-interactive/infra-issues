@@ -1,3 +1,13 @@
+# Upcoming
+
+## watertreatment
+
+* Fixed issues in the text of the emails
+
+## waterplant
+
+* Fixed issues in the text of the emails
+
 # October 27th 2016 (Version 2.2.0)
 
 * Added gamma slider to the options menu
