@@ -8,6 +8,10 @@
 
 * Fixed issues in the text of the emails
 
+## cistern
+
+* Fixed mist particles disappearing in certain view angles
+
 # October 27th 2016 (Version 2.2.0)
 
 * Added gamma slider to the options menu
