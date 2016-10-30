@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed performance issues with shadow-causing lights (added occlusion and frustum culling)
+* Fixed performance issues with shadow-casting lights (added occlusion and frustum culling)
 
 ## watertreatment
 
