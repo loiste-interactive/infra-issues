@@ -1,7 +1,6 @@
 # Upcoming
 
-* Added PVS culling for dynamic shadows
-* Added frustum culling for dynamic shadows
+* Fixed performance issues caused by shadow-casting lights that the player could not see
 
 ## watertreatment
 
