@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed performance issues caused by shadow-casting lights that the player could not see
+* Fixed performance issues caused by occluded shadow-casting lights
 
 ## watertreatment
 
