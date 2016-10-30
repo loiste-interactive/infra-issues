@@ -11,6 +11,14 @@
 
 * Fixed issues in the text of the emails
 
+## metro
+
+* Fixed player getting stuck when exiting the maintenance tram
+
+## metroride
+
+* Fixed player getting stuck when exiting the maintenance tram
+
 ## cistern
 
 * Fixed mist particles disappearing in certain view angles
