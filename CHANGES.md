@@ -1,5 +1,8 @@
 # Upcoming
 
+* Added PVS culling for dynamic shadows
+* Added frustum culling for dynamic shadows
+
 ## watertreatment
 
 * Fixed issues in the text of the emails
