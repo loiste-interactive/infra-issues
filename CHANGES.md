@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed performance issues with shadow-casting lights (added occlusion and frustum culling)
+* Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 
 ## watertreatment
 
@@ -20,8 +20,8 @@
 
 ## cistern
 
-* Fixed a performance issue at the pit and cistern areas
-* Fixed mist particles disappearing in certain view angles
+* Fixed a performance issue affecting the pit and cistern areas
+* Fixed mist particles disappearing with certain view angles
 
 # October 27th 2016 (Version 2.2.0)
 
