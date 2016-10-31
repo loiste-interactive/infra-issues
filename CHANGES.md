@@ -18,6 +18,11 @@
 
 * Fixed player getting stuck when exiting the maintenance tram
 
+## bunker
+
+* Added hints for the crane controls
+* Fixed being able to use the flashlight while in the crane
+
 ## cistern
 
 * Fixed a performance issue affecting the pit and cistern areas
