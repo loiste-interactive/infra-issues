@@ -2,6 +2,10 @@
 
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 
+## office
+
+* Fixed lipsync for one of the boss's lines
+
 ## watertreatment
 
 * Fixed issues in the text of the emails
