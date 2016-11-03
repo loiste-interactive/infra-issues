@@ -23,6 +23,7 @@
 ## metro
 
 * Fixed player getting stuck when exiting the maintenance tram
+* Fixed sorting issues with translucent objects in Aziz's Hamburger & Kebab
 
 ## metroride
 
