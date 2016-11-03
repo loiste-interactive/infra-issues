@@ -2,6 +2,7 @@
 
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 * Fixed missing decals from some levels (increased decal limit)
+* Fixed decals disappearing from the previous level after transitioning to the next one
 
 ## office
 
