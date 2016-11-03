@@ -6,7 +6,7 @@
 
 ## office
 
-* Changed the animations for the NPCs in the intro
+* Changed the intro NPC animations
 * Changed the player FOV in the intro
 * Changed the intro exit animation for the player so the FOV doesn't change until they're out of the room
 * Fixed lipsync for one of the boss's lines in the intro
