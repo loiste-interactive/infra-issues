@@ -7,9 +7,10 @@
 
 ## office
 
-* Changed the intro NPC animations
-* Changed the player FOV in the intro
-* Changed the intro exit animation for the player so the FOV doesn't change until they're out of the room
+* Changed the NPC animations in the intro
+* Changed the player FOV during the intro to be a bit tighter
+* Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
+* Changed the player's laptop to be closed during the intro to reduce visual clutter and make subtitles more readable
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed the boss stopping for a second before proceeding to sit down in the intro
 
