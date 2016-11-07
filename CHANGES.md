@@ -7,7 +7,7 @@
 
 ## office
 
-* Added sound ducking for Mark's lines in the receptionist dialogue
+* Added sound ducking for Mark in the dialogue with the receptionist
 * Changed the NPC animations in the intro
 * Changed the player FOV during the intro to be a bit tighter
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
@@ -16,7 +16,7 @@
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
 * Fixed the boss stopping for a second before proceeding to sit down in the intro
-* Fixed some timing issues in the receptionist dialogue
+* Fixed some timing issues in the dialogue with the receptionist
 
 ## watertreatment
 
