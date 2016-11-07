@@ -12,6 +12,7 @@
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
 * Changed the player's laptop to be closed during the intro to reduce visual clutter and make subtitles more readable
 * Fixed lipsync for one of the boss's lines in the intro
+* Fixed lipsync for one of Carla's lines in the intro
 * Fixed the boss stopping for a second before proceeding to sit down in the intro
 
 ## watertreatment
