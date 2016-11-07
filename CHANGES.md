@@ -16,6 +16,7 @@
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
 * Fixed the boss stopping for a second before proceeding to sit down in the intro
+* Fixed some timing issues in the receptionist dialogue
 
 ## watertreatment
 
