@@ -6,6 +6,7 @@
 * Fixed missing decals from some levels (increased decal limit)
 * Fixed decals disappearing from the previous level after transitioning to the next one
 * Fixed a VGUI bug where an additional character after selection was always copied to clipboard
+* Fixed female NPCs having trouble turning their head
 
 ## office
 
