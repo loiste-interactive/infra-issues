@@ -25,6 +25,7 @@
 * Fixed some timing issues in the dialogue with the receptionist
 * Fixed an issue with the use selection outline of the letter at the reception
 * Fixed collision issues at the reception
+* Fixed a timing issue with one of Mark's lines in the intro
 * Removed an out of place keycard reader from the reception
 
 ## watertreatment
