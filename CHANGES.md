@@ -1,5 +1,6 @@
 # Upcoming
 
+* Changed walk speed for female NPCs
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 * Fixed missing decals from some levels (increased decal limit)
 * Fixed decals disappearing from the previous level after transitioning to the next one
@@ -13,7 +14,6 @@
 * Changed the player FOV during the intro to be a bit tighter
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
 * Changed the player's laptop to be closed during the intro to reduce visual clutter and make subtitles more readable
-* Changed walk speed for female NPCs
 * Changed Mark to say "thanks" to the receptionist only after picking up the letter (issue [#878] (https://github.com/loiste-interactive/infra-issues/issues/878))
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
