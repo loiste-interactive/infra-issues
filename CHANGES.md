@@ -50,6 +50,10 @@
 * Added hints for the crane controls
 * Fixed being able to use the flashlight while in the crane
 
+## stormdrain
+
+* Fixed an issue with the gate puzzle not powering on the button
+
 ## cistern
 
 * Fixed a performance issue affecting the pit and cistern areas
