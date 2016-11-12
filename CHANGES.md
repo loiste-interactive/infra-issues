@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added new faces for generic NPCs that replace the old ones
+* Changed Amit's face
 * Changed walk speed for female NPCs
 * Changed player default FOV from 90 to 75
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
