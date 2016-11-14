@@ -2,7 +2,7 @@
 
 * Added new face models and textures for generic NPCs that replace the old ones
 * Added new hairstyles for female NPCs that replace the old ones
-* Added more skin colors for NPCs
+* Added more skin colors for generic NPCs
 * Changed Amit's face model and texture
 * Changed Carla's face texture
 * Changed walk speed for female NPCs
