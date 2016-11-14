@@ -1,7 +1,10 @@
 # Upcoming
 
-* Added new faces for generic NPCs that replace the old ones
-* Changed Amit's face
+* Added new face models and textures for generic NPCs that replace the old ones
+* Added new hairstyles for female NPCs that replace the old ones
+* Added more skin colors for NPCs
+* Changed Amit's face model and texture
+* Changed Carla's face texture
 * Changed walk speed for female NPCs
 * Changed player default FOV from 90 to 75
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
