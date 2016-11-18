@@ -13,6 +13,7 @@
 * Fixed a VGUI bug where an additional character after selection was always copied to clipboard
 * Fixed female NPCs having trouble turning their head
 * Fixed sitting NPCs not turning their head enough (especially noticeable with the receptionist at the office)
+* Fixed use selection outlines not appearing right after the game is reloaded in some cases
 
 ## office
 
@@ -35,7 +36,7 @@
 
 ## tunnel
 
-* Fixed a possible issue with the valves getting stuck at the collapse section
+* Fixed a possible issue with the valves getting stuck at the collapse section (issue [#886] (https://github.com/loiste-interactive/infra-issues/issues/886))
 
 ## watertreatment
 
@@ -43,7 +44,7 @@
 
 ## sewer
 
-* Fixed a possible issue with the valve getting stuck at the crowbar puzzle
+* Fixed a possible issue with the valve getting stuck at the crowbar puzzle (issue [#720] (https://github.com/loiste-interactive/infra-issues/issues/720))
 
 ## waterplant
 
