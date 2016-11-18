@@ -36,6 +36,7 @@
 
 ## tunnel
 
+* Changed the floodgate instructions at the collapse section to be easier to understand
 * Fixed a possible issue with the valves getting stuck at the collapse section (issue [#886] (https://github.com/loiste-interactive/infra-issues/issues/886))
 
 ## watertreatment
