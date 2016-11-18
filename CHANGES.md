@@ -33,9 +33,17 @@
 * Fixed some timing issues in the intro
 * Removed an out of place keycard reader from the reception
 
+## tunnel
+
+* Fixed a possible issue with the valves getting stuck at the collapse section
+
 ## watertreatment
 
 * Fixed issues in the text of the emails
+
+## sewer
+
+* Fixed a possible issue with the valve getting stuck at the crowbar puzzle
 
 ## waterplant
 
