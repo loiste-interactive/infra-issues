@@ -67,7 +67,12 @@
 
 ## stormdrain
 
+* Added ladder to broken catwalk stairs(issue [#837] (https://github.com/loiste-interactive/infra-issues/issues/837))
+* Added player clip to pipes (issue [#880] (https://github.com/loiste-interactive/infra-issues/issues/880))
+* Changed the floodgate puzzle
+* Changed the flashlight model to static (issue [#849] (https://github.com/loiste-interactive/infra-issues/issues/849))
 * Fixed an issue with the gate puzzle not powering on the button
+* Removed extra CoPan valves (issue [#844] (https://github.com/loiste-interactive/infra-issues/issues/844))
 
 ## cistern
 
