@@ -47,10 +47,6 @@
 
 * Fixed a possible issue with the valve getting stuck at the crowbar puzzle (issue [#720] (https://github.com/loiste-interactive/infra-issues/issues/720))
 
-## waterplant
-
-* Fixed issues in the text of the emails
-
 ## metro
 
 * Fixed player getting stuck when exiting the maintenance tram
@@ -60,6 +56,15 @@
 
 * Fixed player getting stuck when exiting the maintenance tram
 
+## waterplant
+
+* Fixed issues in the text of the emails
+
+## minitrain
+
+* Changed autosave triggers to save each time (issue [#905] (https://github.com/loiste-interactive/infra-issues/issues/905))
+* Fixed minitrain stopping at open gates (issue [#904] (https://github.com/loiste-interactive/infra-issues/issues/904))
+
 ## bunker
 
 * Added hints for the crane controls
@@ -67,7 +72,7 @@
 
 ## stormdrain
 
-* Added ladder to broken catwalk stairs(issue [#837] (https://github.com/loiste-interactive/infra-issues/issues/837))
+* Added ladder to broken catwalk stairs (issue [#837] (https://github.com/loiste-interactive/infra-issues/issues/837))
 * Added player clip to pipes (issue [#880] (https://github.com/loiste-interactive/infra-issues/issues/880))
 * Changed the floodgate puzzle
 * Changed the flashlight model to static (issue [#849] (https://github.com/loiste-interactive/infra-issues/issues/849))
