@@ -41,7 +41,13 @@
 
 ## watertreatment
 
+* Changed the kebab location (issue [#823] (https://github.com/loiste-interactive/infra-issues/issues/823))
+* Changed contaminated water document to be photographable (issue [#857] (https://github.com/loiste-interactive/infra-issues/issues/857))
 * Fixed issues in the text of the emails
+* Fixed beaker receiving use highlights while in the water sample analyzer (issue [#855] (https://github.com/loiste-interactive/infra-issues/issues/855))
+* Fixed beaker receiving use highlights while in the water sampler (issue [#856] (https://github.com/loiste-interactive/infra-issues/issues/856))
+* Fixed not being able to take a photo of the dead fish through the window (issue [#859] (https://github.com/loiste-interactive/infra-issues/issues/859))
+* Fixed being able to get purification achievement without fixing grit classifier 1 (issue [#909] (https://github.com/loiste-interactive/infra-issues/issues/909))
 
 ## sewer
 
