@@ -25,6 +25,8 @@
 * Changed the player FOV during the intro to be a bit tighter
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
 * Changed the player's laptop to be closed during the intro to reduce visual clutter and make subtitles more readable
+* Changed certain pause menu buttons to be hidden during the intro
+* Changed "skip intro" to be located in the pause menu instead of being bound to MOUSE2
 * Changed Mark to say "thanks" to the receptionist only after picking up the letter (issue [#878] (https://github.com/loiste-interactive/infra-issues/issues/878))
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
