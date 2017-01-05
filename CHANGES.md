@@ -79,6 +79,7 @@
 
 * Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
 * Added ladder to manhole (issue [#839] (https://github.com/loiste-interactive/infra-issues/issues/839))
+* Fixed some light issues
 * Fixed being able to climb over the fence (issue [#911] (https://github.com/loiste-interactive/infra-issues/issues/911))
 
 ## bunker
