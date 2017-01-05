@@ -14,6 +14,7 @@
 * Fixed female NPCs having trouble turning their head
 * Fixed sitting NPCs not turning their head enough (especially noticeable with the receptionist at the office)
 * Fixed use selection outlines not appearing right after the game is reloaded in some cases
+* Fixed a performance issue when NPCs are affected by dynamic shadows
 
 ## office
 
