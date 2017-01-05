@@ -42,6 +42,7 @@
 
 ## watertreatment
 
+* Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
 * Changed the kebab location (issue [#823] (https://github.com/loiste-interactive/infra-issues/issues/823))
 * Changed contaminated water document to be photographable (issue [#857] (https://github.com/loiste-interactive/infra-issues/issues/857))
 * Fixed issues in the text of the emails
@@ -73,6 +74,12 @@
 
 * Changed autosave triggers to save each time (issue [#905] (https://github.com/loiste-interactive/infra-issues/issues/905))
 * Fixed minitrain stopping at open gates (issue [#904] (https://github.com/loiste-interactive/infra-issues/issues/904))
+
+## servicetunnel
+
+* Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
+* Added ladder to manhole (issue [#839] (https://github.com/loiste-interactive/infra-issues/issues/839))
+* Fixed being able to climb over the fence (issue [#911] (https://github.com/loiste-interactive/infra-issues/issues/911))
 
 ## bunker
 
