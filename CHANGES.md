@@ -67,6 +67,7 @@
 ## metroride
 
 * Fixed player getting stuck when exiting the maintenance tram
+* Fixed an issue with re-entering the maintenance tram
 
 ## waterplant
 
