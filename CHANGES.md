@@ -42,6 +42,14 @@
 * Changed the floodgate instructions at the collapse section to be easier to understand
 * Fixed a possible issue with the valves getting stuck at the collapse section (issue [#886] (https://github.com/loiste-interactive/infra-issues/issues/886))
 
+## tunnel3
+
+* Fixed issues with the autosaves during the raft ride (issue [#505] (https://github.com/loiste-interactive/infra-issues/issues/505))
+
+## tunnel4
+
+* Fixed issues with the autosaves during the raft ride (issue [#505] (https://github.com/loiste-interactive/infra-issues/issues/505))
+
 ## watertreatment
 
 * Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
