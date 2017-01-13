@@ -37,6 +37,10 @@
 * Fixed some timing issues in the intro
 * Removed an out of place keycard reader from the reception
 
+## reserve1
+
+* Changed the location of the geocache under the bridge and certain camera batteries(issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
+
 ## tunnel
 
 * Changed the floodgate instructions at the collapse section to be easier to understand
