@@ -56,7 +56,10 @@
 
 ## tower
 
+* Added a new autosave to the steel factory office
 * Fixed the skybox impression of `furnace` exterior areas not matching the reality
+* Fixed the ore skip button pushing player back (issue [#718] (https://github.com/loiste-interactive/infra-issues/issues/718))
+* Fixed issues with the autosaves (issue [#719] (https://github.com/loiste-interactive/infra-issues/issues/719))
 
 ## watertreatment
 
