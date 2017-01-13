@@ -54,6 +54,10 @@
 
 * Fixed issues with the autosaves during the raft ride (issue [#505] (https://github.com/loiste-interactive/infra-issues/issues/505))
 
+## tower
+
+* Fixed the skybox impression of `furnace` exterior areas not matching the reality
+
 ## watertreatment
 
 * Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
