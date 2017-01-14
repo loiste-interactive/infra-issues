@@ -69,6 +69,7 @@
 * Changed the kebab location (issue [#823] (https://github.com/loiste-interactive/infra-issues/issues/823))
 * Changed contaminated water document to be photographable (issue [#857] (https://github.com/loiste-interactive/infra-issues/issues/857))
 * Fixed issues in the text of the emails
+* Fixed the water analyzer use highlights & use outlines not reflecting the switch states
 * Fixed door being closed the start of the level when transitioning from tower (issue [#828] (https://github.com/loiste-interactive/infra-issues/issues/828))
 * Fixed glitchy printer switch (issue [#830] (https://github.com/loiste-interactive/infra-issues/issues/830))
 * Fixed beaker receiving use highlights while in the water sample analyzer (issue [#855] (https://github.com/loiste-interactive/infra-issues/issues/855))
