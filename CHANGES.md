@@ -22,6 +22,7 @@
 * Added sound ducking for Mark's lines in the dialogue with the receptionist
 * Added sounds for the NPC keyboard animation
 * Added reactions for NPCs when staring at them
+* Added phones in hands of certain NPCs
 * Changed the NPC animations in the intro
 * Changed the player FOV during the intro to be a bit tighter
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
