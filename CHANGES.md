@@ -36,6 +36,7 @@
 * Fixed an issue with the use selection outline of the letter at the reception
 * Fixed collision issues at the reception
 * Fixed some timing issues in the intro
+* Fixed a door frame being useable
 * Removed an out of place keycard reader from the reception
 
 ## reserve1
