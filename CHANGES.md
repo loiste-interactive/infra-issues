@@ -64,6 +64,7 @@
 
 ## watertreatment
 
+* Added a sound for eating the kebab
 * Added keycard & keycard reader foley sounds (issue [#805] (https://github.com/loiste-interactive/infra-issues/issues/805))
 * Changed the kebab location (issue [#823] (https://github.com/loiste-interactive/infra-issues/issues/823))
 * Changed contaminated water document to be photographable (issue [#857] (https://github.com/loiste-interactive/infra-issues/issues/857))
