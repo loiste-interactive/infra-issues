@@ -30,6 +30,7 @@
 * Changed certain pause menu buttons to be hidden during the intro
 * Changed "skip intro" to be located in the pause menu instead of being bound to MOUSE2
 * Changed the position of an NPC sitting downstairs to make them easier to talk to
+* Changed the parking garage scene to not be a cutscene (issue [#874] (https://github.com/loiste-interactive/infra-issues/issues/874))
 * Changed Mark to say "thanks" to the receptionist only after picking up the letter (issue [#878] (https://github.com/loiste-interactive/infra-issues/issues/878))
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
