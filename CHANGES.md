@@ -40,6 +40,7 @@
 * Fixed collision issues at the reception
 * Fixed some timing issues in the intro
 * Fixed a door frame being useable
+* Fixed the level change breaking if you climb on top of the car at the end of the level (issue [#900] (https://github.com/loiste-interactive/infra-issues/issues/900))
 * Removed an out of place keycard reader from the reception
 
 ## reserve1
