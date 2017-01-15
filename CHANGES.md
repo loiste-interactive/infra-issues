@@ -45,7 +45,7 @@
 
 ## reserve1
 
-* Changed the location of the geocache under the bridge and certain camera batteries(issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
+* Changed the location of the geocache under the bridge and certain camera batteries (issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
 
 ## tunnel
 
