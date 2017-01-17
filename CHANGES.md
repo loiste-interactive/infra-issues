@@ -16,6 +16,7 @@
 * Fixed use selection outlines not appearing right after the game is reloaded in some cases
 * Fixed a performance issue when NPCs are affected by dynamic shadows
 * Fixed certain car model having floating tire following it (issue [#661] (https://github.com/loiste-interactive/infra-issues/issues/661))
+* Removed "widescreen" and "normal" from the aspect ratio names in the options menu
 
 ## office
 
