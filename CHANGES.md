@@ -8,7 +8,7 @@
 * Changed the walk speed of female NPCs
 * Changed player default FOV from 90 to 75
 * Changed the maximum FOV from 120 to 100
-* Changed the aspect ratio names in the options menu so that they no longer say "widescreen" and "normal"
+* Changed some options menu labels to be simpler and more succinct
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 * Fixed missing decals from some levels (increased decal limit)
 * Fixed decals disappearing from the previous level after transitioning to the next one
