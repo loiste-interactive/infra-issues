@@ -131,6 +131,7 @@
 
 ## cistern
 
+* Added an autosave to when opening the flood gate
 * Added a camera target to the broken catwalk in the draining pit area
 * Added a small leak to the leaking steam pipe when it's closed (issue [#865] (https://github.com/loiste-interactive/infra-issues/issues/865))
 * Added a camera target to the draining pit (issue [#868] (https://github.com/loiste-interactive/infra-issues/issues/868))
