@@ -18,6 +18,8 @@
 * Fixed use selection outlines not appearing right after the game is reloaded in some cases
 * Fixed a performance issue when NPCs are affected by dynamic shadows
 * Fixed player sometimes teleporting up ladders
+* Fixed the background color for selected disabled sliders
+* Fixed being able to use the options menu sliders with a keyboard or a gamepad when they are disabled
 * Fixed the pause menu signal label flickering when entering submenus
 * Fixed certain car model having floating tire following it (issue [#661] (https://github.com/loiste-interactive/infra-issues/issues/661))
 
