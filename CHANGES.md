@@ -3,7 +3,7 @@
 * Added new faces for generic NPCs (replaces existing faces)
 * Added new hairstyles for female NPCs (replaces existing hairstyles)
 * Added more skin colors for generic NPCs
-* Added options menu to the pause menu
+* Added options menu to the pause menu (issue [#16] (https://github.com/loiste-interactive/infra-issues/issues/16))
 * Changed Amit's face
 * Changed Carla's face
 * Changed the walk speed of female NPCs
