@@ -22,6 +22,7 @@
 * Fixed the background color for selected disabled sliders in the options menu
 * Fixed being able to use the options menu sliders with a keyboard or a gamepad when they are disabled
 * Fixed the pause menu signal label flickering when entering submenus
+* Fixed pause menu keyboard/controller focus issues
 * Fixed certain car model having floating tire following it (issue [#661] (https://github.com/loiste-interactive/infra-issues/issues/661))
 
 ## office
