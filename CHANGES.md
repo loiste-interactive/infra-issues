@@ -130,6 +130,7 @@
 * Added hints for the crane controls
 * Changed sleeping quarters door being unlocked after pressing control room button
 * Fixed being able to use the flashlight while in the crane
+* Fixed the blast door not killing the player properly (issue [#733] (https://github.com/loiste-interactive/infra-issues/issues/733))
 * Fixed the crane being ridden inside the wall (issue [#890] (https://github.com/loiste-interactive/infra-issues/issues/890))
 
 ## stormdrain
