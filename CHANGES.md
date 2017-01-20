@@ -58,7 +58,11 @@
 ## tunnel
 
 * Changed the floodgate instructions at the collapse section to be easier to understand
+* Changed the break room light to be toggleable (issue [#674] (https://github.com/loiste-interactive/infra-issues/issues/674))
+* Fixed attachable valves missing sound when placing them (issue [#676] (https://github.com/loiste-interactive/infra-issues/issues/676))
 * Fixed a possible issue with the valves getting stuck at the collapse section (issue [#886] (https://github.com/loiste-interactive/infra-issues/issues/886))
+* Fixed certain areaportal not working properly (issue [#907] (https://github.com/loiste-interactive/infra-issues/issues/907))
+* Removed certain misleading beams on the drawbrigde puzzle area (issue [#895] (https://github.com/loiste-interactive/infra-issues/issues/895))
 
 ## tunnel3
 
