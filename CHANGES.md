@@ -55,7 +55,7 @@
 
 * Changed the location of the geocache under the bridge and certain camera batteries (issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
 
-## tunnel
+## tunnel1
 
 * Changed the floodgate instructions at the collapse section to be easier to understand
 * Changed the break room light to be toggleable (issue [#674] (https://github.com/loiste-interactive/infra-issues/issues/674))
