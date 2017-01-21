@@ -115,8 +115,15 @@
 
 ## metro
 
+* Added auto-crouch triggers to the metro closed lines (issue [#887] (https://github.com/loiste-interactive/infra-issues/issues/887))
+* Added a camera target to the burner under maintenance (issue [#897] (https://github.com/loiste-interactive/infra-issues/issues/897))
+* Changed the right side gate of the maintenance tram to be static (issue [#888] (https://github.com/loiste-interactive/infra-issues/issues/888))
+* Changed the boiler to cool down much quicker (issue [#899] (https://github.com/loiste-interactive/infra-issues/issues/899))
 * Fixed player getting stuck when exiting the maintenance tram
 * Fixed sorting issues with translucent objects in Aziz's Hamburger & Kebab
+* Fixed ivy clipping through one of the MWU roof terrace doors (issue [#755] (https://github.com/loiste-interactive/infra-issues/issues/755))
+* Fixed the public toilet doors having issues with use highlights (issue [#852] (https://github.com/loiste-interactive/infra-issues/issues/852))
+* Fixed the maintenance tram spawning inside the crash barrier (issue [#889] (https://github.com/loiste-interactive/infra-issues/issues/889))
 
 ## metroride
 
