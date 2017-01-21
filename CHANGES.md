@@ -53,9 +53,10 @@
 
 ## reserve1
 
+* Changed Mark not to comment about the tree on the train tracks until the player takes a picture of it
+* Changed the location of the geocache under the bridge and certain camera batteries (issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
 * Fixed an issue with the bolt cutter monologue if the player interacts with the door before Mark has finished talking
 * Fixed the "tell me about it" line coming up too soon when looking at the graffiti under the bridge (issue [#870] (https://github.com/loiste-interactive/infra-issues/issues/870))
-* Changed the location of the geocache under the bridge and certain camera batteries (issue [#610] (https://github.com/loiste-interactive/infra-issues/issues/610))
 
 ## tunnel1
 
