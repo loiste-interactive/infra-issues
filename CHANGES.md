@@ -33,6 +33,7 @@
 * Added sound ducking for Mark's lines in the dialogue with the receptionist
 * Added sounds for the NPC keyboard animation
 * Added reactions for NPCs when staring at them
+* Added foley sounds to the keycard readers
 * Added an areaportal to the elevator shaft (issue [#677] (https://github.com/loiste-interactive/infra-issues/issues/677))
 * Added player clips to certain areas (issue [#875] (https://github.com/loiste-interactive/infra-issues/issues/875))
 * Added phones to the hands of certain NPCs (issue [#876] (https://github.com/loiste-interactive/infra-issues/issues/876))
