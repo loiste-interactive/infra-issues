@@ -33,15 +33,18 @@
 * Added sound ducking for Mark's lines in the dialogue with the receptionist
 * Added sounds for the NPC keyboard animation
 * Added reactions for NPCs when staring at them
+* Added an areaportal to the elevator shaft (issue [#677] (https://github.com/loiste-interactive/infra-issues/issues/677))
+* Added player clips to certain areas (issue [#875] (https://github.com/loiste-interactive/infra-issues/issues/875))
 * Added phones to the hands of certain NPCs (issue [#876] (https://github.com/loiste-interactive/infra-issues/issues/876))
 * Changed the player FOV during the intro to be a bit tighter
 * Changed the player's exit animation in the intro so that the FOV doesn't change drastically until they're outside the room
-* Changed the player's laptop to be closed during the intro to reduce visual clutter and make subtitles more readable
+* Changed the player's laptop screen to be closed during the intro to reduce visual clutter and make subtitles more readable
 * Changed certain pause menu buttons to be hidden during the intro
 * Changed "skip intro" to be located in the pause menu instead of being bound to MOUSE2
 * Changed the position of an NPC sitting downstairs to make them easier to talk to
 * Changed the parking garage scene to not be a cutscene (issue [#874] (https://github.com/loiste-interactive/infra-issues/issues/874))
 * Changed Mark to say "thanks" to the receptionist only after picking up the letter (issue [#878] (https://github.com/loiste-interactive/infra-issues/issues/878))
+* Changed the position of the meeting room silver screen
 * Fixed lipsync for one of the boss's lines in the intro
 * Fixed lipsync for one of Carla's lines in the intro
 * Fixed the boss stopping for a second before proceeding to sit down in the intro
@@ -50,6 +53,7 @@
 * Fixed collision issues at the reception
 * Fixed some timing issues in the intro
 * Fixed a door frame being useable
+* Fixed the kitchen counters having a gap in mesh (issue [#684] (https://github.com/loiste-interactive/infra-issues/issues/684))
 * Fixed the level change breaking if you climb on top of the car at the end of the level (issue [#900] (https://github.com/loiste-interactive/infra-issues/issues/900))
 * Removed an out of place keycard reader from the reception
 
