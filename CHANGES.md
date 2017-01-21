@@ -59,6 +59,7 @@
 * Fixed an issue with the bolt cutter monologue if the player interacts with the door before Mark has finished talking
 * Fixed the train killing the player if they touched it from the sides or from the back
 * Fixed wonky collisions with the train
+* Fixed the signal box retaining use highlights even when it can no longer be used
 * Fixed the "tell me about it" line coming up too soon when looking at the graffiti under the bridge (issue [#870] (https://github.com/loiste-interactive/infra-issues/issues/870))
 
 ## tunnel1
