@@ -4,6 +4,7 @@
 * Added new hairstyles for female NPCs (replaces existing hairstyles)
 * Added more skin colors for generic NPCs
 * Added a death sound for when the player gets crushed
+* Added mouse icons to the options menu
 * Added options menu to the pause menu (issue [#16] (https://github.com/loiste-interactive/infra-issues/issues/16))
 * Changed Amit's face
 * Changed Carla's face
