@@ -159,6 +159,7 @@
 * Added a camera target to the draining pit (issue [#868] (https://github.com/loiste-interactive/infra-issues/issues/868))
 * Changed the pallet jack blocking a gate with a button (issue [#863] (https://github.com/loiste-interactive/infra-issues/issues/863))
 * Fixed mist particles disappearing with certain view angles
+* Fixed an issue with the use selection outlines of a gate unlock button
 * Fixed player getting stuck to the control room railing (issue [#861] (https://github.com/loiste-interactive/infra-issues/issues/861))
 * Fixed certain ladders being finicky to use (issue [#862] (https://github.com/loiste-interactive/infra-issues/issues/862))
 * Fixed certain useable valve being of wrong type (issue [#864] (https://github.com/loiste-interactive/infra-issues/issues/864))
