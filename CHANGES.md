@@ -4,7 +4,7 @@
 * Added new hairstyles for female NPCs (replaces existing hairstyles)
 * Added more skin colors for generic NPCs
 * Added a death sound for when the player gets crushed
-* Added mouse icons for bindings in the options menu
+* Added mouse wheel icons for tutorial key prompts and for the options menu
 * Added options menu to the pause menu (issue [#16] (https://github.com/loiste-interactive/infra-issues/issues/16))
 * Changed Amit's face
 * Changed Carla's face
@@ -12,6 +12,7 @@
 * Changed player default FOV from 90 to 75
 * Changed the maximum FOV from 120 to 100
 * Changed some options menu labels to be simpler and more succinct
+* Changed the mouse bindings in the options menu to use icons instead of text
 * Fixed performance issues with dynamic lights (added occlusion and frustum culling)
 * Fixed missing decals from some levels (increased decal limit)
 * Fixed decals disappearing from the previous level after transitioning to the next one
