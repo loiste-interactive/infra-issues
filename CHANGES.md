@@ -86,6 +86,10 @@
 
 * Fixed issues with the autosaves during the raft ride (issue [#505] (https://github.com/loiste-interactive/infra-issues/issues/505))
 
+## furnace
+
+* Fixed the minitrain reverse not working properly (issue [#810] (https://github.com/loiste-interactive/infra-issues/issues/810))
+
 ## tower
 
 * Added a new autosave to the steel factory office
