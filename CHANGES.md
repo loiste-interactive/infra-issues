@@ -123,6 +123,7 @@
 * Changed the boiler to cool down much quicker (issue [#899] (https://github.com/loiste-interactive/infra-issues/issues/899))
 * Fixed player getting stuck when exiting the maintenance tram
 * Fixed sorting issues with translucent objects in Aziz's Hamburger & Kebab
+* Fixed the player not playing pain sounds when taking damage from the boiler
 * Fixed ivy clipping through one of the MWU roof terrace doors (issue [#755] (https://github.com/loiste-interactive/infra-issues/issues/755))
 * Fixed the public toilet doors having issues with use highlights (issue [#852] (https://github.com/loiste-interactive/infra-issues/issues/852))
 * Fixed the maintenance tram spawning inside the crash barrier (issue [#889] (https://github.com/loiste-interactive/infra-issues/issues/889))
