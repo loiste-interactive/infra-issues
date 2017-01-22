@@ -117,6 +117,8 @@
 
 * Added auto-crouch triggers to the metro closed lines (issue [#887] (https://github.com/loiste-interactive/infra-issues/issues/887))
 * Added a camera target to the burner under maintenance (issue [#897] (https://github.com/loiste-interactive/infra-issues/issues/897))
+* Changed the appearance of the hot surface behind the boilers
+* Changed the boiler not to damage the player at all if it's cooled down enough
 * Changed the right side gate of the maintenance tram to be static (issue [#888] (https://github.com/loiste-interactive/infra-issues/issues/888))
 * Changed the boiler to cool down much quicker (issue [#899] (https://github.com/loiste-interactive/infra-issues/issues/899))
 * Fixed player getting stuck when exiting the maintenance tram
