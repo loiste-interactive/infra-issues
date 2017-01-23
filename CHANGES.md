@@ -1,4 +1,4 @@
-# Upcoming
+# January 23rd 2017 (Version 2.3.0)
 
 * Added new faces for generic NPCs (replaces existing faces)
 * Added new hairstyles for female NPCs (replaces existing hairstyles)
