@@ -1,6 +1,6 @@
-# Upcoming
+# January 23rd 2017 (Version 2.3.1)
 
-* Fixed players losing all of their batteries whenever there's a patch or when they start a new game from a later chapter
+* Fixed players losing all of their batteries whenever there's a patch (from now on) or when they start a new game from a later chapter
 
 # January 23rd 2017 (Version 2.3.0)
 
