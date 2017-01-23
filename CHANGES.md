@@ -169,6 +169,8 @@
 * Changed the floodgate puzzle
 * Changed the flashlight model to static (issue [#849] (https://github.com/loiste-interactive/infra-issues/issues/849))
 * Fixed an issue with the gate puzzle not powering on the button
+* Fixed the minitrain acting strangely on turns
+* Fixed the rail switch near the end of the line not working
 * Removed extra CoPan valves (issue [#844] (https://github.com/loiste-interactive/infra-issues/issues/844))
 
 ## cistern
