@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed options menu option text color when selected while disabled
+* Fixed text color for cycleable options menu options when selected while disabled
 
 # January 23rd 2017 (Version 2.3.1)
 
