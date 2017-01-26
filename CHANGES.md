@@ -6,8 +6,8 @@
 ## watertreatment
 
 * Fixed the "Not so Fresh Water" achievement not triggering
-* Fixed additional issues with the water sampler use highlights & outlines
-* Fixed the water sample analyzer printer sound not playing
+* Fixed additional issues with the water analyzer use highlights & outlines
+* Fixed the water analyzer printer sound not playing
 * Fixed being able to insert the water sample into the analyzer through the lid
 
 # January 23rd 2017 (Version 2.3.1)
