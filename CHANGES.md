@@ -7,6 +7,7 @@
 
 * Fixed the "Not so Fresh Water" achievement not triggering
 * Fixed additional issues with the water sampler use highlights & outlines
+* Fixed the water sample analyzer printer sound not playing
 
 # January 23rd 2017 (Version 2.3.1)
 
