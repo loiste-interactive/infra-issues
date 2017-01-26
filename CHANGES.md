@@ -3,6 +3,11 @@
 * Fixed text color for cycleable options menu options when selected while disabled
 * Fixed the cursor shaking way too much on the phone screen whenever there's screen shake
 
+## watertreatment
+
+* Fixed the "Not so Fresh Water" achievement not triggering
+* Fixed additional issues with the water sampler use highlights & outlines
+
 # January 23rd 2017 (Version 2.3.1)
 
 * Fixed players losing all of their batteries when they load an incompatible saved game (from now on) or when they start a new game from a later chapter (from now on)
