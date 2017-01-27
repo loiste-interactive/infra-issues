@@ -1,6 +1,8 @@
 # Upcoming
 
-* Fixed rowboats having disappeared from certain levels
+## reserve1
+
+* Fixed the rowboat having disappeared
 
 # January 27th 2017 (Version 2.3.2)
 
