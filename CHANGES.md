@@ -1,4 +1,4 @@
-# Upcoming
+# January 27th 2017 (Version 2.3.2)
 
 * Fixed text color for cycleable options menu options when selected while disabled
 * Fixed the cursor shaking way too much on the phone screen whenever there's screen shake
