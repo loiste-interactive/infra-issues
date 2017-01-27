@@ -5,10 +5,12 @@
 
 ## watertreatment
 
+* Changed it to be possible to take a photo of the "contaminated water" report while it's still printing
 * Fixed the "Not so Fresh Water" achievement not triggering
 * Fixed additional issues with the water analyzer use highlights & outlines
 * Fixed the water analyzer printer sound not playing
 * Fixed being able to insert the water sample into the analyzer through the lid
+* Fixed issues with the indicator lights of the water analyzer
 
 # January 23rd 2017 (Version 2.3.1)
 
