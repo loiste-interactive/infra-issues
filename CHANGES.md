@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
+
 ## reserve1
 
 * Fixed the rowboat having disappeared
