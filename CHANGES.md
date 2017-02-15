@@ -23,7 +23,7 @@
 
 # January 23rd 2017 (Version 2.3.1)
 
-* Fixed players losing all of their batteries when they load an incompatible saved game (from now on) or when they start a new game from a later chapter (from now on)
+* Fixed players losing all of their batteries (from now on) when they load an incompatible saved game or when they start a new game from a later chapter
 
 # January 23rd 2017 (Version 2.3.0)
 
