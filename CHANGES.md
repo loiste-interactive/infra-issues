@@ -2,6 +2,7 @@
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
 * Fixed the phone foley sound cutting out the disconnect tone in some phone calls
+* Fixed rendering issues with the lab glassware models
 * Fixed the game freezing on some systems when taking a picture (issue [#924] (https://github.com/loiste-interactive/infra-issues/issues/924))
 
 ## reserve1
