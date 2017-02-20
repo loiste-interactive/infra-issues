@@ -1,4 +1,4 @@
-# Upcoming
+# February 20th 2017 (Version 2.3.3)
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
 * Fixed the phone foley sound cutting out the disconnect tone in some phone calls
