@@ -1,3 +1,7 @@
+# Upcoming
+
+* Fixed the "interact" hint in some cases appearing for things you couldn't interact with
+
 # February 20th 2017 (Version 2.3.3)
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
