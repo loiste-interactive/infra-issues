@@ -1,11 +1,12 @@
 # Upcoming
 
+* Added fades for the use highlights when entities become useable/unuseable
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
 
 ## tunnel1
 
-* Added Pipe room sign
-* Added Pipe room to map
+* Added a sign for the pipe room
+* Added the pipe room to the map
 
 # February 20th 2017 (Version 2.3.3)
 
