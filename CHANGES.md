@@ -8,6 +8,10 @@
 * Added a sign for the pipe room
 * Added the pipe room to the map
 
+## central
+
+* Fixed a certain metro line map having a wrong texture
+
 # February 20th 2017 (Version 2.3.3)
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
