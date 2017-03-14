@@ -1,6 +1,5 @@
 This is the public issue tracker for [INFRA](http://infragame.net). You can
-**[submit your feedback and bug reports here]
-(https://github.com/loiste-interactive/infra-issues/issues)**. If you have any
+**[submit your feedback and bug reports here](https://github.com/loiste-interactive/infra-issues/issues)**. If you have any
 questions, those can be submitted the same way. Patch notes can be found [here](CHANGES.md).
 
 * If it's a bug:
