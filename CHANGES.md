@@ -9,6 +9,10 @@
 * Added a sign for the pipe room
 * Added the pipe room to the map
 
+## watertreatment
+
+* Fixed an issue with a certain drawer where you could close it and then interact with the notepad inside and the camera would clip inside the drawer
+
 ## central
 
 * Fixed a certain metro line map having a wrong texture
