@@ -8,10 +8,15 @@
 
 * Added a sign for the pipe room
 * Added the pipe room to the map
+* Fixed a small visual issue with the water refractions of a leaking pipe
 
 ## watertreatment
 
 * Fixed an issue with a certain drawer where you could close it and then interact with the notepad inside and the camera would clip inside the drawer
+
+## waterplant
+
+* Fixed a visual issue with the water refractions of the leaking pipes at the start of the level
 
 ## central
 
