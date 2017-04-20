@@ -3,6 +3,7 @@
 * Added fades for use highlights when objects become useable/unuseable
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
+* Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera
 
 ## tunnel1
 
