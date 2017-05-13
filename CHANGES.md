@@ -14,7 +14,7 @@
 
 ## furnace
 
-* Fixed an issue where the player could get stuck in an invisible piece of geometry moving with the ladle as it's being lowered (issue [#955](https://github.com/loiste-interactive/infra-issues/issues/694))
+* Fixed an issue where the player could get stuck in an invisible piece of geometry moving with the ladle as it's being lowered (issue [#955](https://github.com/loiste-interactive/infra-issues/issues/955))
 
 ## watertreatment
 
