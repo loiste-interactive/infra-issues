@@ -2,7 +2,8 @@
 
 * Added fades for use highlights when objects become useable/unuseable
 * Added a new death sound for when the player gets sliced up by moving machinery
-* Added new water impact sounds
+* Changed and added water impact sounds
+* Changed water impact particles
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
