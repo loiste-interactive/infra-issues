@@ -34,6 +34,11 @@
 
 * Fixed the chapter title being displayed again after returning with the elevator
 
+## skyscraper
+
+* Fixed the player being able to stand on top of the removable vent cover
+* Fixed the elevator door having use selection outlines while it's unusable during the elevator ride
+
 # February 20th 2017 (Version 2.3.3)
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
