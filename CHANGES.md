@@ -32,7 +32,6 @@
 
 ## servicetunnel
 
-* Changed the chapter title to be displayed after climbing up the ladder at the start of the level
 * Fixed the chapter title being displayed again after returning with the elevator
 
 # February 20th 2017 (Version 2.3.3)
