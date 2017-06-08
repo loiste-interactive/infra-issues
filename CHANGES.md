@@ -1,7 +1,7 @@
 # Upcoming
 
 * Added fades for use highlights when objects become useable/unuseable
-* Added a new death sound for when the player gets sliced up by moving machinery
+* Added a new death sound for when the player gets sliced up by a large metal fan
 * Changed (and added new) water impact sounds for physics objects
 * Changed the water impact particles for physics objects
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
