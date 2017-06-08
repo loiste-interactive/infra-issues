@@ -38,6 +38,7 @@
 
 * Fixed the player being able to stand on top of the removable vent cover
 * Fixed the elevator door having use selection outlines while it's unusable during the elevator ride
+* Fixed shadow flickering issues with Walter's tape
 
 # February 20th 2017 (Version 2.3.3)
 
