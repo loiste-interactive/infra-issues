@@ -37,8 +37,9 @@
 ## skyscraper
 
 * Fixed the player being able to stand on top of the removable vent cover
-* Fixed the elevator door having use selection outlines while it's unusable during the elevator ride
-* Fixed shadow flickering issues with the contents of the videotape
+* Fixed the elevator door having use selection outlines during the elevator ride
+* Fixed an issue where it was possible to open the elevator door just before the level change, causing it to behave oddly after the level change
+* Fixed lighting/shadow issues with the contents of the videotape
 
 # February 20th 2017 (Version 2.3.3)
 
