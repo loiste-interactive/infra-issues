@@ -41,6 +41,10 @@
 * Fixed an issue where it was possible to open the elevator door just before the level change, causing it to behave oddly after the level change
 * Fixed lighting/shadow issues with the contents of the videotape
 
+## bunker
+
+* Fixed the player view lagging slightly behind the crane while it's moving
+
 # February 20th 2017 (Version 2.3.3)
 
 * Fixed the game requiring Steam to be running in order to play (this also resolves an issue where some users would be unable to play the game even if Steam *was* running)
