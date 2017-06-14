@@ -13,6 +13,7 @@
 * Added a sign for the pipe room
 * Added the pipe room to the map
 * Fixed a small visual issue with the water refractions of a leaking pipe
+* Fixed areaportal issue (issue [#946](https://github.com/loiste-interactive/infra-issues/issues/946))
 
 ## furnace
 
@@ -25,6 +26,10 @@
 ## waterplant
 
 * Fixed a visual issue with the water refractions of the leaking pipes at the start of the level
+
+## Minitrain
+
+* Fixed autosave death loop (issue [#959](https://github.com/loiste-interactive/infra-issues/issues/959))
 
 ## central
 
