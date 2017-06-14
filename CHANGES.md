@@ -17,6 +17,7 @@
 
 ## furnace
 
+* Fixed the chapter title being displayed again if you go back to the previous level and then come back
 * Fixed an issue where the player could get stuck in an invisible piece of geometry moving with the ladle as it's being lowered (issue [#955](https://github.com/loiste-interactive/infra-issues/issues/955))
 
 ## watertreatment
@@ -27,7 +28,7 @@
 
 * Fixed a visual issue with the water refractions of the leaking pipes at the start of the level
 
-## Minitrain
+## minitrain
 
 * Fixed autosave death loop (issue [#959](https://github.com/loiste-interactive/infra-issues/issues/959))
 
