@@ -26,7 +26,7 @@
 
 ## waterplant
 
-* Added foley sounds (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
+* Added foley sounds to keycard readers (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
 * Fixed a visual issue with the water refractions of the leaking pipes at the start of the level
 * Fixed player being able to get stuck in the raw water pool (issue [#942](https://github.com/loiste-interactive/infra-issues/issues/942))
 * Fixed keys being difficult to pick up (issue [#945](https://github.com/loiste-interactive/infra-issues/issues/945))
