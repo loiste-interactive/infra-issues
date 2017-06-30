@@ -16,6 +16,11 @@
 * Fixed a small visual issue with the water refractions of a leaking pipe
 * Fixed areaportal issue (issue [#946](https://github.com/loiste-interactive/infra-issues/issues/946))
 
+## tunnel3
+
+* Fixed hand lighting bug (issue [#779](https://github.com/loiste-interactive/infra-issues/issues/779))
+* Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
+
 ## tunnel4
 
 * Added camera target types
