@@ -20,6 +20,7 @@
 * Added camera target types
 * Added camera target to electric water
 * Added separate camera target to other side of collapsed tunnel (issue [#950](https://github.com/loiste-interactive/infra-issues/issues/950))
+* Fixed dynamite tunnel rock (issue [#779](https://github.com/loiste-interactive/infra-issues/issues/779))
 * Fixed being able to get stuck on the pipe (issue [#906](https://github.com/loiste-interactive/infra-issues/issues/906))
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
 * Fixed stairway light (issue [#936](https://github.com/loiste-interactive/infra-issues/issues/936))
