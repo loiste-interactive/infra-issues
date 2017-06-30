@@ -17,6 +17,7 @@
 
 ## tunnel3
 
+* Added animation and fade in at the beginning if transitioning from infra_ee_hallway (issue [#506](https://github.com/loiste-interactive/infra-issues/issues/506))
 * Fixed hand lighting bug (issue [#779](https://github.com/loiste-interactive/infra-issues/issues/779))
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
 
