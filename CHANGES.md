@@ -21,6 +21,7 @@
 * Added camera target to electric water
 * Added separate camera target to other side of collapsed tunnel (issue [#950](https://github.com/loiste-interactive/infra-issues/issues/950))
 * Fixed areaportal issue (issue [#946](https://github.com/loiste-interactive/infra-issues/issues/946))
+* Fixed areaportal issue (issue [#949](https://github.com/loiste-interactive/infra-issues/issues/949))
 * Fixed being able take a picture of document through window (issue [#951](https://github.com/loiste-interactive/infra-issues/issues/951))
 * Fixed collision issues in the old collapsed tunnel (issue [#952](https://github.com/loiste-interactive/infra-issues/issues/952))
 * Fixed water sound playing when starting a new game from furnace and then coming back to this level (issue [#960](https://github.com/loiste-interactive/infra-issues/issues/960))
