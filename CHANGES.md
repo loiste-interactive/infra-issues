@@ -12,6 +12,7 @@
 
 * Added camera target types
 * Added synchroscope lights (issue [#673](https://github.com/loiste-interactive/infra-issues/issues/673))
+* Added more playerclips to sawmill roof (issue [#901](https://github.com/loiste-interactive/infra-issues/issues/901))
 * Fixed too bright geocache
 * Fixed beer crates climb issue
 * Fixed misaligned water texture
