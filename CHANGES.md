@@ -12,6 +12,7 @@
 
 * Added camera target types
 * Fixed too bright geocache
+* Fixed beer crates climb issue
 * Fixed misaligned water texture
 * Fixed misaligned wall texture (issue [#662](https://github.com/loiste-interactive/infra-issues/issues/662))
 * Fixed clipping bucket (issue [#866](https://github.com/loiste-interactive/infra-issues/issues/866))
