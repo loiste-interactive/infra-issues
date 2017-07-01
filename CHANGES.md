@@ -19,6 +19,7 @@
 
 * Added camera target types
 * Added foley sounds to keycard readers (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
+* Fixed the books in the office
 * Fixed disappearing wires (issue [#633](https://github.com/loiste-interactive/infra-issues/issues/633))
 * Changed the red pipe to blue (issue [#638](https://github.com/loiste-interactive/infra-issues/issues/638))
 * Fixed disappearing wires (issue [#635](https://github.com/loiste-interactive/infra-issues/issues/635))
