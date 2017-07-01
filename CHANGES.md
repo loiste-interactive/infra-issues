@@ -8,6 +8,11 @@
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
 
+## reserve1
+
+* Added camera target types
+* Fixed super bright cave rocks (issue [#963](https://github.com/loiste-interactive/infra-issues/issues/963))
+
 ## reserve2
 
 * Added camera target types
