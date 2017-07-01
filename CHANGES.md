@@ -8,6 +8,13 @@
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
 
+## reserve2
+
+* Fixed too bright geocache
+* Fixed misaligned water texture
+* Fixed misaligned wall texture (issue [#662](https://github.com/loiste-interactive/infra-issues/issues/662))
+* Fixed clipping bucket (issue [#866](https://github.com/loiste-interactive/infra-issues/issues/866))
+
 ## reserve3
 
 * Fixed cable lighting issue (issue [#665](https://github.com/loiste-interactive/infra-issues/issues/665))
