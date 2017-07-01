@@ -19,10 +19,11 @@
 
 * Added camera target types
 * Added foley sounds to keycard readers (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
-* Changed pipe lights to be functional (issue [#634](https://github.com/loiste-interactive/infra-issues/issues/634))
+* Fixed disappearing wires (issue [#633](https://github.com/loiste-interactive/infra-issues/issues/633))
 * Changed the red pipe to blue (issue [#638](https://github.com/loiste-interactive/infra-issues/issues/638))
 * Fixed disappearing wires (issue [#635](https://github.com/loiste-interactive/infra-issues/issues/635))
 * Removed green wires (issue [#632(https://github.com/loiste-interactive/infra-issues/issues/632))
+* Removed the boxes around the red pipe (issue [#634](https://github.com/loiste-interactive/infra-issues/issues/634))
 * Removed door handle collision (issue [#902](https://github.com/loiste-interactive/infra-issues/issues/902))
 
 ## tunnel3
