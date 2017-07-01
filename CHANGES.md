@@ -11,6 +11,7 @@
 ## reserve2
 
 * Added camera target types
+* Added synchroscope lights (issue [#673](https://github.com/loiste-interactive/infra-issues/issues/673))
 * Fixed too bright geocache
 * Fixed beer crates climb issue
 * Fixed misaligned water texture
