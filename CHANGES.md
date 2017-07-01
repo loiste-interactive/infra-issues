@@ -13,6 +13,7 @@
 * Added a sign for the pipe room
 * Added the pipe room to the map
 * Fixed a small visual issue with the water refractions of a leaking pipe
+* Fixed note spelling mistake (issue [#464](https://github.com/loiste-interactive/infra-issues/issues/464))
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
 * Fixed areaportal issue (issue [#946](https://github.com/loiste-interactive/infra-issues/issues/946))
 * Fixed pipe lights being lit up on the panel when power is off (issue [#958](https://github.com/loiste-interactive/infra-issues/issues/958))
