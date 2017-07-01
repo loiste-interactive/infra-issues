@@ -15,8 +15,17 @@
 * Fixed a small visual issue with the water refractions of a leaking pipe
 * Fixed areaportal issue (issue [#946](https://github.com/loiste-interactive/infra-issues/issues/946))
 
+## tunnel2
+
+* Added camera target types
+* Added foley sounds to keycard readers (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
+* Changed pipe lights to be functional (issue [#634](https://github.com/loiste-interactive/infra-issues/issues/634))
+* Fixed disappearing wires (issue [#635](https://github.com/loiste-interactive/infra-issues/issues/635))
+* Removed door handle collision (issue [#902](https://github.com/loiste-interactive/infra-issues/issues/902))
+
 ## tunnel3
 
+* Added camera target types
 * Added animation and fade in at the beginning if transitioning from infra_ee_hallway (issue [#506](https://github.com/loiste-interactive/infra-issues/issues/506))
 * Fixed hand lighting bug (issue [#779](https://github.com/loiste-interactive/infra-issues/issues/779))
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
