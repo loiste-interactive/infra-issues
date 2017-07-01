@@ -10,6 +10,7 @@
 
 ## reserve2
 
+* Added camera target types
 * Fixed too bright geocache
 * Fixed misaligned water texture
 * Fixed misaligned wall texture (issue [#662](https://github.com/loiste-interactive/infra-issues/issues/662))
