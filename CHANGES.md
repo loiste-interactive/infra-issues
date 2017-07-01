@@ -10,6 +10,7 @@
 
 ## tunnel1
 
+* Added camera target types
 * Added a sign for the pipe room
 * Added the pipe room to the map
 * Fixed a small visual issue with the water refractions of a leaking pipe
