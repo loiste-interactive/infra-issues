@@ -8,6 +8,10 @@
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
 
+## reserve3
+
+* Fixed cable lighting issue (issue [#665](https://github.com/loiste-interactive/infra-issues/issues/665))
+
 ## tunnel1
 
 * Added camera target types
