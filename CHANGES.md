@@ -15,6 +15,7 @@
 * Fixed not being able to take a picture of the broken generator from upstairs (issue [#937](https://github.com/loiste-interactive/infra-issues/issues/937))
 * Fixed super bright cave rocks (issue [#963](https://github.com/loiste-interactive/infra-issues/issues/963))
 * Removed TV (issue [#721](https://github.com/loiste-interactive/infra-issues/issues/721))
+* Removed some clutter from the beginning of the map (issue [#938](https://github.com/loiste-interactive/infra-issues/issues/938))
 
 ## reserve2
 
