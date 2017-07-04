@@ -4,6 +4,7 @@
 * Added a new death sound for when the player gets sliced up by a large metal fan
 * Changed (and added new) water impact sounds for physics objects
 * Changed the water impact particles for physics objects
+* Changed saved games to be shared between Steam accounts
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
