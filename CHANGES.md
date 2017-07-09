@@ -12,6 +12,7 @@
 
 ## office
 
+* Added a new line for Mark in the conversation with the receptionist
 * Fixed a bug with Steve's animations if Mark leaves the meeting early
 
 ## reserve1
