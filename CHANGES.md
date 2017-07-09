@@ -93,6 +93,10 @@
 
 * Fixed an issue with a certain drawer where you could close it and then interact with the notepad inside and the camera would clip inside the drawer
 
+## sewer
+
+* Changed the crane camera resolution to be higher
+
 ## waterplant
 
 * Added foley sounds to keycard readers (issue [#805](https://github.com/loiste-interactive/infra-issues/issues/805))
@@ -114,6 +118,7 @@
 
 ## skyscraper
 
+* Changed the TV screen effect and increased the resolution of the camera
 * Fixed the player being able to stand on top of the removable vent cover
 * Fixed the elevator door having use selection outlines during the elevator ride
 * Fixed an issue where it was possible to open the elevator door just before the level change, causing it to behave oddly after the level change
