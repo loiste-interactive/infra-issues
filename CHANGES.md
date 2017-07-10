@@ -123,6 +123,7 @@
 * Fixed the elevator door having use selection outlines during the elevator ride
 * Fixed an issue where it was possible to open the elevator door just before the level change, causing it to behave oddly after the level change
 * Fixed lighting/shadow issues with the contents of the videotape
+* Fixed the TV screen displaying the crane camera from infra_c5_m2_sewer if you played all the way here in one sitting
 
 ## bunker
 
