@@ -133,6 +133,7 @@
 ## powerstation
 
 * Fixed being able to put the fuse flying above the serwer ladder
+* Fixed weird lightning on the gate
 
 # February 20th 2017 (Version 2.3.3)
 
