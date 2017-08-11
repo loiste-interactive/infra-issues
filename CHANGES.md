@@ -130,6 +130,12 @@
 
 * Fixed the player view lagging slightly behind the crane while it's moving
 
+## cistern
+
+* Added camera target types
+* Added a camera target for a certain broken button
+* Fixed the player being able to bypass the climbing down platforming section in the cistern
+
 ## powerstation
 
 * Fixed being able to put the fuse flying above the serwer ladder
