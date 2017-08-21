@@ -5,6 +5,8 @@
 * Changed (and added new) water impact sounds for physics objects
 * Changed the water impact particles for physics objects
 * Changed saved games to be shared between Steam accounts
+* Changed wording of "last autosave" to "latest autosave" to reduce confusion
+* Changed wording of "previous autosave" to "older autosave" to reduce confusion
 * Fixed an issue where saved games would disappear in some cases due to Steam losing connectivity
 * Fixed the "interact" hint in some cases appearing for things you couldn't interact with
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
