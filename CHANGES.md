@@ -136,6 +136,10 @@
 
 * Fixed the player view lagging slightly behind the crane while it's moving
 
+## stormdrain
+
+* Fixed performance issues related to the amount of physics props (issue [#921](https://github.com/loiste-interactive/infra-issues/issues/921))
+
 ## cistern
 
 * Added camera target types
