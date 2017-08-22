@@ -12,6 +12,7 @@
 * Fixed the game preferring integrated graphics over discrete graphics on some hybrid graphics systems
 * Fixed a security issue reported by One Up Security
 * Fixed the camera screen focus getting "stuck" if looking at a camera target and then looking away while reloading the camera (issue [#694](https://github.com/loiste-interactive/infra-issues/issues/694))
+* Fixed camera screen focus directly after loading a saved game (issue [#948](https://github.com/loiste-interactive/infra-issues/issues/948))
 
 ## office
 
