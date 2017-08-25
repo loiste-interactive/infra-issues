@@ -19,6 +19,8 @@
 ## office
 
 * Added a new line for Mark in the conversation with the receptionist
+* Changed some of Boss' lines to make the ending of the meeting less abrupt
+* Changed Boss' lines to guide the player upstairs
 * Fixed a bug with Steve's animations if Mark leaves the meeting early
 * Fixed Steve using random faces instead of his custom face
 
