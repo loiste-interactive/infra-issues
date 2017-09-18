@@ -23,6 +23,7 @@
 * Changed Boss' lines to guide the player upstairs
 * Fixed a bug with Steve's animations if Mark leaves the meeting early
 * Fixed Steve using random faces instead of his custom face
+* Removed ugly shadows from intro meeting room
 
 ## reserve1
 
