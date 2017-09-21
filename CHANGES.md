@@ -24,6 +24,7 @@
 * Fixed a bug with Steve's animations if Mark leaves the meeting early
 * Fixed Steve using random faces instead of his custom face
 * Removed ugly shadows from intro meeting room
+* Removed Mark's nag about getting his stuff from his office if the player doesn't immediately do it
 
 ## reserve1
 
