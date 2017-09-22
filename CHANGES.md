@@ -29,6 +29,7 @@
 ## reserve1
 
 * Added camera target types
+* Changed water particles to look better
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
 * Fixed not being able to take a picture of the broken generator from upstairs (issue [#937](https://github.com/loiste-interactive/infra-issues/issues/937))
 * Fixed super bright cave rocks (issue [#963](https://github.com/loiste-interactive/infra-issues/issues/963))
