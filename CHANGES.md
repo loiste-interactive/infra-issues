@@ -59,6 +59,7 @@
 * Added camera target types
 * Added a sign for the pipe room
 * Added the pipe room to the map
+* Changed textures for some of the notes
 * Fixed a small visual issue with the water refractions of a leaking pipe
 * Fixed note spelling mistake (issue [#464](https://github.com/loiste-interactive/infra-issues/issues/464))
 * Fixed water flow monitor sound issues (issue [#930](https://github.com/loiste-interactive/infra-issues/issues/930))
