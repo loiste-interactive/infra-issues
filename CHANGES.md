@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added INFRA: Part 3 levels
 * Added fades for use highlights when objects become useable/unuseable
 * Added a new death sound for when the player gets sliced up by a large metal fan
 * Added detection for player death loops – will load an another save if possible (issue [#804](https://github.com/loiste-interactive/infra-issues/issues/804))
