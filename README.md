@@ -48,3 +48,18 @@ Thanks!
 | <img src="http://i.imgur.com/LITP15l.jpg" height=150> | `stormdrain`    | 7       | Working Overtime               |
 | <img src="http://i.imgur.com/pHEYdao.jpg" height=150> | `cistern`    | 7       | Working Overtime               |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `powerstation`    | 7       | Working Overtime               |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `powerstation2`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `isle1`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `isle2`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `isle3`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `business1`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `business2`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `officeblackout`    | 8       | Late for a Meeting              |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `rails`    | 9       | To Save a City             |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `tenements`    | 9       | To Save a City             |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `river`    | 9       | To Save a City             |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `villa`    | 9       | To Save a City             |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `fields`    | 9       | To Save a City             |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `NPP`    | 10       | Redemption         |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `reactor`    | 10       | Redemption         |
+| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `roof`    | 10       | Redemption         |
