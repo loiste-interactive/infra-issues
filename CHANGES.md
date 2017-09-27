@@ -1,6 +1,6 @@
 # September 27th 2017 (Version 3.0.1)
 
-* Fixed Mark not commenting about batteries anymore after the last map of INFRA: Part 2
+* Fixed Mark not commenting about batteries anymore after the last level of INFRA: Part 2
 * Fixed chapter titles not being displayed on level start
 
 # September 27th 2017 (Version 3.0.0)
