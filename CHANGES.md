@@ -1,4 +1,4 @@
-# INFRA: Complete Edition (3.0.0)
+# INFRA: Complete Edition (Version 3.0.0)
 
 * Added INFRA: Part 3 levels
 * Added fades for use highlights when objects become useable/unuseable
