@@ -2,7 +2,7 @@
 
 ## tenements
 
-* Fixed the elevator not working when starting the level
+* Fixed the elevator door being locked
 
 ## ending_2
 
