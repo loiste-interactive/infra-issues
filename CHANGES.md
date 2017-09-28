@@ -12,7 +12,7 @@
 * Fixed being unable to give Passmore money even if you had some on you
 * Fixed the elevator door becoming locked if pressing the elevator call button when the elevator is already on that floor (issue [#984](https://github.com/loiste-interactive/infra-issues/issues/984))
 
-## NPP
+## npp
 
 * Fixed the crane cable doesn't visually disconnect (issue [#995](https://github.com/loiste-interactive/infra-issues/issues/995))
 
