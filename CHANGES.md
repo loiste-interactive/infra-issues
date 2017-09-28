@@ -1,4 +1,4 @@
-# In the next update
+# September 28th 2017 (Version 3.0.2)
 
 * Fixed in-game television screens on resolutions smaller than 1920x1080 (issue [#978](https://github.com/loiste-interactive/infra-issues/issues/978))
 * Fixed some missing language tokens (issue [#980](https://github.com/loiste-interactive/infra-issues/issues/980))
