@@ -1,3 +1,9 @@
+# In the next update
+
+## tenements
+
+* Fixed the elevator not working when starting the level
+
 # September 27th 2017 (Version 3.0.1)
 
 * Fixed Mark not commenting about batteries anymore after the last level of INFRA: Part 2
