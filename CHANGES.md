@@ -11,6 +11,10 @@
 
 * Fixed the elevator door becoming locked if pressing the elevator call button when the elevator is already on that floor (issue [#984](https://github.com/loiste-interactive/infra-issues/issues/984))
 
+## NPP
+
+* Fixed the crane cable doesn't visually disconnect (issue [#995](https://github.com/loiste-interactive/infra-issues/issues/995))
+
 ## ending_2
 
 * Fixed wrong newspaper on the table under certain conditions
