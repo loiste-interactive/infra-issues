@@ -1,9 +1,5 @@
 # In the next update
 
-## tenements
-
-* Fixed the elevator door being locked
-
 ## ending_2
 
 * Fixed wrong newspaper on the table under certain conditions
