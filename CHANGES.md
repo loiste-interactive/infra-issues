@@ -3,6 +3,10 @@
 * Fixed in-game television screens on resolutions smaller than 1920x1080 (issue [#978](https://github.com/loiste-interactive/infra-issues/issues/978))
 * Fixed some missing language tokens (issue [#980](https://github.com/loiste-interactive/infra-issues/issues/978))
 
+## isle2
+
+* Fixed the game freezing when flushing the toilet in the castle
+
 ## ending_2
 
 * Fixed wrong newspaper on the table under certain conditions
