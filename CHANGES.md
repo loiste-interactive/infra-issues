@@ -6,6 +6,10 @@
 
 * Fixed wrong newspaper on the table under certain conditions
 
+## ending_3
+
+* Fixed the "Party Like It's 2011" achievement not triggering
+
 # September 27th 2017 (Version 3.0.1)
 
 * Fixed Mark not commenting about batteries anymore after the last level of INFRA: Part 2
