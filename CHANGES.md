@@ -1,6 +1,7 @@
 # In the next update
 
 * Fixed in-game television screens on resolutions smaller than 1920x1080 (issue [#978](https://github.com/loiste-interactive/infra-issues/issues/978))
+* Fixed some missing language tokens (issue [#980](https://github.com/loiste-interactive/infra-issues/issues/978))
 
 ## ending_2
 
