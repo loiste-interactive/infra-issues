@@ -4,6 +4,10 @@
 
 * Fixed the elevator not working when starting the level
 
+## ending_2
+
+* Fixed wrong newspaper on the table under certain conditions
+
 # September 27th 2017 (Version 3.0.1)
 
 * Fixed Mark not commenting about batteries anymore after the last level of INFRA: Part 2
