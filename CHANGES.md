@@ -5,7 +5,7 @@
 
 ## isle2
 
-* Fixed the game freezing when flushing the toilet in the castle
+* Fixed the game freezing when flushing the toilet in the castle (issue [#976](https://github.com/loiste-interactive/infra-issues/issues/976))
 
 ## tenements
 
