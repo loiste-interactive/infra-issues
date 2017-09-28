@@ -1,3 +1,12 @@
+# In the next update
+
+## isle
+
+* Added sparks to the box elevator when used once broken down (issue [#982](https://github.com/loiste-interactive/infra-issues/issues/982))
+* Changed the fog settings
+* Changed a certain document to be unusable (issue [#972](https://github.com/loiste-interactive/infra-issues/issues/972))
+* Fixed the box elevator indicator light workign even when the power is off (issue [#981](https://github.com/loiste-interactive/infra-issues/issues/981))
+
 # September 28th 2017 (Version 3.0.2)
 
 * Fixed in-game television screens on resolutions smaller than 1920x1080 (issue [#978](https://github.com/loiste-interactive/infra-issues/issues/978))
