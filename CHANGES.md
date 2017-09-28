@@ -1,5 +1,7 @@
 # In the next update
 
+* Fixed in-game television screens on resolutions smaller than 1920x1080
+
 ## ending_2
 
 * Fixed wrong newspaper on the table under certain conditions
