@@ -50,7 +50,7 @@ Thanks!
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `powerstation`    | 7       | Working Overtime               |
 | <img src="https://i.imgur.com/aTTzuww.jpg" height=150> | `powerstation2`    | 8       | Late for a Meeting              |
 | <img src="https://i.imgur.com/onHUIEY.jpg" height=150> | `isle1`    | 8       | Late for a Meeting              |
-| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `isle2`    | 8       | Late for a Meeting              |
+| <img src="https://i.imgur.com/bWWIpqP.jpg" height=150> | `isle2`    | 8       | Late for a Meeting              |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `isle3`    | 8       | Late for a Meeting              |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `business1`    | 8       | Late for a Meeting              |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `business2`    | 8       | Late for a Meeting              |
