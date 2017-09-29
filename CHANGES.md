@@ -1,3 +1,9 @@
+# Upcoming
+
+## business
+
+* Fixed issues with the mushroom tea (issue [#1008](https://github.com/loiste-interactive/infra-issues/issues/1008) and [#1009](https://github.com/loiste-interactive/infra-issues/issues/1009))
+
 # September 29th 2017 (Version 3.0.3)
 
 * Fixed a possible crash issue
