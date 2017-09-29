@@ -9,6 +9,12 @@
 * Changed a certain document to be unusable (issue [#972](https://github.com/loiste-interactive/infra-issues/issues/972))
 * Fixed the box elevator indicator light workign even when the power is off (issue [#981](https://github.com/loiste-interactive/infra-issues/issues/981))
 
+## tenements
+
+* Fixed the valid passport having wrong skin
+* Fixed the valid passport not visible in ticket machine (issue [#996](https://github.com/loiste-interactive/infra-issues/issues/996))
+* Fixed being able to pick up passport even without buying it (issue [#997](https://github.com/loiste-interactive/infra-issues/issues/997))
+
 ## reactor
 
 * Fixed the synchroscope puzzle breaking if you go back to the previous level (issue [#990](https://github.com/loiste-interactive/infra-issues/issues/990))
