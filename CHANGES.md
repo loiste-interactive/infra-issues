@@ -1,5 +1,7 @@
 # In the next update
 
+* Fixed a possible crash issue
+
 ## isle1
 
 * Added sparks to the box elevator when used once broken down (issue [#982](https://github.com/loiste-interactive/infra-issues/issues/982))
