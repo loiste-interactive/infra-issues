@@ -12,7 +12,7 @@
 ## tenements
 
 * Fixed the valid passport having wrong skin
-* Fixed the valid passport not visible in ticket machine (issue [#996](https://github.com/loiste-interactive/infra-issues/issues/996))
+* Fixed the valid passport not being visible in ticket machine (issue [#996](https://github.com/loiste-interactive/infra-issues/issues/996))
 * Fixed being able to pick up passport even without buying it (issue [#997](https://github.com/loiste-interactive/infra-issues/issues/997))
 
 ## npp
@@ -40,7 +40,7 @@
 
 ## npp
 
-* Fixed the crane cable doesn't visually disconnect (issue [#995](https://github.com/loiste-interactive/infra-issues/issues/995))
+* Fixed the crane power cable not visually disconnecting when driving the crane to far left (issue [#995](https://github.com/loiste-interactive/infra-issues/issues/995))
 
 ## ending_2
 
