@@ -7,7 +7,7 @@
 * Added sparks to the box elevator when used once broken down (issue [#982](https://github.com/loiste-interactive/infra-issues/issues/982))
 * Changed the fog settings
 * Changed a certain document to be unusable (issue [#972](https://github.com/loiste-interactive/infra-issues/issues/972))
-* Fixed the box elevator indicator light workign even when the power is off (issue [#981](https://github.com/loiste-interactive/infra-issues/issues/981))
+* Fixed the box elevator indicator light working even when the power is off (issue [#981](https://github.com/loiste-interactive/infra-issues/issues/981))
 
 ## tenements
 
