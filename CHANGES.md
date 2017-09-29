@@ -15,6 +15,10 @@
 * Fixed the valid passport not visible in ticket machine (issue [#996](https://github.com/loiste-interactive/infra-issues/issues/996))
 * Fixed being able to pick up passport even without buying it (issue [#997](https://github.com/loiste-interactive/infra-issues/issues/997))
 
+## npp
+
+* Fixed the chapter title being displayed again if you go to the next level and then come back (issue [#985](https://github.com/loiste-interactive/infra-issues/issues/985))
+
 ## reactor
 
 * Fixed the synchroscope puzzle breaking if you go back to the previous level (issue [#990](https://github.com/loiste-interactive/infra-issues/issues/990))
