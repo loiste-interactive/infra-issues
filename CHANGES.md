@@ -7,6 +7,10 @@
 * Changed a certain document to be unusable (issue [#972](https://github.com/loiste-interactive/infra-issues/issues/972))
 * Fixed the box elevator indicator light workign even when the power is off (issue [#981](https://github.com/loiste-interactive/infra-issues/issues/981))
 
+## reactor
+
+* Fixed the synchroscope puzzle breaking if you go back to the previous level (issue [#990](https://github.com/loiste-interactive/infra-issues/issues/990))
+
 # September 28th 2017 (Version 3.0.2)
 
 * Fixed in-game television screens on resolutions smaller than 1920x1080 (issue [#978](https://github.com/loiste-interactive/infra-issues/issues/978))
