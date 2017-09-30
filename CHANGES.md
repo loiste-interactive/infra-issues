@@ -1,6 +1,6 @@
 # September 30th 2017 (Version 3.0.4)
 
-* Fixed a possible crash issue (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011)
+* Fixed a possible crash issue (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011))
 
 ## business
 
