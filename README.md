@@ -53,7 +53,7 @@ Thanks!
 | <img src="https://i.imgur.com/bWWIpqP.jpg" height=150> | `isle2`    | 8       | Late for a Meeting              |
 | <img src="https://i.imgur.com/7FlS8bN.jpg" height=150> | `isle3`    | 8       | Late for a Meeting              |
 | <img src="https://i.imgur.com/mw42SHJ.jpg" height=150> | `business1`    | 8       | Late for a Meeting              |
-| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `business2`    | 8       | Late for a Meeting              |
+| <img src="https://i.imgur.com/eYHhttU.jpg" height=150> | `business2`    | 8       | Late for a Meeting              |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `officeblackout`    | 8       | Late for a Meeting              |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `rails`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `tenements`    | 9       | To Save a City             |
