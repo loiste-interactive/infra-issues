@@ -1,4 +1,4 @@
-# Upcoming
+# September 30th 2017 (Version 3.0.4)
 
 * Fixed a possible crash issue
 
