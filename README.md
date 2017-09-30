@@ -58,7 +58,7 @@ Thanks!
 | <img src="https://i.imgur.com/R0XHnCN.jpg" height=150> | `rails`    | 9       | To Save a City             |
 | <img src="https://i.imgur.com/D415TOn.jpg" height=150> | `tenements`    | 9       | To Save a City             |
 | <img src="https://i.imgur.com/f9VCOBp.jpg" height=150> | `river`    | 9       | To Save a City             |
-| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `villa`    | 9       | To Save a City             |
+| <img src="https://i.imgur.com/yAt99Vu.jpg" height=150> | `villa`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `fields`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `NPP`    | 10       | Redemption         |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `reactor`    | 10       | Redemption         |
