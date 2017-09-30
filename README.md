@@ -55,7 +55,7 @@ Thanks!
 | <img src="https://i.imgur.com/2uWRvR0.jpg" height=150> | `business1`    | 8       | Late for a Meeting              |
 | <img src="https://i.imgur.com/eYHhttU.jpg" height=150> | `business2`    | 8       | Late for a Meeting              |
 | <img src="https://i.imgur.com/XodJKaa.jpg" height=150> | `officeblackout`    | 8       | Late for a Meeting              |
-| <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `rails`    | 9       | To Save a City             |
+| <img src="https://i.imgur.com/R0XHnCN.jpg" height=150> | `rails`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `tenements`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `river`    | 9       | To Save a City             |
 | <img src="http://i.imgur.com/sBgGrhn.jpg" height=150> | `villa`    | 9       | To Save a City             |
