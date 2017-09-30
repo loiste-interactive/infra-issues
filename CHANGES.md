@@ -1,6 +1,8 @@
-# September 30th 2017 (Version 3.0.4)
+# September 30th 2017 (Version 3.0.5)
 
-* Fixed a possible crash issue (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011))
+* Added messages to help debug crash issue on level change (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011))
+
+# September 30th 2017 (Version 3.0.4)
 
 ## business
 
