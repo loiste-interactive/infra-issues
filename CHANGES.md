@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed a possible crash issue
+
 ## business
 
 * Fixed issues with the mushroom tea (issue [#1008](https://github.com/loiste-interactive/infra-issues/issues/1008) and [#1009](https://github.com/loiste-interactive/infra-issues/issues/1009))
