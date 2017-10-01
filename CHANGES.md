@@ -1,3 +1,9 @@
+# Upcoming
+
+## Isle2
+
+* Added player commenting about boltcutters.
+
 # September 30th 2017 (Version 3.0.5)
 
 * Added messages to help debug crash issue on level change (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011))
