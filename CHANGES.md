@@ -1,8 +1,12 @@
 # Upcoming
 
-## Isle2
+## isle2
 
-* Added player commenting about boltcutters.
+* Added a comment for Mark about bolt cutters
+
+## tenements
+
+* Fixed being unable to give Passmore the money if you've helped Rob
 
 # September 30th 2017 (Version 3.0.5)
 
