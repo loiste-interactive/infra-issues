@@ -4,6 +4,10 @@
 
 * Added a comment for Mark about bolt cutters
 
+## isle3
+
+* Added a note about ship and dock keys
+
 ## tenements
 
 * Fixed being unable to give Passmore the money if you've helped Rob
