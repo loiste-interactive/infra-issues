@@ -7,6 +7,7 @@
 ## isle3
 
 * Added a note about ship and dock keys
+* Fixed ship keys being re-useable after picking them up.
 
 ## tenements
 
