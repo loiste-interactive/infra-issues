@@ -2,14 +2,14 @@
 
 ## tunnel4
 
-* Fixed waterfall particles clipping through wall (issue [#1044](https://github.com/loiste-interactive/infra-issues/issues/1044))
-* Fixed waterfall particles disappearing when far away
+* Fixed the waterfall particles disappearing when the player is far away from them
+* Fixed the waterfall particles clipping through wall (issue [#1044](https://github.com/loiste-interactive/infra-issues/issues/1044))
 
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
-* Fixed the falling lift is being loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
+* Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
 # October 3rd 2017 (Version 3.0.6)
 
