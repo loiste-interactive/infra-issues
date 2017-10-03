@@ -1,10 +1,12 @@
 # Upcoming
 
+* Fixed memory corruption issues (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011) and [#1022](https://github.com/loiste-interactive/infra-issues/issues/1022))
+
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
-* Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035)
-* Fixed the falling lift is being loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993)
+* Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
+* Fixed the falling lift is being loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
 ## isle2
 
@@ -13,7 +15,7 @@
 ## isle3
 
 * Added a note about ship and dock keys
-* Fixed ship keys being re-useable after picking them up.
+* Fixed ship keys being re-useable after picking them up
 
 ## tenements
 
