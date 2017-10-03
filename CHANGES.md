@@ -1,5 +1,10 @@
 # Upcoming
 
+## tunnel4
+
+* Fixed waterfall particles clipping through wall
+* Fixed waterfall particles disappearing when far away
+
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
