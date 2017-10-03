@@ -4,7 +4,8 @@
 
 * Added boxes in front of the ventilation buttons
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035)
-* Fixed the falling lift is being loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993) 
+* Fixed the falling lift is being loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993)
+
 ## isle2
 
 * Added a comment for Mark about bolt cutters
