@@ -11,7 +11,7 @@
 
 ## tenements
 
-* Fixed being unable to give Passmore the money if you've helped Rob
+* Fixed being unable to give Passmore the money if you've helped Rob (issue [#1014](https://github.com/loiste-interactive/infra-issues/issues/1014))
 
 # September 30th 2017 (Version 3.0.5)
 
