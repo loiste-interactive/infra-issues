@@ -11,6 +11,10 @@
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
+## reactor
+
+* Fixed Boss saying "we're running out of time" twice in a row
+
 # October 3rd 2017 (Version 3.0.6)
 
 * Fixed memory corruption issues (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011) and [#1022](https://github.com/loiste-interactive/infra-issues/issues/1022))
