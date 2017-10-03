@@ -2,7 +2,7 @@
 
 ## tunnel4
 
-* Fixed waterfall particles clipping through wall
+* Fixed waterfall particles clipping through wall (issue [#1044](https://github.com/loiste-interactive/infra-issues/issues/1044))
 * Fixed waterfall particles disappearing when far away
 
 ## powerstation2
