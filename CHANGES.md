@@ -15,6 +15,10 @@
 
 * Fixed Boss saying "we're running out of time" twice in a row
 
+## ending1-3
+
+* Added more newspapers
+
 # October 3rd 2017 (Version 3.0.6)
 
 * Fixed memory corruption issues (issue [#1011](https://github.com/loiste-interactive/infra-issues/issues/1011) and [#1022](https://github.com/loiste-interactive/infra-issues/issues/1022))
