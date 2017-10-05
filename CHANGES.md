@@ -26,6 +26,7 @@
 ## isle2
 
 * Added a comment for Mark about bolt cutters
+* Changed lever puzzle signs to be less confusing (issue [#1066](https://github.com/loiste-interactive/infra-issues/issues/1066))
 
 ## isle3
 
