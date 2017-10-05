@@ -5,6 +5,10 @@
 * Fixed the waterfall particles disappearing when the player is far away from them
 * Fixed the waterfall particles clipping through wall (issue [#1044](https://github.com/loiste-interactive/infra-issues/issues/1044))
 
+## furnace
+
+* Fixed buggy minitrains. 
+
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
