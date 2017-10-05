@@ -7,7 +7,7 @@
 
 ## furnace
 
-* Fixed buggy minitrains. 
+* Fixed problems with the minitrains (issue [#1007](https://github.com/loiste-interactive/infra-issues/issues/1007))
 
 ## powerstation2
 
