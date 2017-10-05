@@ -1,3 +1,11 @@
+# Upcoming
+
+## powerstation2
+
+* Added boxes in front of the ventilation buttons
+* Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
+* Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
+
 # October 5th 2017 (Version 3.0.7)
 
 ## tunnel4
@@ -8,12 +16,6 @@
 ## furnace
 
 * Fixed problems with the minitrains (issue [#1007](https://github.com/loiste-interactive/infra-issues/issues/1007))
-
-## powerstation2
-
-* Added boxes in front of the ventilation buttons
-* Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
-* Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
 ## reactor
 
