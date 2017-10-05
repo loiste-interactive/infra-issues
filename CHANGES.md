@@ -6,6 +6,10 @@
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
+## field
+
+* Fixed some minor issues
+
 # October 5th 2017 (Version 3.0.7)
 
 ## tunnel4
