@@ -2,7 +2,7 @@
 
 ## Reserve1 
 
-* Fixed wrong response when throwing objects at crack.(issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
+* Fixed wrong response when throwing objects at the dam crack (issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
 
 ## powerstation2
 
