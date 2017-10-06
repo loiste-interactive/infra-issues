@@ -12,7 +12,7 @@
 
 ## tenements
 
-* Pay to use elevator now ignores door status when called.
+* Fixed being unable to call the pay to use elevator if any of the doors are open
 
 ## field
 
@@ -20,7 +20,7 @@
 
 # October 7th 2017 (Version 3.0.8)
 
-* Fixed crashes on level changes caused by the game running out of memory
+* Fixed crashes on level changes caused by the game running out of memory (issues [#1063](https://github.com/loiste-interactive/infra-issues/issues/1063) and [#1062](https://github.com/loiste-interactive/infra-issues/issues/1062), but affects every level change)
 
 # October 5th 2017 (Version 3.0.7)
 
