@@ -1,7 +1,5 @@
 # Upcoming
 
-* Fixed crashes on level changes caused by the game running out of memory
-
 ## reserve1 
 
 * Fixed a wrong response when throwing objects at the dam crack (issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
@@ -19,6 +17,10 @@
 ## field
 
 * Fixed some minor issues
+
+# October 7th 2017 (Version 3.0.8)
+
+* Fixed crashes on level changes caused by the game running out of memory
 
 # October 5th 2017 (Version 3.0.7)
 
