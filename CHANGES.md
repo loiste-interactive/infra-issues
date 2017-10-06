@@ -10,6 +10,10 @@
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
+## tenements
+
+* Pay to use elevator now ignores door status when called.
+
 ## field
 
 * Fixed some minor issues
