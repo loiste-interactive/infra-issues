@@ -15,6 +15,10 @@
 * Added a camera target to the damage under the metro bridge (issue [#1061](https://github.com/loiste-interactive/infra-issues/issues/1061))
 * Fixed the fplayer getting stuck behind bushes near the abandoned warehouse (issue [#1057](https://github.com/loiste-interactive/infra-issues/issues/1057))
 
+## isle2
+
+* Made button and fuel valves more visible.
+
 ## tenements
 
 * Fixed being unable to call the pay to use elevator if any of the doors are open
