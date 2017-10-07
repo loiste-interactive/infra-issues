@@ -10,6 +10,11 @@
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
+## isle1
+
+* Added a camera target to the damage under the metro bridge (issue [#1061](https://github.com/loiste-interactive/infra-issues/issues/1061))
+* Fixed the fplayer getting stuck behind bushes near the abandoned warehouse (issue [#1057](https://github.com/loiste-interactive/infra-issues/issues/1057))
+
 ## tenements
 
 * Fixed being unable to call the pay to use elevator if any of the doors are open
