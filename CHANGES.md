@@ -8,6 +8,7 @@
 
 * Added boxes in front of the ventilation buttons
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
+* Adjusted hoist electrical box timer
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
 ## isle1
