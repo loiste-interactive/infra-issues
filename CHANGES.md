@@ -14,7 +14,8 @@
 ## isle1
 
 * Added a camera target to the damage under the metro bridge (issue [#1061](https://github.com/loiste-interactive/infra-issues/issues/1061))
-* Fixed the fplayer getting stuck behind bushes near the abandoned warehouse (issue [#1057](https://github.com/loiste-interactive/infra-issues/issues/1057))
+* Changed the waterway markers to be more realistic
+* Fixed the player getting stuck behind bushes near the abandoned warehouse (issue [#1057](https://github.com/loiste-interactive/infra-issues/issues/1057))
 
 ## isle2
 
