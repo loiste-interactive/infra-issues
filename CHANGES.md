@@ -26,6 +26,7 @@
 
 ## tenements
 
+* Added more recognizable objects to the bottle recycling
 * Added two new camera targets
 * Changed the purple keycard place to be more visible
 * Fixed being unable to call the pay to use elevator if any of the doors are open
