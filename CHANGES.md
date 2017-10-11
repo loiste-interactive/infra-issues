@@ -27,6 +27,7 @@
 ## business2
 
 * Added more details and content to the minitrain tunnel
+* Added new camera target
 
 ## tenements
 
