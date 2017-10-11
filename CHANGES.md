@@ -28,6 +28,7 @@
 
 * Added more details and content to the minitrain tunnel
 * Added new camera target
+* Fixed phone signals
 
 ## tenements
 
