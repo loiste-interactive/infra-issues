@@ -22,13 +22,13 @@
 
 ## isle2
 
-* Made button and fuel valves more visible.
+* Changed the generator button and fuel valves to be more visible
 
 ## business2
 
-* Added more details and content to the minitrain tunnel
-* Added new camera target
-* Fixed phone signals
+* Added more detail and content to the minitrain tunnel
+* Added a new camera target
+* Fixed the phone having signal
 
 ## tenements
 
