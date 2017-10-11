@@ -26,7 +26,11 @@
 
 ## tenements
 
+* Added two new camera targets
+* Changed the purple keycard place to be more visible
 * Fixed being unable to call the pay to use elevator if any of the doors are open
+* Fixed invisible bulletin board (issue [#1027](https://github.com/loiste-interactive/infra-issues/issues/1027))
+* Fixed being able to climb up bookstore roof (issue [#1082](https://github.com/loiste-interactive/infra-issues/issues/1082))
 
 ## field
 
