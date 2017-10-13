@@ -16,6 +16,7 @@
 
 ## isle1
 
+* Added wind sounds
 * Added humans
 * Added traffic
 * Added detail to the boatyard main hall
@@ -28,7 +29,12 @@
 
 ## isle2
 
+* Added wind sounds
 * Changed the generator button and fuel valves to be more visible
+
+## isle3
+
+* Added wind sounds
 
 ## business
 
