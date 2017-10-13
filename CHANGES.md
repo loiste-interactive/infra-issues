@@ -54,6 +54,10 @@
 
 * Fixed some minor issues
 
+## NPP
+
+* Added camera target for broken window pane
+
 ## reactor
 
 * Fixed missing sprites
