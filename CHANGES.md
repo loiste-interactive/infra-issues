@@ -30,6 +30,10 @@
 
 * Changed the generator button and fuel valves to be more visible
 
+## business
+
+* Added camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
+
 ## business2
 
 * Added more detail and content to the minitrain tunnel
