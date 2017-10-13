@@ -40,6 +40,7 @@
 * Added a new camera target
 * Added missing carriages and wheels
 * Fixed the phone having signal
+* Fixed flickering windows
 * Fixed the pump valve turning the wrong way  (issue [#1056](https://github.com/loiste-interactive/infra-issues/issues/1056))
 
 ## tenements
