@@ -22,7 +22,7 @@
 * Added a construction fence next to the power rail to prevent the player from trying to climb over it with a box (issue [#1018](https://github.com/loiste-interactive/infra-issues/issues/1018))
 * Added a camera target to the damage under the metro bridge (issue [#1061](https://github.com/loiste-interactive/infra-issues/issues/1061))
 * Changed the waterway markers to be more realistic
-* Fixed a hole in the world geometry
+* Fixed a holes in the world geometry (issue [#975](https://github.com/loiste-interactive/infra-issues/issues/975))
 * Fixed the level change area not matching `isle2` (issue [#983](https://github.com/loiste-interactive/infra-issues/issues/983))
 * Fixed the player getting stuck behind bushes near the abandoned warehouse (issue [#1057](https://github.com/loiste-interactive/infra-issues/issues/1057))
 
