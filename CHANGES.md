@@ -13,7 +13,6 @@
 * Changed hoist electrical box timer
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
-* Fixed the pump valve turning the wrong way  (issue [#1056](https://github.com/loiste-interactive/infra-issues/issues/1056))
 
 ## isle1
 
@@ -40,6 +39,7 @@
 * Added more detail and content to the minitrain tunnel
 * Added a new camera target
 * Fixed the phone having signal
+* Fixed the pump valve turning the wrong way  (issue [#1056](https://github.com/loiste-interactive/infra-issues/issues/1056))
 
 ## tenements
 
