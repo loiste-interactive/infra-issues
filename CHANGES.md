@@ -81,6 +81,10 @@
 
 * Fixed missing sprites
 
+# October 14th 2017 (Version 3.0.9)
+
+* Fixed an issue with getting stuck on computer screens
+
 # October 7th 2017 (Version 3.0.8)
 
 * Fixed crashes on level changes caused by the game running out of memory (issues [#1063](https://github.com/loiste-interactive/infra-issues/issues/1063) and [#1062](https://github.com/loiste-interactive/infra-issues/issues/1062), but affects every level change)
