@@ -16,7 +16,6 @@
 
 ## isle1
 
-* Added wind sounds
 * Added humans
 * Added traffic
 * Added detail to the boatyard main hall
@@ -29,7 +28,6 @@
 
 ## isle2
 
-* Added wind sounds
 * Changed the puddles in the generator room to be photograpgable even if the power is not on (issue [#989](https://github.com/loiste-interactive/infra-issues/issues/989))
 * Changed the generator button and fuel valves to be more visible (issue [#998](https://github.com/loiste-interactive/infra-issues/issues/998))
 * Fixed the street name signs not matching the map
@@ -42,10 +40,6 @@
 * Fixed certain keycard reader being usable through a wall (issue [#1021](https://github.com/loiste-interactive/infra-issues/issues/1021))
 * Fixed a misaligned license plate (issue [#1065](https://github.com/loiste-interactive/infra-issues/issues/1065))
 * Removed the geocache from the castle
-
-## isle3
-
-* Added wind sounds
 
 ## business
 
@@ -85,6 +79,10 @@
 # October 14th 2017 (Version 3.0.9)
 
 * Fixed an issue with getting stuck on computer screens
+
+# isle1-3
+
+* Added wind sounds
 
 # October 7th 2017 (Version 3.0.8)
 
