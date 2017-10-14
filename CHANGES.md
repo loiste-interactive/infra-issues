@@ -8,8 +8,14 @@
 
 * Fixed colorcorrection
 
+## sewer
+
+* Changed the camera targets to use case sensitive responds
+* Removed the moveable crates (issue [#703](https://github.com/loiste-interactive/infra-issues/issues/703))
+
 ## servicetunnel
 
+* Changed the camera targets to use case sensitive responds
 * Removed a certain moveable crate (issue [#1013](https://github.com/loiste-interactive/infra-issues/issues/1013))
 
 ## powerstation2
