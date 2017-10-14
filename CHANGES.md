@@ -12,6 +12,7 @@
 
 * Added a missing camera target (issue [#1041](https://github.com/loiste-interactive/infra-issues/issues/1041))
 * Changed the camera targets to use case sensitive responds
+* Fixed a graffiti being projected on a wrong surface (issue [#1047](https://github.com/loiste-interactive/infra-issues/issues/1047))
 * Removed the moveable crates (issue [#703](https://github.com/loiste-interactive/infra-issues/issues/703))
 
 ## servicetunnel
