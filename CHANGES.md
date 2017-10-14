@@ -43,7 +43,7 @@
 
 ## business
 
-* Added camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
+* Added a camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
 
 ## business2
 
