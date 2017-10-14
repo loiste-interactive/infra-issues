@@ -4,6 +4,10 @@
 
 * Fixed a wrong response when throwing objects at the dam crack (issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
 
+## furnace
+
+* Fixed colorcorrection
+
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
