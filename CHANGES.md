@@ -8,6 +8,10 @@
 
 * Fixed colorcorrection
 
+## servicetunnel
+
+* Removed a certain moveable crate (issue [#1013](https://github.com/loiste-interactive/infra-issues/issues/1013))
+
 ## powerstation2
 
 * Added boxes in front of the ventilation buttons
