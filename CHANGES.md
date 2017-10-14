@@ -37,6 +37,7 @@
 * Fixed the bolt cutting sound being really loud (issue [#988](https://github.com/loiste-interactive/infra-issues/issues/988))
 * Fixed floating level geometry near the motel (issue [#1000](https://github.com/loiste-interactive/infra-issues/issues/1000))
 * Fixed certain button sound being played twice (issue [#1002](https://github.com/loiste-interactive/infra-issues/issues/1002))
+* Fixed the generator sound fading out when entering the trailer office (issue [#1003](https://github.com/loiste-interactive/infra-issues/issues/1003))
 * Fixed a misaligned license plate (issue [#1065](https://github.com/loiste-interactive/infra-issues/issues/1065))
 
 ## isle3
