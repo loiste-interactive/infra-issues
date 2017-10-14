@@ -10,6 +10,7 @@
 
 ## sewer
 
+* Added a missing camera target (issue [#1041](https://github.com/loiste-interactive/infra-issues/issues/1041))
 * Changed the camera targets to use case sensitive responds
 * Removed the moveable crates (issue [#703](https://github.com/loiste-interactive/infra-issues/issues/703))
 
@@ -22,9 +23,9 @@
 
 * Added boxes in front of the ventilation buttons
 * Added camera targets to broken windows
-* Added camera targets to foliage room
+* Added camera targets to the foliage room
 * Added particles and shake to the falling elevator (issue [#1074](https://github.com/loiste-interactive/infra-issues/issues/1074))
-* Changed hoist electrical box timer
+* Changed the hoist electrical box timer
 * Changed the geocache location (issue [#1035](https://github.com/loiste-interactive/infra-issues/issues/1035))
 * Fixed the falling lift being too loud (issue [#993](https://github.com/loiste-interactive/infra-issues/issues/993))
 
