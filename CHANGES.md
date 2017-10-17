@@ -94,6 +94,7 @@
 * Added camera target for flood
 * Added synchroscope instructions
 * Fixed missing sprites
+* Fixed the blast door lights
 * Fixed being able to get stuck between the control chair and the window corner (issue [#1060](https://github.com/loiste-interactive/infra-issues/issues/1060))
 
 # October 14th 2017 (Version 3.0.9)
