@@ -1,5 +1,9 @@
 # Upcoming
 
+* Changed the glass bottles health
+* Changed the bottles to be facing up when picked up
+* Fixed the glass bottle physics
+
 ## reserve1 
 
 * Fixed a wrong response when throwing objects at the dam crack (issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
