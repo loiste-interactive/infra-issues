@@ -87,6 +87,10 @@
 * Fixed an out of bounds issue near the bookstore (issue [#1082](https://github.com/loiste-interactive/infra-issues/issues/1082))
 * Fixed some balconies not having texture (issue [#1090](https://github.com/loiste-interactive/infra-issues/issues/1090))
 
+## river
+
+* Changed mushroom cametarget to silent
+
 ## field
 
 * Fixed some minor issues
