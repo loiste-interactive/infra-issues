@@ -60,6 +60,7 @@
 ## business
 
 * Added a camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
+* Changed car binder text to be more clear
 
 ## business2
 
