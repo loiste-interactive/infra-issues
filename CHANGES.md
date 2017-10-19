@@ -21,6 +21,7 @@
 
 ## central
 
+* Fixed emergency door release lever clipping through the train interior(issue [#944](https://github.com/loiste-interactive/infra-issues/issues/944))
 * Fixed weird collisions (issue [#1051](https://github.com/loiste-interactive/infra-issues/issues/1051))
 
 ## servicetunnel
