@@ -91,6 +91,7 @@
 * Fixed the slot machine buttons (issue [#1040](https://github.com/loiste-interactive/infra-issues/issues/1040))
 * Fixed an out of bounds issue near the bookstore (issue [#1082](https://github.com/loiste-interactive/infra-issues/issues/1082))
 * Fixed some balconies not having texture (issue [#1090](https://github.com/loiste-interactive/infra-issues/issues/1090))
+* Fixed ticket machine coin return glitch
 
 ## river
 
