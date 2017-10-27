@@ -69,6 +69,10 @@
 * Fixed a misaligned license plate (issue [#1065](https://github.com/loiste-interactive/infra-issues/issues/1065))
 * Removed the geocache from the castle
 
+## isle3
+
+* Fixed the safe model normals
+
 ## business
 
 * Added a camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
