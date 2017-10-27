@@ -3,6 +3,7 @@
 * Changed the glass bottles health
 * Changed the bottles to be facing up when picked up
 * Fixed the glass bottle physics
+* Fixed the store door credit card logos (issue [#1104](https://github.com/loiste-interactive/infra-issues/issues/1104))
 
 ## reserve1 
 
