@@ -88,6 +88,10 @@
 * Fixed being able photograph the water in the tunnel twice
 * Fixed the pump valve turning the wrong way  (issue [#1056](https://github.com/loiste-interactive/infra-issues/issues/1056))
 
+## rails
+
+* Fixed the USB being very finicky to pick up
+
 ## tenements
 
 * Added more recognizable objects to the bottle recycling
