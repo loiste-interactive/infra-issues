@@ -47,6 +47,7 @@
 * Added humans
 * Added traffic
 * Added detail to the boatyard main hall
+* Added a flowmap to the water
 * Added a construction fence next to the power rail to prevent the player from trying to climb over it with a box (issue [#1018](https://github.com/loiste-interactive/infra-issues/issues/1018))
 * Added a camera target to the damage under the metro bridge (issue [#1061](https://github.com/loiste-interactive/infra-issues/issues/1061))
 * Changed the waterway markers to be more realistic
