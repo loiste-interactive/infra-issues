@@ -78,6 +78,7 @@
 * Added a city map to the start of the level
 * Added a camera target (issue [#1075](https://github.com/loiste-interactive/infra-issues/issues/1075))
 * Changed car binder text to be more clear
+* Fixed low resolution shadows in the garage (issue [#974](https://github.com/loiste-interactive/infra-issues/issues/974))
 * Fixed an OOB issue (issue [#1024](https://github.com/loiste-interactive/infra-issues/issues/1024))
 
 ## business2
