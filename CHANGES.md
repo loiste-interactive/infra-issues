@@ -1,10 +1,8 @@
 # November 1st 2017 (Version 3.1.0)
 
-* Changed glass bottles to be less fragile
-* Changed glass bottles to be facing up when picked up
-* Fixed the button model physics
-* Fixed the flashlight model physics
-* Fixed the glass bottle physics
+* Changed the glass bottles to be less fragile
+* Changed the glass bottles to be facing up when picked up
+* Fixed the physics of certain small physical objects
 * Fixed the store door credit card logos (issue [#1104](https://github.com/loiste-interactive/infra-issues/issues/1104))
 
 ## reserve1 
@@ -17,7 +15,7 @@
 
 ## furnace
 
-* Fixed color correction
+* Fixed the color correction
 
 ## sewer
 
