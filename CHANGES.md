@@ -17,7 +17,7 @@
 
 ## furnace
 
-* Fixed colorcorrection
+* Fixed color correction
 
 ## sewer
 
