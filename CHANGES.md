@@ -11,6 +11,10 @@
 
 * Fixed a wrong response when throwing objects at the dam crack (issue [#1070](https://github.com/loiste-interactive/infra-issues/issues/1070))
 
+## tunnel4
+
+* Fixed a certain document being hard to read (issue [#1101](https://github.com/loiste-interactive/infra-issues/issues/1101))
+
 ## furnace
 
 * Fixed colorcorrection
