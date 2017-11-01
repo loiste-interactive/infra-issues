@@ -78,6 +78,7 @@
 
 ## isle3
 
+* Added a flowmap to the water
 * Fixed the safe model normals
 
 ## business
