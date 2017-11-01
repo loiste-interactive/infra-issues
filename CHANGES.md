@@ -61,7 +61,7 @@
 ## isle2
 
 * Added a flowmap to the water
-* Changed the puddles in the generator room to be photograpgable even if the power is not on (issue [#989](https://github.com/loiste-interactive/infra-issues/issues/989))
+* Changed the puddles in the generator room to be photographable even if the power is not on (issue [#989](https://github.com/loiste-interactive/infra-issues/issues/989))
 * Changed the generator button and fuel valves to be more visible (issue [#998](https://github.com/loiste-interactive/infra-issues/issues/998))
 * Fixed the street name signs not matching the map
 * Fixed the clock in the trailer office having wrong time (issue [#986](https://github.com/loiste-interactive/infra-issues/issues/986))
