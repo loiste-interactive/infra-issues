@@ -1,7 +1,7 @@
 # November 1st 2017 (Version 3.1.0)
 
-* Changed the glass bottles to be less fragile
-* Changed the glass bottles to be facing up when picked up
+* Changed glass bottles to be less fragile
+* Changed glass bottles to be facing up when picked up
 * Fixed the physics of certain small physical objects
 * Fixed the store door credit card logos (issue [#1104](https://github.com/loiste-interactive/infra-issues/issues/1104))
 
