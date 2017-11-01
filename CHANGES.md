@@ -1,7 +1,7 @@
-# Upcoming
+# November 1st 2017 (Version 3.1.0)
 
-* Changed the glass bottles health
-* Changed the bottles to be facing up when picked up
+* Changed glass bottles to be less fragile
+* Changed glass bottles to be facing up when picked up
 * Fixed the button model physics
 * Fixed the flashlight model physics
 * Fixed the glass bottle physics
@@ -29,7 +29,7 @@
 
 ## central
 
-* Fixed emergency door release lever clipping through the train interior(issue [#944](https://github.com/loiste-interactive/infra-issues/issues/944))
+* Fixed emergency door release lever clipping through the train interior (issue [#944](https://github.com/loiste-interactive/infra-issues/issues/944))
 * Fixed weird collisions (issue [#1051](https://github.com/loiste-interactive/infra-issues/issues/1051))
 
 ## servicetunnel
@@ -127,7 +127,7 @@
 
 * Fixed some minor issues
 
-## NPP
+## npp
 
 * Added camera target for broken window
 
