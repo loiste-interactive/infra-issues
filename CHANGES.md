@@ -4,6 +4,8 @@
 
 * Added fire alarm sign
 * Added camera target types
+* Added a gate to the spiral staircase that goes into the water
+* Added ladders to the raw water pool pipes
 * Fixed some small bugs
 * Fixed the water tunnel door lighting
 * Removed the electrical box cover (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
