@@ -12,6 +12,10 @@
 * Fixed the water tunnel door lighting
 * Removed the electrical box cover (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
 
+## central
+
+* Fixed the escalator lighting issue (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
