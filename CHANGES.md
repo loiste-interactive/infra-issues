@@ -1,5 +1,7 @@
 # Upcoming
 
+* Changed glassware to be less fragile
+
 ## waterplant
 
 * Added fire alarm sign
