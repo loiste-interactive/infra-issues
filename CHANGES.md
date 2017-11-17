@@ -16,6 +16,10 @@
 
 * Fixed the escalator lighting issue (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
 
+## servicetunnel
+
+* Changed the time on the clock
+
 ## stormdrain
 
 * Added a clock to the mushroom room
