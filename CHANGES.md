@@ -16,6 +16,15 @@
 
 * Fixed the escalator lighting issue (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
 
+## stormdrain
+
+* Added a camera target to the leaking pipe at the minitrain loading bay
+* Added a camera target to the crooked train (issue [#1042](https://github.com/loiste-interactive/infra-issues/issues/1042))
+* Changed the camera targets to use case sensitive responds
+* Changed certain blocked path to be more realistic (issue [#1132](https://github.com/loiste-interactive/infra-issues/issues/1132))
+* Fixed player being able to survive the floodwave (issue [#922](https://github.com/loiste-interactive/infra-issues/issues/922))
+* Fixed the sewer pipe 03 wheel turning the wrong way (issue [#1134](https://github.com/loiste-interactive/infra-issues/issues/1134))
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
