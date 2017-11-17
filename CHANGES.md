@@ -28,6 +28,13 @@
 * Fixed an issue with the water level sensor (issue [#1133](https://github.com/loiste-interactive/infra-issues/issues/1133))
 * Fixed the sewer pipe 03 wheel turning the wrong way (issue [#1134](https://github.com/loiste-interactive/infra-issues/issues/1134))
 
+## cistern
+
+* Added a camera target for certain crates of dynamite
+* Fixed certain pipes missing (issue [#929](https://github.com/loiste-interactive/infra-issues/issues/929))
+* Fixed the clock in the trailer office working (issue [#1135](https://github.com/loiste-interactive/infra-issues/issues/1135))
+* Removed unnecessary moveable crates (issue [#1136](https://github.com/loiste-interactive/infra-issues/issues/1136))
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
