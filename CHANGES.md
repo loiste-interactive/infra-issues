@@ -31,7 +31,7 @@
 ## cistern
 
 * Added a camera target for certain crates of dynamite
-* Fixed being able to bypass big chunk of the climbing down puzzle
+* Fixed being able to bypass a big chunk of the climbing down puzzle
 * Fixed certain pipes missing (issue [#929](https://github.com/loiste-interactive/infra-issues/issues/929))
 * Fixed the clock in the trailer office working (issue [#1135](https://github.com/loiste-interactive/infra-issues/issues/1135))
 * Removed unnecessary moveable crates (issue [#1136](https://github.com/loiste-interactive/infra-issues/issues/1136))
