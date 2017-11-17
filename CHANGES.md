@@ -23,6 +23,7 @@
 * Changed the camera targets to use case sensitive responds
 * Changed certain blocked path to be more realistic (issue [#1132](https://github.com/loiste-interactive/infra-issues/issues/1132))
 * Fixed player being able to survive the floodwave (issue [#922](https://github.com/loiste-interactive/infra-issues/issues/922))
+* Fixed an issue with the water level sensor (issue [#1133](https://github.com/loiste-interactive/infra-issues/issues/1133))
 * Fixed the sewer pipe 03 wheel turning the wrong way (issue [#1134](https://github.com/loiste-interactive/infra-issues/issues/1134))
 
 # November 1st 2017 (Version 3.1.0)
