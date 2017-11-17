@@ -18,6 +18,7 @@
 
 ## stormdrain
 
+* Added a clock to the mushroom room
 * Added a camera target to the leaking pipe at the minitrain loading bay
 * Added a camera target to the crooked train (issue [#1042](https://github.com/loiste-interactive/infra-issues/issues/1042))
 * Changed the camera targets to use case sensitive responds
