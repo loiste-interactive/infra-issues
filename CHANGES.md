@@ -50,6 +50,9 @@
 
 * Added a camera target to the broken pier
 * Changed the camera targets to use case sensitive responds
+* Changed the waterway markers to be more realistic
+* Fixed a hole in the world geometry (issue [#1004](https://github.com/loiste-interactive/infra-issues/issues/1004))
+* Fixed a license plate floating in the air (issue [#1012](https://github.com/loiste-interactive/infra-issues/issues/1012))
 * Removed unnecessary areas
 
 # November 1st 2017 (Version 3.1.0)
