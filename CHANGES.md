@@ -48,6 +48,8 @@
 
 ## isle3
 
+* Added a camera target to the broken pier
+* Changed the camera targets to use case sensitive responds
 * Removed unnecessary areas
 
 # November 1st 2017 (Version 3.1.0)
