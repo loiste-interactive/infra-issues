@@ -53,6 +53,7 @@
 * Changed the camera targets to use case sensitive responds
 * Changed the waterway markers to be more realistic
 * Fixed flickering textures
+* Fixed the water not reflecting certain buildings
 * Fixed holes in the world geometry (issues [#1004](https://github.com/loiste-interactive/infra-issues/issues/1004) and [#1068](https://github.com/loiste-interactive/infra-issues/issues/1068))
 * Fixed a license plate floating in the air (issue [#1012](https://github.com/loiste-interactive/infra-issues/issues/1012))
 * Removed unnecessary areas
