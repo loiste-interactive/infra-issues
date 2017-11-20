@@ -49,6 +49,7 @@
 ## isle3
 
 * Added a camera target to the broken pier
+* Added the bulk cargo ship from the previous level
 * Changed the camera targets to use case sensitive responds
 * Changed the waterway markers to be more realistic
 * Fixed flickering textures
