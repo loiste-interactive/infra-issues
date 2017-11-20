@@ -46,6 +46,10 @@
 * Fixed player getting stuck in places (issues [#1103](https://github.com/loiste-interactive/infra-issues/issues/1103) and [#1116](https://github.com/loiste-interactive/infra-issues/issues/1116))
 * Fixed a certain sign floating in air (issue [#1130](https://github.com/loiste-interactive/infra-issues/issues/1130))
 
+## isle3
+
+* Removed unnecessary areas
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
