@@ -42,6 +42,7 @@
 
 ## isle2
 
+* Fixed the water not reflecting certain buildings
 * Fixed an unrealistic stone surface (issue [#1102](https://github.com/loiste-interactive/infra-issues/issues/1102))
 * Fixed player getting stuck in places (issues [#1103](https://github.com/loiste-interactive/infra-issues/issues/1103) and [#1116](https://github.com/loiste-interactive/infra-issues/issues/1116))
 * Fixed a certain sign floating in air (issue [#1130](https://github.com/loiste-interactive/infra-issues/issues/1130))
