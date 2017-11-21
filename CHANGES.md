@@ -42,6 +42,7 @@
 
 ## isle2
 
+* Added more ship movement
 * Changed the waterway markers to be more realistic
 * Fixed the water not reflecting certain buildings
 * Fixed an unrealistic stone surface (issue [#1102](https://github.com/loiste-interactive/infra-issues/issues/1102))
