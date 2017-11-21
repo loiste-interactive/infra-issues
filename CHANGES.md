@@ -55,6 +55,7 @@
 * Added the bulk cargo ship from the previous level
 * Changed the camera targets to use case sensitive responds
 * Changed the waterway markers to be more realistic
+* Changed the time on the ship clock
 * Fixed flickering textures
 * Fixed the water not reflecting certain buildings
 * Fixed holes in the world geometry (issues [#1004](https://github.com/loiste-interactive/infra-issues/issues/1004) and [#1068](https://github.com/loiste-interactive/infra-issues/issues/1068))
