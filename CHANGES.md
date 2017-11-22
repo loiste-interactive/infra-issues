@@ -15,6 +15,7 @@
 ## metro
 
 * Added more autosaves (issue [#1114](https://github.com/loiste-interactive/infra-issues/issues/1114))
+* Changed the whiteboard archive numbers (issue [#1118](https://github.com/loiste-interactive/infra-issues/issues/1118))
 
 ## waterplant
 
