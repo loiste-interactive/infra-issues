@@ -4,6 +4,7 @@
 
 ## tunnel 4
 
+* Changed some flashlight batteries to camera batteries
 * Fixed some small bugs
 * Removed the missing roof texture fromr (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
 
