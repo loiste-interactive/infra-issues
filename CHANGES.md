@@ -62,6 +62,10 @@
 * Fixed a license plate floating in the air (issue [#1012](https://github.com/loiste-interactive/infra-issues/issues/1012))
 * Removed unnecessary areas
 
+## business
+
+* Fixed the cars driving too fast
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
