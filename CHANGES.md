@@ -24,7 +24,7 @@
 
 ## central
 
-* Fixed the escalator lighting issue (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
+* Fixed the escalator lighting issue (issue [#1128](https://github.com/loiste-interactive/infra-issues/issues/1128))
 
 ## servicetunnel
 
