@@ -2,6 +2,11 @@
 
 * Changed glassware to be less fragile
 
+## tunnel 4
+
+* Fixed some small bugs
+* Removed the missing roof texture fromr (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
+
 ## waterplant
 
 * Added fire alarm sign
