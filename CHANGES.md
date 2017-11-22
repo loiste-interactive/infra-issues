@@ -6,7 +6,8 @@
 
 * Changed some flashlight batteries to camera batteries
 * Fixed some small bugs
-* Removed the missing roof texture fromr (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
+* Fixed being able to get stuck (issue [#1152](https://github.com/loiste-interactive/infra-issues/issues/1152))
+* Removed the missing roof texture from above (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
 
 ## waterplant
 
