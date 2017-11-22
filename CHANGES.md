@@ -7,10 +7,10 @@
 
 * Changed some flashlight batteries to camera batteries
 * Fixed some small bugs
-* Fixed floodlight sprites not being turned on sometimes (issue [#398](https://github.com/loiste-interactive/infra-issues/issues/398))
-* Fixed pipe darkness transition issue (issue [#971](https://github.com/loiste-interactive/infra-issues/issues/971))
-* Fixed being able to get stuck (issue [#1152](https://github.com/loiste-interactive/infra-issues/issues/1152))
-* Removed the missing roof texture from above (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
+* Fixed the floodlight sprites at the construction site not being turned on sometimes (issue [#398](https://github.com/loiste-interactive/infra-issues/issues/398))
+* Fixed lighting issue with certain pipes (issue [#971](https://github.com/loiste-interactive/infra-issues/issues/971))
+* Fixed a hole in the world geometry (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
+* Fixed player getting stuck (issue [#1152](https://github.com/loiste-interactive/infra-issues/issues/1152))
 
 ## metro
 
