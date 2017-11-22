@@ -64,7 +64,12 @@
 
 ## business
 
-* Fixed the cars driving too fast
+* Fixed cars driving too fast
+
+## business2
+
+* Fixed cars driving too fast
+* Fixed valves turning the wrong way (issue [#1137](https://github.com/loiste-interactive/infra-issues/issues/1137))
 
 # November 1st 2017 (Version 3.1.0)
 
