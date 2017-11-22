@@ -12,6 +12,10 @@
 * Fixed being able to get stuck (issue [#1152](https://github.com/loiste-interactive/infra-issues/issues/1152))
 * Removed the missing roof texture from above (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
 
+## metro
+
+* Added more autosaves (issue [#1114](https://github.com/loiste-interactive/infra-issues/issues/1114))
+
 ## waterplant
 
 * Added fire alarm sign
