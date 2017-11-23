@@ -89,6 +89,12 @@
 * Fixed cars driving too fast
 * Fixed valves turning the wrong way (issue [#1137](https://github.com/loiste-interactive/infra-issues/issues/1137))
 
+## officeblackout
+
+* Fixed water seams
+* Fixed stair lighting
+* Fixed some corridors having lights
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
