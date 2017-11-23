@@ -16,6 +16,7 @@
 
 * Added more autosaves (issue [#1114](https://github.com/loiste-interactive/infra-issues/issues/1114))
 * Fixed some small bugs
+* Fixed a hole in the world geometry (issue [#750](https://github.com/loiste-interactive/infra-issues/issues/750))
 * Changed the BWU note location (issue [#850](https://github.com/loiste-interactive/infra-issues/issues/850))
 * Changed the whiteboard archive numbers (issue [#1118](https://github.com/loiste-interactive/infra-issues/issues/1118))
 
