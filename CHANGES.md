@@ -58,6 +58,10 @@
 * Fixed the clock in the trailer office working (issue [#1135](https://github.com/loiste-interactive/infra-issues/issues/1135))
 * Removed unnecessary moveable crates (issue [#1136](https://github.com/loiste-interactive/infra-issues/issues/1136))
 
+## powerstation2
+
+* Fixed being able to get stuck between the wall and the metal beam (issue [#1145](https://github.com/loiste-interactive/infra-issues/issues/1145))
+
 ## isle2
 
 * Added more ship movement
