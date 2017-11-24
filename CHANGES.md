@@ -104,6 +104,7 @@
 
 ## field
 
+* Added sparking power tower photo spot (issue [#1080](https://github.com/loiste-interactive/infra-issues/issues/1080))
 * Fixed inverted normals on the left side of the boat model
 
 # November 1st 2017 (Version 3.1.0)
