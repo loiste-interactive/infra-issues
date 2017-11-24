@@ -60,6 +60,7 @@
 
 ## powerstation2
 
+* Fixed the exterior lighting being too bright compared to the sky (issue [#991](https://github.com/loiste-interactive/infra-issues/issues/991))
 * Fixed being able to get stuck between the wall and the metal beam (issue [#1145](https://github.com/loiste-interactive/infra-issues/issues/1145))
 
 ## isle2
