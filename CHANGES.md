@@ -82,6 +82,7 @@
 
 ## business
 
+* Changed the bush path bushes to smaller bushes
 * Fixed cars driving too fast
 
 ## business2
