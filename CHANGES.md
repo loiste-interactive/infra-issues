@@ -12,6 +12,10 @@
 * Fixed a hole in the world geometry (issue [#1079](https://github.com/loiste-interactive/infra-issues/issues/1079))
 * Fixed player getting stuck (issue [#1152](https://github.com/loiste-interactive/infra-issues/issues/1152))
 
+## tower
+
+* Fixed the calendar in the cottage having wrong year (issue [#1108](https://github.com/loiste-interactive/infra-issues/issues/1108))
+
 ## metro
 
 * Added more autosaves (issue [#1114](https://github.com/loiste-interactive/infra-issues/issues/1114))
