@@ -113,6 +113,10 @@
 * Fixed flowmap position
 * Fixed inverted normals on the left side of the boat model
 
+## roof
+
+* Added missing helicopter pilot (issue [#1112](https://github.com/loiste-interactive/infra-issues/issues/1112))
+
 # November 1st 2017 (Version 3.1.0)
 
 * Changed glass bottles to be less fragile
