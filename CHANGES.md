@@ -14,6 +14,7 @@
 
 ## tower
 
+* Fixed the tower log spelling mistake (issue [#463](https://github.com/loiste-interactive/infra-issues/issues/463))
 * Fixed the calendar in the cottage having wrong year (issue [#1108](https://github.com/loiste-interactive/infra-issues/issues/1108))
 
 ## metro
