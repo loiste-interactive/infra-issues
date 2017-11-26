@@ -113,6 +113,7 @@
 * Fixed the vending machine normal coin counter
 * Fixed roof vent model normals
 * Fixed the pay-to-use elevator working sometimes without coins (issue [#1155](https://github.com/loiste-interactive/infra-issues/issues/1155))
+* Fixed the projector being too bright (issue [#1156](https://github.com/loiste-interactive/infra-issues/issues/1156))
 * Fixed the flashlight issue (issue [#1157](https://github.com/loiste-interactive/infra-issues/issues/1157))
 
 ## field
