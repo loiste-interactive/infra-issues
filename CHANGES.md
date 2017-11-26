@@ -115,6 +115,11 @@
 * Fixed the pay-to-use elevator working sometimes without coins (issue [#1155](https://github.com/loiste-interactive/infra-issues/issues/1155))
 * Fixed the projector being too bright (issue [#1156](https://github.com/loiste-interactive/infra-issues/issues/1156))
 * Fixed the flashlight issue (issue [#1157](https://github.com/loiste-interactive/infra-issues/issues/1157))
+* Fixed a subtitle typo (issue [#1159](https://github.com/loiste-interactive/infra-issues/issues/1159))
+
+## villa
+
+* Fixed a subtitle typo (issue [#1123](https://github.com/loiste-interactive/infra-issues/issues/1123))
 
 ## field
 
