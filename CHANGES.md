@@ -130,6 +130,7 @@
 ## roof
 
 * Added missing helicopter pilot (issue [#1112](https://github.com/loiste-interactive/infra-issues/issues/1112))
+* Fixed the water reflections (issue [#1038(https://github.com/loiste-interactive/infra-issues/issues/1038))
 
 # November 1st 2017 (Version 3.1.0)
 
