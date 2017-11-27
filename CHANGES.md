@@ -37,6 +37,10 @@
 * Fixed the water tunnel door lighting
 * Removed the electrical box cover (issue [#1050](https://github.com/loiste-interactive/infra-issues/issues/1050))
 
+## minitrain
+
+* Added the sludge tunnel camera target (issue [#1124](https://github.com/loiste-interactive/infra-issues/issues/1124))
+
 ## central
 
 * Fixed the escalator lighting issue (issue [#1128](https://github.com/loiste-interactive/infra-issues/issues/1128))
