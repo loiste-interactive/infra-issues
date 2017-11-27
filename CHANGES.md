@@ -40,6 +40,7 @@
 ## minitrain
 
 * Added the sludge tunnel camera target (issue [#1124](https://github.com/loiste-interactive/infra-issues/issues/1124))
+* Fixed being able to get caught up on the matress (issue [#1126](https://github.com/loiste-interactive/infra-issues/issues/1126))
 
 ## central
 
