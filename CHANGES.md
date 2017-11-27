@@ -119,7 +119,7 @@
 * Fixed roof vent model normals
 * Fixed the pay-to-use elevator working sometimes without coins (issue [#1155](https://github.com/loiste-interactive/infra-issues/issues/1155))
 * Fixed the projector being too bright (issue [#1156](https://github.com/loiste-interactive/infra-issues/issues/1156))
-* Fixed the flashlight issue (issue [#1157](https://github.com/loiste-interactive/infra-issues/issues/1157))
+* Fixed flickering textures (issue [#1157](https://github.com/loiste-interactive/infra-issues/issues/1157))
 * Fixed a subtitle typo (issue [#1159](https://github.com/loiste-interactive/infra-issues/issues/1159))
 
 ## villa
@@ -128,14 +128,14 @@
 
 ## field
 
-* Added sparking power tower photo spot (issue [#1080](https://github.com/loiste-interactive/infra-issues/issues/1080))
-* Fixed flowmap position
+* Added a camera target to the sparking power tower (issue [#1080](https://github.com/loiste-interactive/infra-issues/issues/1080))
+* Fixed the flowmap position
 * Fixed inverted normals on the left side of the boat model
 
 ## roof
 
-* Added missing helicopter pilot (issue [#1112](https://github.com/loiste-interactive/infra-issues/issues/1112))
-* Fixed the water reflections (issue [#1038](https://github.com/loiste-interactive/infra-issues/issues/1038))
+* Added pilots to the helicopter (issue [#1112](https://github.com/loiste-interactive/infra-issues/issues/1112))
+* Fixed water reflections (issue [#1038](https://github.com/loiste-interactive/infra-issues/issues/1038))
 
 # November 1st 2017 (Version 3.1.0)
 
