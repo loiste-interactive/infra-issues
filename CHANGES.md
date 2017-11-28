@@ -101,10 +101,11 @@
 
 * Added missing trigger_hurt to mushshroom plant pot
 * Changed the bush path bushes to smaller bushes
-* Fixed some small bugs
-* Fixed cars driving too fast
-* Fixed mushroom camera taget range
 * Fixed Aziz menu being turned on
+* Fixed cars driving too fast
+* Fixed some small bugs
+* Fixed mushroom camera taget range
+* Fixed roof vent model normals
 
 ## business2
 
