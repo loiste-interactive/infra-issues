@@ -106,6 +106,7 @@
 
 * Fixed cars driving too fast
 * Fixed valves turning the wrong way (issue [#1137](https://github.com/loiste-interactive/infra-issues/issues/1137))
+* Fixed minitrain being too hard to turn on (issue [#1158](https://github.com/loiste-interactive/infra-issues/issues/1158))
 
 ## officeblackout
 
