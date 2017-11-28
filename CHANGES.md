@@ -103,6 +103,7 @@
 * Changed the bush path bushes to smaller bushes
 * Fixed cars driving too fast
 * Fixed mushroom camera taget range
+* Fixed Aziz menu being turned on
 
 ## business2
 
