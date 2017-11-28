@@ -99,6 +99,7 @@
 
 ## business
 
+* Added nameplates
 * Added missing trigger_hurt to mushshroom plant pot
 * Changed the bush path bushes to smaller bushes
 * Fixed Aziz menu being turned on
