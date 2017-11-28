@@ -99,6 +99,7 @@
 
 ## business
 
+* Added missing trigger_hurt to mushshroom plant pot
 * Changed the bush path bushes to smaller bushes
 * Fixed cars driving too fast
 * Fixed mushroom camera taget range
