@@ -110,6 +110,7 @@
 * Fixed some water seams
 * Fixed mushroom camera taget range
 * Fixed roof vent model normals
+* Fixed manhole model normals
 * Fixed the alarm code being hard to re-enter after inputting wrong code (issue [#1026](https://github.com/loiste-interactive/infra-issues/issues/1026))
 
 ## business2
