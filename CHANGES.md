@@ -102,6 +102,7 @@
 * Added a clue to the keypad that you have to press #
 * Added nameplates
 * Added missing trigger_hurt to mushshroom plant pot
+* Added missing player clips to stairs
 * Changed the bush path bushes to smaller bushes
 * Changed the burgular alarm sound (issue [#1071](https://github.com/loiste-interactive/infra-issues/issues/1071))
 * Fixed Aziz menu being turned on
