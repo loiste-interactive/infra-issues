@@ -99,12 +99,15 @@
 
 ## business
 
+* Added a clue to the keypad that you have to press #
 * Added nameplates
 * Added missing trigger_hurt to mushshroom plant pot
 * Changed the bush path bushes to smaller bushes
+* Changed the burgular alarm sound (issue [#1071](https://github.com/loiste-interactive/infra-issues/issues/1071))
 * Fixed Aziz menu being turned on
 * Fixed cars driving too fast
 * Fixed some small bugs
+* Fixed some water seams
 * Fixed mushroom camera taget range
 * Fixed roof vent model normals
 
