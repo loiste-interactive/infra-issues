@@ -1,4 +1,4 @@
-# Upcoming
+# December 5th 2017 (Version 3.2.0)
 
 * Changed glassware to be less fragile
 * Fixed the paper animation (issue [#1150](https://github.com/loiste-interactive/infra-issues/issues/1150))
