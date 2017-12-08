@@ -9,7 +9,7 @@
 * Changed glassware to be less fragile
 * Fixed the paper animation (issue [#1150](https://github.com/loiste-interactive/infra-issues/issues/1150))
 
-## tunnel 4
+## tunnel4
 
 * Changed some flashlight batteries to camera batteries
 * Fixed some small bugs
