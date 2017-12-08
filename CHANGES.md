@@ -1,3 +1,9 @@
+# December 8th 2017 (Version 3.3.0)
+
+## isle2
+
+* Fixed player getting stuck on one of the bridge girders
+
 # December 5th 2017 (Version 3.2.0)
 
 * Changed glassware to be less fragile
