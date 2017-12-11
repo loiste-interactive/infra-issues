@@ -1,3 +1,7 @@
+# Upcoming
+
+* Added french translations
+
 # December 8th 2017 (Version 3.2.1)
 
 ## isle3
