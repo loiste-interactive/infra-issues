@@ -1,6 +1,6 @@
 # Upcoming
 
-* Added French translations
+* Added French subtitles
 
 # December 8th 2017 (Version 3.2.1)
 
