@@ -2,6 +2,11 @@
 
 * Fixed skybox texture
 
+## reserve2
+
+* Added autosave when dam is connected to grid
+* Fixed the dam grid global (issue [#1168](https://github.com/loiste-interactive/infra-issues/issues/1168))
+
 # December 13th 2017 (Version 3.2.2)
 
 * Added French subtitles
