@@ -1,3 +1,7 @@
+# Upcoming
+
+* Fixed skybox texture
+
 # December 13th 2017 (Version 3.2.2)
 
 * Added French subtitles
