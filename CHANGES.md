@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed skybox texture
+* Fixed a certain skybox texture
 
 ## reserve2
 
