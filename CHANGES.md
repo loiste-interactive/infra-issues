@@ -11,7 +11,7 @@
 
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
 
-# Upcoming (Version 3.2.3)
+# December 19th 2017 (Version 3.2.3)
 
 * Added Russian localization of subtitles and interface
 
