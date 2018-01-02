@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed a certain skybox texture
+* Fixed a certain skybox texture (issue [#1170](https://github.com/loiste-interactive/infra-issues/issues/1170))
 
 ## reserve2
 
