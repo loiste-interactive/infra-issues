@@ -10,6 +10,7 @@
 ## waterplant
 
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
+* Fixed survivalable spot of corridor fire rendering player stuck (issue [#1175](https://github.com/loiste-interactive/infra-issues/issues/1175))
 
 ## NPP
 
