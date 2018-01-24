@@ -11,6 +11,12 @@
 
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
 
+## NPP
+
+* Added more autosaves (issue [#1161](https://github.com/loiste-interactive/infra-issues/issues/1161))
+* Added Mark commenting about crane keys (issue [#1160](https://github.com/loiste-interactive/infra-issues/issues/1160))
+* Added camera target to the auxiliary generators room (issue [#1162](https://github.com/loiste-interactive/infra-issues/issues/1162))
+
 # December 19th 2017 (Version 3.2.3)
 
 * Added Russian localization of subtitles and interface
