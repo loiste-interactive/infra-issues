@@ -12,6 +12,10 @@
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
 * Fixed survivalable spot of corridor fire rendering player stuck (issue [#1175](https://github.com/loiste-interactive/infra-issues/issues/1175))
 
+## bunker
+
+* Fixed uranium enrichment sign typo (issue [#1182](https://github.com/loiste-interactive/infra-issues/issues/1182))
+
 ## NPP
 
 * Added more autosaves (issue [#1161](https://github.com/loiste-interactive/infra-issues/issues/1161))
