@@ -22,6 +22,10 @@
 * Fixed stuck location (issue [#1181](https://github.com/loiste-interactive/infra-issues/issues/1181))
 * Fixed uranium enrichment sign typo (issue [#1182](https://github.com/loiste-interactive/infra-issues/issues/1182))
 
+## isle1
+
+* Fixed being able to get stuck behind cement bags (issue [#1176](https://github.com/loiste-interactive/infra-issues/issues/1176))
+
 ## rails
 
 * Fixed chat text being too small (issue [#1177](https://github.com/loiste-interactive/infra-issues/issues/1177))
