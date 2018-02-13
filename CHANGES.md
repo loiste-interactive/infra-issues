@@ -26,6 +26,7 @@
 
 * Fixed being able to get stucks behing the bed (issue [#1088](https://github.com/loiste-interactive/infra-issues/issues/1088))
 * Fixed being able to get stuck on the elevator motor (issue [#1147](https://github.com/loiste-interactive/infra-issues/issues/1147))
+* Fixed being not able fit through (issue [#1148](https://github.com/loiste-interactive/infra-issues/issues/1148))
 * Fixed being able to get stuck behind cement bags (issue [#1176](https://github.com/loiste-interactive/infra-issues/issues/1176))
 
 ## rails
