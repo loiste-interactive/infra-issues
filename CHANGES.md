@@ -22,6 +22,7 @@
 
 ## bunker
 
+* Fixed the bunker door spam (issue [#795](https://github.com/loiste-interactive/infra-issues/issues/795))
 * Fixed duplicate blastdoors (issue [#954](https://github.com/loiste-interactive/infra-issues/issues/954))
 * Fixed stuck location (issue [#1181](https://github.com/loiste-interactive/infra-issues/issues/1181))
 * Fixed uranium enrichment sign typo (issue [#1182](https://github.com/loiste-interactive/infra-issues/issues/1182))
