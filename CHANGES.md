@@ -8,6 +8,7 @@
 * Added camera target to the broken turbine hall door (issue [#1097](https://github.com/loiste-interactive/infra-issues/issues/1097)
 * Fixed the swithcyard conductors can get stuck (issue [#1077](https://github.com/loiste-interactive/infra-issues/issues/1077))
 * Fixed being able to photograph the fallen tree  through the sign (issue [#1098](https://github.com/loiste-interactive/infra-issues/issues/1098))
+* Fixed the newspaper typo (issue [#1121](https://github.com/loiste-interactive/infra-issues/issues/1121))
 * Fixed the dam grid global (issue [#1168](https://github.com/loiste-interactive/infra-issues/issues/1168))
 
 ## waterplant
