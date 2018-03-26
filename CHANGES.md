@@ -38,6 +38,10 @@
 
 * Fixed chat text being too small (issue [#1177](https://github.com/loiste-interactive/infra-issues/issues/1177))
 
+## field
+
+* Fixed windows
+
 ## NPP
 
 * Added more autosaves (issue [#1161](https://github.com/loiste-interactive/infra-issues/issues/1161))
