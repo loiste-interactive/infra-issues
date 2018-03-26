@@ -5,6 +5,7 @@
 ## reserve2
 
 * Added autosave when dam is connected to grid
+* Fixed the swithcyard conductors can get stuck (issue [#1077](https://github.com/loiste-interactive/infra-issues/issues/1077))
 * Fixed being able to photograph the fallen tree  through the sign (issue [#1098](https://github.com/loiste-interactive/infra-issues/issues/1098))
 * Fixed the dam grid global (issue [#1168](https://github.com/loiste-interactive/infra-issues/issues/1168))
 
