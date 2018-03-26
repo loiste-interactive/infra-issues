@@ -5,6 +5,7 @@
 ## reserve2
 
 * Added autosave when dam is connected to grid
+* Fixed being able to photograph the fallen tree  through the sign (issue [#1098](https://github.com/loiste-interactive/infra-issues/issues/1098))
 * Fixed the dam grid global (issue [#1168](https://github.com/loiste-interactive/infra-issues/issues/1168))
 
 ## waterplant
