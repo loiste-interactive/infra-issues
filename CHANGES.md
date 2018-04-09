@@ -11,6 +11,10 @@
 * Fixed the newspaper typo (issue [#1121](https://github.com/loiste-interactive/infra-issues/issues/1121))
 * Fixed the dam grid global (issue [#1168](https://github.com/loiste-interactive/infra-issues/issues/1168))
 
+## furnace
+
+* Changed furnace hall music volume
+
 ## waterplant
 
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
