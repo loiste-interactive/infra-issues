@@ -31,6 +31,10 @@
 * Fixed stuck location (issue [#1181](https://github.com/loiste-interactive/infra-issues/issues/1181))
 * Fixed uranium enrichment sign typo (issue [#1182](https://github.com/loiste-interactive/infra-issues/issues/1182))
 
+## cistern
+
+* Fixed strange black wall (issue [#1183](https://github.com/loiste-interactive/infra-issues/issues/1183))
+
 ## isle1
 
 * Added player clips to metro bridge rocks (issue [#1186](https://github.com/loiste-interactive/infra-issues/issues/1186))
