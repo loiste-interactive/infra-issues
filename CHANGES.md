@@ -33,6 +33,7 @@
 
 ## cistern
 
+* Added missing steam leak sound
 * Fixed strange black wall (issue [#1183](https://github.com/loiste-interactive/infra-issues/issues/1183))
 
 ## isle1
