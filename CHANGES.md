@@ -36,6 +36,10 @@
 * Added missing steam leak sound
 * Fixed strange black wall (issue [#1183](https://github.com/loiste-interactive/infra-issues/issues/1183))
 
+## sewer3
+
+* Fixed some items floating in the air at the start
+
 ## isle1
 
 * Added player clips to metro bridge rocks (issue [#1186](https://github.com/loiste-interactive/infra-issues/issues/1186))
