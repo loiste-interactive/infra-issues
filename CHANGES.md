@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added German localization of subtitles and interface
 * Fixed a certain skybox texture (issue [#1170](https://github.com/loiste-interactive/infra-issues/issues/1170))
 
 ## reserve2
