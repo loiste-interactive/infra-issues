@@ -15,6 +15,11 @@
 
 * Changed furnace hall music volume
 
+
+## sewer3
+
+* Fixed some items floating in the air at the start
+
 ## waterplant
 
 * Fixed not being able to get the minitrain door open sometimes (issue [#1167](https://github.com/loiste-interactive/infra-issues/issues/1167))
@@ -35,10 +40,6 @@
 
 * Added missing steam leak sound
 * Fixed strange black wall (issue [#1183](https://github.com/loiste-interactive/infra-issues/issues/1183))
-
-## sewer3
-
-* Fixed some items floating in the air at the start
 
 ## isle1
 
