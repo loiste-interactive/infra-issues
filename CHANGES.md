@@ -4,8 +4,6 @@
 
 * Fixed steam camera target range
 
-## reserve2
-
 # May 24th 2018 (Version 3.3.0)
 
 * Added German localization of subtitles and interface
