@@ -4,6 +4,10 @@
 
 * Fixed steam camera target range
 
+## tenements 
+
+* Fixed office elevator not being able to be called when door is left open (issue [#1171](https://github.com/loiste-interactive/infra-issues/issues/1171))
+
 # May 24th 2018 (Version 3.3.0)
 
 * Added German localization of subtitles and interface
