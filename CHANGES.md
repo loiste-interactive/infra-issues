@@ -1,5 +1,15 @@
 # Upcoming
 
+## reserve1
+
+* Fixed a typo (issue [#1191](https://github.com/loiste-interactive/infra-issues/issues/1191))
+
+## reserve2
+
+* Fixed a newspaper typo (issue [#1194](https://github.com/loiste-interactive/infra-issues/issues/1194))
+
+# May 24th 2018 (Version 3.3.0)
+
 ## business2
 
 * Fixed steam camera target range
