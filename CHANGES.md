@@ -16,6 +16,10 @@
 
 * Fixed office elevator not being able to be called when door is left open (issue [#1171](https://github.com/loiste-interactive/infra-issues/issues/1171))
 
+## reactor
+
+* Changed SNW control panel button label from "Rod door" to "SCRAM"
+
 # May 24th 2018 (Version 3.3.0)
 
 * Added German localization of subtitles and interface
