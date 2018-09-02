@@ -1,13 +1,5 @@
 # Upcoming
 
-## reserve1
-
-* Fixed a typo (issue [#1191](https://github.com/loiste-interactive/infra-issues/issues/1191))
-
-## reserve2
-
-* Fixed a newspaper typo (issue [#1194](https://github.com/loiste-interactive/infra-issues/issues/1194))
-
 ## business2
 
 * Fixed steam camera target range
@@ -15,6 +7,19 @@
 ## tenements 
 
 * Fixed office elevator not being able to be called when door is left open (issue [#1171](https://github.com/loiste-interactive/infra-issues/issues/1171))
+
+
+# September 2nd 2018 (Version 3.3.1)
+
+* Updated Spanish translations
+
+## reserve1
+
+* Fixed a typo (issue [#1191](https://github.com/loiste-interactive/infra-issues/issues/1191))
+
+## reserve2
+
+* Fixed a newspaper typo (issue [#1194](https://github.com/loiste-interactive/infra-issues/issues/1194))
 
 ## reactor
 
