@@ -1,5 +1,6 @@
 # Upcoming
 
+* Updated Russian translations.
 * Fixed various typos.
 
 ## business2
