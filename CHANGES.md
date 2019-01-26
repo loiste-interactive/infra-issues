@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed various typos.
+
 ## business2
 
 * Fixed steam camera target range
